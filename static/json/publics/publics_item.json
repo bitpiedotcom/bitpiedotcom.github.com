@@ -1,5 +1,14 @@
 {
   "cn": [{
+      "title": "比特派服务器升级维护通知",
+      "intro": "比特派服务器将于香港时间 2019年11月06日凌晨 00:30 停机维护，预计30-60分钟完成。",
+      "data": "2019-11-5",
+      "watch": 24,
+      "id": 57,
+      "month": "November",
+      "day": "5",
+      "type": 1
+    },{
       "title": "关于 iOS 版本比特派钱包更换开发者账号及APP更新的公告",
       "intro": "为了便于对 IOS 版本比特派APP的更新与管理，比特派团队已将原开发者账号【 BITPIE TECHNOLOGY INC. 】变更为新账号【BITPIE HK LIMITED】。",
       "data": "2019-10-9",
@@ -478,6 +487,15 @@
     }
   ],
   "en": [{
+      "title": "Announcement on Bitpie Server Upgrade",
+      "intro": "In order to provide you a better user experience, Bitpie will perform a system upgrade shortly after 2019-11-06 00:30 (HKT).",
+      "data": "2019-11-5",
+      "watch": 24,
+      "id": 57,
+      "month": "November",
+      "day": "5",
+      "type": 1
+    },{
       "title": "Announcement on the replacement of developer account and APP update for  Bitpie Wallet iOS version",
       "intro": "In order to facilitate the update and management of the iOS version of Bitpie APP, the original developer account [BITPIE TECHNOLOGY INC.] has been changed to the new account [BITPIE HK LIMITED] by Bitpie Team",
       "data": "2019-10-9",

@@ -1,0 +1,48 @@
+{
+  "cn": {
+    "title": "比特派服务器升级维护通知",
+    "data": "2019-11-5",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派服务器将于香港时间 2019年11月06日凌晨 00:30 停机维护，预计30-60分钟完成。升级期间将暂停收发币、币币交易等全部功能。请您提前做好相关规划，感谢您的理解与支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年11月5日"
+      },
+      {
+        "type":0,
+        "data":"新浪微博：@比特派钱包 weibo.com/bitpiewallet <br/> 微信公众号：公众号搜索“bitpieteam” <br/>Telegram：t.me/bitpie1"
+      }
+    ]
+  },
+  "en": {
+     "title": "Announcement on Bitpie Server Upgrade",
+    "data": "2019-11-5",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "In order to provide you a better user experience, Bitpie will perform a system upgrade shortly after 2019-11-06 00:30 (HKT). The upgrade will take approximately 30-60 minutes. Bitpie Wallet will suspend such services as sends/receives and Coin Swap during this period."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>November 5, 2019"
+      },
+      {
+        "type":0,
+        "data":"Telegram：https://t.me/BitpieInternational <br/> Twitter: @BitpieWallet "
+      }
+    ]
+  }
+}
