@@ -1,5 +1,14 @@
 {
   "cn": [{
+      "title": "暂停 Algo 收发的公告",
+      "intro": "为配合 Algorand 2.0主网升级，Bitpie 钱包已于11月27日11：00 am（UTC+8）暂停Algo收发币功能，具体恢复时间另行通知，请您耐心等待。",
+      "data": "2019-11-27",
+      "watch": 24,
+      "id": 58,
+      "month": "November",
+      "day": "5",
+      "type": 1
+    },{
       "title": "比特派服务器升级维护通知",
       "intro": "比特派服务器将于香港时间 2019年11月06日凌晨 00:30 停机维护，预计30-60分钟完成。",
       "data": "2019-11-5",
@@ -487,6 +496,15 @@
     }
   ],
   "en": [{
+      "title": "ANN of Algo Sending / Receiving Suspension",
+      "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
+      "data": "2019-11-27",
+      "watch": 24,
+      "id": 58,
+      "month": "November",
+      "day": "27",
+      "type": 1
+    },{
       "title": "Announcement on Bitpie Server Upgrade",
       "intro": "In order to provide you a better user experience, Bitpie will perform a system upgrade shortly after 2019-11-06 00:30 (HKT).",
       "data": "2019-11-5",
