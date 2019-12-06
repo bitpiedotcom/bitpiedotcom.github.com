@@ -1,5 +1,14 @@
 {
   "cn": [{
+    "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
+    "intro": "比特派将支持以太坊“伊斯坦布尔”升级。据以太坊官网消息，以太坊网络将在区块高度 9,069,000 进行「伊斯坦布尔」升级，预计升级时间为 2019 年 12 月 8 日，具体时间取决于网络的出块情况。",
+    "data": "2019-12-6",
+    "watch": 24,
+    "id": 59,
+    "month": "December",
+    "day": "6",
+    "type": 1
+  },{
       "title": "暂停 Algo 收发的公告",
       "intro": "为配合 Algorand 2.0主网升级，Bitpie 钱包已于11月27日11：00 am（UTC+8）暂停Algo收发币功能，具体恢复时间另行通知，请您耐心等待。",
       "data": "2019-11-27",
@@ -496,8 +505,17 @@
     }
   ],
   "en": [{
+    "title": "Bitpie Announcement for Supporting Ethereum \"Istanbul\" Upgrade",
+    "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
+    "data": "2019-12-6",
+    "watch": 24,
+    "id": 59,
+    "month": "December",
+    "day": "6",
+    "type": 1
+  },{
       "title": "ANN of Algo Sending / Receiving Suspension",
-      "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
+      "intro": " Bitpie Wallet will support Ethereum \"Istanbul\" upgrade.  According to the Ethereum official website, the Ethereum network will implement an "Istanbul" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation.",
       "data": "2019-11-27",
       "watch": 24,
       "id": 58,

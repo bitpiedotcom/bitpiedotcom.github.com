@@ -1,0 +1,48 @@
+{
+  "cn": {
+    "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
+    "data": "2019-11-27",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派将支持以太坊“伊斯坦布尔”升级。据以太坊官网消息，以太坊网络将在区块高度 9,069,000 进行「伊斯坦布尔」升级，预计升级时间为 2019 年 12 月 8 日，具体时间取决于网络的出块情况。"
+      },
+      {
+        "type": 0,
+        "data": "为保障您的资产安全， 升级期间期间请您避免进行以太坊的收发行为。网络稳定后，相关功能会第一时间恢复。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年12月6日"
+      }
+    ]
+  },
+  "en": {
+     "title": "Bitpie Announcement for Supporting Ethereum "Istanbul" Upgrade",
+    "data": "2019-11-27",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Wallet will support Ethereum "Istanbul" upgrade.  According to the Ethereum official website, the Ethereum network will implement an "Istanbul" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation."
+      },
+      {
+        "type": 0,
+        "data": "For your assets safety, please avoid any ETH sending/receiving during the upgrade. Related functions will be restored ASAP after the network is stable."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>December 6, 2019"
+      }
+    ]
+  }
+}
