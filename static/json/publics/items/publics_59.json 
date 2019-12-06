@@ -1,9 +1,9 @@
 {
   "cn": {
     "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
-    "data": "2019-11-27",
-    "id": 57,
-    "watch": 29,
+    "data": "2019-12-6",
+    "id": 59,
+    "watch": 24,
     "message": [{
         "type": 0,
         "data": "亲爱的派友："
@@ -24,9 +24,9 @@
   },
   "en": {
      "title": "Bitpie Announcement for Supporting Ethereum \"Istanbul\" Upgrade",
-    "data": "2019-11-27",
-    "id": 57,
-    "watch": 29,
+    "data": "2019-12-6",
+    "id": 59,
+    "watch": 24,
     "message": [{
         "type": 0,
         "data": "Fellow Bitpiers"
