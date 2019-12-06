@@ -515,7 +515,7 @@
     "type": 1
   },{
       "title": "ANN of Algo Sending / Receiving Suspension",
-      "intro": " Bitpie Wallet will support Ethereum \"Istanbul\" upgrade.  According to the Ethereum official website, the Ethereum network will implement an "Istanbul" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation.",
+      "intro": " Bitpie Wallet will support Ethereum \"Istanbul\" upgrade.  According to the Ethereum official website, the Ethereum network will implement an \"Istanbul\" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation.",
       "data": "2019-11-27",
       "watch": 24,
       "id": 58,
