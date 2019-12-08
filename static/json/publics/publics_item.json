@@ -1,5 +1,14 @@
 {
   "cn": [{
+    "title": "以太坊“伊斯坦布尔”升级已完成，相关功能已恢复",
+    "intro": "以太坊“伊斯坦布尔”升级已完成。主网运行稳定，比特派相关功能已恢复。",
+    "data": "2019-12-8",
+    "watch": 123,
+    "id": 60,
+    "month": "December",
+    "day": "8",
+    "type": 1
+  },{
     "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
     "intro": "比特派将支持以太坊“伊斯坦布尔”升级。据以太坊官网消息，以太坊网络将在区块高度 9,069,000 进行「伊斯坦布尔」升级，预计升级时间为 2019 年 12 月 8 日，具体时间取决于网络的出块情况。",
     "data": "2019-12-6",
@@ -505,6 +514,15 @@
     }
   ],
   "en": [{
+    "title": "Ethereum \"Istanbul\" Upgrade has been Completed. Related Functions have been Restored",
+    "intro": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
+    "data": "2019-12-8",
+    "watch": 124,
+    "id": 60,
+    "month": "December",
+    "day": "8",
+    "type": 1
+  },{
     "title": "Bitpie Announcement for Supporting Ethereum \"Istanbul\" Upgrade",
     "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
     "data": "2019-12-6",
