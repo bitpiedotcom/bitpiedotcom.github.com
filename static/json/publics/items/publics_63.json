@@ -37,5 +37,45 @@
                 "data": "比特派团队<br/>2019年12月24日"
             }
         ]
-    }
+    },
+
+    "en": {
+        "title": "Use Bitpie Batch Sender; Win Million USD Rewards",
+        "data": "2019-12-24",
+        "id": 63,
+        "watch": 124,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "Users who use our Batch Sender tool will get reimbursement of gas fees."
+            },
+            {
+                "type": 0,
+                "data": "Rules:"
+            },
+            {
+                "type": 0,
+                "data": "1.Upon using Batch Sender, if the receiving addresses are Bitpie addresses as well, you will get gas fee reimbursement;"
+            },
+            {
+                "type": 0,
+                "data": "2.The more Bitpie addresses you are sending to, the more reimbursements you will win;\n"
+            },
+            {
+                "type": 0,
+                "data": "3.We’ll send the rewards to you every Mon. or Fri."
+            },
+            {
+                "type": 0,
+                "data": "Time: 2019.12.24 - 2020.01.24"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>December 24, 2019"
+            }
+    ]
+  }
 }

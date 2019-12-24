@@ -544,6 +544,15 @@
         }
     ],
     "en": [{
+            "title": "Use Bitpie Batch Sender; Win Million USD Rewards!",
+            "intro": "Users who use our Batch Sender tool will get reimbursement of gas fees.",
+            "data": "2019-12-24",
+            "watch": 0,
+            "id": 63,
+            "month": "December",
+            "day": "24",
+            "type": 1
+        },{
             "title": "Ethereum \"Istanbul\" Upgrade has been Completed. Related Functions have been Restored",
             "intro": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
             "data": "2019-12-8",
