@@ -1,999 +1,1008 @@
 {
-  "cn": [
-    {
-      "title": "比特派一键买卖大幅优化公告",
-      "intro": "比特派一键买卖大幅优化。盘口更小，深度更好，更严格的 KYC 审核以降低冻卡概率，特邀您体验新特性。",
-      "data": "2019-12-18",
-      "watch": 193,
-      "id": 62,
-      "month": "December",
-      "day": "18",
-      "type": 1
-    },
-    {
-      "title": "暂停 Atom 收发的公告",
-      "intro": "亲爱的派友：因Cosmos主网升级，Bitpie 钱包将于12月11日22:00 （UTC+8）暂停 Atom收发币及相应staking功能，具体恢复时间另行通知，请您耐心等待。",
-      "data": "2019-12-11",
-      "watch": 123,
-      "id": 61,
-      "month": "December",
-      "day": "11",
-      "type": 1
-    },
-    {
-    "title": "以太坊“伊斯坦布尔”升级已完成，相关功能已恢复",
-    "intro": "以太坊“伊斯坦布尔”升级已完成。主网运行稳定，比特派相关功能已恢复。",
-    "data": "2019-12-8",
-    "watch": 123,
-    "id": 60,
-    "month": "December",
-    "day": "8",
-    "type": 1
-  },{
-    "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
-    "intro": "比特派将支持以太坊“伊斯坦布尔”升级。据以太坊官网消息，以太坊网络将在区块高度 9,069,000 进行「伊斯坦布尔」升级，预计升级时间为 2019 年 12 月 8 日，具体时间取决于网络的出块情况。",
-    "data": "2019-12-6",
-    "watch": 24,
-    "id": 59,
-    "month": "December",
-    "day": "6",
-    "type": 1
-  },{
-      "title": "暂停 Algo 收发的公告",
-      "intro": "为配合 Algorand 2.0主网升级，Bitpie 钱包已于11月27日11：00 am（UTC+8）暂停Algo收发币功能，具体恢复时间另行通知，请您耐心等待。",
-      "data": "2019-11-27",
-      "watch": 24,
-      "id": 58,
-      "month": "November",
-      "day": "5",
-      "type": 1
-    },{
-      "title": "比特派服务器升级维护通知",
-      "intro": "比特派服务器将于香港时间 2019年11月06日凌晨 00:30 停机维护，预计30-60分钟完成。",
-      "data": "2019-11-5",
-      "watch": 24,
-      "id": 57,
-      "month": "November",
-      "day": "5",
-      "type": 1
-    },{
-      "title": "关于 iOS 版本比特派钱包更换开发者账号及APP更新的公告",
-      "intro": "为了便于对 IOS 版本比特派APP的更新与管理，比特派团队已将原开发者账号【 BITPIE TECHNOLOGY INC. 】变更为新账号【BITPIE HK LIMITED】。",
-      "data": "2019-10-9",
-      "watch": 24,
-      "id": 56,
-      "month": "October",
-      "day": "9",
-      "type": 1
-    }, {
-      "title": "比特派将支持Ethereum Classic（ETC）硬分叉升级",
-      "intro": "比特派将支持Ethereum Classic（ETC）硬分叉升级，根据ETC (Ethereum Classic) 官方计划，ETC将于区块高度达到8,772,000时（预计于香港时间2019年9月12日-13日）进行硬分叉升级。",
-      "data": "2019-08-29",
-      "watch": 24,
-      "id": 55,
-      "month": "September",
-      "day": "11",
-      "type": 1
-    }, {
-      "title": "声明",
-      "intro": "今收到用户反馈，交易所NZCCX（网址：http://www.nzccx.pro）将比特派列为“生态伙伴”。比特派Bitpie钱包特此声明：比特派此前从未听说，也未与此交易所有过任何接触与合作。",
-      "data": "2019-08-29",
-      "watch": 24,
-      "id": 54,
-      "month": "August",
-      "day": "29",
-      "type": 1
-    }, {
-      "title": "有关停止支持 LCH 币种的公告",
-      "intro": "因 LCH 官方已经不再对该项目进行维护，比特派将从即日起停止提供 LCH 收发等一切相关服务，如需咨询相关事宜请联系 LCH 官方。",
-      "data": "2019-08-20",
-      "watch": 24,
-      "id": 53,
-      "month": "August",
-      "day": "20",
-      "type": 1
-    },
-    {
-      "title": "比特派关于支持 Nervos CKB 兑换公告",
-      "intro": "比特派钱包将于香港时间 8月15日 12：00 am 开通 USDT（Omni 与 ERC20 均可）与 Nervos Network 代币 CKB 的币币兑换功能。",
-      "data": "2019-08-09",
-      "watch": 424,
-      "id": 52,
-      "month": "August",
-      "day": "09",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包将第一时间支持波场稳定币USDT-TRON激励计划2.0版及USDT兑换教程",
-      "intro": "比特派现已经支持波场和Tether泰达公司合作推出的基于TRC20的USDT代币（USDT-TRON），并已经开通USDT-TRON与USDT-OMNI和USDT-ERC20之间的双向跨链兑换。 同时，比特派也将支持波场官方针对于USDT-TRON持有者的激励计划2.0版。",
-      "data": "2019-07-12",
-      "watch": 24,
-      "id": 51,
-      "month": "July",
-      "day": "12",
-      "type": 1
-    },
-    {
-      "title": "关于 iOS 版本比特派钱包不再禁止用户截屏助记词的公告",
-      "intro": "因苹果官方强制要求，比特派现已不再禁止用户截屏助记词（但我们仍然会在相关页面予以警示）。",
-      "data": "2019-07-04",
-      "watch": 24,
-      "id": 50,
-      "month": "July",
-      "day": "4",
-      "type": 1
-    },
-    {
-      "title": "关于支持 ZEC（Zcash）分叉币 Ycash 的公告",
-      "intro": "比特派暂定将支持 ZEC（Zcash）的分叉币 Ycash，并将于区块高度 570,000 进行快照（预计2019年07月18日）。",
-      "data": "2019-07-02",
-      "watch": 24,
-      "id": 49,
-      "month": "July",
-      "day": "2",
-      "type": 1
-    },
-    {
-      "title": "恢复SAFE收发币的公告",
-      "intro": "SAFE主网已稳定运行，Bitpie钱包已于7月1日18：00（UTC+8）恢复SAFE收发币等相关功能。",
-      "data": "2019-07-01",
-      "watch": 24,
-      "id": 48,
-      "month": "July",
-      "day": "1",
-      "type": 1
-    },
-    {
-      "title": "暂停SAFE收发币的公告",
-      "intro": "由于SAFE主网升级中网络有波动，目前暂停所有交易所SAFE充提，Bitpie钱包已于6月25日14：00（UTC+8）暂停SAFE收发币功能，具体恢复时间另行通知，请您耐心等待。",
-      "data": "2019-06-25",
-      "watch": 24,
-      "id": 47,
-      "month": "June",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "关于 DASH 恢复发币及潜在分叉处理方案的公告",
-      "intro": "尊敬的bitpie用户：对于近期DASH网络升级，造成的潜在分叉问题，主流矿池都采取了支持升级后DASH新链的做法。为保障多数用户的利益，比特派将采取与主流矿池一致的方案，即只支持升级后的DASH网络上币中的收发，并将于 6月22日15：00（UTC+8）恢复 DASH 发币功能。",
-      "data": "2019-06-22",
-      "watch": 24,
-      "id": 46,
-      "month": "June",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "暂停DASH发币的公告",
-      "intro": "尊敬的bitpie用户：由于DASH网络升级，部分节点未同步升级，导致产生分叉，为保障用户资金安全，bitpie钱包已于6月19日17：00（UTC+8）暂停DASH发币功能，请您耐心等待，待DASH网络恢复稳定后，将会第一时间告知，请您持续关注最新公告。",
-      "data": "2019-06-19",
-      "watch": 24,
-      "id": 45,
-      "month": "June",
-      "day": "19",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包关于支持BCH升级的公告",
-      "intro": "亲爱的派友：比特派将支持 BCH 主网升级，并于2019年05月15日20:00(HKT) 暂停比特派钱包中 BCH 的收发与派银行 BCH 充提功能，待升级完成后开放。",
-      "data": "2019-05-15",
-      "watch": 24,
-      "id": 44,
-      "month": "May",
-      "day": "15",
-      "type": 1
-    },
-    {
-      "title": "USDT 节点升级已完成，相关功能已恢复正常。",
-      "intro": "USDT 节点升级已完成，相关功能已恢复正常。",
-      "data": "2019-04-25",
-      "watch": 24,
-      "id": 43,
-      "month": "April",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "关于比特派钱包内兑换 USDT-TRON 的通知及教程",
-      "intro": "怎样兑换USDT-TRON？ 在 比特派APP—派银行——USDT理财 初参与。可以将USDT 与 USDT-TRON 进行1：1兑换。",
-      "data": "2019-04-24",
-      "watch": 24,
-      "id": 42,
-      "month": "April",
-      "day": "24",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包将第一时间支持波场稳定币USDT-TRON",
-      "intro": "比特派将会在第一时间支持波场和Tether泰达公司合作推出的基于TRC20的USDT代币（USDT-TRON），并在未来开通USDT-TRON与USDT-OMNI之间的双向跨链兑换。",
-      "data": "2019-03-22",
-      "watch": 24,
-      "id": 41,
-      "month": "March",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "有关停止支持LBTC币种的公告",
-      "intro": "因 LBTC 较近一次主网升级相关数据变动较大，经内部讨论，比特派将不支持LBTC的此次升级与后续更新，并将即日起停止提供 LBTC 收发等一切相关服务。",
-      "data": "2019-03-11",
-      "watch": 24,
-      "id": 40,
-      "month": "March",
-      "day": "11",
-      "type": 1
-    },
-    {
-      "title": "关于支持以太坊ETH君士坦丁堡（Constantinople）分叉的公告",
-      "intro": "亲爱的派友：比特派将支持以太坊Ethereum（ETH）的君士坦丁堡（Constantinople）升级，升级高度 7,080,000 （预计2019年3月1日 3点35分）。为保障您的资产安全，建议您提前将ETH充值到钱包中，分叉期间避免 ETH 收发，比特派将协助您处理硬分叉中的一切技术问题。",
-      "data": "2019-02-28",
-      "watch": 1,
-      "id": 39,
-      "month": "February",
-      "day": "28",
-      "type": 1
-    },
-    {
-      "title": "比特派关于支持TRX用户空投BTT的公告",
-      "intro": "亲爱的派友:根据BitTorrent Token（BTT）分配机制，波场（TRX）持有者将获得 BTT 糖果空投，空投将发生多轮并持续较长的时间（2019-2025）。官方将在TRX区块高度6,600,000（预计为2019年2月11日，具体时间受实际出块速度影响）为首次空投进行快照。比特派钱包和派银行的用户无需任何操作即可领取 BTT 空投，届时更新版本即可显示。为保障您的资产安全，建议您提前将 TRX 转入到比特派钱包，比特派将协助您处理空投中的一切技术问题。",
-      "data": "2019-01-22",
-      "watch": 1,
-      "id": 38,
-      "month": "January",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "关于支持以太坊ETH君士坦丁堡（Constantinople）分叉的公告",
-      "intro": "亲爱的派友:比特派将支持以太坊Ethereum（ETH）的君士坦丁堡（Constantinople）分叉",
-      "data": "2019-01-04",
-      "watch": 1,
-      "id": 37,
-      "month": "January",
-      "day": "04",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包将支持 EOS CAFE DAC 空投",
-      "intro": "亲爱的派友:比特派钱包将支持 EOS CAFE DAC 项目代币 BEAN 的空投。",
-      "data": "2018-12-20",
-      "watch": 1,
-      "id": 36,
-      "month": "December",
-      "day": "20",
-      "type": 1
-    },
-    {
-      "title": "比特派派银行支持 BCHSV 充提及比特护盾支持领取 BCHSV 公告",
-      "intro": "比特护盾支持领取 BCHSV , 安卓版升级最新版 V3.7.9，IOS 版审核通过即可",
-      "data": "2018-12-04",
-      "watch": 1,
-      "id": 35,
-      "month": "December",
-      "day": "04",
-      "type": 1
-    },
-    {
-      "title": "关于比特派下架 BCH 理财产品的公告",
-      "intro": "2018年11月15日，BCH 主链进行了一次硬分叉，分裂为 BCH ABC 和 BCH SV 。由于比特派在 BCH 分叉前发布了 BCH 的日理财和月理财产品，针对购买了日理财产品的用户，比特派将以2018年11月30日作为到期日终止全部日理财服务。",
-      "data": "2018-11-30",
-      "watch": 1,
-      "id": 34,
-      "month": "November",
-      "day": "30",
-      "type": 1
-    },
-    {
-      "title": "比特派 【邀请返佣、领取免费EOS账户】活动规则",
-      "intro": "活动时间：在 2018年11月27日 12:00:00 至 2018年12月11日 23:59:59；2. 奖励详情：【一】渠道返佣：每成功邀请一名有效用户，邀请人可领取其在比特派的所有的 EOS DApp 的渠道佣金，邀请人数不设上限，收益无上限；【二】资源奖励：每成功邀请一名有效用户，邀请人与被邀请人均可获得 EOS 免费开户券或 EOS 资源救急券",
-      "data": "2018-11-27",
-      "watch": 1,
-      "id": 33,
-      "month": "November",
-      "day": "27",
-      "type": 1
-    },
-    {
-      "title": "比特派将支持 Infiniverse（INF）空投",
-      "intro": "亲爱的派友：比特派钱包以及派银行将支持 Infiniverse项目代币 INF的空投。",
-      "data": "2018-11-19",
-      "watch": 1,
-      "id": 32,
-      "month": "November",
-      "day": "19",
-      "type": 1
-    },
-    {
-      "title": "关于比特派暂停 CDY 收发的公告",
-      "intro": "亲爱的派友：根据 CDY 官方消息，CDY 正在进行官方升级。为此比特派已在香港时间11月14日9：30暂停派钱包 ZEC 的收发及派银行 CDY 的充提功能。待 CDY 升级稳定后，我们会在第一时间恢复，具体时间将以公告另行通知。暂停期间为此带来的不便，敬请谅解！",
-      "data": "2018-11-14",
-      "watch": 1,
-      "id": 31,
-      "month": "November",
-      "day": "14",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包关于支持 BCH 硬分叉的公告",
-      "intro": "比特派将支持 BCH 的硬分叉，将于香港时间2018年11月16日 00:40:00 进行资产快照。并将于香港时间 2018年11月15日19:00 暂停比特派钱包中 BCH 的收发与派银行 BCH 充提功能。硬分叉完成且稳定后，我们会在第一时间恢复 BCH 相关功能，具体时间将以公告另行通知。暂停期间带来的不便，敬请谅解！",
-      "data": "2018-11-06",
-      "watch": 1,
-      "id": 30,
-      "month": "November",
-      "day": "06",
-      "type": 1
-    },
-    {
-      "title": "比特派派银行将支持 Hirevibes（HVT）空投",
-      "intro": "亲爱的派友：比特派派银行将支持 Hirevibes 项目代币 HVT 的空投。",
-      "data": "2018-11-03",
-      "watch": 1,
-      "id": 29,
-      "month": "November",
-      "day": "03",
-      "type": 1
-    },
-    {
-      "title": "关于比特派恢复 ZEC 发币的公告",
-      "intro": "亲爱的派友：ZEC 网络的硬分叉已经完成，比特派钱包目前已经完成了对 ZEC 的调试和升级，现已重新开放 ZEC 发币功能，请您前往 bitpie.com 升级 App 至最新版(安卓v3.7.1,苹果v3.6.8.)即可使用。",
-      "data": "2018-10-30",
-      "watch": 1,
-      "id": 28,
-      "month": "October",
-      "day": "30",
-      "type": 1
-    },
-    {
-      "title": "关于比特派暂停 ZEC 发币的公告",
-      "intro": "根据 ZEC 官方消息，ZEC 将在区块高度 419200 发生硬分叉。为此比特派预计将在香港时间10月28日9：30暂停 ZEC 的发币业务，期间收币不受影响。待 ZEC 硬分叉稳定后，我们会在第一时间恢复，具体时间将以公告另行通知。暂停期间为此带来的不便，敬请谅解！",
-      "data": "2018-10-25",
-      "watch": 1,
-      "id": 27,
-      "month": "October",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "比特派机房停机维护通知",
-      "intro": "比特派机房设备将于北京时间 2018 年 10 月 22 日晚 23:00 点整停机维护，停机期间派钱包收、发币，交易所交易功能正常、派银行充值正常，应用内以下功能受到影响",
-      "data": "2018-10-22",
-      "watch": 1,
-      "id": 26,
-      "month": "October",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "比特派首个“广告位”开启",
-      "intro": "众所周知，比特派是没广告的，作为把用户体验放到第一位的团队，我们对于任何能干扰用户体验的功能都是拒绝的，这里面当然也包括了广告。",
-      "data": "2018-10-13",
-      "watch": 1,
-      "id": 25,
-      "month": "October",
-      "day": "13",
-      "type": 1
-    },
-    {
-      "title": "关于比特派暂停 LBTC 充提的公告",
-      "intro": "尊敬的派友：由于 LBTC 主网升级，为了保障平台用户利益，比特派将于香港时间2018年10月10日10:00关闭充提功能，恢复时间请关注后续通知。",
-      "data": "2018-10-10",
-      "watch": 1,
-      "id": 24,
-      "month": "October",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "关于恢复 SAFE 发币功能的公告",
-      "intro": "亲爱的派友：SAFE 的主网升级已经完成，比特派钱包目前已经针对 SAFE 新主网完成了调试和升级，现在已经重新开放 SAFE 发币功能，请升级 App 至最新版 v3.5.8 即可使用。感谢您对比特派 Bitpie 的支持。",
-      "data": "2018-09-29",
-      "watch": 1,
-      "id": 23,
-      "month": "September",
-      "day": "29",
-      "type": 1
-    },
-    {
-      "title": "关于比特派将持续支持 BTM 主网兑换通知",
-      "intro": "亲爱的用户：比特派 Bitpie 与比原链 Bytom 已宣布全面生态合作，双方将在多方面展开深度合作。日前比特派已经完成比原链（Bytom）主网对接",
-      "data": "2018-09-17",
-      "watch": 1,
-      "id": 22,
-      "month": "September",
-      "day": "17",
-      "type": 1
-    },
-    {
-      "title": "关于比特派暂停 SAFE 充提的公告",
-      "intro": "尊敬的派友：由于 SAFE 主网升级，为了保障平台用户利益，比特派将于香港时间2018年9月10日10:00关闭充提功能，恢复时间请关注后续通知。",
-      "data": "2018-09-10",
-      "watch": 1,
-      "id": 21,
-      "month": "September",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "关于比特派恢复 BCH 充提的公告",
-      "intro": "尊敬的派友：BCH 压测已稳定，比特派现已恢复 BCH 的充提，暂停期间为您带来的不便，敬请谅解！",
-      "data": "2018-09-03",
-      "watch": 1,
-      "id": 19,
-      "month": "September",
-      "day": "03",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包关于暂停 BCH 充提的公告",
-      "intro": "亲爱的派友：由于 BCH 将于新加坡时间 2018年9月1日 20:00 进行全网压测，为了保证平台用户利益，比特派钱包将于 2018年9月1日 20:00(香港时间)暂停派钱包和派银行中 BCH 的充提，并将于后续压测完成且运行稳定后，重新开放 BCH 充提功能。具体时间请关注后续通知。",
-      "data": "2018-08-31",
-      "watch": 1,
-      "id": 20,
-      "month": "August",
-      "day": "31",
-      "type": 1
-    },
-    {
-      "title": "关于恢复 Zcash（ZEC）发币功能的公告",
-      "intro": "亲爱的派友：Zcash（ZEC）的 Overwinter 主网升级已经完成，比特派钱包目前已经针对 Zcash 新主网完成了调试和升级，现在已经重新开放 ZEC 发币功能，请升级 App 至最新版 v3.4.6即可使用。感谢您对比特派 Bitpie 的支持。",
-      "data": "2018-08-10",
-      "watch": 1,
-      "id": 3,
-      "month": "August",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "关于比特派 iOS 版企业证书的说明",
-      "intro": "比特派作为去中心化钱包，无法掌控用户资产，所有资产均由用户自己保管，只有保管好密语才能保障您的资产安全。在前几天苹果未有任何通知突然回收企业证书前，我们已经多次反复提醒用户要保管好12个单词的密语（最近一次是在回收前的一周，比特派客户端内置顶了相关提示，要求用户一定要抄密语，并且不要轻易卸载比特派App）。",
-      "data": "2018-03-26",
-      "watch": 683,
-      "id": 1,
-      "month": "March",
-      "day": "26",
-      "type": 1
-    },
-    {
-      "title": "服务器升级通知",
-      "intro": "比特派服务器正在进行升级，预计1小时完成。升级期间请您避免执行收发、交易等操作。",
-      "data": "2018-08-08",
-      "watch": 14,
-      "id": 8,
-      "month": "August",
-      "day": "08",
-      "type": 3
-    },
-    {
-      "title": "比特派钱包关于支持 HCASH 主链升级并暂停 HSR 充提的公告",
-      "intro": "亲爱的派友：根据 HCASH 官方公告，HCASH 将于 938888 高度进行主链升级（预计时间为2018年8月8日，具体时间以区块高度为准）。比特派支持 HCASH 主链升级，并会为用户完成映射。同时 比特派钱包 将于北京时间2018年8月6日12:00关闭 HSR 的充值和提币业务。",
-      "data": "2018-08-05",
-      "watch": 2011,
-      "id": 7,
-      "month": "August",
-      "day": "05",
-      "type": 1
-    },
-    {
-      "title": "比特派钱包关于同步升级 EOS 节点的公告",
-      "intro": "比特派钱包目前正在进行 EOS 节点同步升级，部分用户 EOS 数量显示异常，这并不会影响到您的资产安全。节点同步预计24小时内完成。感谢您的理解与支持。",
-      "data": "2018-07-22",
-      "watch": 1,
-      "id": 9,
-      "month": "July",
-      "day": "22",
-      "type": 3
-    },
-    {
-      "title": "派钱包已经支持波场 TRON 主网",
-      "intro": "目前，比特派 Bitpie 已经完成对波场 TRON 的主网更新和支持。主网代币 TRX 的收发功能已经开启，用户即日起可以使用派钱包收发 TRX。",
-      "data": "2018-07-09",
-      "watch": 1,
-      "id": 11,
-      "month": "July",
-      "day": "09",
-      "type": 1
-    },
-    {
-      "title": "派钱包关于恢复 BTG 充提的公告",
-      "intro": "BTG 主网升级已经完成，现已恢复 BTG 的充提。感谢您的理解与支持。",
-      "data": "2018-07-09",
-      "watch": 1,
-      "id": 12,
-      "month": "July",
-      "day": "09",
-      "type": 3
-    },
-    {
-      "title": "关于 BTG 暂停充提的公告",
-      "intro": "亲爱的派友：由于 BTG 主网升级，为了保证平台用户利益，比特派将于2018年6月30日13:00(香港时间)暂停派钱包和派银行中 BTG 的充提，并将于后续主网升级完成且运行稳定后，重新开放 BTG 充提功能。具体时间请关注后续通知。",
-      "data": "2018-06-30",
-      "watch": 1,
-      "id": 13,
-      "month": "June",
-      "day": "30",
-      "type": 3
-    },
-    {
-      "title": "关于暂停 Zcash（ZEC）发币功能的公告",
-      "intro": "由于 Zcash（ZEC）将于区块高度 347500 进行硬分叉(预计为香港时间2018年6月26日05:00)，为了保证平台用户利益，比特派钱包将于2018年6月25日21:00暂停 ZEC 发币功能。",
-      "data": "2018-06-25",
-      "watch": 1,
-      "id": 15,
-      "month": "June",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "派钱包支持比原链 Bytom(BTM) 主网更新及代币迁移补充公告",
-      "intro": "比特派 Bitpie 与比原链 Bytom 已宣布全面生态合作，双方将在多方面展开深度合作。",
-      "data": "2018-06-21",
-      "watch": 1,
-      "id": 16,
-      "month": "June",
-      "day": "21",
-      "type": 1
-    }
-  ],
-  "en": [{
-    "title": "Ethereum \"Istanbul\" Upgrade has been Completed. Related Functions have been Restored",
-    "intro": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
-    "data": "2019-12-8",
-    "watch": 124,
-    "id": 60,
-    "month": "December",
-    "day": "8",
-    "type": 1
-  },{
-    "title": "Bitpie Announcement for Supporting Ethereum \"Istanbul\" Upgrade",
-    "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
-    "data": "2019-12-6",
-    "watch": 24,
-    "id": 59,
-    "month": "December",
-    "day": "6",
-    "type": 1
-  },{
-      "title": "ANN of Algo Sending / Receiving Suspension",
-      "intro": " Bitpie Wallet will support Ethereum \"Istanbul\" upgrade.  According to the Ethereum official website, the Ethereum network will implement an \"Istanbul\" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation.",
-      "data": "2019-11-27",
-      "watch": 24,
-      "id": 58,
-      "month": "November",
-      "day": "27",
-      "type": 1
-    },{
-      "title": "Announcement on Bitpie Server Upgrade",
-      "intro": "In order to provide you a better user experience, Bitpie will perform a system upgrade shortly after 2019-11-06 00:30 (HKT).",
-      "data": "2019-11-5",
-      "watch": 24,
-      "id": 57,
-      "month": "November",
-      "day": "5",
-      "type": 1
-    },{
-      "title": "Announcement on the replacement of developer account and APP update for  Bitpie Wallet iOS version",
-      "intro": "In order to facilitate the update and management of the iOS version of Bitpie APP, the original developer account [BITPIE TECHNOLOGY INC.] has been changed to the new account [BITPIE HK LIMITED] by Bitpie Team",
-      "data": "2019-10-9",
-      "watch": 24,
-      "id": 55,
-      "month": "October",
-      "day": "9",
-      "type": 1
-    }, {
-      "title": "Announcement on Bitcoin Support ETC Hard Fork Upgrade",
-      "intro": "Bitpie wallet will support the Ethereum Classic (ETC) hard fork upgrade. According to the ETC (Ethereum Classic) Official`s  plan, ETC will implement the hard fork at block height 8,772,000 (expected in HK time September 12-13, 2019) for upgrade.",
-      "data": "2019-08-29",
-      "watch": 24,
-      "id": 55,
-      "month": "September",
-      "day": "11",
-      "type": 1
-    }, {
-      "title": "声明",
-      "intro": "今收到用户反馈，交易所NZCCX（网址：http://www.nzccx.pro）将比特派列为“生态伙伴”。比特派Bitpie钱包特此声明：比特派此前从未听说，也未与此交易所有过任何接触与合作。",
-      "data": "2019-08-29",
-      "watch": 24,
-      "id": 54,
-      "month": "August",
-      "day": "29",
-      "type": 1
-    }, {
-      "title": "Announcement on LCH",
-      "intro": "As the LCH official team no longer maintains the project, Bitpie Wallet will stop providing all related services such as LCH sending and receiving from now on. Please contact LCH official if you have any other issues.",
-      "data": "2019-08-20",
-      "watch": 24,
-      "id": 53,
-      "month": "August",
-      "day": "20",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Supporting USDT-TRON New Incentive Plan and USDT Swap Demo",
-      "intro": "Bitpie has already supported the sends and receives of the USDT-TRON, a TRC20-based stable coin issued jointly by TRON and Tether Company.",
-      "data": "2019-07-12",
-      "watch": 24,
-      "id": 51,
-      "month": "July",
-      "day": "12",
-      "type": 1
-    }, {
-      "title": "Announcement on the iOS version of Bitpie is no longer prohibit for screenshots mnemonics",
-      "intro": "Due to Apple’s official mandate, Bitpie Wallet is no longer prohibit user from doing mnemonics screenshots  (but we will still be alerted on the relevant page).",
-      "data": "2019-07-04",
-      "watch": 24,
-      "id": 50,
-      "month": "July",
-      "day": "4",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Supporting ZEC (Zcash) Fork Coin Ycash",
-      "intro": "Bitpie wallet is tentatively scheduled to support ZEC (Zcash)'s forked coin Ycash and will take a snapshot at the block height of 570,000 (expected time July 18, 2019).",
-      "data": "2019-07-02",
-      "watch": 24,
-      "id": 49,
-      "month": "July",
-      "day": "2",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Resumption of SAFE Sending and Receiving",
-      "intro": "The SAFE mainnet has been running stably. Bitpie wallet has resumed SAFE transaction and other related functions at 18:00 (UTC+8) on July 1.",
-      "data": "2019-07-01",
-      "watch": 24,
-      "id": 48,
-      "month": "July",
-      "day": "1",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Suspension of SAFE Sending and Receiving",
-      "intro": "Due to the SAFE network upgrade, for the sake of your asset safety, Bitpie has already suspended the sending and receiving of SAFE at the time of 14:00, June 25, 2019(UTC+8). We will resume SAFE sending and receiving immediately after the network runs stably.",
-      "data": "2019-06-25",
-      "watch": 24,
-      "id": 47,
-      "month": "June",
-      "day": "25",
-      "type": 1
-    }, {
-      "title": "Announcement on DASH Sending Resumption",
-      "intro": "Dear Bitpiers,The upgrade of DASH network is now accomplished. The newly upgraded mainnet is running stably.We will resume the sending function of DASH at 15:00, June 22, 2019 (UTC+8).",
-      "data": "2019-06-22",
-      "watch": 24,
-      "id": 46,
-      "month": "June",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Suspension of Dash Sending",
-      "intro": "Fellow Bitpiers,A fork chain of DASH network was noted during its upgrade because some nodes failed to upgrade in time. Therefore, for the sake of the asset security, Bitpie has already suspended the sending of DASH at the time of 15:00, June 19, 2019(UTC+8).We will resume the function of sending DASH immediately after the network runs stably.",
-      "data": "2019-06-19",
-      "watch": 24,
-      "id": 45,
-      "month": "June",
-      "day": "19",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Bitpie’s Support to BCH Upgrade",
-      "intro": "Fellow Bitpiers,Bitpie Wallet will support BCH mainnet upgrade. The sending and receiving in Bitpie wallet and the deposit and withdrawal in Pie Bank will be suspended from 20:00(HKT) 15th May, 2019, which will be resumed after the upgrade is completed.",
-      "data": "2019-05-15",
-      "watch": 24,
-      "id": 44,
-      "month": "May",
-      "day": "15",
-      "type": 1
-    },
-    {
-      "title": "The USDT node upgrade has been completed，all functions back to normal.",
-      "intro": "The USDT node upgrade has been completed，all functions back to normal.",
-      "data": "2019-04-25",
-      "watch": 24,
-      "id": 43,
-      "month": "April",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "How to Swap Your USDT-OMNI for TRC20 Based USDT",
-      "intro": "You are now able to swap your USDT-OMNI for TRC20 Based USDT. Please follow the steps:Open Bitpie APP- Pie Bank - USDT Financial Plan.",
-      "data": "2019-04-24",
-      "watch": 24,
-      "id": 42,
-      "month": "April",
-      "day": "24",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Supporting USDT-TRON",
-      "intro": "Bitpie will support, at the very first time, the sends and receives of the USDT-TRON, a TRC20-based stable coin issued jointly by TRON and Tether Company.",
-      "data": "2019-03-22",
-      "watch": 24,
-      "id": 41,
-      "month": "March",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "Announcement on LBTC（Lightning Bitcoin Mainnet Suspension",
-      "intro": "Due to the major changes on the mainnet upgrade of LBTC, Bitpie will not support the following upgrade of LBTC, and terminate providing all related services including LBTC sending and receiving.",
-      "data": "2019-03-11",
-      "watch": 24,
-      "id": 40,
-      "month": "March",
-      "day": "11",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Supporting Etheruem (ETH) Constantinople Hard-fork",
-      "intro": "Fellow Bitpiers:Bitpie will support Ethereum (ETH) Constantinople fork Upgrade at the block height 7,080,000 (predicted time 2019 March 1,3:35 a.m. (UTC+8).To ensure your assets safety, it is strongly advised to send your ETH to your Bitpie wallet in advance and pause the sends and receives during the fork period. Bitpie will help you deal with all technical issues in this hard-fork.",
-      "data": "2019-02-28",
-      "watch": 1,
-      "id": 39,
-      "month": "February",
-      "day": "28",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet and PieBank will Support BitTorrent (BTT) Airdrop",
-      "intro": "Dear Bitpiers:Bitpie Wallet and PieBank will support BTT Airdrop. On February 11th, 2019, BitTorrent Foundation will initiate its first airdrop of BitTorrent (BTT) to TRON (TRX) holders. The airdrop will take multiple rounds for a longer period of time (2019-2025). The official will take a snapshot of the first airdrop at the height of the TRX block of 6,600,000 (The specific time is affected by the actual block rate) Users can automatically get the corresponding BTT airdrop by depositing the TRX into the Bitpie wallet or PieBank.",
-      "data": "2019-01-22",
-      "watch": 1,
-      "id": 38,
-      "month": "January",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "Announcement on Supporting Etheruem (ETH) Constantinople Hard-fork",
-      "intro": "Dear Bitpiers:Bitpie will support Ethereum (ETH) Constantinople fork.",
-      "data": "2019-01-04",
-      "watch": 1,
-      "id": 37,
-      "month": "January",
-      "day": "04",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet will support EOS CAFE DAC Airdrop",
-      "intro": "Dear Bitpiers:Bitpie Wallet will support EOS CAFE DAC BEAN Airdrop.",
-      "data": "2018-12-20",
-      "watch": 1,
-      "id": 36,
-      "month": "December",
-      "day": "20",
-      "type": 1
-    },
-    {
-      "title": "Bitpie【Invitation Reward and Getting Free EOS Accounts】 Activity Rules",
-      "intro": "1. Activity time: From November 27, 2018 12 a.m. to December 11, 2018 11:59 p.m. （HongKong Time）2. Rewards details【1】Channel Rewards: By inviting valid users, the inviter can get all EOS DApp rewards on Bitpie from the invitees. No ceiling for Invitation times, no ceiling for Rewards",
-      "data": "2018-11-27",
-      "watch": 1,
-      "id": 33,
-      "month": "November",
-      "day": "27",
-      "type": 1
-    },
-    {
-      "title": "Bitpie will Support Infiniverse（INF） Airdrop",
-      "intro": "Dear Bitpiers,Bitpie Pie Bank will support Infiniverse（INF） Airdrop Project.",
-      "data": "2018-11-19",
-      "watch": 1,
-      "id": 32,
-      "month": "November",
-      "day": "19",
-      "type": 1
-    },
-    {
-      "title": "Announcement on the Suspension of CDY Sends and Receives Service",
-      "intro": "According to CDY official announcement, CDY is undergoing an official upgrade. Hence, Bitpie has suspended the sends and receives service of CDY in the Pie Wallet and CDY withdrawal and deposit service in Pie Bank at 9:30 a.m. on November 14th (Hong Kong time). When the CDY upgrade is completed and runs stable, we will resume the service immediately, the specific time will be informed as an announcement.",
-      "data": "2018-11-14",
-      "watch": 1,
-      "id": 31,
-      "month": "November",
-      "day": "14",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet supports BCH Hard Fork Announcement",
-      "intro": "Bitpie will support the hard fork of BCH and will take a snapshot on November 16, 2018, 00:40:00 Hong Kong time.",
-      "data": "2018-11-06",
-      "watch": 1,
-      "id": 30,
-      "month": "November",
-      "day": "06",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Pie Bank will support Hirevibes (HVT) Airdrop",
-      "intro": "Bitpie Pie Bank will support Hirevibes HVT Airdrop Project.Hirevibes (HVT) Project Airdrop Information Date of Snapshot: November 4, 2018 08:00-10:00 (UTC+8 Beijing time / Hong Kong time)",
-      "data": "2018-11-03",
-      "watch": 1,
-      "id": 29,
-      "month": "November",
-      "day": "03",
-      "type": 1
-    },
-    {
-      "title": "Resumption of ZEC (Zcash) Sending",
-      "intro": "Dear Bitpiers, ZEC (Zcash) mainnet upgrade is completed, and Bitpie wallet has carried out the debugging and upgrading upon ZEC. Since now, the sending of ZEC is resumed. Please update to the newest version (android v3.7.1, iOS v3.6.8) on Bitpie.com.",
-      "data": "2018-10-30",
-      "watch": 1,
-      "id": 28,
-      "month": "October",
-      "day": "30",
-      "type": 1
-    },
-    {
-      "title": "Announcement on the Suspension of ZEC Withdrawal and Deposit Service",
-      "intro": "Dear Bitpiers, According to ZEC official announcement, ZEC will have a hard fork at block height 419200. Hence, Bitpie will suspend ZEC's withdrawal and deposit service at 9:30 a.m. on October 28th (Hong Kong time). When the ZEC hard fork is completed and runs stable, we will resume the service immediately, the specific time will be informed as an announcement.",
-      "data": "2018-10-25",
-      "watch": 1,
-      "id": 27,
-      "month": "October",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "Notification of Server Maintenance",
-      "intro": "The server maintenance will be performed from 11:00 p.m. October 22, 2018 to 3:00 a.m. October 23, 2018(UTC+8). During the maintenance, please be noted the following functions will be affected",
-      "data": "2018-10-22",
-      "watch": 1,
-      "id": 26,
-      "month": "October",
-      "day": "22",
-      "type": 1
-    },
-    {
-      "title": "The First Paid Placement is Coming",
-      "intro": "In a long run, Bitpie always put the users experience at the first place—we refuse to provide any function that harm user experience, of course including Advertisement.",
-      "data": "2018-10-13",
-      "watch": 1,
-      "id": 25,
-      "month": "October",
-      "day": "13",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet Has Suspended the Deposit and Withdrawal of LBTC",
-      "intro": "Dear Bitpiers, Bitpie Wallet has closed the deposit and withdrawal functions due to the mainnet upgrade of LBTC for the security of the assets of Bitpiers. Please wait for the resumption.",
-      "data": "2018-10-10",
-      "watch": 1,
-      "id": 24,
-      "month": "October",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "Resumption of Sending SAFE cash",
-      "intro": "Dear Bitpiers, The upgrade of SAFE mainnet, is completed and Bitpie Wallet has finished the testing and upgrade targeting SAFE mainnet. Now the sending service of SAFE is resumed. Please upgrade your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.",
-      "data": "2018-09-29",
-      "watch": 1,
-      "id": 23,
-      "month": "September",
-      "day": "29",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet Will Support the Conversion into Mainnet BTM",
-      "intro": "Dear Bitpiers, Bitpie and Bytom have announced all-round cooperation in the ecology. The two parties will conduct deep cooperation in various areas in the future. Bitpie has just finished the connection to Bytom mainnet and will convert former BTM into mainnet BTM for Bitpiers. The detailed information are as follows.",
-      "data": "2018-09-17",
-      "watch": 1,
-      "id": 22,
-      "month": "September",
-      "day": "17",
-      "type": 1
-    },
-    {
-      "title": "Bitpie Wallet Has Suspended the Deposit and Withdrawal of SAFE",
-      "intro": "Dear Bitpiers, Bitpie Wallet has closed the deposit and withdrawal functions due to the mainnet upgrade of SAFE for the security of the assets of Bitpiers. Please wait for the resumption.",
-      "data": "2018-09-10",
-      "watch": 1,
-      "id": 21,
-      "month": "September",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "Resumption of Sending Zcash(ZEC)",
-      "intro": "Dear Bitpiers, The upgrade of Zcash mainnet, Overwinter, is completed and Bitpie Wallet has finished the testing and upgrade targeting Zcash mainnet. Now the sending service of Zcash is resumed. Please update your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.Thanks for your support for Bitpie Wallet.",
-      "data": "2018-08-10",
-      "watch": 1,
-      "id": 3,
-      "month": "August",
-      "day": "10",
-      "type": 1
-    },
-    {
-      "title": "Launch of the Period One Bytom (BTM) Financial Plan",
-      "intro": "As a participant and supporter of Bytom ecology, Bitpie Team has always been optimistic about Bytom ecology and enthusiastic about related function development. Bitpie Wallet also developed Bytom-related security framework.",
-      "data": "2018-08-14",
-      "watch": 1,
-      "id": 19,
-      "month": "August",
-      "day": "14",
-      "type": 1
-    },
-    {
-      "title": "Notification to affected iOS users",
-      "intro": "Dear users As a decentralized wallet, Bitpie Wallet do not hold any users’ assets, which are all taken care of by users themselves. Users assets are in blockchain network, only when a user takes good care of the SEED phrase/mnemonic can he guarantee assets safety. Therefore, we have reminded users repeatedly to backup and keep the SEED phrases/mnemonics well（the latest reminder was pushed by sticking on the top of Bitpie App a week before the certificate issue）. After the revocation of the certificate by Apple Inc., we immediately released a notification informing the users not to uninstall the Bitpie App and advising users to recover the account in Android devices. Unfortunately, there are still some users failed to follow the announcement. As a follow-up, we are releasing this document to help users who failed to do so...",
-      "data": "2018-03-26",
-      "watch": 683,
-      "id": 1,
-      "month": "March",
-      "day": "26",
-      "type": 1
-    },
-    {
-      "title": "Server Upgrade Notification",
-      "intro": "Due to the recent surge in the number of users, the visits to some regions have been slow. In order to bring you a more convenient and comfortable experience, we need to upgrade the server hardware. You will not be able to send, receive, and trade during updating from 13:00 to 14:00 (UTC+8).",
-      "data": "2018-08-08",
-      "watch": 14,
-      "id": 8,
-      "month": "August",
-      "day": "08",
-      "type": 3
-    },
-    {
-      "title": "Notice of EOS Block Synchronization and Upgrading",
-      "intro": "The Bitpie Wallet is having EOS block synchronization and upgrading now. Though there is abnormal display in some Bitpier’ EOS amount, the assets safety won’t be affected. The block synchronization is estimated to be finished within 24 hours.",
-      "data": "2018-07-22",
-      "watch": 1,
-      "id": 9,
-      "month": "July",
-      "day": "22",
-      "type": 3
-    },
-    {
-      "title": "Bitpie Wallet Starts Supporting TRON Mainnet",
-      "intro": "Fellow Bitpiers:Bitpie has already finished TRON mainnet upgrade and supported TRON mainnet. The sending and receiving services for TRX token has also been opened which means Bitpiers can henceforth send and receive TRX via Bitpie.",
-      "data": "2018-07-09",
-      "watch": 40,
-      "id": 11,
-      "month": "July",
-      "day": "09",
-      "type": 1
-    },
-    {
-      "title": "Notice of Resumption of BTG Deposit and Withdrawal",
-      "intro": "The upgrade of BTG mainnet has been finished and Bitpie has resumed BTG deposit and withdrawals in Bitpie Wallet and Pie Bank.",
-      "data": "2018-07-09",
-      "watch": 1,
-      "id": 12,
-      "month": "July",
-      "day": "09",
-      "type": 3
-    },
-    {
-      "title": "Notice of Suspending BTG Deposit and Withdrawal Services",
-      "intro": "Due to the upgrade of BTG mainnet and for the sake of your interests, Bitpie will suspend BTG deposit and withdrawals in Bitpie Wallet and Pie Bank at 13:00 on June 30, 2018(GMT+8). We will resume the deposit and withdrawal of BTG promptly after the BTG mainnet runs stably. Please pay attention to our announcement for the specific time.",
-      "data": "2018-06-30",
-      "watch": 1,
-      "id": 13,
-      "month": "June",
-      "day": "30",
-      "type": 3
-    },
-    {
-      "title": "Notice of Suspending the Service of Sending Zcash (ZEC)",
-      "intro": "Zcash (ZEC) will have a hard fork at block height 347500 at 05:00 on June 26, 2018(GMT+8). For the sake of your interests, Bitpie will suspend the service of sending Zcash (ZEC) at 21:00 June 25, 2018(GMT+8).",
-      "data": "2018-06-25",
-      "watch": 1,
-      "id": 15,
-      "month": "June",
-      "day": "25",
-      "type": 1
-    },
-    {
-      "title": "Supplement to the Notice of Bitpie Wallet Supporting BYTOM Blockchain Upgrade and Token Migration",
-      "intro": "Bitpie and BYTOM have announced deep ecological cooperation in all aspects.",
-      "data": "2018-06-21",
-      "watch": 1,
-      "id": 16,
-      "month": "June",
-      "day": "21",
-      "type": 1
-    }
-  ]
+    "cn": [{
+            "title": "用批量转账，享1000ETH补贴！",
+            "intro": "使用比特派钱包【批量转账】功能的用户，可获得矿工费补贴。",
+            "data": "2019-12-24",
+            "watch": 0,
+            "id": 63,
+            "month": "December",
+            "day": "24",
+            "type": 1
+        },
+        {
+            "title": "比特派一键买卖大幅优化公告",
+            "intro": "比特派一键买卖大幅优化。盘口更小，深度更好，更严格的 KYC 审核以降低冻卡概率，特邀您体验新特性。",
+            "data": "2019-12-18",
+            "watch": 193,
+            "id": 62,
+            "month": "December",
+            "day": "18",
+            "type": 1
+        },
+        {
+            "title": "暂停 Atom 收发的公告",
+            "intro": "亲爱的派友：因Cosmos主网升级，Bitpie 钱包将于12月11日22:00 （UTC+8）暂停 Atom收发币及相应staking功能，具体恢复时间另行通知，请您耐心等待。",
+            "data": "2019-12-11",
+            "watch": 123,
+            "id": 61,
+            "month": "December",
+            "day": "11",
+            "type": 1
+        },
+        {
+            "title": "以太坊“伊斯坦布尔”升级已完成，相关功能已恢复",
+            "intro": "以太坊“伊斯坦布尔”升级已完成。主网运行稳定，比特派相关功能已恢复。",
+            "data": "2019-12-8",
+            "watch": 123,
+            "id": 60,
+            "month": "December",
+            "day": "8",
+            "type": 1
+        }, {
+            "title": "比特派关于支持以太坊“伊斯坦布尔”升级 的公告",
+            "intro": "比特派将支持以太坊“伊斯坦布尔”升级。据以太坊官网消息，以太坊网络将在区块高度 9,069,000 进行「伊斯坦布尔」升级，预计升级时间为 2019 年 12 月 8 日，具体时间取决于网络的出块情况。",
+            "data": "2019-12-6",
+            "watch": 24,
+            "id": 59,
+            "month": "December",
+            "day": "6",
+            "type": 1
+        }, {
+            "title": "暂停 Algo 收发的公告",
+            "intro": "为配合 Algorand 2.0主网升级，Bitpie 钱包已于11月27日11：00 am（UTC+8）暂停Algo收发币功能，具体恢复时间另行通知，请您耐心等待。",
+            "data": "2019-11-27",
+            "watch": 24,
+            "id": 58,
+            "month": "November",
+            "day": "5",
+            "type": 1
+        }, {
+            "title": "比特派服务器升级维护通知",
+            "intro": "比特派服务器将于香港时间 2019年11月06日凌晨 00:30 停机维护，预计30-60分钟完成。",
+            "data": "2019-11-5",
+            "watch": 24,
+            "id": 57,
+            "month": "November",
+            "day": "5",
+            "type": 1
+        }, {
+            "title": "关于 iOS 版本比特派钱包更换开发者账号及APP更新的公告",
+            "intro": "为了便于对 IOS 版本比特派APP的更新与管理，比特派团队已将原开发者账号【 BITPIE TECHNOLOGY INC. 】变更为新账号【BITPIE HK LIMITED】。",
+            "data": "2019-10-9",
+            "watch": 24,
+            "id": 56,
+            "month": "October",
+            "day": "9",
+            "type": 1
+        }, {
+            "title": "比特派将支持Ethereum Classic（ETC）硬分叉升级",
+            "intro": "比特派将支持Ethereum Classic（ETC）硬分叉升级，根据ETC (Ethereum Classic) 官方计划，ETC将于区块高度达到8,772,000时（预计于香港时间2019年9月12日-13日）进行硬分叉升级。",
+            "data": "2019-08-29",
+            "watch": 24,
+            "id": 55,
+            "month": "September",
+            "day": "11",
+            "type": 1
+        }, {
+            "title": "声明",
+            "intro": "今收到用户反馈，交易所NZCCX（网址：http://www.nzccx.pro）将比特派列为“生态伙伴”。比特派Bitpie钱包特此声明：比特派此前从未听说，也未与此交易所有过任何接触与合作。",
+            "data": "2019-08-29",
+            "watch": 24,
+            "id": 54,
+            "month": "August",
+            "day": "29",
+            "type": 1
+        }, {
+            "title": "有关停止支持 LCH 币种的公告",
+            "intro": "因 LCH 官方已经不再对该项目进行维护，比特派将从即日起停止提供 LCH 收发等一切相关服务，如需咨询相关事宜请联系 LCH 官方。",
+            "data": "2019-08-20",
+            "watch": 24,
+            "id": 53,
+            "month": "August",
+            "day": "20",
+            "type": 1
+        },
+        {
+            "title": "比特派关于支持 Nervos CKB 兑换公告",
+            "intro": "比特派钱包将于香港时间 8月15日 12：00 am 开通 USDT（Omni 与 ERC20 均可）与 Nervos Network 代币 CKB 的币币兑换功能。",
+            "data": "2019-08-09",
+            "watch": 424,
+            "id": 52,
+            "month": "August",
+            "day": "09",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包将第一时间支持波场稳定币USDT-TRON激励计划2.0版及USDT兑换教程",
+            "intro": "比特派现已经支持波场和Tether泰达公司合作推出的基于TRC20的USDT代币（USDT-TRON），并已经开通USDT-TRON与USDT-OMNI和USDT-ERC20之间的双向跨链兑换。 同时，比特派也将支持波场官方针对于USDT-TRON持有者的激励计划2.0版。",
+            "data": "2019-07-12",
+            "watch": 24,
+            "id": 51,
+            "month": "July",
+            "day": "12",
+            "type": 1
+        },
+        {
+            "title": "关于 iOS 版本比特派钱包不再禁止用户截屏助记词的公告",
+            "intro": "因苹果官方强制要求，比特派现已不再禁止用户截屏助记词（但我们仍然会在相关页面予以警示）。",
+            "data": "2019-07-04",
+            "watch": 24,
+            "id": 50,
+            "month": "July",
+            "day": "4",
+            "type": 1
+        },
+        {
+            "title": "关于支持 ZEC（Zcash）分叉币 Ycash 的公告",
+            "intro": "比特派暂定将支持 ZEC（Zcash）的分叉币 Ycash，并将于区块高度 570,000 进行快照（预计2019年07月18日）。",
+            "data": "2019-07-02",
+            "watch": 24,
+            "id": 49,
+            "month": "July",
+            "day": "2",
+            "type": 1
+        },
+        {
+            "title": "恢复SAFE收发币的公告",
+            "intro": "SAFE主网已稳定运行，Bitpie钱包已于7月1日18：00（UTC+8）恢复SAFE收发币等相关功能。",
+            "data": "2019-07-01",
+            "watch": 24,
+            "id": 48,
+            "month": "July",
+            "day": "1",
+            "type": 1
+        },
+        {
+            "title": "暂停SAFE收发币的公告",
+            "intro": "由于SAFE主网升级中网络有波动，目前暂停所有交易所SAFE充提，Bitpie钱包已于6月25日14：00（UTC+8）暂停SAFE收发币功能，具体恢复时间另行通知，请您耐心等待。",
+            "data": "2019-06-25",
+            "watch": 24,
+            "id": 47,
+            "month": "June",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "关于 DASH 恢复发币及潜在分叉处理方案的公告",
+            "intro": "尊敬的bitpie用户：对于近期DASH网络升级，造成的潜在分叉问题，主流矿池都采取了支持升级后DASH新链的做法。为保障多数用户的利益，比特派将采取与主流矿池一致的方案，即只支持升级后的DASH网络上币中的收发，并将于 6月22日15：00（UTC+8）恢复 DASH 发币功能。",
+            "data": "2019-06-22",
+            "watch": 24,
+            "id": 46,
+            "month": "June",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "暂停DASH发币的公告",
+            "intro": "尊敬的bitpie用户：由于DASH网络升级，部分节点未同步升级，导致产生分叉，为保障用户资金安全，bitpie钱包已于6月19日17：00（UTC+8）暂停DASH发币功能，请您耐心等待，待DASH网络恢复稳定后，将会第一时间告知，请您持续关注最新公告。",
+            "data": "2019-06-19",
+            "watch": 24,
+            "id": 45,
+            "month": "June",
+            "day": "19",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包关于支持BCH升级的公告",
+            "intro": "亲爱的派友：比特派将支持 BCH 主网升级，并于2019年05月15日20:00(HKT) 暂停比特派钱包中 BCH 的收发与派银行 BCH 充提功能，待升级完成后开放。",
+            "data": "2019-05-15",
+            "watch": 24,
+            "id": 44,
+            "month": "May",
+            "day": "15",
+            "type": 1
+        },
+        {
+            "title": "USDT 节点升级已完成，相关功能已恢复正常。",
+            "intro": "USDT 节点升级已完成，相关功能已恢复正常。",
+            "data": "2019-04-25",
+            "watch": 24,
+            "id": 43,
+            "month": "April",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "关于比特派钱包内兑换 USDT-TRON 的通知及教程",
+            "intro": "怎样兑换USDT-TRON？ 在 比特派APP—派银行——USDT理财 初参与。可以将USDT 与 USDT-TRON 进行1：1兑换。",
+            "data": "2019-04-24",
+            "watch": 24,
+            "id": 42,
+            "month": "April",
+            "day": "24",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包将第一时间支持波场稳定币USDT-TRON",
+            "intro": "比特派将会在第一时间支持波场和Tether泰达公司合作推出的基于TRC20的USDT代币（USDT-TRON），并在未来开通USDT-TRON与USDT-OMNI之间的双向跨链兑换。",
+            "data": "2019-03-22",
+            "watch": 24,
+            "id": 41,
+            "month": "March",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "有关停止支持LBTC币种的公告",
+            "intro": "因 LBTC 较近一次主网升级相关数据变动较大，经内部讨论，比特派将不支持LBTC的此次升级与后续更新，并将即日起停止提供 LBTC 收发等一切相关服务。",
+            "data": "2019-03-11",
+            "watch": 24,
+            "id": 40,
+            "month": "March",
+            "day": "11",
+            "type": 1
+        },
+        {
+            "title": "关于支持以太坊ETH君士坦丁堡（Constantinople）分叉的公告",
+            "intro": "亲爱的派友：比特派将支持以太坊Ethereum（ETH）的君士坦丁堡（Constantinople）升级，升级高度 7,080,000 （预计2019年3月1日 3点35分）。为保障您的资产安全，建议您提前将ETH充值到钱包中，分叉期间避免 ETH 收发，比特派将协助您处理硬分叉中的一切技术问题。",
+            "data": "2019-02-28",
+            "watch": 1,
+            "id": 39,
+            "month": "February",
+            "day": "28",
+            "type": 1
+        },
+        {
+            "title": "比特派关于支持TRX用户空投BTT的公告",
+            "intro": "亲爱的派友:根据BitTorrent Token（BTT）分配机制，波场（TRX）持有者将获得 BTT 糖果空投，空投将发生多轮并持续较长的时间（2019-2025）。官方将在TRX区块高度6,600,000（预计为2019年2月11日，具体时间受实际出块速度影响）为首次空投进行快照。比特派钱包和派银行的用户无需任何操作即可领取 BTT 空投，届时更新版本即可显示。为保障您的资产安全，建议您提前将 TRX 转入到比特派钱包，比特派将协助您处理空投中的一切技术问题。",
+            "data": "2019-01-22",
+            "watch": 1,
+            "id": 38,
+            "month": "January",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "关于支持以太坊ETH君士坦丁堡（Constantinople）分叉的公告",
+            "intro": "亲爱的派友:比特派将支持以太坊Ethereum（ETH）的君士坦丁堡（Constantinople）分叉",
+            "data": "2019-01-04",
+            "watch": 1,
+            "id": 37,
+            "month": "January",
+            "day": "04",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包将支持 EOS CAFE DAC 空投",
+            "intro": "亲爱的派友:比特派钱包将支持 EOS CAFE DAC 项目代币 BEAN 的空投。",
+            "data": "2018-12-20",
+            "watch": 1,
+            "id": 36,
+            "month": "December",
+            "day": "20",
+            "type": 1
+        },
+        {
+            "title": "比特派派银行支持 BCHSV 充提及比特护盾支持领取 BCHSV 公告",
+            "intro": "比特护盾支持领取 BCHSV , 安卓版升级最新版 V3.7.9，IOS 版审核通过即可",
+            "data": "2018-12-04",
+            "watch": 1,
+            "id": 35,
+            "month": "December",
+            "day": "04",
+            "type": 1
+        },
+        {
+            "title": "关于比特派下架 BCH 理财产品的公告",
+            "intro": "2018年11月15日，BCH 主链进行了一次硬分叉，分裂为 BCH ABC 和 BCH SV 。由于比特派在 BCH 分叉前发布了 BCH 的日理财和月理财产品，针对购买了日理财产品的用户，比特派将以2018年11月30日作为到期日终止全部日理财服务。",
+            "data": "2018-11-30",
+            "watch": 1,
+            "id": 34,
+            "month": "November",
+            "day": "30",
+            "type": 1
+        },
+        {
+            "title": "比特派 【邀请返佣、领取免费EOS账户】活动规则",
+            "intro": "活动时间：在 2018年11月27日 12:00:00 至 2018年12月11日 23:59:59；2. 奖励详情：【一】渠道返佣：每成功邀请一名有效用户，邀请人可领取其在比特派的所有的 EOS DApp 的渠道佣金，邀请人数不设上限，收益无上限；【二】资源奖励：每成功邀请一名有效用户，邀请人与被邀请人均可获得 EOS 免费开户券或 EOS 资源救急券",
+            "data": "2018-11-27",
+            "watch": 1,
+            "id": 33,
+            "month": "November",
+            "day": "27",
+            "type": 1
+        },
+        {
+            "title": "比特派将支持 Infiniverse（INF）空投",
+            "intro": "亲爱的派友：比特派钱包以及派银行将支持 Infiniverse项目代币 INF的空投。",
+            "data": "2018-11-19",
+            "watch": 1,
+            "id": 32,
+            "month": "November",
+            "day": "19",
+            "type": 1
+        },
+        {
+            "title": "关于比特派暂停 CDY 收发的公告",
+            "intro": "亲爱的派友：根据 CDY 官方消息，CDY 正在进行官方升级。为此比特派已在香港时间11月14日9：30暂停派钱包 ZEC 的收发及派银行 CDY 的充提功能。待 CDY 升级稳定后，我们会在第一时间恢复，具体时间将以公告另行通知。暂停期间为此带来的不便，敬请谅解！",
+            "data": "2018-11-14",
+            "watch": 1,
+            "id": 31,
+            "month": "November",
+            "day": "14",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包关于支持 BCH 硬分叉的公告",
+            "intro": "比特派将支持 BCH 的硬分叉，将于香港时间2018年11月16日 00:40:00 进行资产快照。并将于香港时间 2018年11月15日19:00 暂停比特派钱包中 BCH 的收发与派银行 BCH 充提功能。硬分叉完成且稳定后，我们会在第一时间恢复 BCH 相关功能，具体时间将以公告另行通知。暂停期间带来的不便，敬请谅解！",
+            "data": "2018-11-06",
+            "watch": 1,
+            "id": 30,
+            "month": "November",
+            "day": "06",
+            "type": 1
+        },
+        {
+            "title": "比特派派银行将支持 Hirevibes（HVT）空投",
+            "intro": "亲爱的派友：比特派派银行将支持 Hirevibes 项目代币 HVT 的空投。",
+            "data": "2018-11-03",
+            "watch": 1,
+            "id": 29,
+            "month": "November",
+            "day": "03",
+            "type": 1
+        },
+        {
+            "title": "关于比特派恢复 ZEC 发币的公告",
+            "intro": "亲爱的派友：ZEC 网络的硬分叉已经完成，比特派钱包目前已经完成了对 ZEC 的调试和升级，现已重新开放 ZEC 发币功能，请您前往 bitpie.com 升级 App 至最新版(安卓v3.7.1,苹果v3.6.8.)即可使用。",
+            "data": "2018-10-30",
+            "watch": 1,
+            "id": 28,
+            "month": "October",
+            "day": "30",
+            "type": 1
+        },
+        {
+            "title": "关于比特派暂停 ZEC 发币的公告",
+            "intro": "根据 ZEC 官方消息，ZEC 将在区块高度 419200 发生硬分叉。为此比特派预计将在香港时间10月28日9：30暂停 ZEC 的发币业务，期间收币不受影响。待 ZEC 硬分叉稳定后，我们会在第一时间恢复，具体时间将以公告另行通知。暂停期间为此带来的不便，敬请谅解！",
+            "data": "2018-10-25",
+            "watch": 1,
+            "id": 27,
+            "month": "October",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "比特派机房停机维护通知",
+            "intro": "比特派机房设备将于北京时间 2018 年 10 月 22 日晚 23:00 点整停机维护，停机期间派钱包收、发币，交易所交易功能正常、派银行充值正常，应用内以下功能受到影响",
+            "data": "2018-10-22",
+            "watch": 1,
+            "id": 26,
+            "month": "October",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "比特派首个“广告位”开启",
+            "intro": "众所周知，比特派是没广告的，作为把用户体验放到第一位的团队，我们对于任何能干扰用户体验的功能都是拒绝的，这里面当然也包括了广告。",
+            "data": "2018-10-13",
+            "watch": 1,
+            "id": 25,
+            "month": "October",
+            "day": "13",
+            "type": 1
+        },
+        {
+            "title": "关于比特派暂停 LBTC 充提的公告",
+            "intro": "尊敬的派友：由于 LBTC 主网升级，为了保障平台用户利益，比特派将于香港时间2018年10月10日10:00关闭充提功能，恢复时间请关注后续通知。",
+            "data": "2018-10-10",
+            "watch": 1,
+            "id": 24,
+            "month": "October",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "关于恢复 SAFE 发币功能的公告",
+            "intro": "亲爱的派友：SAFE 的主网升级已经完成，比特派钱包目前已经针对 SAFE 新主网完成了调试和升级，现在已经重新开放 SAFE 发币功能，请升级 App 至最新版 v3.5.8 即可使用。感谢您对比特派 Bitpie 的支持。",
+            "data": "2018-09-29",
+            "watch": 1,
+            "id": 23,
+            "month": "September",
+            "day": "29",
+            "type": 1
+        },
+        {
+            "title": "关于比特派将持续支持 BTM 主网兑换通知",
+            "intro": "亲爱的用户：比特派 Bitpie 与比原链 Bytom 已宣布全面生态合作，双方将在多方面展开深度合作。日前比特派已经完成比原链（Bytom）主网对接",
+            "data": "2018-09-17",
+            "watch": 1,
+            "id": 22,
+            "month": "September",
+            "day": "17",
+            "type": 1
+        },
+        {
+            "title": "关于比特派暂停 SAFE 充提的公告",
+            "intro": "尊敬的派友：由于 SAFE 主网升级，为了保障平台用户利益，比特派将于香港时间2018年9月10日10:00关闭充提功能，恢复时间请关注后续通知。",
+            "data": "2018-09-10",
+            "watch": 1,
+            "id": 21,
+            "month": "September",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "关于比特派恢复 BCH 充提的公告",
+            "intro": "尊敬的派友：BCH 压测已稳定，比特派现已恢复 BCH 的充提，暂停期间为您带来的不便，敬请谅解！",
+            "data": "2018-09-03",
+            "watch": 1,
+            "id": 19,
+            "month": "September",
+            "day": "03",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包关于暂停 BCH 充提的公告",
+            "intro": "亲爱的派友：由于 BCH 将于新加坡时间 2018年9月1日 20:00 进行全网压测，为了保证平台用户利益，比特派钱包将于 2018年9月1日 20:00(香港时间)暂停派钱包和派银行中 BCH 的充提，并将于后续压测完成且运行稳定后，重新开放 BCH 充提功能。具体时间请关注后续通知。",
+            "data": "2018-08-31",
+            "watch": 1,
+            "id": 20,
+            "month": "August",
+            "day": "31",
+            "type": 1
+        },
+        {
+            "title": "关于恢复 Zcash（ZEC）发币功能的公告",
+            "intro": "亲爱的派友：Zcash（ZEC）的 Overwinter 主网升级已经完成，比特派钱包目前已经针对 Zcash 新主网完成了调试和升级，现在已经重新开放 ZEC 发币功能，请升级 App 至最新版 v3.4.6即可使用。感谢您对比特派 Bitpie 的支持。",
+            "data": "2018-08-10",
+            "watch": 1,
+            "id": 3,
+            "month": "August",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "关于比特派 iOS 版企业证书的说明",
+            "intro": "比特派作为去中心化钱包，无法掌控用户资产，所有资产均由用户自己保管，只有保管好密语才能保障您的资产安全。在前几天苹果未有任何通知突然回收企业证书前，我们已经多次反复提醒用户要保管好12个单词的密语（最近一次是在回收前的一周，比特派客户端内置顶了相关提示，要求用户一定要抄密语，并且不要轻易卸载比特派App）。",
+            "data": "2018-03-26",
+            "watch": 683,
+            "id": 1,
+            "month": "March",
+            "day": "26",
+            "type": 1
+        },
+        {
+            "title": "服务器升级通知",
+            "intro": "比特派服务器正在进行升级，预计1小时完成。升级期间请您避免执行收发、交易等操作。",
+            "data": "2018-08-08",
+            "watch": 14,
+            "id": 8,
+            "month": "August",
+            "day": "08",
+            "type": 3
+        },
+        {
+            "title": "比特派钱包关于支持 HCASH 主链升级并暂停 HSR 充提的公告",
+            "intro": "亲爱的派友：根据 HCASH 官方公告，HCASH 将于 938888 高度进行主链升级（预计时间为2018年8月8日，具体时间以区块高度为准）。比特派支持 HCASH 主链升级，并会为用户完成映射。同时 比特派钱包 将于北京时间2018年8月6日12:00关闭 HSR 的充值和提币业务。",
+            "data": "2018-08-05",
+            "watch": 2011,
+            "id": 7,
+            "month": "August",
+            "day": "05",
+            "type": 1
+        },
+        {
+            "title": "比特派钱包关于同步升级 EOS 节点的公告",
+            "intro": "比特派钱包目前正在进行 EOS 节点同步升级，部分用户 EOS 数量显示异常，这并不会影响到您的资产安全。节点同步预计24小时内完成。感谢您的理解与支持。",
+            "data": "2018-07-22",
+            "watch": 1,
+            "id": 9,
+            "month": "July",
+            "day": "22",
+            "type": 3
+        },
+        {
+            "title": "派钱包已经支持波场 TRON 主网",
+            "intro": "目前，比特派 Bitpie 已经完成对波场 TRON 的主网更新和支持。主网代币 TRX 的收发功能已经开启，用户即日起可以使用派钱包收发 TRX。",
+            "data": "2018-07-09",
+            "watch": 1,
+            "id": 11,
+            "month": "July",
+            "day": "09",
+            "type": 1
+        },
+        {
+            "title": "派钱包关于恢复 BTG 充提的公告",
+            "intro": "BTG 主网升级已经完成，现已恢复 BTG 的充提。感谢您的理解与支持。",
+            "data": "2018-07-09",
+            "watch": 1,
+            "id": 12,
+            "month": "July",
+            "day": "09",
+            "type": 3
+        },
+        {
+            "title": "关于 BTG 暂停充提的公告",
+            "intro": "亲爱的派友：由于 BTG 主网升级，为了保证平台用户利益，比特派将于2018年6月30日13:00(香港时间)暂停派钱包和派银行中 BTG 的充提，并将于后续主网升级完成且运行稳定后，重新开放 BTG 充提功能。具体时间请关注后续通知。",
+            "data": "2018-06-30",
+            "watch": 1,
+            "id": 13,
+            "month": "June",
+            "day": "30",
+            "type": 3
+        },
+        {
+            "title": "关于暂停 Zcash（ZEC）发币功能的公告",
+            "intro": "由于 Zcash（ZEC）将于区块高度 347500 进行硬分叉(预计为香港时间2018年6月26日05:00)，为了保证平台用户利益，比特派钱包将于2018年6月25日21:00暂停 ZEC 发币功能。",
+            "data": "2018-06-25",
+            "watch": 1,
+            "id": 15,
+            "month": "June",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "派钱包支持比原链 Bytom(BTM) 主网更新及代币迁移补充公告",
+            "intro": "比特派 Bitpie 与比原链 Bytom 已宣布全面生态合作，双方将在多方面展开深度合作。",
+            "data": "2018-06-21",
+            "watch": 1,
+            "id": 16,
+            "month": "June",
+            "day": "21",
+            "type": 1
+        }
+    ],
+    "en": [{
+            "title": "Ethereum \"Istanbul\" Upgrade has been Completed. Related Functions have been Restored",
+            "intro": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
+            "data": "2019-12-8",
+            "watch": 124,
+            "id": 60,
+            "month": "December",
+            "day": "8",
+            "type": 1
+        }, {
+            "title": "Bitpie Announcement for Supporting Ethereum \"Istanbul\" Upgrade",
+            "intro": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait.",
+            "data": "2019-12-6",
+            "watch": 24,
+            "id": 59,
+            "month": "December",
+            "day": "6",
+            "type": 1
+        }, {
+            "title": "ANN of Algo Sending / Receiving Suspension",
+            "intro": " Bitpie Wallet will support Ethereum \"Istanbul\" upgrade.  According to the Ethereum official website, the Ethereum network will implement an \"Istanbul\" upgrade at block height 9,069,000. The expected upgrade time is December 8, 2019, but it will literally depending on the network's block generation.",
+            "data": "2019-11-27",
+            "watch": 24,
+            "id": 58,
+            "month": "November",
+            "day": "27",
+            "type": 1
+        }, {
+            "title": "Announcement on Bitpie Server Upgrade",
+            "intro": "In order to provide you a better user experience, Bitpie will perform a system upgrade shortly after 2019-11-06 00:30 (HKT).",
+            "data": "2019-11-5",
+            "watch": 24,
+            "id": 57,
+            "month": "November",
+            "day": "5",
+            "type": 1
+        }, {
+            "title": "Announcement on the replacement of developer account and APP update for  Bitpie Wallet iOS version",
+            "intro": "In order to facilitate the update and management of the iOS version of Bitpie APP, the original developer account [BITPIE TECHNOLOGY INC.] has been changed to the new account [BITPIE HK LIMITED] by Bitpie Team",
+            "data": "2019-10-9",
+            "watch": 24,
+            "id": 55,
+            "month": "October",
+            "day": "9",
+            "type": 1
+        }, {
+            "title": "Announcement on Bitcoin Support ETC Hard Fork Upgrade",
+            "intro": "Bitpie wallet will support the Ethereum Classic (ETC) hard fork upgrade. According to the ETC (Ethereum Classic) Official`s  plan, ETC will implement the hard fork at block height 8,772,000 (expected in HK time September 12-13, 2019) for upgrade.",
+            "data": "2019-08-29",
+            "watch": 24,
+            "id": 55,
+            "month": "September",
+            "day": "11",
+            "type": 1
+        }, {
+            "title": "声明",
+            "intro": "今收到用户反馈，交易所NZCCX（网址：http://www.nzccx.pro）将比特派列为“生态伙伴”。比特派Bitpie钱包特此声明：比特派此前从未听说，也未与此交易所有过任何接触与合作。",
+            "data": "2019-08-29",
+            "watch": 24,
+            "id": 54,
+            "month": "August",
+            "day": "29",
+            "type": 1
+        }, {
+            "title": "Announcement on LCH",
+            "intro": "As the LCH official team no longer maintains the project, Bitpie Wallet will stop providing all related services such as LCH sending and receiving from now on. Please contact LCH official if you have any other issues.",
+            "data": "2019-08-20",
+            "watch": 24,
+            "id": 53,
+            "month": "August",
+            "day": "20",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Supporting USDT-TRON New Incentive Plan and USDT Swap Demo",
+            "intro": "Bitpie has already supported the sends and receives of the USDT-TRON, a TRC20-based stable coin issued jointly by TRON and Tether Company.",
+            "data": "2019-07-12",
+            "watch": 24,
+            "id": 51,
+            "month": "July",
+            "day": "12",
+            "type": 1
+        }, {
+            "title": "Announcement on the iOS version of Bitpie is no longer prohibit for screenshots mnemonics",
+            "intro": "Due to Apple’s official mandate, Bitpie Wallet is no longer prohibit user from doing mnemonics screenshots  (but we will still be alerted on the relevant page).",
+            "data": "2019-07-04",
+            "watch": 24,
+            "id": 50,
+            "month": "July",
+            "day": "4",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Supporting ZEC (Zcash) Fork Coin Ycash",
+            "intro": "Bitpie wallet is tentatively scheduled to support ZEC (Zcash)'s forked coin Ycash and will take a snapshot at the block height of 570,000 (expected time July 18, 2019).",
+            "data": "2019-07-02",
+            "watch": 24,
+            "id": 49,
+            "month": "July",
+            "day": "2",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Resumption of SAFE Sending and Receiving",
+            "intro": "The SAFE mainnet has been running stably. Bitpie wallet has resumed SAFE transaction and other related functions at 18:00 (UTC+8) on July 1.",
+            "data": "2019-07-01",
+            "watch": 24,
+            "id": 48,
+            "month": "July",
+            "day": "1",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Suspension of SAFE Sending and Receiving",
+            "intro": "Due to the SAFE network upgrade, for the sake of your asset safety, Bitpie has already suspended the sending and receiving of SAFE at the time of 14:00, June 25, 2019(UTC+8). We will resume SAFE sending and receiving immediately after the network runs stably.",
+            "data": "2019-06-25",
+            "watch": 24,
+            "id": 47,
+            "month": "June",
+            "day": "25",
+            "type": 1
+        }, {
+            "title": "Announcement on DASH Sending Resumption",
+            "intro": "Dear Bitpiers,The upgrade of DASH network is now accomplished. The newly upgraded mainnet is running stably.We will resume the sending function of DASH at 15:00, June 22, 2019 (UTC+8).",
+            "data": "2019-06-22",
+            "watch": 24,
+            "id": 46,
+            "month": "June",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Suspension of Dash Sending",
+            "intro": "Fellow Bitpiers,A fork chain of DASH network was noted during its upgrade because some nodes failed to upgrade in time. Therefore, for the sake of the asset security, Bitpie has already suspended the sending of DASH at the time of 15:00, June 19, 2019(UTC+8).We will resume the function of sending DASH immediately after the network runs stably.",
+            "data": "2019-06-19",
+            "watch": 24,
+            "id": 45,
+            "month": "June",
+            "day": "19",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Bitpie’s Support to BCH Upgrade",
+            "intro": "Fellow Bitpiers,Bitpie Wallet will support BCH mainnet upgrade. The sending and receiving in Bitpie wallet and the deposit and withdrawal in Pie Bank will be suspended from 20:00(HKT) 15th May, 2019, which will be resumed after the upgrade is completed.",
+            "data": "2019-05-15",
+            "watch": 24,
+            "id": 44,
+            "month": "May",
+            "day": "15",
+            "type": 1
+        },
+        {
+            "title": "The USDT node upgrade has been completed，all functions back to normal.",
+            "intro": "The USDT node upgrade has been completed，all functions back to normal.",
+            "data": "2019-04-25",
+            "watch": 24,
+            "id": 43,
+            "month": "April",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "How to Swap Your USDT-OMNI for TRC20 Based USDT",
+            "intro": "You are now able to swap your USDT-OMNI for TRC20 Based USDT. Please follow the steps:Open Bitpie APP- Pie Bank - USDT Financial Plan.",
+            "data": "2019-04-24",
+            "watch": 24,
+            "id": 42,
+            "month": "April",
+            "day": "24",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Supporting USDT-TRON",
+            "intro": "Bitpie will support, at the very first time, the sends and receives of the USDT-TRON, a TRC20-based stable coin issued jointly by TRON and Tether Company.",
+            "data": "2019-03-22",
+            "watch": 24,
+            "id": 41,
+            "month": "March",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "Announcement on LBTC（Lightning Bitcoin Mainnet Suspension",
+            "intro": "Due to the major changes on the mainnet upgrade of LBTC, Bitpie will not support the following upgrade of LBTC, and terminate providing all related services including LBTC sending and receiving.",
+            "data": "2019-03-11",
+            "watch": 24,
+            "id": 40,
+            "month": "March",
+            "day": "11",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Supporting Etheruem (ETH) Constantinople Hard-fork",
+            "intro": "Fellow Bitpiers:Bitpie will support Ethereum (ETH) Constantinople fork Upgrade at the block height 7,080,000 (predicted time 2019 March 1,3:35 a.m. (UTC+8).To ensure your assets safety, it is strongly advised to send your ETH to your Bitpie wallet in advance and pause the sends and receives during the fork period. Bitpie will help you deal with all technical issues in this hard-fork.",
+            "data": "2019-02-28",
+            "watch": 1,
+            "id": 39,
+            "month": "February",
+            "day": "28",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet and PieBank will Support BitTorrent (BTT) Airdrop",
+            "intro": "Dear Bitpiers:Bitpie Wallet and PieBank will support BTT Airdrop. On February 11th, 2019, BitTorrent Foundation will initiate its first airdrop of BitTorrent (BTT) to TRON (TRX) holders. The airdrop will take multiple rounds for a longer period of time (2019-2025). The official will take a snapshot of the first airdrop at the height of the TRX block of 6,600,000 (The specific time is affected by the actual block rate) Users can automatically get the corresponding BTT airdrop by depositing the TRX into the Bitpie wallet or PieBank.",
+            "data": "2019-01-22",
+            "watch": 1,
+            "id": 38,
+            "month": "January",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "Announcement on Supporting Etheruem (ETH) Constantinople Hard-fork",
+            "intro": "Dear Bitpiers:Bitpie will support Ethereum (ETH) Constantinople fork.",
+            "data": "2019-01-04",
+            "watch": 1,
+            "id": 37,
+            "month": "January",
+            "day": "04",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet will support EOS CAFE DAC Airdrop",
+            "intro": "Dear Bitpiers:Bitpie Wallet will support EOS CAFE DAC BEAN Airdrop.",
+            "data": "2018-12-20",
+            "watch": 1,
+            "id": 36,
+            "month": "December",
+            "day": "20",
+            "type": 1
+        },
+        {
+            "title": "Bitpie【Invitation Reward and Getting Free EOS Accounts】 Activity Rules",
+            "intro": "1. Activity time: From November 27, 2018 12 a.m. to December 11, 2018 11:59 p.m. （HongKong Time）2. Rewards details【1】Channel Rewards: By inviting valid users, the inviter can get all EOS DApp rewards on Bitpie from the invitees. No ceiling for Invitation times, no ceiling for Rewards",
+            "data": "2018-11-27",
+            "watch": 1,
+            "id": 33,
+            "month": "November",
+            "day": "27",
+            "type": 1
+        },
+        {
+            "title": "Bitpie will Support Infiniverse（INF） Airdrop",
+            "intro": "Dear Bitpiers,Bitpie Pie Bank will support Infiniverse（INF） Airdrop Project.",
+            "data": "2018-11-19",
+            "watch": 1,
+            "id": 32,
+            "month": "November",
+            "day": "19",
+            "type": 1
+        },
+        {
+            "title": "Announcement on the Suspension of CDY Sends and Receives Service",
+            "intro": "According to CDY official announcement, CDY is undergoing an official upgrade. Hence, Bitpie has suspended the sends and receives service of CDY in the Pie Wallet and CDY withdrawal and deposit service in Pie Bank at 9:30 a.m. on November 14th (Hong Kong time). When the CDY upgrade is completed and runs stable, we will resume the service immediately, the specific time will be informed as an announcement.",
+            "data": "2018-11-14",
+            "watch": 1,
+            "id": 31,
+            "month": "November",
+            "day": "14",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet supports BCH Hard Fork Announcement",
+            "intro": "Bitpie will support the hard fork of BCH and will take a snapshot on November 16, 2018, 00:40:00 Hong Kong time.",
+            "data": "2018-11-06",
+            "watch": 1,
+            "id": 30,
+            "month": "November",
+            "day": "06",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Pie Bank will support Hirevibes (HVT) Airdrop",
+            "intro": "Bitpie Pie Bank will support Hirevibes HVT Airdrop Project.Hirevibes (HVT) Project Airdrop Information Date of Snapshot: November 4, 2018 08:00-10:00 (UTC+8 Beijing time / Hong Kong time)",
+            "data": "2018-11-03",
+            "watch": 1,
+            "id": 29,
+            "month": "November",
+            "day": "03",
+            "type": 1
+        },
+        {
+            "title": "Resumption of ZEC (Zcash) Sending",
+            "intro": "Dear Bitpiers, ZEC (Zcash) mainnet upgrade is completed, and Bitpie wallet has carried out the debugging and upgrading upon ZEC. Since now, the sending of ZEC is resumed. Please update to the newest version (android v3.7.1, iOS v3.6.8) on Bitpie.com.",
+            "data": "2018-10-30",
+            "watch": 1,
+            "id": 28,
+            "month": "October",
+            "day": "30",
+            "type": 1
+        },
+        {
+            "title": "Announcement on the Suspension of ZEC Withdrawal and Deposit Service",
+            "intro": "Dear Bitpiers, According to ZEC official announcement, ZEC will have a hard fork at block height 419200. Hence, Bitpie will suspend ZEC's withdrawal and deposit service at 9:30 a.m. on October 28th (Hong Kong time). When the ZEC hard fork is completed and runs stable, we will resume the service immediately, the specific time will be informed as an announcement.",
+            "data": "2018-10-25",
+            "watch": 1,
+            "id": 27,
+            "month": "October",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "Notification of Server Maintenance",
+            "intro": "The server maintenance will be performed from 11:00 p.m. October 22, 2018 to 3:00 a.m. October 23, 2018(UTC+8). During the maintenance, please be noted the following functions will be affected",
+            "data": "2018-10-22",
+            "watch": 1,
+            "id": 26,
+            "month": "October",
+            "day": "22",
+            "type": 1
+        },
+        {
+            "title": "The First Paid Placement is Coming",
+            "intro": "In a long run, Bitpie always put the users experience at the first place—we refuse to provide any function that harm user experience, of course including Advertisement.",
+            "data": "2018-10-13",
+            "watch": 1,
+            "id": 25,
+            "month": "October",
+            "day": "13",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet Has Suspended the Deposit and Withdrawal of LBTC",
+            "intro": "Dear Bitpiers, Bitpie Wallet has closed the deposit and withdrawal functions due to the mainnet upgrade of LBTC for the security of the assets of Bitpiers. Please wait for the resumption.",
+            "data": "2018-10-10",
+            "watch": 1,
+            "id": 24,
+            "month": "October",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "Resumption of Sending SAFE cash",
+            "intro": "Dear Bitpiers, The upgrade of SAFE mainnet, is completed and Bitpie Wallet has finished the testing and upgrade targeting SAFE mainnet. Now the sending service of SAFE is resumed. Please upgrade your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.",
+            "data": "2018-09-29",
+            "watch": 1,
+            "id": 23,
+            "month": "September",
+            "day": "29",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet Will Support the Conversion into Mainnet BTM",
+            "intro": "Dear Bitpiers, Bitpie and Bytom have announced all-round cooperation in the ecology. The two parties will conduct deep cooperation in various areas in the future. Bitpie has just finished the connection to Bytom mainnet and will convert former BTM into mainnet BTM for Bitpiers. The detailed information are as follows.",
+            "data": "2018-09-17",
+            "watch": 1,
+            "id": 22,
+            "month": "September",
+            "day": "17",
+            "type": 1
+        },
+        {
+            "title": "Bitpie Wallet Has Suspended the Deposit and Withdrawal of SAFE",
+            "intro": "Dear Bitpiers, Bitpie Wallet has closed the deposit and withdrawal functions due to the mainnet upgrade of SAFE for the security of the assets of Bitpiers. Please wait for the resumption.",
+            "data": "2018-09-10",
+            "watch": 1,
+            "id": 21,
+            "month": "September",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "Resumption of Sending Zcash(ZEC)",
+            "intro": "Dear Bitpiers, The upgrade of Zcash mainnet, Overwinter, is completed and Bitpie Wallet has finished the testing and upgrade targeting Zcash mainnet. Now the sending service of Zcash is resumed. Please update your Bitpie Wallet to the latest version v3.4.6 and enjoy the sending service.Thanks for your support for Bitpie Wallet.",
+            "data": "2018-08-10",
+            "watch": 1,
+            "id": 3,
+            "month": "August",
+            "day": "10",
+            "type": 1
+        },
+        {
+            "title": "Launch of the Period One Bytom (BTM) Financial Plan",
+            "intro": "As a participant and supporter of Bytom ecology, Bitpie Team has always been optimistic about Bytom ecology and enthusiastic about related function development. Bitpie Wallet also developed Bytom-related security framework.",
+            "data": "2018-08-14",
+            "watch": 1,
+            "id": 19,
+            "month": "August",
+            "day": "14",
+            "type": 1
+        },
+        {
+            "title": "Notification to affected iOS users",
+            "intro": "Dear users As a decentralized wallet, Bitpie Wallet do not hold any users’ assets, which are all taken care of by users themselves. Users assets are in blockchain network, only when a user takes good care of the SEED phrase/mnemonic can he guarantee assets safety. Therefore, we have reminded users repeatedly to backup and keep the SEED phrases/mnemonics well（the latest reminder was pushed by sticking on the top of Bitpie App a week before the certificate issue）. After the revocation of the certificate by Apple Inc., we immediately released a notification informing the users not to uninstall the Bitpie App and advising users to recover the account in Android devices. Unfortunately, there are still some users failed to follow the announcement. As a follow-up, we are releasing this document to help users who failed to do so...",
+            "data": "2018-03-26",
+            "watch": 683,
+            "id": 1,
+            "month": "March",
+            "day": "26",
+            "type": 1
+        },
+        {
+            "title": "Server Upgrade Notification",
+            "intro": "Due to the recent surge in the number of users, the visits to some regions have been slow. In order to bring you a more convenient and comfortable experience, we need to upgrade the server hardware. You will not be able to send, receive, and trade during updating from 13:00 to 14:00 (UTC+8).",
+            "data": "2018-08-08",
+            "watch": 14,
+            "id": 8,
+            "month": "August",
+            "day": "08",
+            "type": 3
+        },
+        {
+            "title": "Notice of EOS Block Synchronization and Upgrading",
+            "intro": "The Bitpie Wallet is having EOS block synchronization and upgrading now. Though there is abnormal display in some Bitpier’ EOS amount, the assets safety won’t be affected. The block synchronization is estimated to be finished within 24 hours.",
+            "data": "2018-07-22",
+            "watch": 1,
+            "id": 9,
+            "month": "July",
+            "day": "22",
+            "type": 3
+        },
+        {
+            "title": "Bitpie Wallet Starts Supporting TRON Mainnet",
+            "intro": "Fellow Bitpiers:Bitpie has already finished TRON mainnet upgrade and supported TRON mainnet. The sending and receiving services for TRX token has also been opened which means Bitpiers can henceforth send and receive TRX via Bitpie.",
+            "data": "2018-07-09",
+            "watch": 40,
+            "id": 11,
+            "month": "July",
+            "day": "09",
+            "type": 1
+        },
+        {
+            "title": "Notice of Resumption of BTG Deposit and Withdrawal",
+            "intro": "The upgrade of BTG mainnet has been finished and Bitpie has resumed BTG deposit and withdrawals in Bitpie Wallet and Pie Bank.",
+            "data": "2018-07-09",
+            "watch": 1,
+            "id": 12,
+            "month": "July",
+            "day": "09",
+            "type": 3
+        },
+        {
+            "title": "Notice of Suspending BTG Deposit and Withdrawal Services",
+            "intro": "Due to the upgrade of BTG mainnet and for the sake of your interests, Bitpie will suspend BTG deposit and withdrawals in Bitpie Wallet and Pie Bank at 13:00 on June 30, 2018(GMT+8). We will resume the deposit and withdrawal of BTG promptly after the BTG mainnet runs stably. Please pay attention to our announcement for the specific time.",
+            "data": "2018-06-30",
+            "watch": 1,
+            "id": 13,
+            "month": "June",
+            "day": "30",
+            "type": 3
+        },
+        {
+            "title": "Notice of Suspending the Service of Sending Zcash (ZEC)",
+            "intro": "Zcash (ZEC) will have a hard fork at block height 347500 at 05:00 on June 26, 2018(GMT+8). For the sake of your interests, Bitpie will suspend the service of sending Zcash (ZEC) at 21:00 June 25, 2018(GMT+8).",
+            "data": "2018-06-25",
+            "watch": 1,
+            "id": 15,
+            "month": "June",
+            "day": "25",
+            "type": 1
+        },
+        {
+            "title": "Supplement to the Notice of Bitpie Wallet Supporting BYTOM Blockchain Upgrade and Token Migration",
+            "intro": "Bitpie and BYTOM have announced deep ecological cooperation in all aspects.",
+            "data": "2018-06-21",
+            "watch": 1,
+            "id": 16,
+            "month": "June",
+            "day": "21",
+            "type": 1
+        }
+    ]
 }
