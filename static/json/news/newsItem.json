@@ -1,166 +1,209 @@
 {
-  "cn":[
-    {
-      "title":"BITHD RAZOR 震撼来袭",
-      "intro":"（可以跟信用卡一样插在钱包的卡槽里）的卡片版硬件钱包，比特护盾 刀锋RAZOR，来了！",
-      "data":"2019-03-15",
-      "type":2,
-      "url":"https://www.jinse.com/blockchain/329468.html",
-      "id":6,
-      "img":"/static/image/news/index_news1.png",
-      "watch":"1031"
-    },
-    {
-      "title":"希瓦的守护--冰甲 助记词板",
-      "intro":"希瓦的守护-【冰甲】--现在，你有一款安全、坚固、高颜值的助记词板守护你的助记词了！！！",
-      "data":"2019-03-21",
-      "type":2,
-      "url":"https://www.jinse.com/blockchain/332534.html",
-      "id":7,
-      "img":"/static/image/news/index_news2.png",
-      "watch":"88"
-    },
-    {
-      "title":"比特护盾手表版和卡片版的设计初衷",
-      "intro":"关于比特护盾的设计，我们首先从固件上说起。比特护盾作为一款硬件钱包，固件的目的是安全，而不是为了运行复杂的智能设备系统，因此，优先考虑的还是安全。从设计的角度上讲，比特护盾二代的手表版和卡片版是不一样的。",
-      "data":"2019-01-22",
-      "type":2,
-      "url":"https://www.jinse.com/bitcoin/309724.html",
-      "id":8,
-      "img":"/static/image/news/index_news3.png",
-      "watch":"1031"
-    },
-    {
-      "title":"比特派：钱包的私钥存储方案",
-      "intro":"您知道区块链钱包是如何管理私钥的吗？作为领域内资格最老、安全口碑最好的的钱包团队，比太/比特派团队今天将专门针对这个问题给大家做一下科普。",
-      "data":"2018-11-20",
-      "type":2,
-      "url":"https://www.jinse.com/bitcoin/275810.html",
-      "id":5,
-      "img":"/static/image/news/news5.png",
-      "watch":"20000"
-    },
-    {
-      "title":"万万没想到，日本币圈这样评价『比特护盾』！",
-      "intro":"2018年3月开始，『BITHD（比特护盾）』登陆日本。而这篇文章是日本知名媒体“BITDAYS”编集部绝密的入手了『BITHD（比特护盾）』后，与四个非常熟悉虚拟货币的大佬进行座谈后的交流记录。",
-      "data":"2018-08-09",
-      "type":2,
-      "url":"http://www.sohu.com/a/246093898_100129607",
-      "id":4,
-      "img":"/static/image/news/news4.jpg",
-      "watch":"481"
-    },
-    {
-      "title":"彩云评测：BitHD (比特护盾)钱包",
-      "intro":"BitHD(比特护盾)是一款智能手表样式的数字货币硬件钱包，由比特派钱包团队历时一年研发并推出，该团队开发项目之一比太钱包是国内唯一被比特币官网推荐的钱包。",
-      "data":"2018-08-06",
-      "type":2,
-      "url":"https://www.cybtc.com/article-3225-1.html",
-      "id":3,
-      "img":"/static/image/news/news2.jpg",
-      "watch":4436
-    },
-    {
-      "title":"比特派香港办公室成立，作为Fin-Tech企业将受香港政府大力支持",
-      "intro":"近日，比特派钱包入驻香港数码港，香港办公室正式成立。香港政府对于加密经济及区块链技术持较为开放的态度，公司作为Fin-Tech企业也将受到香港政府的大力支持。",
-      "data":"2018-07-20",
-      "type":2,
-      "url":"http://www.sohu.com/a/242375415_100129607",
-      "id":1,
-      "img":"/static/image/news/news1.png",
-      "watch":1200
-    }
-  ],
-  "en":[
-    {
-      "title":"Official Press Release Announcing New Partnership with Cocos-BCX",
-      "intro":"We are very thrilled to announce our global partnership with Cocos-BCX, a pioneer in the area of digital game economy platform for the next generation.",
-      "data":"2019-07-11",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_cocos.jpg",
-      "url":"https://medium.com/bitpie/official-press-release-announcing-new-partnership-with-cocos-bcx-9f1cbc94098",
-      "id":10
-    },
-    {
-      "title":"Best Unboxing Video: BitHD Watch 2",
-      "intro":"BITHD is 100% Open Source wallet including all manufacturing files. The first edition of BITHD watch was released on Dec. 30th 2017. In 2018 we have shipped more than 5 thousand BITHD watch to global users. Now we are delivering the new generation of BITHD watch!",
-      "data":"2019-07-04",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_unboxbithd.jpg",
-      "url":"https://medium.com/bitpie/best-unboxing-video-bithd-watch-2-3afae32a0136",
-      "id":9
-    },
-    {
-      "title":"What is Coin/Token Swap and How to Swap?",
-      "intro":"Coin Swap is a simple and private way to allow cryptocurrency holders to exchange coin (e.g. BTC→USDT or ETH→BTC) at a predetermined rate.",
-      "data":"2019-07-01",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_coinswap.jpg",
-      "url":"https://medium.com/bitpie/coin-swap-a-simple-and-private-way-to-convert-your-coins-cbf0a225eb12",
-      "id":8
-    },
-    {
-      "title":"How to Buy Bitcoin in a Simple Way?",
-      "intro":"It is hard to buy Bitcoin for lots of people around the world. Also, it not easy for many agencies to find a trustable third party to buy bitcoin for their clients. Bitpie Wallet, as a reputable decentralized wallet, now offers people a simple way to buy and sell bitcoin (and more cryptocurrencies) with a USD bank account.",
-      "data":"2019-06-27",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_buyandsell.jpg",
-      "url":"https://medium.com/bitpie/buy-your-bitcoin-with-usd-right-now-or-never-aa9466943394",
-      "id":7
-    },
-    {
-      "title":"What is KYC and Why We Need It?",
-      "intro":"KYC=Know Your Customer. The objective of the KYC is to identity theft, Prevent terrorist financing, Money laundering and Financial fraud. KYC allows us to understand the customer better and manage risks prudently.\nOnly through KYC, can users be protected from the money laundering and internet crimes.",
-      "data":"2019-06-27",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_kyc.jpg",
-      "url":"https://medium.com/bitpie/what-is-kyc-and-why-we-need-it-29d033f30c6e",
-      "id":6
-    },
-    {
-      "title":"Bitpie and PAX Reached Strategic Global Strategic Cooperation",
-      "intro":"Today, we are very pleased to announce a global strategic partnership with Stable Coin PAX. Bitpie and PAX will jointly promote the compliant US Dollar stable coin and its related service.",
-      "data":"2019-05-24",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_pax.jpg",
-      "url":"https://medium.com/bitpie/bitpie-and-stable-coin-pax-start-global-strategic-cooperation-53b10d6936e1",
-      "id":5
-    },
-    {
-      "title":"Frozen Armor Unboxing Video",
-      "intro":"A close view on our newly-made Seedphrase Memorizer — Frozen Armor!",
-      "data":"2019-05-10",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_armor.jpg",
-      "url":"https://medium.com/bitpie/an-unboxing-video-from-our-partner-cypherglass-8afb16a3c57d",
-      "id":4
-    },
-    {
-      "title":"Where to Buy BITHD Hardware Wallet?",
-      "intro":"BitHD is a product matrix of 100% open source cryptocurrency hardware cold wallet solutions, which was initially launched on December 30th 2017 by the Bither Team after years of research and development.",
-      "data":"2019-05-04",
-      "type":2,
-      "img":"/static/image/news/bitpieweb_buybithd.jpg",
-      "url":"https://medium.com/bitpie/where-can-you-purchase-bithd-hardware-wallet-be5b43dea016",
-      "id":3
-    },
-    {
-      "title":"Bitpie Hong Kong Office Founded as a FinTech Corporation",
-      "intro":"Recently, Bitpie wallet entered Cyberport of Hong Kong as Bitpie Hong Kong Office established. Giving that Hong Kong government holds an open attitude towards crypto economy and blockchain technology, and provides support for FinTech corporations, Bitpie, as a FinTech corporation, will probably gain the support from Hong Kong government.",
-      "data":"2018-07-20",
-      "type":2,
-      "img":"/static/image/news/news1.png",
-      "url":"https://medium.com/@Bitpie/bitpie-hong-kong-office-set-up-and-is-supported-by-hong-kong-government-as-a-fin-tech-corporation-8bdd8a1f8a20",
-      "id":2
-    },
-    {
-      "title":"Why Digital Wallets Need Omni USDT – Bitpie Wallet – Medium",
-      "intro":"Some people in the blockchain industry said: the war among digital wallets is on the verge. They think that many start-ups have rushed into digital wallet field and wallet developers have sprung up.",
-      "data":"2017-08-09",
-      "type":2,
-      "img":"/static/image/news/newse3.png",
-      "url":"https://medium.com/@Bitpie/why-digital-wallets-need-omni-usdt-200f24c5d00f",
-      "id":1
-    }
-  ]
+    "cn": [{
+            "title": "为什么我们只在Bithd硬件冷钱包里提供了多重签名功能",
+            "intro": "不久前，比特护盾和刀锋硬件冷钱包支持了 USDT-ERC20（USDT以太版）和 ETH Token 的多重签名，也因此又解锁几项了全球第一的成就。",
+            "data": "2019-12-17",
+            "type": 2,
+            "url": "https://www.jinse.com/blockchain/552317.html",
+            "id": 13,
+            "img": "/static/image/news/bithd_third.jpg",
+            "watch": "999"
+        }, {
+            "title": "交易所钱包的问与答",
+            "intro": "长久以来，「交易所」一直都是币圈最火的赛道之一。如同当年团购时代的万团大战，在上一轮牛市里，币圈也曾一口气涌现出了上万家的交易所，一直到今天仍然是每天都有新交易所诞生，每天也都有老的交易所倒下......",
+            "data": "2019-11-22",
+            "type": 2,
+            "url": "https://www.theblockbeats.com/news/5198",
+            "id": 12,
+            "img": "/static/image/news/exchange_wallet.jpg",
+            "watch": "999"
+        }, {
+            "title": "ChainNode测评：比特护盾 Watch2 代硬件钱包",
+            "intro": "各位小伙伴们大家好呀，比特派 Bitpie 推出的硬件钱包又又又一次登上了「巴比特ChainNode测评」。此次测评的是我们的比特护盾 Watch2 代硬件钱包，它在1代的基础上做了全面升级，外观更精美！手感更舒适！功能更强劲！",
+            "data": "2019-11-21",
+            "type": 2,
+            "url": "https://www.8btc.com/video/517263",
+            "id": 11,
+            "img": "/static/image/news/bithd_review.jpg",
+            "watch": "999"
+        }, {
+            "title": "USDT为什么得用比特派钱包？这四个理由给你答案",
+            "intro": "在稳定币市场里， USDT 一直占据着领先的市场份额，同时也是仅次于 BTC 的场外交易第二大币种。但是由于之前 USDT 是基于 BTC 的 Omni 协议发行的币种，在网络拥堵的情况下，不仅确认速度较慢，还会产生高额的矿工费，这也一直是 USDT 用户最大的痛点。",
+            "data": "2019-11-08",
+            "type": 2,
+            "url": "https://weibo.com/ttarticle/p/show?id=2309404436398315798604&mod=zwenzhang",
+            "id": 10,
+            "img": "/static/image/news/usdt_wallet.jpg",
+            "watch": "999"
+        }, {
+            "title": "ChainNode测评：比特护盾 Razor 刀锋硬件钱包",
+            "intro": "一款轻巧、便携同时又功能强大的全开源硬件钱包哪里找呢？今天的视频就带大家来了解一下我们的刀锋 Razor 硬件钱包。",
+            "data": "2019-10-22",
+            "type": 2,
+            "url": "https://www.8btc.com/video/499490",
+            "id": 9,
+            "img": "/static/image/news/razor_review.jpg",
+            "watch": "999"
+        }, {
+            "title": "BITHD RAZOR 震撼来袭",
+            "intro": "（可以跟信用卡一样插在钱包的卡槽里）的卡片版硬件钱包，比特护盾 刀锋RAZOR，来了！",
+            "data": "2019-03-15",
+            "type": 2,
+            "url": "https://www.jinse.com/blockchain/329468.html",
+            "id": 6,
+            "img": "/static/image/news/index_news1.png",
+            "watch": "1031"
+        },
+        {
+            "title": "希瓦的守护--冰甲 助记词板",
+            "intro": "希瓦的守护-【冰甲】--现在，你有一款安全、坚固、高颜值的助记词板守护你的助记词了！！！",
+            "data": "2019-03-21",
+            "type": 2,
+            "url": "https://www.jinse.com/blockchain/332534.html",
+            "id": 7,
+            "img": "/static/image/news/index_news2.png",
+            "watch": "88"
+        },
+        {
+            "title": "比特护盾手表版和卡片版的设计初衷",
+            "intro": "关于比特护盾的设计，我们首先从固件上说起。比特护盾作为一款硬件钱包，固件的目的是安全，而不是为了运行复杂的智能设备系统，因此，优先考虑的还是安全。从设计的角度上讲，比特护盾二代的手表版和卡片版是不一样的。",
+            "data": "2019-01-22",
+            "type": 2,
+            "url": "https://www.jinse.com/bitcoin/309724.html",
+            "id": 8,
+            "img": "/static/image/news/index_news3.png",
+            "watch": "1031"
+        },
+        {
+            "title": "比特派：钱包的私钥存储方案",
+            "intro": "您知道区块链钱包是如何管理私钥的吗？作为领域内资格最老、安全口碑最好的的钱包团队，比太/比特派团队今天将专门针对这个问题给大家做一下科普。",
+            "data": "2018-11-20",
+            "type": 2,
+            "url": "https://www.jinse.com/bitcoin/275810.html",
+            "id": 5,
+            "img": "/static/image/news/news5.png",
+            "watch": "20000"
+        },
+        {
+            "title": "万万没想到，日本币圈这样评价『比特护盾』！",
+            "intro": "2018年3月开始，『BITHD（比特护盾）』登陆日本。而这篇文章是日本知名媒体“BITDAYS”编集部绝密的入手了『BITHD（比特护盾）』后，与四个非常熟悉虚拟货币的大佬进行座谈后的交流记录。",
+            "data": "2018-08-09",
+            "type": 2,
+            "url": "http://www.sohu.com/a/246093898_100129607",
+            "id": 4,
+            "img": "/static/image/news/news4.jpg",
+            "watch": "481"
+        },
+        {
+            "title": "彩云评测：BitHD (比特护盾)钱包",
+            "intro": "BitHD(比特护盾)是一款智能手表样式的数字货币硬件钱包，由比特派钱包团队历时一年研发并推出，该团队开发项目之一比太钱包是国内唯一被比特币官网推荐的钱包。",
+            "data": "2018-08-06",
+            "type": 2,
+            "url": "https://www.cybtc.com/article-3225-1.html",
+            "id": 3,
+            "img": "/static/image/news/news2.jpg",
+            "watch": 4436
+        },
+        {
+            "title": "比特派香港办公室成立，作为Fin-Tech企业将受香港政府大力支持",
+            "intro": "近日，比特派钱包入驻香港数码港，香港办公室正式成立。香港政府对于加密经济及区块链技术持较为开放的态度，公司作为Fin-Tech企业也将受到香港政府的大力支持。",
+            "data": "2018-07-20",
+            "type": 2,
+            "url": "http://www.sohu.com/a/242375415_100129607",
+            "id": 1,
+            "img": "/static/image/news/news1.png",
+            "watch": 1200
+        }
+    ],
+    "en": [{
+            "title": "Official Press Release Announcing New Partnership with Cocos-BCX",
+            "intro": "We are very thrilled to announce our global partnership with Cocos-BCX, a pioneer in the area of digital game economy platform for the next generation.",
+            "data": "2019-07-11",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_cocos.jpg",
+            "url": "https://medium.com/bitpie/official-press-release-announcing-new-partnership-with-cocos-bcx-9f1cbc94098",
+            "id": 10
+        },
+        {
+            "title": "Best Unboxing Video: BitHD Watch 2",
+            "intro": "BITHD is 100% Open Source wallet including all manufacturing files. The first edition of BITHD watch was released on Dec. 30th 2017. In 2018 we have shipped more than 5 thousand BITHD watch to global users. Now we are delivering the new generation of BITHD watch!",
+            "data": "2019-07-04",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_unboxbithd.jpg",
+            "url": "https://medium.com/bitpie/best-unboxing-video-bithd-watch-2-3afae32a0136",
+            "id": 9
+        },
+        {
+            "title": "What is Coin/Token Swap and How to Swap?",
+            "intro": "Coin Swap is a simple and private way to allow cryptocurrency holders to exchange coin (e.g. BTC→USDT or ETH→BTC) at a predetermined rate.",
+            "data": "2019-07-01",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_coinswap.jpg",
+            "url": "https://medium.com/bitpie/coin-swap-a-simple-and-private-way-to-convert-your-coins-cbf0a225eb12",
+            "id": 8
+        },
+        {
+            "title": "How to Buy Bitcoin in a Simple Way?",
+            "intro": "It is hard to buy Bitcoin for lots of people around the world. Also, it not easy for many agencies to find a trustable third party to buy bitcoin for their clients. Bitpie Wallet, as a reputable decentralized wallet, now offers people a simple way to buy and sell bitcoin (and more cryptocurrencies) with a USD bank account.",
+            "data": "2019-06-27",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_buyandsell.jpg",
+            "url": "https://medium.com/bitpie/buy-your-bitcoin-with-usd-right-now-or-never-aa9466943394",
+            "id": 7
+        },
+        {
+            "title": "What is KYC and Why We Need It?",
+            "intro": "KYC=Know Your Customer. The objective of the KYC is to identity theft, Prevent terrorist financing, Money laundering and Financial fraud. KYC allows us to understand the customer better and manage risks prudently.\nOnly through KYC, can users be protected from the money laundering and internet crimes.",
+            "data": "2019-06-27",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_kyc.jpg",
+            "url": "https://medium.com/bitpie/what-is-kyc-and-why-we-need-it-29d033f30c6e",
+            "id": 6
+        },
+        {
+            "title": "Bitpie and PAX Reached Strategic Global Strategic Cooperation",
+            "intro": "Today, we are very pleased to announce a global strategic partnership with Stable Coin PAX. Bitpie and PAX will jointly promote the compliant US Dollar stable coin and its related service.",
+            "data": "2019-05-24",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_pax.jpg",
+            "url": "https://medium.com/bitpie/bitpie-and-stable-coin-pax-start-global-strategic-cooperation-53b10d6936e1",
+            "id": 5
+        },
+        {
+            "title": "Frozen Armor Unboxing Video",
+            "intro": "A close view on our newly-made Seedphrase Memorizer — Frozen Armor!",
+            "data": "2019-05-10",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_armor.jpg",
+            "url": "https://medium.com/bitpie/an-unboxing-video-from-our-partner-cypherglass-8afb16a3c57d",
+            "id": 4
+        },
+        {
+            "title": "Where to Buy BITHD Hardware Wallet?",
+            "intro": "BitHD is a product matrix of 100% open source cryptocurrency hardware cold wallet solutions, which was initially launched on December 30th 2017 by the Bither Team after years of research and development.",
+            "data": "2019-05-04",
+            "type": 2,
+            "img": "/static/image/news/bitpieweb_buybithd.jpg",
+            "url": "https://medium.com/bitpie/where-can-you-purchase-bithd-hardware-wallet-be5b43dea016",
+            "id": 3
+        },
+        {
+            "title": "Bitpie Hong Kong Office Founded as a FinTech Corporation",
+            "intro": "Recently, Bitpie wallet entered Cyberport of Hong Kong as Bitpie Hong Kong Office established. Giving that Hong Kong government holds an open attitude towards crypto economy and blockchain technology, and provides support for FinTech corporations, Bitpie, as a FinTech corporation, will probably gain the support from Hong Kong government.",
+            "data": "2018-07-20",
+            "type": 2,
+            "img": "/static/image/news/news1.png",
+            "url": "https://medium.com/@Bitpie/bitpie-hong-kong-office-set-up-and-is-supported-by-hong-kong-government-as-a-fin-tech-corporation-8bdd8a1f8a20",
+            "id": 2
+        },
+        {
+            "title": "Why Digital Wallets Need Omni USDT – Bitpie Wallet – Medium",
+            "intro": "Some people in the blockchain industry said: the war among digital wallets is on the verge. They think that many start-ups have rushed into digital wallet field and wallet developers have sprung up.",
+            "data": "2017-08-09",
+            "type": 2,
+            "img": "/static/image/news/newse3.png",
+            "url": "https://medium.com/@Bitpie/why-digital-wallets-need-omni-usdt-200f24c5d00f",
+            "id": 1
+        }
+    ]
 }
