@@ -116,6 +116,51 @@
         }
     ],
     "en": [{
+            "title": "Use Bitpie Wallet Batch Sender for Series Transactions",
+            "intro": "For many of the users who need to transfer their USDT/PAX/TUSD/USDC to a group of people, such as your team members or employees or air drop etc, it is quite inconvenient. They usually have to copy each address one after another, and send to all the addresses one by one.",
+            "data": "2019-12-17",
+            "type": 2,
+            "url": "https://medium.com/bitpie/use-bitpie-wallet-batch-sender-for-series-transactions-7a779b5448cf",
+            "id": 15,
+            "img": "/static/image/news/USDx.png",
+            "watch": "999"
+        }, {
+            "title": "Announcement about support of Nervos mainnet in Bitpie wallet",
+            "intro": "The Nervos mainnet is expected to be launched on November 16th. Bitpie wallet has completed development relate to Nervos network support and ready to ship the release very soon. After the mainnet is officially launched, user will be able to use Bitpie wallet to create the Nervos mainnet address and sending or receiving CKB.",
+            "data": "2019-11-22",
+            "type": 2,
+            "url": "https://medium.com/bitpie/announcement-about-support-of-nervos-mainnet-in-bitpie-wallet-bbdfeccfdf9a",
+            "id": 14,
+            "img": "/static/image/news/PAX.png",
+            "watch": "999"
+        }, {
+            "title": "To USDT Users: Bitpie is Your Best Choice",
+            "intro": "In the stable currency market, USDT is always a leading role and keeping the second highest market share after BTC on OTC market.",
+            "data": "2019-11-03",
+            "type": 2,
+            "url": "https://medium.com/bitpie/to-usdt-users-bitpie-is-your-best-choice-b462d1fe0119",
+            "id": 13,
+            "img": "/static/image/news/USDTBestChoice.png",
+            "watch": "999"
+        }, {
+            "title": "Bitpie Will Support Stablecoin PAX Issuing on EOS Network",
+            "intro": "Bitpie will fully support Paxos Standard (PAX), a USD stablecoin regulated by the New York Department of Financial Services and issued by the Paxos Trust Company, to be launched on the EOS blockchain network and will undertake the technical work related to the issuance of PAX on EOS mainnet.",
+            "data": "2019-08-21",
+            "type": 2,
+            "url": "https://medium.com/bitpie/bitpie-will-support-stablecoin-pax-issuing-on-eos-network-c58c18724343",
+            "id": 12,
+            "img": "/static/image/news/Nervos.png",
+            "watch": "999"
+        }, {
+            "title": "Bitpie Partners with dForce to Enable Interest-Bearing Stablecoin USDx and On-Ramp OTC Service",
+            "intro": "Bitpie is a mobile wallet with high-grade of security, which enables simple and fast transaction and user-friendly interfaces and built-in OTC services and Coin Exchange. This partnership will empower dForce to onboard new users, expand the market place of USDx and DF, and allowing USDx to fiat trading. Users can also easily and safely transact their USD and DF token with RMB, USD and HKD, EUR currencies through OTC trading services provided by Bitpie.",
+            "data": "2019-08-09",
+            "type": 2,
+            "url": "https://medium.com/bitpie/bitpie-partners-with-dforce-to-enable-interest-bearing-stablecoin-usdx-and-on-ramp-otc-service-92ca7326d9cf",
+            "id": 11,
+            "img": "/static/image/news/BatchSender.png",
+            "watch": "999"
+        }, {
             "title": "Official Press Release Announcing New Partnership with Cocos-BCX",
             "intro": "We are very thrilled to announce our global partnership with Cocos-BCX, a pioneer in the area of digital game economy platform for the next generation.",
             "data": "2019-07-11",
