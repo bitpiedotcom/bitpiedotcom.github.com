@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "比特派春节期间一切服务正常运行",
+            "intro": "春节将至，比特派春节期间一切服务仍将照常运行。祝大家在新年里阖家欢乐，万事如意。",
+            "data": "2020-1-22",
+            "watch": 0,
+            "id": 66,
+            "month": "January",
+            "day": "22",
+            "type": 1
+        }, {
             "title": "比特派携手慢雾 AML 阻断盗币攻击，保障用户资产安全",
             "intro": "近期，比特派通过接入慢雾的 AML 系统，检测到了一笔可疑资产流入兑换系统。比特派的风控系统被第一时间触发，并迅速启动了相关预案，将该可疑资产及时冻结在兑换系统中。",
             "data": "2019-12-31",
@@ -564,6 +573,15 @@
         }
     ],
     "en": [{
+            "title": "Bitpie’s service will maintain as usual during the Chinese New Year",
+            "intro": "The Chinese New Year is coming, Bitpie’s service will maintain as usual during the vacation. We wish you a happy new year !",
+            "data": "2020-1-22",
+            "watch": 0,
+            "id": 66,
+            "month": "January",
+            "day": "22",
+            "type": 1
+        }, {
             "title": "Bitpie Announcement for Supporting Ethereum \"Muel Glacier\" Upgrade",
             "intro": "Users do not need to do any operation during the update. Bitpie Team will resolve all issues.",
             "data": "2019-12-30",
@@ -572,7 +590,7 @@
             "month": "December",
             "day": "30",
             "type": 1
-        },{
+        }, {
             "title": "Use Bitpie Batch Sender; Win Million USD Rewards!",
             "intro": "Users who use our Batch Sender tool will get reimbursement of gas fees.",
             "data": "2019-12-24",
@@ -581,7 +599,7 @@
             "month": "December",
             "day": "24",
             "type": 1
-        },{
+        }, {
             "title": "Ethereum \"Istanbul\" Upgrade has been Completed. Related Functions have been Restored",
             "intro": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
             "data": "2019-12-8",
