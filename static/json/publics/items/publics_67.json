@@ -1,0 +1,40 @@
+{
+    "cn": {
+        "title": "比特派春节期间一切服务正常运行",
+        "data": "2020-1-22",
+        "id": 67,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "春节将至，比特派春节期间一切服务仍将照常运行。祝大家在新年里阖家欢乐，万事如意。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020/01/22"
+            }
+        ]
+    },
+    "en": {
+        "title": "Bitpie’s service will maintain as usual during the Chinese New Year",
+        "data": "2019-1-22",
+        "id": 67,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "The Chinese New Year is coming, Bitpie’s service will maintain as usual during the vacation. We wish you a happy new year !"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>January 22, 2020"
+            }
+        ]
+    }
+}

@@ -4,9 +4,18 @@
             "intro": "春节将至，比特派春节期间一切服务仍将照常运行。祝大家在新年里阖家欢乐，万事如意。",
             "data": "2020-1-22",
             "watch": 0,
-            "id": 66,
+            "id": 67,
             "month": "January",
             "day": "22",
+            "type": 1
+        }, {
+            "title": "比特派钱包关于支持BSV创世纪升级硬分叉的公告",
+            "intro": "BSV将于2020年2月4日进行“创世纪升级硬分叉”，比特派团队已经做好了支持此次硬分叉的准备。分叉期间，比特派将暂停BSV的收发及相关功能（具体暂停时间另行通知），待网络平稳运行后恢复相关功能。",
+            "data": "2020-01-17",
+            "watch": 375,
+            "id": 66,
+            "month": "January",
+            "day": "17",
             "type": 1
         }, {
             "title": "比特派携手慢雾 AML 阻断盗币攻击，保障用户资产安全",
@@ -577,9 +586,18 @@
             "intro": "The Chinese New Year is coming, Bitpie’s service will maintain as usual during the vacation. We wish you a happy new year !",
             "data": "2020-1-22",
             "watch": 0,
-            "id": 66,
+            "id": 67,
             "month": "January",
             "day": "22",
+            "type": 1
+        }, {
+            "title": "Bitpie ANN for supporting BSV Genesis Upgrade",
+            "intro": "BSV blockchain will implement the Genesis Upgrade hard fork  on Feb 4th, 2020. Bitpie Team already well prepared for this upgrade. BSV Send/Receive will be suspend during the upgrade, and all related functions will be recover after the network is stable.",
+            "data": "2020-01-17",
+            "watch": 375,
+            "id": 66,
+            "month": "January",
+            "day": "17",
             "type": 1
         }, {
             "title": "Bitpie Announcement for Supporting Ethereum \"Muel Glacier\" Upgrade",
