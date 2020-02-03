@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "比特派钱包关于BSV创世纪升级的相关公告",
+            "intro": "由于BSV将进行“Genesis”创世升级（区块高度达到620538时，预计于2020年2月4日），为保障您的资产安全，升级期间将暂停派银行内 BSV 币种的充提及 BSV 的一键买卖服务，相关服务将在升级稳定后第一时间恢复。",
+            "data": "2020-2-3",
+            "watch": 201,
+            "id": 69,
+            "month": "February",
+            "day": "3",
+            "type": 1
+        },{
             "title": "声明",
             "intro": "今收到用户反馈，有一家叫 grpldex 的交易所自称是比特派“合作伙伴”。比特派Bitpie钱包特此声明：比特派此前从未听说、也未与此交易所有过任何接触与合作。同时， 对于任何未经比特派Bitpie允许而私自将比特派列为合作伙伴的项目方或机构， 比特派均不对其行为负任何责任， 并保留追究法律责任的权利。 ",
             "data": "2020-1-24",
@@ -591,6 +600,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on BSV Genesis upgrade",
+            "intro": "BSV will perform a “Genesis” upgrade (when the block height reaches 620538, it’s expected to be February 4, 2020). To ensure the safety of your assets, the Deposit/Withdrawal of PieBank and Buy/Sell of BSV function will be suspended during the upgrade.",
+            "data": "2020-2-3",
+            "watch": 201,
+            "id": 69,
+            "month": "February",
+            "day": "3",
+            "type": 1
+        },{
             "title": "Bitpie’s service will maintain as usual during the Chinese New Year",
             "intro": "The Chinese New Year is coming, Bitpie’s service will maintain as usual during the vacation. We wish you a happy new year !",
             "data": "2020-1-22",

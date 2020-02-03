@@ -1,0 +1,52 @@
+{
+    "cn": {
+        "title": "比特派钱包关于 BSV 创世纪升级的相关公告",
+        "data": "2020-2-3",
+        "id": 69,
+        "watch": 201,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "由于 BSV 将进行“Genesis”创世升级（区块高度达到620538时，预计于2020年2月4日），为保障您的资产安全，升级期间将暂停派银行内 BSV 币种的充提及 BSV 的一键买卖服务，相关服务将在升级稳定后第一时间恢复。"
+            },
+            {
+                "type": 0,
+                "data": "BSV 在钱包中的收款、转账功能不受影响，其他币种的所有功能均不受影响。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020/02/03"
+            }
+        ]
+    },
+    "en": {
+        "title": "Announcement on BSV Genesis upgrade",
+        "data": "2020-2-3",
+        "id": 69,
+        "watch": 201,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "BSV will perform a “Genesis” upgrade (when the block height reaches 620538, it’s expected to be February 4, 2020). To ensure the safety of your assets, the Deposit/Withdrawal of PieBank and Buy/Sell of BSV function will be suspended during the upgrade."
+            },
+            {
+                "type": 0,
+                "data": "All related services will resume as soon as the upgrade is finished."
+            },
+            {
+                "type": 0,
+                "data": "Receive and Transfer of BSV will not be affected."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>February 3, 2020"
+            }
+        ]
+    }
+}
