@@ -1,0 +1,40 @@
+{
+  "cn": {
+    "title": "BSV “Genesis” 创世升级已完成，相关功能已恢复",
+    "data": "2020-2-4",
+    "id": 70,
+    "watch": 201,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "BSV “Genesis” 创世升级已完成。主网运行稳定，比特派相关功能已恢复。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2020年2月4日"
+      }
+    ]
+  },
+  "en": {
+     "title": "BSV “Genesis” upgrade has been completed and related functions have been restored",
+    "data": "2020-2-4",
+    "id": 70,
+    "watch": 201,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "BSV “Genesis” upgrade has been completed. The main network is stable, and Bitpie related functions have been restored."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>February 4, 2020"
+      }
+    ]
+  }
+}

@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "BSV “Genesis” 创世升级已完成，相关功能已恢复",
+            "intro": "BSV “Genesis” 创世升级已完成。主网运行稳定，比特派相关功能已恢复。",
+            "data": "2020-2-4",
+            "watch": 201,
+            "id": 70,
+            "month": "February",
+            "day": "4",
+            "type": 1
+        },{
             "title": "比特派钱包关于BSV创世纪升级的相关公告",
             "intro": "由于BSV将进行“Genesis”创世升级（区块高度达到620538时，预计于2020年2月4日），为保障您的资产安全，升级期间将暂停派银行内 BSV 币种的充提及 BSV 的一键买卖服务，相关服务将在升级稳定后第一时间恢复。",
             "data": "2020-2-3",
@@ -600,6 +609,15 @@
         }
     ],
     "en": [{
+            "title": "BSV “Genesis” upgrade has been completed and related functions have been restored",
+            "intro": "BSV “Genesis” upgrade has been completed. The main network is stable, and Bitpie related functions have been restored.",
+            "data": "2020-2-4",
+            "watch": 201,
+            "id": 70,
+            "month": "February",
+            "day": "4",
+            "type": 1
+        },{
             "title": "Announcement on BSV Genesis upgrade",
             "intro": "BSV will perform a “Genesis” upgrade (when the block height reaches 620538, it’s expected to be February 4, 2020). To ensure the safety of your assets, the Deposit/Withdrawal of PieBank and Buy/Sell of BSV function will be suspended during the upgrade.",
             "data": "2020-2-3",
