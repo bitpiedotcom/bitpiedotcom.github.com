@@ -1,0 +1,48 @@
+{
+  "cn": {
+    "title": "比特派关于支持 Algorand USDT 的公告",
+    "data": "2020-2-10",
+    "id": 71,
+    "watch": 201,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "今日，Algorand Inc 宣布 Algorand 主网已支持了 USDT 资产。Algorand 版 USDT 是一种基于 Algorand 2.0 技术发行的 ASA（Algorand Standard Asset）资产。Algorand 版 USDT 预期将在 Algorand 生态中发挥重要作用。"
+      },
+      {
+        "type": 0,
+        "data": "比特派作为 Algorand 的全球战略合作伙伴，将第一时间开通 Algorand 版 USDT 的钱包支持，方便广大对稳定币有需求的用户体验并使用。而未来比特派钱包将会基于 Algorand 2.0 技术开放更多应用场景。双方也将继续在技术与生态建设等方面保持密切沟通与协作。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2020年2月10日"
+      }
+    ]
+  },
+  "en": {
+     "title": "Bitpie`s Announcement of Supporting Algorand USDT",
+    "data": "2020-2-10",
+    "id": 71,
+    "watch": 201,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "Algorand Inc announced that the Algorand blockchain has supported USDT assets today. The Algorand USDT is an ASA (Algorand Standard Asset) asset issued based on Algorand 2.0 technology. The Algorand USDT is expected to play a significant role in the Algorand ecosystem."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie, as Algorand's global strategic partner, will support the Algorand USDT  in our wallet in the first time, to facilitate the experience of users who need stablecoins. In the future, Bitpie wallet will open more application scenarios based on Algorand 2.0 technology. Both of us will also continue to maintain close communication and collaboration in areas such as technology and ecological construction."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>February 10, 2020"
+      }
+    ]
+  }
+}

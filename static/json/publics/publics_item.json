@@ -1,5 +1,15 @@
 {
-    "cn": [{
+    "cn": [
+        {
+            "title": "比特派关于支持 Algorand USDT 的公告",
+            "intro": "比特派作为 Algorand 的全球战略合作伙伴，将第一时间开通 Algorand 版 USDT 的钱包支持，方便广大对稳定币有需求的用户体验并使用。",
+            "data": "2020-2-10",
+            "watch": 201,
+            "id": 71,
+            "month": "February",
+            "day": "10",
+            "type": 1
+        },{
             "title": "BSV “Genesis” 创世升级已完成，相关功能已恢复",
             "intro": "BSV “Genesis” 创世升级已完成。主网运行稳定，比特派相关功能已恢复。",
             "data": "2020-2-4",
@@ -608,7 +618,17 @@
             "type": 1
         }
     ],
-    "en": [{
+    "en": [
+         {
+            "title": "Bitpie`s Announcement of Supporting Algorand USDT",
+            "intro": "Bitpie, as Algorand's global strategic partner, will support the Algorand USDT  in our wallet in the first time, to facilitate the experience of users who need stablecoins.",
+            "data": "2020-2-10",
+            "watch": 201,
+            "id": 71,
+            "month": "February",
+            "day": "10",
+            "type": 1
+        },{
             "title": "BSV “Genesis” upgrade has been completed and related functions have been restored",
             "intro": "BSV “Genesis” upgrade has been completed. The main network is stable, and Bitpie related functions have been restored.",
             "data": "2020-2-4",
