@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于比特派服务器常规升级的通知",
+            "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2020年4月3日凌晨 01:00 进行常规升级，预计30分钟内完成升级。升级期间将暂停软件内收发币、币币交易等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
+            "data": "2020-4-2",
+            "watch": 441,
+            "id": 75,
+            "month": "April",
+            "day": "2",
+            "type": 1
+        },{
             "title": "比特派将提供以太坊上USDT等稳定币资产向Nervos CKB网络的1：1兑换转移服务",
             "intro": "比特派作为全球领先的多链钱包，接入并支持了众多不同的公链体系并积极为这些公链生态作出了贡献。在参与到各公链生态的过程中我们观察到资产的丰富性对于公链生态发展至关重要，而公链生态的繁荣也会为用户带来更多的钱包应用场景。",
             "data": "2020-3-31",
@@ -647,6 +656,15 @@
         }
     ],
     "en": [{
+            "title": "Notification on Regular Upgrade of Server",
+            "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 01:00 April 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
+            "data": "2020-4-2",
+            "watch": 441,
+            "id": 75,
+            "month": "April",
+            "day": "2",
+            "type": 1
+        },{
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:30 February 22, 2020 (HongKong Time). The duration will be about 2 hours. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-2-21",
