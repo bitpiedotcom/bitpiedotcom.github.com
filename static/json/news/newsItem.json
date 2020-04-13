@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "比特派宣布与美国资管公司Cred战略合作，为用户提供理财服务",
+            "intro": "比特派钱包近日宣布与美国持牌金融服务商Cred达成战略合作伙伴，双方将为亚太地区数百万用户提供理财、借贷等金融服务。Cred是位于美国加州的持牌借贷商，是数字货币借贷领域的领军企业，目前其服务用户已覆盖超过190个国家和地区。比特派钱包在过去7年为用户累计保管价值超百亿美元的数字资产。通过集成在比特派钱包内的金融服务，Cred将会为比特派钱包比特币和以太坊用户带来具有竞争力的资产增益类产品。",
+            "data": "2020-04-13",
+            "type": 2,
+            "url": "https://www.theblockbeats.com/news/15284",
+            "id": 14,
+            "img": "/static/image/news/cred.jpg",
+            "watch": "999"
+        }, {
             "title": "为什么我们只在Bithd硬件冷钱包里提供了多重签名功能",
             "intro": "不久前，比特护盾和刀锋硬件冷钱包支持了 USDT-ERC20（USDT以太版）和 ETH Token 的多重签名，也因此又解锁几项了全球第一的成就。",
             "data": "2019-12-17",
@@ -116,6 +125,15 @@
         }
     ],
     "en": [{
+            "title": "Bitpie Announces Partnership with Cred to Offer Financial Services",
+            "intro": "Cred, a licensed lender in California, is the leading crypto-backed lending and borrowing platform, serving customers in over 190 countries.",
+            "data": "2020-04-13",
+            "type": 2,
+            "url": "https://mycred.io/blog/bitpie-partnership-cred-financial-services/",
+            "id": 16,
+            "img": "/static/image/news/cred.jpg",
+            "watch": "999"
+        }, {
             "title": "Use Bitpie Wallet Batch Sender for Series Transactions",
             "intro": "For many of the users who need to transfer their USDT/PAX/TUSD/USDC to a group of people, such as your team members or employees or air drop etc, it is quite inconvenient. They usually have to copy each address one after another, and send to all the addresses one by one.",
             "data": "2019-12-17",
