@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "比特派关于支持TRX用户空投JST的公告",
+            "intro": "根据JUST (JST)分配机制，波场（TRX）持有者将获得 JST 糖果空投，空投将发生多轮并持续较长的时间（2020-2022）。官方将在2020年5月20日，00:00 (UTC) 进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。",
+            "data": "2020-4-22",
+            "watch": 441,
+            "id": 76,
+            "month": "April",
+            "day": "22",
+            "type": 1
+        },{
             "title": "关于比特派服务器常规升级的通知",
             "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2020年4月3日凌晨 01:00 进行常规升级，预计30分钟内完成升级。升级期间将暂停软件内收发币、币币交易等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
             "data": "2020-4-2",
@@ -656,6 +665,15 @@
         }
     ],
     "en": [{
+            "title": "Bitpie Wallet will Support JUST (JST) Airdrop",
+            "intro": "Bitpie Wallet will support JST Airdrop. At May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. The airdrop will take multiple rounds for a longer period of time (2020-2022). Users can automatically get the corresponding JST airdrop by depositing the TRX into the Bitpie wallet.",
+            "data": "2020-4-22",
+            "watch": 441,
+            "id": 76,
+            "month": "April",
+            "day": "22",
+            "type": 1
+        },{
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 01:00 April 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-4-2",
