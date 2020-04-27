@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "公告",
+            "intro": "Lendf.Me资产返还系统已上线，有此需求的用户，请参见 官方指导教程https://mp.weixin.qq.com/s/s7OXGsdnpXW-fwiJ3E3QKA 进行操作。",
+            "data": "2020-4-27",
+            "watch": 201,
+            "id": 77,
+            "month": "April",
+            "day": "27",
+            "type": 1
+        },{
             "title": "比特派关于支持TRX用户空投JST的公告",
             "intro": "根据JUST (JST)分配机制，波场（TRX）持有者将获得 JST 糖果空投，空投将发生多轮并持续较长的时间（2020-2022）。官方将在2020年5月20日，00:00 (UTC) 进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。",
             "data": "2020-4-22",
@@ -665,6 +674,15 @@
         }
     ],
     "en": [{
+            "title": "公告",
+            "intro": "The Lendf.Me Assets Recovery System is live now. Users who need this for help , please follow the Official Instruction:  https://medium.com/dforcenet/lendf-me-asset-recovery-user-manual-440cbeab9ce to operate. ",
+            "data": "2020-4-27",
+            "watch": 201,
+            "id": 77,
+            "month": "April",
+            "day": "27",
+            "type": 1
+        },{
             "title": "Bitpie Wallet will Support JUST (JST) Airdrop",
             "intro": "Bitpie Wallet will support JST Airdrop. At May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. The airdrop will take multiple rounds for a longer period of time (2020-2022). Users can automatically get the corresponding JST airdrop by depositing the TRX into the Bitpie wallet.",
             "data": "2020-4-22",

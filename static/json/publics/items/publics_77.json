@@ -1,0 +1,40 @@
+{
+    "cn": {
+        "title": "公告",
+        "data": "2020-4-27",
+        "id": 77,
+        "watch": 201,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "Lendf.Me资产返还系统已上线，有此需求的用户，请参见 官方指导教程https://mp.weixin.qq.com/s/s7OXGsdnpXW-fwiJ3E3QKA 进行操作。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020/04/27"
+            }
+        ]
+    },
+    "en": {
+        "title": "Announcement",
+        "data": "2020-4-27",
+        "id": 77,
+        "watch": 201,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "The Lendf.Me Assets Recovery System is live now. Users who need this for help , please follow the Official Instruction:  https://medium.com/dforcenet/lendf-me-asset-recovery-user-manual-440cbeab9ce to operate. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>April 27, 2020"
+            }
+        ]
+    }
+}
