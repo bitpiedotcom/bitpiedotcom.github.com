@@ -1,153 +1,148 @@
 {
-  "cn": {
-    "title": "比特派关于支持TRX用户空投JST的公告",
-    "data": "2020-4-22",
-    "id": 76,
-    "watch": 441,
-    "message": [
-      {
-        "type": 0,
-        "data": "亲爱的派友："
-      },
-      {
-        "type": 0,
-        "data": "根据JUST (JST)分配机制，波场（TRX）持有者将获得 JST 糖果空投，空投将发生多轮并持续较长的时间（2020-2022）。官方将在2020年5月20日，00:00 (UTC) 进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。"
-      },
-      {
-        "type": 0,
-        "data": "比特派钱包的用户无需任何操作即可领取 JST 空投，届时更新版本即可显示。"
-      },
+    "cn": {
+        "title": "比特派关于支持TRX用户空投JST的公告",
+        "data": "2020-4-22",
+        "id": 76,
+        "watch": 441,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
             {
-        "type": 0,
-        "data": "为保障您的资产安全，建议您提前将 TRX 转入到比特派钱包，比特派将协助您处理空投中的一切技术问题。"
-      },
-      {
-        "type": 0,
-        "data": "官方公告链接：https://medium.com/@TronFoundation/just-jst-airdrops-for-tron-trx-holders-53f093646f1f"
-      },
-      {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>JST Token介绍</strong>"
-      },
+                "type": 0,
+                "data": "根据JUST (JST)分配机制，波场（TRX）持有者将获得 JST 糖果空投，空投将发生多轮并持续较长的时间（2020-2022）。官方将在2020年5月20日，00:00 (UTC) 进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。"
+            },
             {
-        "type": 0,
-        "data": "JUST基金会将于世界标准时间2020年5月20日，00:00进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。空投将以每月一次的频率持续12个月，首次空投217,800,000 JUST（JST），相当于总供应量的2.2％。"
-      },
-      {
-        "type": 0,
-        "data": "官网：https://just.network/#/"
-      },
-      {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>JUST（JST）空投时间表：</strong>"
-      },
+                "type": 0,
+                "data": "比特派钱包的用户无需任何操作即可领取 JST 空投，届时更新版本即可显示。"
+            },
             {
-        "type": 0,
-        "data": "2020年5月20日，初始空投217,800,000 JST"
-      },
-      {
-        "type": 0,
-        "data": "2020年6月20日至2021年5月20日（12个月），每月20号空投的JST：237,600,000"
-      },
-      {
-        "type": 0,
-        "data": "2021年6月20日-2022年5月20日（12个月），每月20号空投的JST：257,400,000"
-      },      {
-        "type": 0,
-        "data": "2022年6月20日-2022年10月20日（5个月），每月20号空投的JST：277,200,000"
-      },
-      {
-        "type": 0,
-        "data": "空投快照将在每月的20号UTC时间开始。"
-      },
-      {
-        "type": 0,
-        "data": "比特派团队<br/>2020年4月22日"
-      }
-    ]
-  },
-  "en": {
-     "title": "Bitpie Wallet will Support JUST (JST) Airdrop",
-    "data": "2020-4-22",
-    "id": 76,
-    "watch": 271,
-    "message": [{
-        "type": 0,
-        "data": "Fellow Bitpiers"
-      },
-      {
-        "type": 0,
-        "data": "Bitpie Wallet will support JST Airdrop. At May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. The airdrop will take multiple rounds for a longer period of time (2020-2022). Users can automatically get the corresponding JST airdrop by depositing the TRX into the Bitpie wallet."
-      },
-      {
-        "type": 0,
-        "data":"Official announcement: https://medium.com/@TronFoundation/just-jst-airdrops-for-tron-trx-holders-53f093646f1f"
-      },
-      {
-        "type": 0,
-        "data": "If you want to join this airdrop, please refer to the above link."
-      },
-      {
-        "type": 0,
-        "data": "To keep your assets safe, we suggested that you deposit TRX to the Bitpie wallet in advance, and Bitpie will help you with all the technical issues in the airdrop. "
-      },
-      {
-        "type": 0,
-        "data": "Thank you for your support."
-      },
-                  {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>About JST Token</strong>"
-      },
-                  {
-        "type": 0,
-        "data": "On May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. Based on this snapshot, JUST Foundation will initiate its first airdrop of 217,800,000 JUST (JST), corresponding to 2.2% of the total supply."
-      },            {
-        "type": 0,
-        "data": "Website：https://just.network/#/"
-      },            {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>JUST (JST) airdrop timeline:</strong>"
-      },
-      {
-        "type": 0,
-        "data": "May 20, 2020"
-      },            {
-        "type": 0,
-        "data": "Initial airdrop of 217,800,000 JST"
-      },
+                "type": 0,
+                "data": "为保障您的资产安全，建议您提前将 TRX 转入到比特派钱包，比特派将协助您处理空投中的一切技术问题。"
+            },
             {
-        "type": 0,
-        "data": "June 20, 2020 — May 20, 2021 (12 months)"
-      },            {
-        "type": 0,
-        "data": "Amount of JST airdropped on the 20th of each month: 237,600,000"
-      },
+                "type": 0,
+                "data": "官方公告链接：<a target='_blank' href='https://medium.com/@TronFoundation/just-jst-airdrops-for-tron-trx-holders-53f093646f1f'>https://medium.com/@TronFoundation/just-jst-airdrops-for-tron-trx-holders-53f093646f1f</a>"
+            },
             {
-        "type": 0,
-        "data": "June 20, 2021 — May 20, 2022 (12 months)"
-      },            {
-        "type": 0,
-        "data": "Amount of JST airdropped on the 20th of each month: 257,400,000"
-      },
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>JST Token介绍</strong>"
+            },
             {
-        "type": 0,
-        "data": "June 20, 2022 — October 20, 2022 (5 months)"
-      },            {
-        "type": 0,
-        "data": "Amount of JST airdropped on the 20th of each month: 277,200,000"
-      },      {
-        "type": 0,
-        "data": " Airdrops’ snapshot will be initiated on the 20th of each month at 0:00 UTC."
-      },
-      {
-        "type": 0,
-        "data": "Bitpie Team <br/>Apirl 22, 2020"
-      }
-    ]
-  }
+                "type": 0,
+                "data": "JUST基金会将于世界标准时间2020年5月20日，00:00进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。空投将以每月一次的频率持续12个月，首次空投217,800,000 JUST（JST），相当于总供应量的2.2％。"
+            },
+            {
+                "type": 0,
+                "data": "官网：https://just.network/#/"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>JUST（JST）空投时间表：</strong>"
+            },
+            {
+                "type": 0,
+                "data": "2020年5月20日，初始空投217,800,000 JST"
+            },
+            {
+                "type": 0,
+                "data": "2020年6月20日至2021年5月20日（12个月），每月20号空投的JST：237,600,000"
+            },
+            {
+                "type": 0,
+                "data": "2021年6月20日-2022年5月20日（12个月），每月20号空投的JST：257,400,000"
+            }, {
+                "type": 0,
+                "data": "2022年6月20日-2022年10月20日（5个月），每月20号空投的JST：277,200,000"
+            },
+            {
+                "type": 0,
+                "data": "空投快照将在每月的20号UTC时间开始。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020年4月22日"
+            }
+        ]
+    },
+    "en": {
+        "title": "Bitpie Wallet will Support JUST (JST) Airdrop",
+        "data": "2020-4-22",
+        "id": 76,
+        "watch": 271,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Wallet will support JST Airdrop. At May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. The airdrop will take multiple rounds for a longer period of time (2020-2022). Users can automatically get the corresponding JST airdrop by depositing the TRX into the Bitpie wallet."
+            },
+            {
+                "type": 0,
+                "data": "Official announcement: https://medium.com/@TronFoundation/just-jst-airdrops-for-tron-trx-holders-53f093646f1f"
+            },
+            {
+                "type": 0,
+                "data": "If you want to join this airdrop, please refer to the above link."
+            },
+            {
+                "type": 0,
+                "data": "To keep your assets safe, we suggested that you deposit TRX to the Bitpie wallet in advance, and Bitpie will help you with all the technical issues in the airdrop. "
+            },
+            {
+                "type": 0,
+                "data": "Thank you for your support."
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>About JST Token</strong>"
+            },
+            {
+                "type": 0,
+                "data": "On May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. Based on this snapshot, JUST Foundation will initiate its first airdrop of 217,800,000 JUST (JST), corresponding to 2.2% of the total supply."
+            }, {
+                "type": 0,
+                "data": "Website：https://just.network/#/"
+            }, {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>JUST (JST) airdrop timeline:</strong>"
+            },
+            {
+                "type": 0,
+                "data": "May 20, 2020"
+            }, {
+                "type": 0,
+                "data": "Initial airdrop of 217,800,000 JST"
+            },
+            {
+                "type": 0,
+                "data": "June 20, 2020 — May 20, 2021 (12 months)"
+            }, {
+                "type": 0,
+                "data": "Amount of JST airdropped on the 20th of each month: 237,600,000"
+            },
+            {
+                "type": 0,
+                "data": "June 20, 2021 — May 20, 2022 (12 months)"
+            }, {
+                "type": 0,
+                "data": "Amount of JST airdropped on the 20th of each month: 257,400,000"
+            },
+            {
+                "type": 0,
+                "data": "June 20, 2022 — October 20, 2022 (5 months)"
+            }, {
+                "type": 0,
+                "data": "Amount of JST airdropped on the 20th of each month: 277,200,000"
+            }, {
+                "type": 0,
+                "data": " Airdrops’ snapshot will be initiated on the 20th of each month at 0:00 UTC."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>Apirl 22, 2020"
+            }
+        ]
+    }
 }
-
-
-
-
