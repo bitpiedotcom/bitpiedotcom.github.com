@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于一键买卖与币币兑换功能常规升级的通知",
+            "intro": "为优化软件功能，更好的服务用户，比特派一键买卖与币币兑换功能将于香港时间 2020年5月2日 11:30 进行常规升级。升级期间将暂停软件一键买卖、币币兑换服务，软件内其他功能均不受影响。",
+            "data": "2020-5-2",
+            "watch": 0,
+            "id": 78,
+            "month": "May",
+            "day": "2",
+            "type": 1
+        }, {
             "title": "公告",
             "intro": "Lendf.Me资产返还系统已上线，有此需求的用户，请参见 官方指导教程https://mp.weixin.qq.com/s/s7OXGsdnpXW-fwiJ3E3QKA 进行操作。",
             "data": "2020-4-27",
@@ -8,7 +17,7 @@
             "month": "April",
             "day": "27",
             "type": 1
-        },{
+        }, {
             "title": "比特派关于支持TRX用户空投JST的公告",
             "intro": "根据JUST (JST)分配机制，波场（TRX）持有者将获得 JST 糖果空投，空投将发生多轮并持续较长的时间（2020-2022）。官方将在2020年5月20日，00:00 (UTC) 进行快照，向TRON（TRX）持有者发起首次JUST（JST）空投。",
             "data": "2020-4-22",
@@ -17,7 +26,7 @@
             "month": "April",
             "day": "22",
             "type": 1
-        },{
+        }, {
             "title": "关于比特派服务器常规升级的通知",
             "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2020年4月3日凌晨 01:00 进行常规升级，预计30分钟内完成升级。升级期间将暂停软件内收发币、币币交易等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
             "data": "2020-4-2",
@@ -26,7 +35,7 @@
             "month": "April",
             "day": "2",
             "type": 1
-        },{
+        }, {
             "title": "比特派将提供以太坊上USDT等稳定币资产向Nervos CKB网络的1：1兑换转移服务",
             "intro": "比特派作为全球领先的多链钱包，接入并支持了众多不同的公链体系并积极为这些公链生态作出了贡献。在参与到各公链生态的过程中我们观察到资产的丰富性对于公链生态发展至关重要，而公链生态的繁荣也会为用户带来更多的钱包应用场景。",
             "data": "2020-3-31",
@@ -674,7 +683,16 @@
         }
     ],
     "en": [{
-            "title": "公告",
+            "title": "Upgrade on Buy/Sell and Coin Swap",
+            "intro": "For the purpose of a better service and optimized functions, Bitpie will suspend the services of Buy/Sell and Coin Swap and carry out a regular upgrade at 11:30, May 2, 2020 (UTC+8). Other functions will not be affected. Your assets remain safe as before.",
+            "data": "2020-5-2",
+            "watch": 0,
+            "id": 78,
+            "month": "May",
+            "day": "2",
+            "type": 1
+        }, {
+            "title": "Announcement",
             "intro": "The Lendf.Me Assets Recovery System is live now. Users who need this for help , please follow the Official Instruction:  https://medium.com/dforcenet/lendf-me-asset-recovery-user-manual-440cbeab9ce to operate. ",
             "data": "2020-4-27",
             "watch": 201,
@@ -682,7 +700,7 @@
             "month": "April",
             "day": "27",
             "type": 1
-        },{
+        }, {
             "title": "Bitpie Wallet will Support JUST (JST) Airdrop",
             "intro": "Bitpie Wallet will support JST Airdrop. At May 20th, 2020, JUST Foundation will initiate its first airdrop of JUST (JST) to TRON (TRX) holders. The snapshot will be taken at 00:00 UTC on May 20th. The airdrop will take multiple rounds for a longer period of time (2020-2022). Users can automatically get the corresponding JST airdrop by depositing the TRX into the Bitpie wallet.",
             "data": "2020-4-22",
@@ -691,7 +709,7 @@
             "month": "April",
             "day": "22",
             "type": 1
-        },{
+        }, {
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 01:00 April 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-4-2",
@@ -700,7 +718,7 @@
             "month": "April",
             "day": "2",
             "type": 1
-        },{
+        }, {
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:30 February 22, 2020 (HongKong Time). The duration will be about 2 hours. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-2-21",
