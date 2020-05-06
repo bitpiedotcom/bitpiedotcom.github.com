@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于比特派服务器常规升级的通知",
+            "intro": "为提高服务器性能，更好的服务用户，比特派服务器将于香港时间 2020年5月7日凌晨 00:00 进行常规升级，预计3小时。升级期间将暂停软件内收发币等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
+            "data": "2020-5-6",
+            "watch": 441,
+            "id": 79,
+            "month": "May",
+            "day": "6",
+            "type": 1
+        },{
             "title": "关于一键买卖与币币兑换功能常规升级的通知",
             "intro": "为优化软件功能，更好的服务用户，比特派一键买卖与币币兑换功能将于香港时间 2020年5月2日 11:30 进行常规升级。升级期间将暂停软件一键买卖、币币兑换服务，软件内其他功能均不受影响。",
             "data": "2020-5-2",
@@ -683,6 +692,15 @@
         }
     ],
     "en": [{
+            "title": "Notification on Regular Upgrade of Server",
+            "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:00 May 7, 2020 (HongKong Time). The duration will be about 3 hours. During this period, all receiving, sending will be suspended. We will resume all the services as soon as we complete the upgrade.",
+            "data": "2020-5-6",
+            "watch": 371,
+            "id": 79,
+            "month": "May",
+            "day": "6",
+            "type": 1
+        },{
             "title": "Upgrade on Buy/Sell and Coin Swap",
             "intro": "For the purpose of a better service and optimized functions, Bitpie will suspend the services of Buy/Sell and Coin Swap and carry out a regular upgrade at 11:30, May 2, 2020 (UTC+8). Other functions will not be affected. Your assets remain safe as before.",
             "data": "2020-5-2",
