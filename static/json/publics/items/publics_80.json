@@ -1,0 +1,40 @@
+{
+    "cn": {
+        "title": "关于一键买卖与币币兑换功能恢复的通知",
+        "data": "2020-5-7",
+        "id": 80,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "比特派一键买卖与币币兑换功能优化已完成，相关功能将于香港时间2020年5月8日早 07:00 准时恢复。服务优化后盘口更小，价格更优。欢迎您前来体验"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020/05/07"
+            }
+        ]
+    },
+    "en": {
+        "title": "Resumption of Fiat Buy/Sell Onramp and Coin Swap",
+        "data": "2020-5-7",
+        "id": 80,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie has now accomplished the upgrade and optimization of Fiat Buy/Sell Onramp and Coin Swap. All functions are resumed with better bid-ask spread and more convenient experiences at 07:00, May 8, 2020 (UTC+8). You’re welcome to have a try!"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>May 7, 2020"
+            }
+        ]
+    }
+}

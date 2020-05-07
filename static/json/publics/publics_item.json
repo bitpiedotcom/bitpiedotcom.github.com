@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于一键买卖与币币兑换功能恢复的通知",
+            "intro": "比特派一键买卖与币币兑换功能优化已完成，相关功能将于香港时间2020年5月8日早 07:00 准时恢复。服务优化后盘口更小，价格更优。欢迎您前来体验。",
+            "data": "2020-5-7",
+            "watch": 441,
+            "id": 80,
+            "month": "May",
+            "day": "7",
+            "type": 1
+        },{
             "title": "关于比特派服务器常规升级的通知",
             "intro": "为提高服务器性能，更好的服务用户，比特派服务器将于香港时间 2020年5月7日凌晨 00:00 进行常规升级，预计3小时。升级期间将暂停软件内收发币等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
             "data": "2020-5-6",
@@ -692,6 +701,15 @@
         }
     ],
     "en": [{
+            "title": "Resumption of Fiat Buy/Sell Onramp and Coin Swap",
+            "intro": "Bitpie has now accomplished the upgrade and optimization of Fiat Buy/Sell Onramp and Coin Swap. All functions are resumed with better bid-ask spread and more convenient experiences at 07:00, May 8, 2020 (UTC+8).",
+            "data": "2020-5-7",
+            "watch": 371,
+            "id": 80,
+            "month": "May",
+            "day": "7",
+            "type": 1
+        },{
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:00 May 7, 2020 (HongKong Time). The duration will be about 3 hours. During this period, all receiving, sending will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-5-6",
