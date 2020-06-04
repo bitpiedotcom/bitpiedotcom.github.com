@@ -27,6 +27,30 @@
         ]
     },
     "en": {
-
+        "title": "Announcement",
+        "data": "2020-6-4",
+        "id": 81,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "Dear Bitpie Users："
+            },
+            {
+                "type": 0,
+                "data": "We have recently noticed that there is an exchange called ‘Bitpie Exchange’ is offering service to his clients. Bitpie Wallet hereby announce: Bitpie Wallet never heard about this exchange before and has nothing relate to it. Meanwhile, for any third part that list Bitpie Wallet as a partner but without letting us know, Bitpie takes no responsibility to them and reserve the right to pursue legal responsibility."
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 260px;margin: 0 auto;\" src=\"/static/image/news/public_81.jpeg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "Here we shall remind all users, these kind of platforms that promise investors high profits are all with high risks. Once you deposit your assets, you may not able to take them back. Please always be careful when you want to make investments. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie<br/>06/04/2020"
+            }
+        ]
     }
 }

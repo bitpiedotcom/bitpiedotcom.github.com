@@ -709,7 +709,17 @@
             "type": 1
         }
     ],
-    "en": [{
+    "en": [
+        {
+            "title": "Announcement",
+            "intro": "We have recently noticed that there is an exchange called ‘Bitpie Exchange’ is offering service to his clients. Bitpie Wallet hereby announce: Bitpie Wallet never heard about this exchange before and has nothing relate to it. Meanwhile, for any third part that list Bitpie Wallet as a partner but without letting us know, Bitpie takes no responsibility to them and reserve the right to pursue legal responsibility.",
+            "data": "2020-6-4",
+            "watch": 371,
+            "id": 81,
+            "month": "June",
+            "day": "4",
+            "type": 1
+        },{
             "title": "Resumption of Fiat Buy/Sell Onramp and Coin Swap",
             "intro": "Bitpie has now accomplished the upgrade and optimization of Fiat Buy/Sell Onramp and Coin Swap. All functions are resumed with better bid-ask spread and more convenient experiences at 07:00, May 8, 2020 (UTC+8).",
             "data": "2020-5-7",
