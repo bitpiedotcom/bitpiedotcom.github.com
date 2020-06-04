@@ -14,7 +14,7 @@
             },
             {
                 "type": 0,
-                "data": "<img style=\"text-align:center;max-width: 260px;\" src='/static/image/news/public_81.jpeg'>"
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 260px;margin: 0 auto;\" src=\"/static/image/news/public_81.jpeg\"></p>"
             },
             {
                 "type": 0,
@@ -22,7 +22,7 @@
             },
             {
                 "type": 0,
-                "data": "比特派团队<br/>2020/06/04"
+                "data": "比特派<br/>2020/06/04"
             }
         ]
     },
