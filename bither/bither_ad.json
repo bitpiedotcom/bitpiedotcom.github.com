@@ -1,6 +1,7 @@
 {
-	"img_en":"https://bitpie.com/bither/img_en_deleted.png",
-	"img_zh_CN":"https://bitpie.com/bither/img_zh_CN_deleted.png",
-	"img_zh_TW":"https://bitpie.com/bither/img_zh_TW_deleted.png",
-	"timestamp":"1537840279760"
+	"img_en":"https://bitpie.com/bither/btc_en.png",
+	"img_zh_CN":"https://bitpie.com/bither/btc_zh_CN.png",
+	"img_zh_TW":"https://bitpie.com/bither/btc_zh_TW.png",
+	"url": "https://bitcoin.org",
+	"timestamp":"1591503000760"
 }
