@@ -2,7 +2,10 @@
 <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
 <head>
     <title>{{site.downtitle}}</title>
     <meta charset="utf-8" />
@@ -22,265 +25,267 @@
     <link rel="stylesheet" href="/css/custom.css">
 
 </head>
+
 <body>
 
-<div id="ios">
-<div class="row-fluid breadcrumbs margin-bottom-20">
-    <div class="container">
-        <div class="col-md-4 col-sm-4">
-            <h1 class="pull-left">{{site.downsoftname}}</h1>
-        </div>
-        <div class="col-md-4 col-sm-4">
-            <p class=" url-p">请记住此下载网址:<span class="url-content">bitpie.com/ios</span></p>
-        </div>
-        <div class="col-md-4 col-sm-4">
-            <ul class="pull-right breadcrumb">
-                <li></li>
-                <li>版本 {{site.iosdownsoftversion}}</li>
-                <li>{{site.iosdownsoftdate}}</li>
-            </ul>
-        </div>
-    </div>
-</div>
-<div class="container content">
-    <div  class="view row">
-        <div class="span12 lessonimg " id="weixinDisplay" style="text-align:center;display: none">
-            <h5>微信请点击右上角(三点),选择用Safari浏览器打开</h5>
-            <span>（本版本仅限于公司内部人员使用)</span>
-            <img src="{{site.winxin}}" id="downloading"/>
-            <span>点击下方(点击安装)按钮,系统将自动安装</span>
-        </div>
-        <div class="span12 lessonimg " id="browser" style="text-align:center;display: block">
-            <p>本版本仅限于公司内部人员使用</p>
-        </div>
-
-    </div>
-
-    <hr class="devider devider-dotted">
-
-    <div class="view row">
-        <div class="span12" style="text-align:center;">
-            <a href="javascript:void(0);" onclick="javascript:install(this);" data="1"><img src="{{site.downlogo}}" class="appicon" /></a>
-            <div>
-            </div>
-        </div>
-    </div>
-
-    <div  class="view row" style="margin-top:30px;">
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-            <!--<span class="label label-info label-span" >国内</span>-->
-            <a href="javascript:void(0);" onclick="javascript:install();" class="btn-u btn-u-lg" data="1"><i class="fa fa-download"></i>点击安装</a>
-
-        </div>
-
-        <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
-        <!--&lt;!&ndash;  <span class="label label-info label-span" >国外</span>&ndash;&gt;-->
-        <!--<a href="javascript:void(0);" onclick="javascript:installs();" class="btn-u btn-u-lg" data="2" ><i class="fa fa-download"></i>点击安装(国外)</a>-->
-
-        <!--</div>-->
-
-        <div class="span12" style="text-align:center;">
-            <span class="label label-info">适用于iOS设备</span>
-            <!--<span class="label label-danger">企业版</span>-->
-        </div>
-    </div>
-
-    <hr class="devider devider-dotted">
-    <div  class="view row margin-bottom-30">
-        <div class="span12" style="text-align:center;">
-            或者用手机扫描下面的二维码安装 <br />
-            <br />
-            <img src="{{site.downqr}}" />
-        </div>
-    </div>
-    <hr class="devider devider-dotted">
-    <div id="down" class="view row" style="margin-top:30px;">
-        <h3>{{site.lesson}}</h3>
-        <div class="lessonimg">
-            <p>{{site.downmobilefirsttitle}}</p>
-            <img class="limg" src="{{site.downmobilefirst}}"/>
-        </div>
-        <div class="lessonimg">
-            <p>{{site.downmobilesecondtitle}}</p>
-            <img class="limg" src="{{site.downmobilesecond}}"/>
-        </div>
-        <div class="lessonimg">
-            <p>{{site.downmobilethreetitle}}</p>
-            <img class="limg" src="{{site.downmobilethree}}"/>
-        </div>
-
-    </div>
-    <div class="lesson view row" style="margin-top:30px">
-        <h3>iOS 10 不提示(是否允许应用访问数据)，导致应用无法使用的解决方案</h3>
-        <div class="lessonimg">
-            <p>1.进入设置-蜂窝移动网络-使用无线局域网与蜂窝移动的应用，随便找款App(例：这里选择的是比太)</p>
-            <img class="limg" src="{{site.step1}}">
-            <p>2.更改一下设置即可(任意更改)。</p>
-            <img class="limg" src="{{site.step2}}">
-            <p>3.然后进入bitpie App就会提示是否允许使用数据。选择是就可以了。</p>
-            <img class="limg" src="{{site.step3}}">
-        </div>
-    </div>
-</div>
-</div>
-<div id="andorid">
-
-    <div class="row-fluid breadcrumbs margin-bottom-20">
-        <div class="container">
-            <h1 class="pull-left" lang="en">{{site.androidsoftname}}</h1>
-            <ul class="pull-right breadcrumb">
-                <li><span lang="en">Version:</span> {{site.anddownsoftversion}}</li>
-                <li>{{site.anddownsoftdate}}</li>
-            </ul>
-        </div>
-    </div>
-    <div class="container content">
-        <div class="view row">
-            <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
-                <img src="/img/androidweixin.jpg" id="downloading">
-            </div>
-            <div class="span12" style="text-align:center;">
-                <a href="javascript:void(0);" onclick="javascript:androidinstall();"><img src="{{site.androidlogo}}" class="appicon" /></a>
-                <div>
+    <div id="ios">
+        <div class="row-fluid breadcrumbs margin-bottom-20">
+            <div class="container">
+                <div class="col-md-4 col-sm-4">
+                    <h1 class="pull-left">{{site.downsoftname}}</h1>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <p class=" url-p">请记住此下载网址:<span class="url-content">bitpie.com/ios</span></p>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <ul class="pull-right breadcrumb">
+                        <li></li>
+                        <li>版本 {{site.iosdownsoftversion}}</li>
+                        <li>{{site.iosdownsoftdate}}</li>
+                    </ul>
                 </div>
             </div>
         </div>
+        <div class="container content">
+            <div class="view row">
+                <div class="span12 lessonimg " id="weixinDisplay" style="text-align:center;display: none">
+                    <h5>微信请点击右上角(三点),选择用Safari浏览器打开</h5>
+                    <span>（本版本仅限于公司内部人员使用)</span>
+                    <img src="{{site.winxin}}" id="downloading" />
+                    <span>点击下方(点击安装)按钮,系统将自动安装</span>
+                </div>
+                <div class="span12 lessonimg " id="browser" style="text-align:center;display: block">
+                    <p>本版本仅限于公司内部人员使用</p>
+                </div>
 
-        <div class="view row" style="margin-top:30px;">
-
-            <div class="span12 margin-bottom-20" style="text-align:center;">
-                <a href="javascript:void(0);" onclick="javascript:androidinstall();" class="btn-u btn-u-lg"><i class="fa fa-download"></i><span lang="en">Download</span></a>
             </div>
-            <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
-            <!--<a href="javascript:void(0);" onclick="javascript:installs();" class="btn-u btn-u-lg"><i class="fa fa-download"></i>Download&nbsp;(World)</a>-->
-            <!--</div>-->
 
-            <div class="span12" style="text-align:center;">
-                <span class="label label-info" id="spanlabel"><a class="downloada" href="{{site.androidsha}}" target="_blank">SHA256SUMS</a></span>
+            <hr class="devider devider-dotted">
+
+            <div class="view row">
+                <div class="span12" style="text-align:center;">
+                    <a href="javascript:void(0);" onclick="javascript:install(this);" data="1"><img src="{{site.downlogo}}" class="appicon" /></a>
+                    <div>
+                    </div>
+                </div>
             </div>
-        </div>
 
-        <hr class="devider devider-dotted">
-        <div id="" class="view row margin-bottom-30">
-            <div class="span12" style="text-align:center;">
-                <span lang="en" >Use your cell phone  to install by scaning the qr code</span> <br />
-                <br />
-                <img src="{{site.androidqr}}" />
+            <div class="view row" style="margin-top:30px;">
+                <div class="span12 margin-bottom-20" style="text-align:center;">
+                    <!--<span class="label label-info label-span" >国内</span>-->
+                    <a href="javascript:void(0);" onclick="javascript:install();" class="btn-u btn-u-lg" data="1"><i class="fa fa-download"></i>点击安装</a>
+
+                </div>
+
+                <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
+                <!--&lt;!&ndash;  <span class="label label-info label-span" >国外</span>&ndash;&gt;-->
+                <!--<a href="javascript:void(0);" onclick="javascript:installs();" class="btn-u btn-u-lg" data="2" ><i class="fa fa-download"></i>点击安装(国外)</a>-->
+
+                <!--</div>-->
+
+                <div class="span12" style="text-align:center;">
+                    <span class="label label-info">适用于iOS设备</span>
+                    <!--<span class="label label-danger">企业版</span>-->
+                </div>
+            </div>
+
+            <hr class="devider devider-dotted">
+            <div class="view row margin-bottom-30">
+                <div class="span12" style="text-align:center;">
+                    或者用手机扫描下面的二维码安装 <br />
+                    <br />
+                    <img src="{{site.downqr}}" />
+                </div>
+            </div>
+            <hr class="devider devider-dotted">
+            <div id="down" class="view row" style="margin-top:30px;">
+                <h3>{{site.lesson}}</h3>
+                <div class="lessonimg">
+                    <p>{{site.downmobilefirsttitle}}</p>
+                    <img class="limg" src="{{site.downmobilefirst}}" />
+                </div>
+                <div class="lessonimg">
+                    <p>{{site.downmobilesecondtitle}}</p>
+                    <img class="limg" src="{{site.downmobilesecond}}" />
+                </div>
+                <div class="lessonimg">
+                    <p>{{site.downmobilethreetitle}}</p>
+                    <img class="limg" src="{{site.downmobilethree}}" />
+                </div>
+
+            </div>
+            <div class="lesson view row" style="margin-top:30px">
+                <h3>iOS 10 不提示(是否允许应用访问数据)，导致应用无法使用的解决方案</h3>
+                <div class="lessonimg">
+                    <p>1.进入设置-蜂窝移动网络-使用无线局域网与蜂窝移动的应用，随便找款App(例：这里选择的是比太)</p>
+                    <img class="limg" src="{{site.step1}}">
+                    <p>2.更改一下设置即可(任意更改)。</p>
+                    <img class="limg" src="{{site.step2}}">
+                    <p>3.然后进入bitpie App就会提示是否允许使用数据。选择是就可以了。</p>
+                    <img class="limg" src="{{site.step3}}">
+                </div>
             </div>
         </div>
     </div>
-</div>
+    <div id="andorid">
 
-<script src="/js/jquery-1.11.0.js"></script>
-<script src="/js/jquery-lang.js" type="text/javascript"></script>
-<script src="/js/js.cookie.js" type="text/javascript"></script>
-<script src="/js/dynamicLang.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var lang = new Lang();
-    lang.init({
-        defaultLang: 'en',
-        currentLang: 'en',
-        cookie: {
-            name: 'langCookie',
-            expiry: 365,
-            path: '/'
-        },
-        allowCookieOverride: true
-    });
-    function install() {
-        if (!isMobile()) {
-            alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
-            return;
+        <div class="row-fluid breadcrumbs margin-bottom-20">
+            <div class="container">
+                <h1 class="pull-left" lang="en">{{site.androidsoftname}}</h1>
+                <ul class="pull-right breadcrumb">
+                    <li><span lang="en">Version:</span> {{site.anddownsoftversion}}</li>
+                    <li>{{site.anddownsoftdate}}</li>
+                </ul>
+            </div>
+        </div>
+        <div class="container content">
+            <div class="view row">
+                <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
+                    <img src="/img/androidweixin.jpg" id="downloading">
+                </div>
+                <div class="span12" style="text-align:center;">
+                    <a href="javascript:void(0);" onclick="javascript:androidinstall();"><img src="{{site.androidlogo}}" class="appicon" /></a>
+                    <div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="view row" style="margin-top:30px;">
+
+                <div class="span12 margin-bottom-20" style="text-align:center;">
+                    <a href="javascript:void(0);" onclick="javascript:androidinstall();" class="btn-u btn-u-lg"><i class="fa fa-download"></i><span lang="en">Download</span></a>
+                </div>
+                <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
+                <!--<a href="javascript:void(0);" onclick="javascript:installs();" class="btn-u btn-u-lg"><i class="fa fa-download"></i>Download&nbsp;(World)</a>-->
+                <!--</div>-->
+
+                <div class="span12" style="text-align:center;">
+                    <span class="label label-info" id="spanlabel"><a class="downloada" href="{{site.androidsha}}" target="_blank"  rel="nofollow noopener noreferrer" >SHA256SUMS</a></span>
+                </div>
+            </div>
+
+            <hr class="devider devider-dotted">
+            <div id="" class="view row margin-bottom-30">
+                <div class="span12" style="text-align:center;">
+                    <span lang="en">Use your cell phone  to install by scaning the qr code</span> <br />
+                    <br />
+                    <img src="{{site.androidqr}}" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/jquery-1.11.0.js"></script>
+    <script src="/js/jquery-lang.js" type="text/javascript"></script>
+    <script src="/js/js.cookie.js" type="text/javascript"></script>
+    <script src="/js/dynamicLang.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var lang = new Lang();
+        lang.init({
+            defaultLang: 'en',
+            currentLang: 'en',
+            cookie: {
+                name: 'langCookie',
+                expiry: 365,
+                path: '/'
+            },
+            allowCookieOverride: true
+        });
+
+        function install() {
+            if (!isMobile()) {
+                alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
+                return;
+            }
+            var url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/ios/bitpie_ios.plist";
+
+            window.location.href = url;
         }
-        var url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/ios/bitpie_ios.plist";
 
-        window.location.href = url;
-    }
-
-    function androidinstall() {
-        var url = "https://dn-bither.qbox.me/bitpie.apk";
-        window.location.href = url;
-    }
+        function androidinstall() {
+            var url = "https://dn-bither.qbox.me/bitpie.apk";
+            window.location.href = url;
+        }
 
 
-    window.onload = function(){
-        function run() {
-            document.getElementById("weixinDisplay").style = "text-align:center;display:block";
-            document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
+        window.onload = function() {
+            function run() {
+                document.getElementById("weixinDisplay").style = "text-align:center;display:block";
+                document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
 
+
+            }
+
+            function is_weixin() {
+                var ua = navigator.userAgent.toLowerCase();
+                if (ua.match(/MicroMessenger/i) == "micromessenger") {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+            var isWeixin = is_weixin();
+
+            function isMobile() {
+                return /iPhone|iPad|iPod/i.test(navigator.userAgent);
+            }
+
+            function loadHtml() {
+                var div = document.createElement('div');
+                div.id = 'weixin-tip';
+                div.innerHTML = '<p><img src="/img/live_weixin.png"  styl alt="微信打开" /></p>';
+                document.body.appendChild(div);
+            }
+
+            function loadStyleText(cssText) {
+                var style = document.createElement('style');
+                style.rel = 'stylesheet';
+                style.type = 'text/css';
+                try {
+                    style.appendChild(document.createTextNode(cssText));
+                } catch (e) {
+                    style.styleSheet.cssText = cssText; //ie9以下
+                }
+                var head = document.getElementsByTagName("head")[0]; //head标签之间加上style样式
+                head.appendChild(style);
+            }
+            var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:210%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5% 10% 5%;}";
+
+            var u = navigator.userAgent;
+            var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
+            var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+            if (isAndroid) {
+                //document.getElementById("ios").style = "display:none"
+                $("#ios").fadeOut("slow");
+                // window.location.href = "https://bitpie.com/android/";
+            }
+            if (isiOS) {
+                $("#android").fadeOut("slow");
+                //document.getElementById("android").style = "display:none"
+                //window.location.href = "https://bitpie.com/ios/";
+            }
+            if (!isAndroid == true && !isiOS == true) {
+                //document.getElementById("ios").style = "display:none"
+                $("#ios").slideUp("slow");
+            }
+            if (isWeixin) {
+                loadHtml();
+                loadStyleText(cssText);
+                run();
+            }
 
         }
-        function is_weixin() {
-            var ua = navigator.userAgent.toLowerCase();
-            if (ua.match(/MicroMessenger/i) == "micromessenger") {
-                return true;
+        $(function() {
+
+            if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
+                window.lang.change("zh")
             } else {
-                return false;
+                window.lang.change("en")
             }
-        }
-        var isWeixin = is_weixin();
-        function isMobile() {
-            return /iPhone|iPad|iPod/i.test(navigator.userAgent);
-        }
-        function loadHtml(){
-            var div = document.createElement('div');
-            div.id = 'weixin-tip';
-            div.innerHTML = '<p><img src="/img/live_weixin.png"  styl alt="微信打开" /></p>';
-            document.body.appendChild(div);
-        }
-
-        function loadStyleText(cssText) {
-            var style = document.createElement('style');
-            style.rel = 'stylesheet';
-            style.type = 'text/css';
-            try {
-                style.appendChild(document.createTextNode(cssText));
-            } catch (e) {
-                style.styleSheet.cssText = cssText; //ie9以下
-            }
-            var head=document.getElementsByTagName("head")[0]; //head标签之间加上style样式
-            head.appendChild(style);
-        }
-        var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:210%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5% 10% 5%;}";
-
-        var u = navigator.userAgent;
-        var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
-        var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
-        if(isAndroid){
-            //document.getElementById("ios").style = "display:none"
-            $("#ios").fadeOut("slow");
-            // window.location.href = "https://bitpie.com/android/";
-        }
-        if(isiOS){
-            $("#android").fadeOut("slow");
-            //document.getElementById("android").style = "display:none"
-            //window.location.href = "https://bitpie.com/ios/";
-        }
-        if(!isAndroid == true && !isiOS == true){
-            //document.getElementById("ios").style = "display:none"
-            $("#ios").slideUp("slow");
-        }
-        if (isWeixin) {
-            loadHtml();
-            loadStyleText(cssText);
-            run();
-        }
-
-    }
-    $(function(){
-
-        if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
-            window.lang.change("zh")
-        } else {
-            window.lang.change("en")
-        }
 
 
-    })
-
-
-
-
-</script>
+        })
+    </script>
 </body>
+
 </html>

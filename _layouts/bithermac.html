@@ -1,9 +1,11 @@
-
 <!DOCTYPE html>
 <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
 <head>
     <title>{{page.title}}</title>
     <meta charset="utf-8" />
@@ -27,70 +29,71 @@
 
 <body>
 
-<div class="row-fluid breadcrumbs margin-bottom-20">
-    <div class="container">
-        <h1 class="pull-left" lang="en">{{site.bitherdownsoftname}}</h1>
-        <ul class="pull-right breadcrumb">
-            <li><span lang="en">Version:</span> {{page.softversion}}</li>
-            <li>{{page.softdate}}</li>
-        </ul>
+    <div class="row-fluid breadcrumbs margin-bottom-20">
+        <div class="container">
+            <h1 class="pull-left" lang="en">{{site.bitherdownsoftname}}</h1>
+            <ul class="pull-right breadcrumb">
+                <li><span lang="en">Version:</span> {{page.softversion}}</li>
+                <li>{{page.softdate}}</li>
+            </ul>
+        </div>
     </div>
-</div>
 
-<div class="container content">
-
+    <div class="container content">
 
 
 
 
-    <div id="" class="view row">
- <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
+
+        <div id="" class="view row">
+            <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
                 <img src="/img/androidweixin.jpg" id="downloading">
             </div>
-        <div class="span12" style="text-align:center;">
-            <a href="https://dn-bither.qbox.me/bither-desktop.jar" ><img src="{{site.bitherandroidlogo}}" class="appicon" /></a>
-            <div>
+            <div class="span12" style="text-align:center;">
+                <a href="https://dn-bither.qbox.me/bither-desktop.jar"><img src="{{site.bitherandroidlogo}}" class="appicon" /></a>
+                <div>
+                </div>
             </div>
         </div>
+
+        <div id="" class="view row" style="margin-top:30px;">
+
+            <div class="span12 margin-bottom-20" style="text-align:center;">
+                <a href="https://dn-bither.qbox.me/bither-desktop.jar" class="btn-u btn-u-lg"><i class="fa fa-download"></i> 下载</a>
+            </div>
+            <div class="span12 margin-bottom-20" style="text-align:center;">
+                <span class="label label-info" id="spanlabel"><a class="downloada" href="{{page.hashurl}}" target="_blank"  rel="nofollow noopener noreferrer" >SHA256SUMS</a></span>
+            </div>
+            <div class="span12" style="text-align:center;color:#333" id="mobile_bither mobile_span_macos">
+                <span class="label label-info">适用于 Mac OS</span>
+                <!--<span lang="en">The certificate of Bither App is not available now. We are now actively negotiating with Apple Inc., yet DO NOT uninstall your App. Android version is not affected.</span>-->
+
+            </div>
+        </div>
+
+        <hr class="devider devider-dotted">
+
+        <div id="down" class="view row" style="margin-top:30px;">
+            <h3>Bither Mac OS 安装教程</h3>
+            <div class="lessonimg">
+                <p>1、点击此网页的下载安钮</p>
+            </div>
+            <div class="lessonimg">
+                <p>2､ 确认您的 Mac OS 是否安装最新版 Java Platform (JDK)，如果没有安装过，请打开 <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank" rel="nofollow noopener noreferrer">JDK</a> 选择 DOWNLOAD 图标</p>
+                <img class="limg" src="/img/java_page.jpg" />
+                <p>选择 "Accept License Agreement"，选择 macOS 对应的 JDK 地址进行下载。下载完成之后，双击安装即可。</p>
+                <img class="limg" src="/img/java_down_setup.jpg" />
+                <p>如果您已经安装过 Java Platform (JDK)， 右击您下载好的 bither-desktop.jar ，选择运行方式，选择 Jar Launcher。即可打开比太 </p>
+                <img class="limg" src="/img/java_run.jpg" />
+            </div>
+        </div>
+
+
     </div>
 
-    <div id="" class="view row" style="margin-top:30px;">
-
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-           <a href="https://dn-bither.qbox.me/bither-desktop.jar"  class="btn-u btn-u-lg"><i class="fa fa-download"></i> 下载</a>
-        </div>
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-            <span class="label label-info" id="spanlabel"><a class="downloada" href="{{page.hashurl}}" target="_blank">SHA256SUMS</a></span>
-        </div>
-        <div class="span12" style="text-align:center;color:#333" id="mobile_bither mobile_span_macos">
-            <span class="label label-info">适用于 Mac OS</span>
-            <!--<span lang="en">The certificate of Bither App is not available now. We are now actively negotiating with Apple Inc., yet DO NOT uninstall your App. Android version is not affected.</span>-->
-
-        </div>
-    </div>
-
-<hr class="devider devider-dotted">
-
-    <div id="down" class="view row" style="margin-top:30px;">
-        <h3>Bither Mac OS 安装教程</h3>
-        <div class="lessonimg">
-            <p>1、点击此网页的下载安钮</p>
-        </div>
-        <div class="lessonimg">
-            <p>2､ 确认您的 Mac OS 是否安装最新版 Java Platform (JDK)，如果没有安装过，请打开 <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html" target="_blank">JDK</a> 选择 DOWNLOAD 图标</p>
-            <img class="limg" src="/img/java_page.jpg"/>
-            <p>选择 "Accept License Agreement"，选择 macOS 对应的 JDK 地址进行下载。下载完成之后，双击安装即可。</p>
-            <img class="limg" src="/img/java_down_setup.jpg"/>
-            <p>如果您已经安装过 Java Platform (JDK)， 右击您下载好的 bither-desktop.jar ，选择运行方式，选择 Jar Launcher。即可打开比太 </p>
-            <img class="limg" src="/img/java_run.jpg"/>
-        </div>
-</div>
-
-
-</div>
-
-{% include js.html %}
+    {% include js.html %}
 
 
 </body>
+
 </html>
