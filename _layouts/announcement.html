@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-
-
-{% include menu.html %}
+{% include head.html %} {% include menu.html %}
 <!-- About Section -->
 
 
 
 
-<section  class="container content-section text-center annou-list" >
+<section class="container content-section text-center annou-list">
     <div class="catalogue">
 
     </div>
@@ -23,61 +20,58 @@
 
 
 
-{% include footer.html %}
-{% include footerjs.html%}
-
-
-{% include tongji.html %}
+{% include footer.html %} {% include footerjs.html%} {% include tongji.html %}
 <script>
-$(function(){
-    function doList(){
+    $(function() {
+        function doList() {
 
-        $.getJSON("/post.json",function(result,status,xhr){
+            $.getJSON("/post.json", function(result, status, xhr) {
 
-            var arr = [];
-            var arr1 = [];
-            var results = [];
-            var html = "";
-            var host = "https://bitpie.com";
-            if(result){
-                for(var i=0,l=result.length;i<l;i++){
-                    if(result[i].top){
-                        arr1.push(result[i])
-                    }else{
-                        arr.push(result[i]);
+                var arr = [];
+                var arr1 = [];
+                var results = [];
+                var html = "";
+                var host = "";
+                if (result) {
+                    for (var i = 0, l = result.length; i < l; i++) {
+                        if (result[i].top) {
+                            arr1.push(result[i])
+                        } else {
+                            arr.push(result[i]);
+                        }
+
                     }
-
                 }
-            }
-            results = arr1.concat(arr);
+                results = arr1.concat(arr);
 
 
-            for(var j=0,q=results.length;j<q;j++){
-                  html += "<a href=\""+host+results[j].url+ "\"  class=\"catalogue-item aclick\" style=\"float:left\"><h5>"+results[j].title+"</h5></a>"+"<div style=\"clear:both\" id=\"page\"></div><p class=\"content-list\">"+results[j].describe+"</p>"
-                      +"<span class=\"time\" style=\"width:100%;text-align:left\"> "+results[j].date+" </span><div class=\"clear\"></div><hr></div>";
-            }
+                for (var j = 0, q = results.length; j < q; j++) {
+                    html += "<a href=\"" + host + results[j].url + "\"  class=\"catalogue-item aclick\" style=\"float:left\"><h5>" + results[j].title + "</h5></a>" + "<div style=\"clear:both\" id=\"page\"></div><p class=\"content-list\">" + results[j].describe + "</p>" +
+                        "<span class=\"time\" style=\"width:100%;text-align:left\"> " + results[j].date + " </span><div class=\"clear\"></div><hr></div>";
+                }
 
 
-            $(".catalogue").html(html);
+                $(".catalogue").html(html);
 
 
 
-            
 
 
-            
-        
-        });
-         
-          
-
-    }
-    doList();
 
 
-})
+
+            });
+
+
+
+        }
+        doList();
+
+
+    })
 </script>
 
 
 </body>
+
 </html>

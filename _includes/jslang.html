@@ -2,7 +2,7 @@
 <script src="/js/jquery-1.11.0.js"></script>
 
 <!-- Plugin JavaScript -->
-    <script src="{{ '/js/jquery.easing.min.js' | prepend: site.baseurl }}"></script>
+<script src="{{ '/js/jquery.easing.min.js' | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js"></script>
@@ -18,7 +18,7 @@
 <script src="/js/js.cookie.js" type="text/javascript"></script>
 <script src="/js/dynamicLang.js" type="text/javascript"></script>
 <script>
-  var lang = new Lang();
+    var lang = new Lang();
     lang.init({
         defaultLang: 'en',
         currentLang: 'en',
@@ -29,30 +29,30 @@
         },
         allowCookieOverride: true
     });
-$("#zh").on("click",function(){
+    $("#zh").on("click", function() {
 
 
-            $("#docs").attr("href","http://docs.bitpie.com/zh_CN/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/")
-            $("#ads").attr("href","https://bitpie.com/announcement")
-            if(location.href.indexOf("announcement") > -1){
-               window.location.href = "https://bitpie.com/announcement"
-            }
-            window.lang.change("zh");
-        })
+        $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
+        $("#blogs").attr("href", "/blog/")
+        $("#ads").attr("href", "/announcement")
+        if (location.href.indexOf("announcement") > -1) {
+            window.location.href = "/announcement"
+        }
+        window.lang.change("zh");
+    })
 
-        $("#en").on("click",function(){
-            
-            $("#docs").attr("href","http://docs.bitpie.com/en/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/en/")
-            $("#ads").attr("href","https://bitpie.com/announcement/en");
+    $("#en").on("click", function() {
+
+        $("#docs").attr("href", "http://docs.bitpie.com/en/latest/")
+        $("#blogs").attr("href", "/blog/en/")
+        $("#ads").attr("href", "/announcement/en");
 
 
-            if(location.href.indexOf("announcement") > -1){
-               window.location.href = "https://bitpie.com/announcement/en"
-            }
+        if (location.href.indexOf("announcement") > -1) {
+            window.location.href = "/announcement/en"
+        }
 
-            window.lang.change("en");
+        window.lang.change("en");
 
-        })
+    })
 </script>

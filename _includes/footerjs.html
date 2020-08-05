@@ -17,14 +17,12 @@
 <script src="/js/js.cookie.js" type="text/javascript"></script>
 <script src="/js/dynamicLang.js" type="text/javascript"></script>
 <script type="text/javascript">
-    function getCookie(cname)
-    {
+    function getCookie(cname) {
         var name = cname + "=";
         var ca = document.cookie.split(';');
-        for(var i=0; i<ca.length; i++)
-        {
+        for (var i = 0; i < ca.length; i++) {
             var c = ca[i].trim();
-            if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+            if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
         }
         return "";
     }
@@ -39,126 +37,126 @@
         },
         allowCookieOverride: true
     });
-    $(function(){
+    $(function() {
 
         var url = window.location.href;
         var urllarr = url.split("/");
-        if(urllarr.length > 5){
+        if (urllarr.length > 5) {
             window.lang.change(urllarr[4])
-        }else{
+        } else {
             window.lang.change("zh")
         }
 
-        $("#zh").on("click",function(){
-        window.location.href = "https://bitpie.com/announcement/";
-        $("#docs").attr("href","http://docs.bitpie.com/")
-        $("#blogs").attr("href","https://bitpie.com/blog/")
-        $("#ads").attr("href","https://bitpie.com/announcement")
+        $("#zh").on("click", function() {
+            window.location.href = "/announcement/";
+            $("#docs").attr("href", "http://docs.bitpie.com/")
+            $("#blogs").attr("href", "/blog/")
+            $("#ads").attr("href", "/announcement")
         })
 
-        $("#en").on("click",function(){
-            window.location.href = "https://bitpie.com/announcement/en/";
-            $("#docs").attr("href","http://docs.bitpie.com/en/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/en")
-           $("#ads").attr("href","https://bitpie.com/announcement/en")
+        $("#en").on("click", function() {
+            window.location.href = "/announcement/en/";
+            $("#docs").attr("href", "http://docs.bitpie.com/en/latest/")
+            $("#blogs").attr("href", "/blog/en")
+            $("#ads").attr("href", "/announcement/en")
 
             window.lang.change("en");
         })
-        $("#jp").on("click",function(){
-            window.location.href = "https://bitpie.com/announcement/jp";
-             $("#docs").attr("href","http://docs.bitpie.com/en/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/en")
-           $("#ads").attr("href","https://bitpie.com/announcement/jp")
+        $("#jp").on("click", function() {
+            window.location.href = "/announcement/jp";
+            $("#docs").attr("href", "http://docs.bitpie.com/en/latest/")
+            $("#blogs").attr("href", "/blog/en")
+            $("#ads").attr("href", "/announcement/jp")
 
             window.lang.change("jp");
         })
-    
 
 
-        $("#telegram").on("click",function(e){
+
+        $("#telegram").on("click", function(e) {
             e.stopPropagation();
             var flag = $(this).attr("data");
-            if(flag == "hide") {
-                $(this).attr("data","show")
-                $("#Contact").attr("data","show");
+            if (flag == "hide") {
+                $(this).attr("data", "show")
+                $("#Contact").attr("data", "show");
                 $("#group_show").show();
 
-            }else if(flag == "show") {
-                $(this).attr("data","hide")
-                $("#Contact").attr("data","hide");
+            } else if (flag == "show") {
+                $(this).attr("data", "hide")
+                $("#Contact").attr("data", "hide");
                 $("#group_show").hide();
             }
         });
 
-        $("#telegram").mouseenter(function(){
-             $("#wechat img").hide();
+        $("#telegram").mouseenter(function() {
+            $("#wechat img").hide();
             $("#group_show").show();
-            $("#qq").on("click",function(e){
+            $("#qq").on("click", function(e) {
                 $("#group_show").show();
             })
         });
-//        $("#qq").mouseleave(function(){
-//            $("#group_show").hide();
-//        });
-         $("#wechat").on("click",function(e){
+        //        $("#qq").mouseleave(function(){
+        //            $("#group_show").hide();
+        //        });
+        $("#wechat").on("click", function(e) {
             e.stopPropagation();
 
             var flag = $("#wechat img").attr("data");
             console.log(flag);
-            if(flag == "hide"){
-            $("#wechat img").show();
-            $("#wechat img").attr("data","show");
+            if (flag == "hide") {
+                $("#wechat img").show();
+                $("#wechat img").attr("data", "show");
 
-            }else if(flag == "show"){
+            } else if (flag == "show") {
                 $("#wechat img").hide();
-                $("#wechat img").attr("data","hide");
+                $("#wechat img").attr("data", "hide");
 
             }
 
         })
-        $("#wechat img").on("click",function(e){
-             e.stopPropagation();
-             $("#wechat img").hide();
-            $("#wechat img").attr("data","hide");
+        $("#wechat img").on("click", function(e) {
+            e.stopPropagation();
+            $("#wechat img").hide();
+            $("#wechat img").attr("data", "hide");
 
 
         })
 
-        $("#wechat").mouseenter(function(){
+        $("#wechat").mouseenter(function() {
             $("#group_show").hide();
             $("#wechat img").show();
-            
-            $("#wechat").on("click",function(e){
-                 $("#wechat img").show();
-                 
+
+            $("#wechat").on("click", function(e) {
+                $("#wechat img").show();
+
             })
         });
 
 
-        $(function () {
-            $(document).on('click', function (e) {
+        $(function() {
+            $(document).on('click', function(e) {
                 $("#group_show").hide();
-                  $("#wechat img").hide();
+                $("#wechat img").hide();
             });
 
         });
-       var last = getCookie("langCookie");
-       if(last == "zh"){
-        $("#docs").attr("href","http://docs.bitpie.com/")
-        $("#blogs").attr("href","https://bitpie.com/blog/")
-        $("#ads").attr("href","https://bitpie.com/announcement")
+        var last = getCookie("langCookie");
+        if (last == "zh") {
+            $("#docs").attr("href", "http://docs.bitpie.com/")
+            $("#blogs").attr("href", "/blog/")
+            $("#ads").attr("href", "/announcement")
 
-       }else if(last == "en"){
-          $("#docs").attr("href","http://docs.bitpie.com/en/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/en")
-           $("#ads").attr("href","https://bitpie.com/announcement/en")
+        } else if (last == "en") {
+            $("#docs").attr("href", "http://docs.bitpie.com/en/latest/")
+            $("#blogs").attr("href", "/blog/en")
+            $("#ads").attr("href", "/announcement/en")
 
-       }else{
-           $("#docs").attr("href","http://docs.bitpie.com/en/latest/")
-            $("#blogs").attr("href","https://bitpie.com/blog/en")
-           $("#ads").attr("href","https://bitpie.com/announcement/jp")
+        } else {
+            $("#docs").attr("href", "http://docs.bitpie.com/en/latest/")
+            $("#blogs").attr("href", "/blog/en")
+            $("#ads").attr("href", "/announcement/jp")
 
-       }
+        }
 
 
 

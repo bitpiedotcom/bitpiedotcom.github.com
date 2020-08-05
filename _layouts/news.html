@@ -59,24 +59,24 @@
     $(function() {
         if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
             $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-            $("#blogs").attr("href", "https://bitpie.com/blog/")
-            $("#ads").attr("href", "https://bitpie.com/announcement/");
+            $("#blogs").attr("href", "/blog/")
+            $("#ads").attr("href", "/announcement/");
             window.lang.change("zh");
 
         }
 
         $("#en").on("click", function() {
-            window.location.href = "https://bitpie.com/announcement/en/";
+            window.location.href = "/announcement/en/";
         })
         window.lang.change("zh");
         $("#zh").on("click", function() {
-            window.location.href = "https://bitpie.com/announcement/";
+            window.location.href = "/announcement/";
 
             window.lang.change("zh");
         })
         $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-        $("#blogs").attr("href", "https://bitpie.com/blog/")
-        $("#ads").attr("href", "https://bitpie.com/announcement")
+        $("#blogs").attr("href", "/blog/")
+        $("#ads").attr("href", "/announcement")
 
 
         $("#telegram").on("click", function(e) {

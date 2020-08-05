@@ -1,36 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title></title>
     <script type="text/javascript">
-        var ios_lang = navigator.language||navigator.userLanguage;
+        var ios_lang = navigator.language || navigator.userLanguage;
         var ios_url = window.location.href;
         var u = navigator.userAgent;
         var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
         var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
-        if(isAndroid){
+        if (isAndroid) {
 
-            window.location.href = "https://bitpie.com/android/";
+            window.location.href = "/android/";
         }
-        if(isiOS){
-            if(ios_lang){
+        if (isiOS) {
+            if (ios_lang) {
                 ios_lang = new String(ios_lang).toLocaleLowerCase();
-                if(ios_lang.indexOf("zh") > -1 || ios_lang.indexOf("cn") > -1){
-                    window.location.href = "https://bitpie.com/ios/";
-                }else{
+                if (ios_lang.indexOf("zh") > -1 || ios_lang.indexOf("cn") > -1) {
+                    window.location.href = "/ios/";
+                } else {
                     window.location.href = "https://apps.apple.com/us/app/bitpie-wallet/id1481314229"
                 }
-            }else{
-                window.location.href = "https://bitpie.com/ios/";
+            } else {
+                window.location.href = "/ios/";
             }
         }
-        if(!isAndroid == true && !isiOS == true){
-            window.location.href = "https://bitpie.com/";
+        if (!isAndroid == true && !isiOS == true) {
+            window.location.href = "/";
         }
     </script>
 </head>
+
 <body>
-{% include tongji.html %}
+    {% include tongji.html %}
 </body>
+
 </html>
