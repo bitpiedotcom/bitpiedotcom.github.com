@@ -2,97 +2,120 @@
 <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
 {% include down_header.html %}
+
 <body>
 
-{% include down_content.html %}
-{% include tongji.html %}
-{% include js.html %}
+    {% include down_content.html %} {% include tongji.html %} {% include js.html %}
 
 
 
-<script>
-    function isMobile() {
-        return /iPhone|iPad|iPod/i.test(navigator.userAgent);
-    }
-    function installs() {
-
-        if(!isMobile()){
-            alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
-            return;
+    <script>
+        function isMobile() {
+            return /iPhone|iPad|iPod/i.test(navigator.userAgent);
         }
 
-        url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/ios/bitpie_ios.plist";
+        function installs() {
 
-        window.location.href = url;
-    }
-    function install() {
+            if (!isMobile()) {
+                alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
+                return;
+            }
 
-        if(!isMobile()){
-            alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
-            return;
+            url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/ios/bitpie_ios.plist";
+
+            window.location.href = url;
         }
 
-        url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://dn-bither.qbox.me/bitpie_ios.plist";
+        function install() {
 
-        //window.location.href = url;
+            if (!isMobile()) {
+                alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
+                return;
+            }
 
-    }
-    window.onload = function() {
-        var flags = true;
-        var u = navigator.userAgent;
-        var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
-        var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
-        var ios_lang = navigator.language||navigator.userLanguage;
-        function is_weixin() {
-            var ua = navigator.userAgent.toLowerCase();
-            if (ua.match(/MicroMessenger/i) == "micromessenger") {
-                return false;
-            } else {
-                return false;
+            url = "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://dn-bither.qbox.me/bitpie_ios.plist";
+
+            //window.location.href = url;
+
+        }
+        window.onload = function() {
+            var flags = true;
+            var u = navigator.userAgent;
+            var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
+            var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+            var ios_lang = navigator.language || navigator.userLanguage;
+
+            function is_weixin() {
+                var ua = navigator.userAgent.toLowerCase();
+                if (ua.match(/MicroMessenger/i) == "micromessenger") {
+                    return false;
+                } else {
+                    return false;
+                }
+            }
+
+            function run() {
+                document.getElementById("weixinDisplay").style = "text-align:center;display:block";
+                //document.getElementById("browser").style = "text-align:center;display:block";
+            }
+
+
+            var isWeixin = is_weixin();
+            var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : document.documentElement.clientHeight;
+
+            function loadHtml() {
+                var div = document.createElement('div');
+                div.id = 'weixin-tip';
+                div.innerHTML = '<p><img src="/img/live_ios_weixin.png"  alt="微信打开"/></p>';
+                document.body.appendChild(div);
+            }
+
+            function loadStyleText(cssText) {
+                var style = document.createElement('style');
+                style.rel = 'stylesheet';
+                style.type = 'text/css';
+                try {
+                    style.appendChild(document.createTextNode(cssText));
+                } catch (e) {
+                    style.styleSheet.cssText = cssText; //ie9以下
+                }
+                var head = document.getElementsByTagName("head")[0]; //head标签之间加上style样式
+                head.appendChild(style);
+            }
+            var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:100%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 2%;}";
+            if (isWeixin) {
+                loadHtml();
+                loadStyleText(cssText);
+            }
+
+        }
+    </script>
+
+    <script>
+        var testFlightBtn = document.getElementById("ios-test-flight");
+        testFlightBtn.onclick = function() {
+            var testFlightBox = document.querySelector(".alert-test-flight");
+            testFlightBox.style.display = "flex";
+        }
+
+        var testFlightBox = document.querySelector(".alert-test-flight");
+        testFlightBox.onclick = function(ev) {
+            if (hasClass(ev.target, "alert-test-flight")) {
+                testFlightBox.style.display = "none";
             }
         }
 
-        function run(){
-            document.getElementById("weixinDisplay").style = "text-align:center;display:block";
-            //document.getElementById("browser").style = "text-align:center;display:block";
+        function hasClass(elem, cls) {
+            cls = cls || '';
+            if (cls.replace(/\s/g, '').length == 0) return false;
+            return new RegExp(' ' + cls + ' ').test(' ' + elem.className + ' ');
         }
-
-
-        var isWeixin = is_weixin();
-        var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : document.documentElement.clientHeight;
-        function loadHtml(){
-            var div = document.createElement('div');
-            div.id = 'weixin-tip';
-            div.innerHTML = '<p><img src="/img/live_ios_weixin.png"  alt="微信打开"/></p>';
-            document.body.appendChild(div);
-        }
-
-        function loadStyleText(cssText) {
-            var style = document.createElement('style');
-            style.rel = 'stylesheet';
-            style.type = 'text/css';
-            try {
-                style.appendChild(document.createTextNode(cssText));
-            } catch (e) {
-                style.styleSheet.cssText = cssText; //ie9以下
-            }
-            var head=document.getElementsByTagName("head")[0]; //head标签之间加上style样式
-            head.appendChild(style);
-        }
-        var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:100%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 2%;}";
-        if(isWeixin){
-            loadHtml();
-            loadStyleText(cssText);
-        }
-
-    }
-
-
-</script>
+    </script>
 
 </body>
+
 </html>
-
-
