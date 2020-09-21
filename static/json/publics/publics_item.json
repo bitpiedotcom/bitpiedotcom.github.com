@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于防范 \"虚假比特派 Telegram 群\" 的声明",
+            "intro": "近期，经用户反馈，我们发现 Telegram 上竟然有 8000 人的假的“比特派官方群”，群内管理员一直在用各种方法试图欺骗用户的助记词。",
+            "data": "2020-9-21",
+            "watch": 741,
+            "id": 87,
+            "month": "September",
+            "day": "21",
+            "type": 1
+        },{
             "title": "风险提示",
             "intro": "据悉，近期存在一些投资理财平台，如“琴澳国际”等，以打新、高收益为诱饵，诱导用户进行充值。比特派特此提醒广大用户，此类平台均存在较高风险，资产一旦转入，极有可能无法追回。请务必擦亮双眼，提高风险意识，谨慎投资！",
             "data": "2020-9-4",
@@ -756,6 +765,15 @@
         }
     ],
     "en": [{
+            "title": "Statement on preventing \"FALSE Bitpie Telegram Group\"",
+            "intro": "Recently, users reported that there is a false \"Bitpie Official Group\" with 8,000 members on Telegram. The administrators of the group have been using various methods to try deceiving users' mnemonics.",
+            "data": "2020-9-21",
+            "watch": 371,
+            "id": 87,
+            "month": "September",
+            "day": "21",
+            "type": 1
+        },{
             "title": "Announcement",
             "intro": "We have recently noticed that there is an exchange called ‘Bitpie Exchange’ is offering service to his clients. Bitpie Wallet hereby announce: Bitpie Wallet never heard about this exchange before and has nothing relate to it. Meanwhile, for any third part that list Bitpie Wallet as a partner but without letting us know, Bitpie takes no responsibility to them and reserve the right to pursue legal responsibility.",
             "data": "2020-6-4",
