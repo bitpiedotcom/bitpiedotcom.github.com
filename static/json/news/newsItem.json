@@ -1,5 +1,32 @@
 {
     "cn": [{
+            "title": "比特派已在以太坊和 CKB 之间搭建稳定币桥，首次将稳定币引入 CKB",
+            "intro": "全球领先的多链钱包比特派(Bitpie) 已于近日在以太坊和 Nervos CKB 之间建立了跨链挂钩的稳定币桥。此次集成首次将稳定币引入 CKB，它是 DeFi、支付等应用最重要的基础设施之一。通过新的桥，Bitpie 提供了稳定币资产 1:1 的跨链转移服务，将以太坊上的稳定资产转移到 Nervos CKB。",
+            "data": "2020-10-21",
+            "type": 2,
+            "url": "https://www.theblockbeats.com/flash/15595",
+            "id": 17,
+            "img": "/static/image/news/bitpieckb.png",
+            "watch": "999"
+        }, {
+            "title": "比特派等区块链主流交易平台及钱包已支持 TRC20-BTC 的充提业务",
+            "intro": "比特派等区块链主流交易平台及钱包已支持 TRC20-BTC 的充提业务",
+            "data": "2020-10-20",
+            "type": 2,
+            "url": "https://www.chainnews.com/articles/528008849942.htm",
+            "id": 16,
+            "img": "/static/image/news/trc20btc.png",
+            "watch": "999"
+        }, {
+            "title": "比特派 Bitpie 正式加入 Conflux 资产跨链联盟",
+            "intro": "7 月 22 日，比特派 Bitpie 钱包正式加入 Conflux ShuttleFlow 资产跨链联盟，成为第三家联盟成员。未来会和其它联盟成员一起负责资产跨链的多签铸币和承兑。",
+            "data": "2020-07-22",
+            "type": 2,
+            "url": "https://www.theblockbeats.com/flash/9428",
+            "id": 15,
+            "img": "/static/image/news/joinconflux.png",
+            "watch": "999"
+        }, {
             "title": "比特派宣布与美国资管公司Cred战略合作，为用户提供理财服务",
             "intro": "比特派钱包近日宣布与美国持牌金融服务商Cred达成战略合作伙伴，双方将为亚太地区数百万用户提供理财、借贷等金融服务。Cred是位于美国加州的持牌借贷商，是数字货币借贷领域的领军企业，目前其服务用户已覆盖超过190个国家和地区。比特派钱包在过去7年为用户累计保管价值超百亿美元的数字资产。通过集成在比特派钱包内的金融服务，Cred将会为比特派钱包比特币和以太坊用户带来具有竞争力的资产增益类产品。",
             "data": "2020-04-13",
