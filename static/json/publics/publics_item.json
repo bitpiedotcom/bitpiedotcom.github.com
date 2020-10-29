@@ -813,7 +813,17 @@
             "type": 1
         }
     ],
-    "en": [{
+    "en": [
+        {
+            "title": "Announcement on Supporting Bitcoin Cash(BCH) Fork",
+            "intro": "The Bitcoin Cash (BCH) network is expected to undergo a hard fork on November 15, 2020 (HKT).Bitpie will keep watching the fork of BCH. If BCH network will produce new fork coins, Bitpie will support the related coins as soon as possible.",
+            "data": "2020-10-29",
+            "watch": 371,
+            "id": 92,
+            "month": "October",
+            "day": "29",
+            "type": 1
+        },{
             "title": "Statement on preventing \"FALSE Bitpie Telegram Group\"",
             "intro": "Recently, users reported that there is a false \"Bitpie Official Group\" with 8,000 members on Telegram. The administrators of the group have been using various methods to try deceiving users' mnemonics.",
             "data": "2020-9-21",

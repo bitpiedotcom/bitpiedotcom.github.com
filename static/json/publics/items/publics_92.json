@@ -5,6 +5,10 @@
         "id": 92,
         "watch": 791,
         "message": [
+          {
+                "type": 0,
+                "data": "亲爱的派友："
+            },
             {
                 "type": 0,
                 "data": "Bitcoin Cash (BCH) 网络预计将于 2020年11月15日 (HKT) 进行硬分叉。"
@@ -26,5 +30,37 @@
                 "data": "比特派钱包<br/>2020/10/29"
             }
         ]
-    }
+    },
+    "en": {
+    "title":"Announcement on Supporting Bitcoin Cash(BCH) Fork",
+    "data": "2020-10-29",
+    "id": 92,
+    "watch": 741,
+    "message": [
+      {
+        "type": 0,
+        "data": "Dear Bitpie Users:"
+      },
+      {
+        "type": 0,
+        "data": "The Bitcoin Cash (BCH) network is expected to undergo a hard fork on November 15, 2020 (HKT)."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie will keep watching the fork of BCH. If BCH network will produce new fork coins, Bitpie will support the related coins as soon as possible."
+      },
+      {
+        "type": 0,
+        "data": " You only need to deposit BCH to the Bitpie wallet before the fork. After deposit, you can withdraw the forked coins when the fork is stable."
+      },
+      {
+        "type": 0,
+        "data": "Thank you for your support."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>29/10/2020"
+      }
+    ]
+  }
 }
