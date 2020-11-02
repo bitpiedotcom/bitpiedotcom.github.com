@@ -1,5 +1,14 @@
 {
-    "cn": [
+    "cn": [{
+            "title": "关于比特派服务器常规升级的通知",
+            "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2020年11月3日凌晨 00:30 进行常规升级，预计30分钟内完成升级。升级期间将暂停软件内收发币、币币交易等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
+            "data": "2020-11-2",
+            "watch": 441,
+            "id": 93,
+            "month": "November",
+            "day": "2",
+            "type": 1
+        },
            {
             "title": "关于比特派支持 Bitcoin Cash (BCH) 硬分叉的公告",
             "intro": "Bitcoin Cash (BCH) 网络预计将于 2020年11月15日 (HKT) 进行硬分叉。比特派对有关 BCH 的分叉情况正在保持密切关注，如果未来 BCH 会产生新的分叉币，比特派会在第一时间进行相关币种的功能开发。",
@@ -813,7 +822,16 @@
             "type": 1
         }
     ],
-    "en": [
+    "en": [{
+            "title": "Notification on Regular Upgrade of Server",
+            "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:30 November 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
+            "data": "2020-11-2",
+            "watch": 571,
+            "id": 93,
+            "month": "November",
+            "day": "2",
+            "type": 1
+        },
         {
             "title": "Announcement on Supporting Bitcoin Cash(BCH) Fork",
             "intro": "The Bitcoin Cash (BCH) network is expected to undergo a hard fork on November 15, 2020 (HKT).Bitpie will keep watching the fork of BCH. If BCH network will produce new fork coins, Bitpie will support the related coins as soon as possible.",
