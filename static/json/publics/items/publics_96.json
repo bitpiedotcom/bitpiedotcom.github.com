@@ -1,6 +1,6 @@
 {
   "cn": {
-    "title": "关于暂停 Bitcoin Cash（BCH）发币功能的公告",
+    "title": "关于应对 Bitcoin Cash（BCH）分叉的公告",
     "data": "2020-11-13",
     "id": 96,
     "watch": 196,
@@ -38,5 +38,37 @@
         "data": "Bitpie 社群：<br/>新浪微博：@比特派钱包<a href='https://weibo.com/bitpiewallet' target='_blank'>https://weibo.com/bitpiewallet</a><br/>微信公众号：公众号搜索“bitpieteam"
       }
     ]
-  }
+  },
+  "en":{
+      "title":"Announcement on the suspension of Bitcoin Cash (BCH) withdrawal",
+      "data":"2020-11-13",
+      "id":96,
+      "watch":122,
+      "message":[
+        {
+          "type":0,
+          "data":"Dear Bitpiers:"
+        },
+        {
+          "type":0,
+          "data":"As Bitcoin Cash (BCH) will undergo a hard fork upgrade at 20:00 on November 15, 2020 (GMT+8).  There are two node schemes in the community: Bitcoin Cash ABC (BCHA) and Bitcoin Cash Node (BCHN)."
+        },
+        {
+            "type":0,
+            "data":"Since there is no confirmed naming of this hard fork in the community, in order to protect the rights of users and avoid the uncertain risks caused by hard forks, the following arrangements are made:"
+        },
+        {
+            "type":0,
+            "data":"Bitpie Wallet will suspend the BCH withdrawal at 12:00 on November 15, 2020 (GMT+8)."
+        },
+        {
+            "type":0,
+            "data":"The wallet will relaunch the BCH withdrawal function after the hard fork is completed and stable.  Users' assets will not be affected by this fork."
+        },
+        {
+            "type":0,
+            "data":"Bitpie Team<br/>November 13, 2020"
+        }
+      ]
+    }
 }

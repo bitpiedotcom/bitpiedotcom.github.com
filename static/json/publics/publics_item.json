@@ -850,6 +850,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on the suspension of Bitcoin Cash (BCH) withdrawal",
+            "intro": "As Bitcoin Cash (BCH) will undergo a hard fork upgrade at 20:00 on November 15, 2020 (GMT+8).  There are two node schemes in the community: Bitcoin Cash ABC (BCHA) and Bitcoin Cash Node (BCHN).",
+            "data": "2020-11-13",
+            "watch": 141,
+            "id": 96,
+            "month": "November",
+            "day": "13",
+            "type": 1
+        },{
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:30 November 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2020-11-2",
