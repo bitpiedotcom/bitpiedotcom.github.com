@@ -12,18 +12,18 @@
         var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
         if (isAndroid) {
 
-            window.location.href = "/android/";
+            window.location.href = "/android";
         }
         if (isiOS) {
             if (ios_lang) {
                 ios_lang = new String(ios_lang).toLocaleLowerCase();
                 if (ios_lang.indexOf("zh") > -1 || ios_lang.indexOf("cn") > -1) {
-                    window.location.href = "/ios/";
+                    window.location.href = "/ios";
                 } else {
                     window.location.href = "https://apps.apple.com/us/app/bitpie-wallet/id1481314229"
                 }
             } else {
-                window.location.href = "/ios/";
+                window.location.href = "/ios";
             }
         }
         if (!isAndroid == true && !isiOS == true) {
