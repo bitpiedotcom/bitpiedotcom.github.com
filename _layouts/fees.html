@@ -217,84 +217,84 @@
     <script src="/js/decimal.min.js"></script>
 
     <script>
-        $(function() {
-            function loadAjax(url, type, callback) {
-                $.ajax({
-                    url: url,
-                    type: type,
-                    dataType: 'json',
-                    success: function(data) {
-                        return callback(null, data)
-                    },
-                    error: function(err) {
-                        return callback(true, null)
-                    }
-                })
-            }
+        // $(function() {
+        //     function loadAjax(url, type, callback) {
+        //         $.ajax({
+        //             url: url,
+        //             type: type,
+        //             dataType: 'json',
+        //             success: function(data) {
+        //                 return callback(null, data)
+        //             },
+        //             error: function(err) {
+        //                 return callback(true, null)
+        //             }
+        //         })
+        //     }
 
-            function done(data) {
-                if (data && data.length) {
-                    //var data = JSON.parse(data);
-                    if (data && data.length) {
+        //     function done(data) {
+        //         if (data && data.length) {
+        //             //var data = JSON.parse(data);
+        //             if (data && data.length) {
 
-                        //console.log(data);
-                        var html = "";
-                        for (var i = 0, l = data.length; i < l; i++) {
+        //                 //console.log(data);
+        //                 var html = "";
+        //                 for (var i = 0, l = data.length; i < l; i++) {
 
-                            var names = data[i].name,
-                                start, end, result;
-                            if (names.lastIndexOf("USDT") > -1 && names.lastIndexOf("USDT") != 0) {
-                                start = names.lastIndexOf("USDT");
-                                end = names.substr(0, start);
-                                result = end + "/" + "USDT";
-                            } else if (names.lastIndexOf("ETH") > -1 && names.lastIndexOf("ETH") != 0) {
-                                start = names.lastIndexOf("ETH");
-                                end = names.substr(0, start);
-                                result = end + "/" + "ETH";
+        //                     var names = data[i].name,
+        //                         start, end, result;
+        //                     if (names.lastIndexOf("USDT") > -1 && names.lastIndexOf("USDT") != 0) {
+        //                         start = names.lastIndexOf("USDT");
+        //                         end = names.substr(0, start);
+        //                         result = end + "/" + "USDT";
+        //                     } else if (names.lastIndexOf("ETH") > -1 && names.lastIndexOf("ETH") != 0) {
+        //                         start = names.lastIndexOf("ETH");
+        //                         end = names.substr(0, start);
+        //                         result = end + "/" + "ETH";
 
-                            } else if (names.lastIndexOf("BTC") > -1 && names.lastIndexOf("BTC") != 0) {
-                                start = names.lastIndexOf("BTC");
-                                end = names.substr(0, start);
-                                result = end + "/" + "BTC";
+        //                     } else if (names.lastIndexOf("BTC") > -1 && names.lastIndexOf("BTC") != 0) {
+        //                         start = names.lastIndexOf("BTC");
+        //                         end = names.substr(0, start);
+        //                         result = end + "/" + "BTC";
 
-                            } else if (names.lastIndexOf("SCNY") > -1 && names.lastIndexOf("SCNY") != 0) {
-                                start = names.lastIndexOf("SCNY");
-                                end = names.substr(0, start);
-                                result = end + "/" + "SCNY";
-                            } else if (names.lastIndexOf("EOS") > -1 && names.lastIndexOf("EOS") != 0) {
-                                start = names.lastIndexOf("EOS");
-                                end = names.substr(0, start)
-                                result = end + "/" + "EOS";
-                            }
+        //                     } else if (names.lastIndexOf("SCNY") > -1 && names.lastIndexOf("SCNY") != 0) {
+        //                         start = names.lastIndexOf("SCNY");
+        //                         end = names.substr(0, start);
+        //                         result = end + "/" + "SCNY";
+        //                     } else if (names.lastIndexOf("EOS") > -1 && names.lastIndexOf("EOS") != 0) {
+        //                         start = names.lastIndexOf("EOS");
+        //                         end = names.substr(0, start)
+        //                         result = end + "/" + "EOS";
+        //                     }
 
 
-                            html += "<tr><td>" + result + "</td><td>" + Decimal(data[i].taker_fee_rate).mul(100) + "%" + "</td></tr>";
-                        }
-                        $("tbody").append(html);
-                    }
-                }
-            }
-            loadAjax('https://api3.bitpie.com/api/v1/x/markets', 'GET', function(flag, data) {
-                console.log(flag, data);
-                if (!flag) {
-                    done(data)
-                } else {
-                    loadAjax('https://api2.bitpie.com/api/v1/x/markets', 'GET', function(fl, da) {
-                        if (!fl) {
-                            done(data)
-                        } else {
-                            loadAjax('https://api1.bitpie.com/api/v1/x/markets', 'GET', function(f, d) {
-                                if (!f) {
-                                    done(data)
-                                }
+        //                     html += "<tr><td>" + result + "</td><td>" + Decimal(data[i].taker_fee_rate).mul(100) + "%" + "</td></tr>";
+        //                 }
+        //                 $("tbody").append(html);
+        //             }
+        //         }
+        //     }
+        //     loadAjax('https://api3.bitpie.com/api/v1/x/markets', 'GET', function(flag, data) {
+        //         console.log(flag, data);
+        //         if (!flag) {
+        //             done(data)
+        //         } else {
+        //             loadAjax('https://api2.bitpie.com/api/v1/x/markets', 'GET', function(fl, da) {
+        //                 if (!fl) {
+        //                     done(data)
+        //                 } else {
+        //                     loadAjax('https://api1.bitpie.com/api/v1/x/markets', 'GET', function(f, d) {
+        //                         if (!f) {
+        //                             done(data)
+        //                         }
 
-                            })
-                        }
+        //                     })
+        //                 }
 
-                    })
-                }
+        //             })
+        //         }
 
-            })
+        //     })
 
 
 
