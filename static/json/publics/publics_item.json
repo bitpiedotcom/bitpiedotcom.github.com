@@ -880,7 +880,18 @@
             "type": 1
         }
     ],
-    "en": [{
+    "en": [
+         {
+            "title": "Announcement on stopping support for BCX, BTN, BIFI, BBC, BPA, BTV, SBTC, BTW, CDY, BTF tokens",
+            "intro": "As the above tokens officially no longer maintain the node or updates, Bitpie will stop supporting those tokens from 12:00 on December 18, 2020 (GMT+8)",
+            "data": "2020-12-17",
+            "watch": 296,
+            "id": 99,
+            "month": "December",
+            "day": "17",
+            "type": 1
+        },
+        {
             "title": "Announcement on the suspension of Bitcoin Cash (BCH) withdrawal",
             "intro": "As Bitcoin Cash (BCH) will undergo a hard fork upgrade at 20:00 on November 15, 2020 (GMT+8).  There are two node schemes in the community: Bitcoin Cash ABC (BCHA) and Bitcoin Cash Node (BCHN).",
             "data": "2020-11-13",

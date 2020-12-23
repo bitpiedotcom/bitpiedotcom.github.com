@@ -22,5 +22,33 @@
         "data": "比特派团队<br/>2020年12月17日"
       }
     ]
-  }
+  },
+  "en":{
+      "title":"Announcement on stopping support for BCX, BTN, BIFI, BBC, BPA, BTV, SBTC, BTW, CDY, BTF tokens",
+      "data":"2020-12-17",
+      "id":99,
+      "watch":122,
+      "message":[
+        {
+          "type":0,
+          "data":"Dear Bitpiers:"
+        },
+        {
+          "type":0,
+          "data":"As the above tokens officially no longer maintain the node or updates, Bitpie will stop supporting those tokens from 12:00 on December 18, 2020 (GMT+8) "
+        },
+        {
+            "type":0,
+            "data":"For any enquiries related to above tokens, please contact their official support."
+        },
+        {
+            "type":0,
+            "data":"Thank you for your support to Bitpie."
+        },
+        {
+            "type":0,
+            "data":"Bitpie Team<br/>December 17, 2020"
+        }
+      ]
+    }
 }
