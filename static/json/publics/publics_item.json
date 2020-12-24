@@ -1,6 +1,16 @@
 {
     "cn": [
         {
+            "title": "关于 ETH2R 币种账户调整的公告",
+            "intro": "派银行中的 ETH2R 将以 1:1 的比例换算为 ETH2 币种，并全部合算到用户的ETH2 账户中。后续派银行将不再启用 ETH2R 币种，用户参与 ETH2.0 质押的收益将根据用户持有 ETH2 的占比计算，并以 ETH2 的形式发放。",
+            "data": "2020-12-24",
+            "watch": 396,
+            "id": 100,
+            "month": "December",
+            "day": "24",
+            "type": 1
+        },
+        {
             "title": "有关停止支持BCX、BTN、BIFI、BBC、BPA、BTV、SBTC、BTW、CDY、BTF币种的公告",
             "intro": "因BCX、BTN、BIFI、BBC、BPA、BTV、SBTC、BTW、CDY、BTF官方已经不再对对应项目进行维护，比特派将从2020年12月18日12:00 （香港时间） 起停止提供以上币种的相关服务，如需咨询相关事宜请联系各币种官方。",
             "data": "2020-12-17",
