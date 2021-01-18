@@ -42,5 +42,41 @@
         "data": "比特派团队<br/>2021/01/15"
       }
     ]
+  },
+    "en": {
+    "title": "Statement on preventing \"false Bitpie official website and Telegram\"",
+    "data": "2021-01-15",
+    "id": 101,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "Recently, we found that there are many fraudulent websites, Telegram and QQ groups that declare themselves to Bitpie official to carry out corresponding businesses in an attempt to defraud user assets."
+      },
+      {
+        "type": 0,
+        "data": "Fake Bitpie official website: http://bitpie.org [false], www.bitpie168.vip [false], www.bitpie18.com [false]"
+      },
+      {
+        "type": 0,
+        "data": "Fake Bitpie Telegram: https://t.me/Bitpie_wallet [false] Counterfeit Bitpie QQ Group: 851920584 [false]"
+      },
+      {
+        "type": 0,
+        "data": "The above are fake official websites and fake groups. Please be alert to false information. Do not enter mnemonic words on any website, and do not disclose mnemonic words to anyone to prevent asset loss."
+      },
+      {
+        "type": 0,
+        "data": "There are the official website of Bitpie: 1.bitpie.com  2.bitpiehk.com  3.bitpie.one"
+      },
+      {
+        "type": 0,
+        "data": "If you have any questions, please contact us at service@bitpie.com."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>January 15, 2021"
+      }
+    ]
   }
 }
