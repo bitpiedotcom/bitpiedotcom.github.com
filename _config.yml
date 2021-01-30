@@ -95,6 +95,7 @@ step3: '/img/step3.png'
 # ----------------------- #
 androidsoftname: 'Bitpie Android'
 androidqr: '/img/android_qr.png'
+androidHkqr: '/img/android_qr_hk.png'
 androidlogo: '/img/logo.png'
 androidsha: 'https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/android/SHA256SUMS'
 googleplay: 'https://play.google.com/store/apps/details?id=com.bitpie'

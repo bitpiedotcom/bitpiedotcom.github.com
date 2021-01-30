@@ -45,7 +45,7 @@
             <div class="span12" style="text-align:center;">
                 <span lang="en">Use your cell phone  to install by scaning the qr code</span> <br />
                 <br />
-                <img src="{{site.androidqr}}" />
+                <img id="andorid-qr" src="{{site.androidHkqr}}" />
             </div>
         </div>
     </div>
@@ -137,6 +137,41 @@
                 loadStyleText(cssText);
                 run();
             }
+
+            if (window.location.host == "bitpie.com") {
+                document.getElementById('andorid-qr').src = "/img/android_qr.png";
+            } else {
+                document.getElementById('andorid-qr').src = "/img/android_qr_hk.png";
+            }
+
+            // isInChina((isChina) => {
+            //     if (isChina) {
+            //         document.getElementById('andorid-qr').src = "/img/android_qr.png";
+            //     } else {
+            //         document.getElementById('andorid-qr').src = "/img/android_qr_hk.png";
+            //     }
+            // })
+
+            // function isInChina(cb) {
+            //     var url = '//graph.facebook.com/feed?callback=h';
+            //     var xhr = new XMLHttpRequest();
+            //     var called = false;
+            //     xhr.open('GET', url);
+            //     xhr.onreadystatechange = function() {
+            //         if (xhr.readyState === 4 && xhr.status === 200) {
+            //             called = true;
+            //             cb(false);
+            //         }
+            //     };
+            //     xhr.send();
+            //     setTimeout(function() {
+            //         if (!called) {
+            //             xhr.abort();
+            //             cb(true);
+            //         }
+            //     }, 1000);
+            // };
+
         })
     </script>
     {% include tongji.html %}
