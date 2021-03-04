@@ -1,5 +1,15 @@
 {
     "cn": [
+        {
+            "title": "Cosmos Network(ATOM) 硬分叉升级已完成，相关功能已恢复",
+            "intro": "Cosmos Network(ATOM) 硬分叉升级已完成。主网运行稳定，比特派 v5.0.016 已恢复相关功能。",
+            "data": "2021-3-4",
+            "watch": 0,
+            "id": 108,
+            "month": "March",
+            "day": "4",
+            "type": 1
+        },
          {
             "title": "关于暂停支持 COCOS 币种的公告",
             "intro": "因 COCOS 官方在近期升级中节点存在异常，同时 COCOS 官方一直未能修复此问题，致使比特派钱包无法获取相关节点数据。比特派决定停止 COCOS 相关业务支持，持有 COCOS 的用户资产安全不会受此影响，可将 COCOS 私钥导入官方钱包进行后续操作。",
