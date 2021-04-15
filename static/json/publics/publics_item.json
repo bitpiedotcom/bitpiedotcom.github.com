@@ -1,5 +1,15 @@
 {
     "cn": [
+                {
+            "title": "关于支持 Ethereum（ETH）网络升级和硬分叉的公告",
+            "intro": "由于 Ethereum（ETH）的网络升级和硬分叉，Ethereum（ETH）将于以太坊区块高度12,244,000（预计时间2021年04月15日17:04 HKT）进行的网络升级。",
+            "data": "2021-4-15",
+            "watch": 0,
+            "id": 109,
+            "month": "April",
+            "day": "15",
+            "type": 1
+        },
         {
             "title": "Cosmos Network(ATOM) 硬分叉升级已完成，相关功能已恢复",
             "intro": "Cosmos Network(ATOM) 硬分叉升级已完成。主网运行稳定，比特派 v5.0.016 已恢复相关功能。",
@@ -968,7 +978,17 @@
             "type": 1
         }
     ],
-    "en": [ {
+    "en": [
+         {
+            "title": "Bitpie will support Ethereum (ETH) network upgrade and hard fork",
+            "intro": "Bitpie will support the upcoming Ethereum (ETH) hard fork & upgrade at the Ethereum block height of 12,244,000(estimated at 09:04 UTC, April 15, 2021). ",
+            "data": "2021-4-15",
+            "watch": 0,
+            "id": 109,
+            "month": "April",
+            "day": "15",
+            "type": 1
+        },{
             "title": "Announcement on suspension of support for COCOS ",
             "intro": "Due to the abnormality of the node during the recent upgrade of COCOS, and COCOS has not been fixed this issue, Bitpie Wallet cannot obtain relevant node.",
             "data": "2021-2-23",

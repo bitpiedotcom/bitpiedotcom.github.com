@@ -1,0 +1,53 @@
+{
+    "cn": {
+        "title": "关于支持 Ethereum（ETH）网络升级和硬分叉的公告",
+        "data": "2021-4-15",
+        "id": 109,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "由于 Ethereum（ETH）的网络升级和硬分叉，Ethereum（ETH）将于以太坊区块高度12,244,000（预计时间2021年04月15日17:04 HKT）进行的网络升级。"
+            },
+            {
+                "type": 0,
+                "data": "为保障您的资产安全，比特派将于 2021年4月15日17:00（香港时间）暂停 ETH 收发、派银行充提等业务。请您提前做好相关规划。"
+            },
+            {
+                "type": 0,
+                "data": "感谢您对比特派 Bitpie 的支持。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2021年4月15日"
+            }
+        ]
+    },
+  "en": {
+    "title": "Bitpie will support Ethereum (ETH) network upgrade and hard fork",
+    "data": "2021-04-15",
+    "id": 109,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "Bitpie will support the upcoming Ethereum (ETH) hard fork & upgrade at the Ethereum block height of 12,244,000(estimated at 09:04 UTC, April 15, 2021). "
+      },
+      {
+        "type": 0,
+        "data": "In order to protect the security of your assets, Bitpie will limit the ETH send and receive function in the APP at 17:00 on 15/04/2021. Please avoid ETH sending and receiving during this period."
+      },
+      {
+        "type": 0,
+        "data": "The related functions will be restored in the first time after the ETH blockchain is stable ."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>April 15, 2021"
+      }
+    ]
+  }
+}
