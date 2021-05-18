@@ -1,6 +1,16 @@
 {
     "cn": [
         {
+            "title": "关于比特派部分业务调整的公告",
+            "intro": "比特派对部分业务调整进行以下公告：",
+            "data": "2021-5-18",
+            "watch": 130,
+            "id": 112,
+            "month": "May",
+            "day": "18",
+            "type": 1
+        },
+        {
             "title": "【比特派】关于派银行停止 Omni 格式 USDT 充提功能的公告",
             "intro": "为了给用户提供更流畅的体验，比特派将于2021年04月30日08:00（香港时间）停止 Omni USDT 的币币兑换、矿工费加油包、派银行充值、提现业务。 钱包内收发不受影响。请您提前做好相关规划，感谢您的理解与支持。",
             "data": "2021-4-28",
@@ -999,6 +1009,16 @@
         }
     ],
     "en": [
+         {
+            "title": "Announcement on the adjustment of Bitpie businesses",
+            "intro": "The following announcement on some business adjustments:",
+            "data": "2021-5-18",
+            "watch": 130,
+            "id": 112,
+            "month": "May",
+            "day": "18",
+            "type": 1
+         },
          {
             "title": "Announcement on suspension of the USDT-Omni deposit and withdrawal of Pie Bank",
             "intro": "In order to improve user experience, Bitpie will stop USDT-Omni's Coin Swap, Miner fee packages, and deposit and withdrawal services of Pie Bank at 08:00 (UTC+8) on April 30, 2021. Sending and receiving in the wallet will not be affected. ",
