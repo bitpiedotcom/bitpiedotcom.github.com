@@ -3,9 +3,8 @@
         "title": "关于比特派部分业务调整的公告",
         "data": "2021-5-18",
         "id": 112,
-        "watch": 130,
-        "message": [
-            {
+        "watch": 100,
+        "message": [{
                 "type": 0,
                 "data": "比特派对部分业务调整进行以下公告："
             },
@@ -21,15 +20,15 @@
                 "type": 0,
                 "data": "2、关于“派银行”"
             },
-                           {
+            {
                 "type": 0,
                 "data": "此功能实质为“云钱包”，与市场上多数钱包开发过的云钱包为同一类型，仅在用户在使用部分功能时作为充提模块使用，鉴于该功能跟“银行”并无关系，我们已在下一个版本中将其更名为“云钱包”。"
             },
-          {
+            {
                 "type": 0,
                 "data": "3、关于“财富”板块”"
             },
-                           {
+            {
                 "type": 0,
                 "data": "财富板块主要为第三方产品的展示页面，之前所展示过的产品均已结清。同时，我们已于去年年底彻底停止了第三方项目，未来财富板块将仅用于为用户提供公链的 Staking 等服务。"
             },
@@ -50,13 +49,13 @@
                 "data": "比特派团队<br/>2021年5月18日"
             }
         ]
-    },"en": {
+    },
+    "en": {
         "title": "Announcement on the adjustment of Bitpie businesses",
         "data": "2021-5-18",
         "id": 112,
         "watch": 130,
-        "message": [
-            {
+        "message": [{
                 "type": 0,
                 "data": "The following announcement on some business adjustments:"
             },
@@ -68,11 +67,11 @@
                 "type": 0,
                 "data": "Bitpie has shut down the one-click trading service a year ago, and has subsequently shut down other services such as OTC and P2P trading. Pure trading is an attempt we have made in the past few months, hoping to keep ordinary users away from \"stolen money and coins\" through strict audits. However, due to extremely strict audits, it has a low transaction volume with excessive development effort, the team then unlisted the pure trading to optimize. However, trading volume has not improved after upgraded. Therefore, we have recently taken the pure trading service offline again. Therefore, there is no more OTC business in Bitpie wallet."
             },
-                 {
+            {
                 "type": 0,
                 "data": "2. About \"Pie Bank\""
             },
-                           {
+            {
                 "type": 0,
                 "data": "This is essentially a \"cloud wallet\", which is the same type as developed by most wallets on the market. It is only used as a deposit and withdrawal when using some functions. Since this function is not related to \"bank\", it will be renamed as \"Cloud Wallet\" in the next version."
             },
@@ -103,44 +102,3 @@
         ]
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-​
-
-
-
