@@ -1,6 +1,14 @@
 {
-    "cn": [
-        {
+    "cn": [{
+            "title": "关于比特派钱包微博账号调整的公告",
+            "intro": "今日，区块链行业多名KOL微博号被封禁，其中包括@比特派钱包 @超级比特币@比特币小侠@八哥谈币@区块链威廉等账号，目前微博官方未给出具体封禁原因。",
+            "data": "2021-6-5",
+            "watch": 131,
+            "id": 113,
+            "month": "June",
+            "day": "5",
+            "type": 1
+        }, {
             "title": "关于比特派部分业务调整的公告",
             "intro": "比特派对部分业务调整进行以下公告：",
             "data": "2021-5-18",
@@ -50,7 +58,7 @@
             "day": "4",
             "type": 1
         },
-         {
+        {
             "title": "关于暂停支持 COCOS 币种的公告",
             "intro": "因 COCOS 官方在近期升级中节点存在异常，同时 COCOS 官方一直未能修复此问题，致使比特派钱包无法获取相关节点数据。比特派决定停止 COCOS 相关业务支持，持有 COCOS 的用户资产安全不会受此影响，可将 COCOS 私钥导入官方钱包进行后续操作。",
             "data": "2021-2-23",
@@ -69,7 +77,7 @@
             "month": "February",
             "day": "18",
             "type": 1
-        },{
+        }, {
             "title": "关于误转币招领的通知",
             "intro": "比特派钱包团队的某个地址上收到了用户（以太坊地址开头 0x9317）转来的 1.5 万 USDT-ERC20 ，此笔转账可能是用户的误操作，因此我们会将这部分 USDT 保留在该地址，如您为转账者，在看到此消息后请与我们联系，核实无误后我们会将其返还。",
             "data": "2021-2-2",
@@ -1008,8 +1016,7 @@
             "type": 1
         }
     ],
-    "en": [
-         {
+    "en": [{
             "title": "Announcement on the adjustment of Bitpie businesses",
             "intro": "The following announcement on some business adjustments:",
             "data": "2021-5-18",
@@ -1018,8 +1025,8 @@
             "month": "May",
             "day": "18",
             "type": 1
-         },
-         {
+        },
+        {
             "title": "Announcement on suspension of the USDT-Omni deposit and withdrawal of Pie Bank",
             "intro": "In order to improve user experience, Bitpie will stop USDT-Omni's Coin Swap, Miner fee packages, and deposit and withdrawal services of Pie Bank at 08:00 (UTC+8) on April 30, 2021. Sending and receiving in the wallet will not be affected. ",
             "data": "2021-4-28",
@@ -1029,7 +1036,7 @@
             "day": "28",
             "type": 1
         },
-         {
+        {
             "title": "Bitpie will support Ethereum (ETH) network upgrade and hard fork",
             "intro": "Bitpie will support the upcoming Ethereum (ETH) hard fork & upgrade at the Ethereum block height of 12,244,000(estimated at 09:04 UTC, April 15, 2021). ",
             "data": "2021-4-15",
@@ -1038,7 +1045,7 @@
             "month": "April",
             "day": "15",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on suspension of support for COCOS ",
             "intro": "Due to the abnormality of the node during the recent upgrade of COCOS, and COCOS has not been fixed this issue, Bitpie Wallet cannot obtain relevant node.",
             "data": "2021-2-23",
@@ -1047,7 +1054,7 @@
             "month": "February",
             "day": "23",
             "type": 1
-        },{
+        }, {
             "title": "Statement on preventing \"false Bitpie official website and Telegram\"",
             "intro": "Recently, we found that there are many fraudulent websites, Telegram and QQ groups that declare themselves to Bitpie official to carry out corresponding businesses in an attempt to defraud user assets.",
             "data": "2021-01-15",
