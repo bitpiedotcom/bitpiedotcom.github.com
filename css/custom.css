@@ -471,6 +471,8 @@ ios-describe h2 {
     text-align: left;
     font-size: 13px;
     color: #999;
+    font-weight: 900;
+    color: red;
 }
 
 .test-flight-content .test-flight-downlaod {
