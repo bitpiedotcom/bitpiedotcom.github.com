@@ -419,7 +419,7 @@ ios-describe h2 {
     border-radius: 8px;
     width: 339px;
     /* height: 323px; */
-    height: 308px;
+    height: 448px;
     margin: auto;
     bottom: 0;
     top: 0;
@@ -466,13 +466,10 @@ ios-describe h2 {
 
 .test-flight-content .warning {
     font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    width: 100%;
-    margin: 3px 35px 18px 20px;
+    margin: 12px 20px 0 20px;
     text-align: left;
     font-size: 13px;
     color: #999;
-    font-weight: 900;
-    color: red;
 }
 
 .test-flight-content .test-flight-downlaod {
