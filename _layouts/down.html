@@ -9,6 +9,15 @@
 
 <body>
 
+    <div class="alert-warning" id="alert-warning">
+        <div class="warning-content">
+            <p class="title">请勿将助记词告知他人，所有向您所要助记词的人和网站都是骗子</p>
+            <div class="sure">
+                <a onclick="hiddenWarning()">确认</a>
+            </div>
+        </div>
+    </div>
+
     {% include down_content.html %} {% include tongji.html %} {% include js.html %}
 
 
@@ -16,6 +25,10 @@
     <script>
         function isMobile() {
             return /iPhone|iPad|iPod/i.test(navigator.userAgent);
+        }
+
+        function hiddenWarning() {
+            document.getElementById('alert-warning').style.display = "none";
         }
 
         function installs() {

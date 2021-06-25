@@ -17,6 +17,16 @@
             </ul>
         </div>
     </div>
+
+    <div class="alert-warning" id="alert-warning">
+        <div class="warning-content">
+            <p class="title">请勿将助记词告知他人，所有向您所要助记词的人和网站都是骗子</p>
+            <div class="sure">
+                <a onclick="hiddenWarning()">确认</a>
+            </div>
+        </div>
+    </div>
+
     <div class="container content">
         <div class="view row">
             <div class="span12" style="text-align:center;">
@@ -39,6 +49,8 @@
                 <span class="label label-info" id="spanlabel"><a class="downloada" href="{{site.androidsha}}" target="_blank"  rel="nofollow noopener noreferrer" >SHA256SUMS</a></span>
             </div>
         </div>
+
+
 
         <hr class="devider devider-dotted">
         <div id="" class="view row margin-bottom-30">
@@ -83,6 +95,10 @@
             }
 
             window.location.href = url;
+        }
+
+        function hiddenWarning() {
+            document.getElementById('alert-warning').style.display = "none";
         }
 
         $(function() {
