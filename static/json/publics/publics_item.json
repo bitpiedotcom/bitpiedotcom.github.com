@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于防范 \"虚假比特派官网\" 的声明",
+            "intro": "近期，经用户反馈，我们发现存在多家冒用比特派名字的骗子网站借由比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。",
+            "data": "2021-07-07",
+            "watch": 396,
+            "id": 118,
+            "month": "July",
+            "day": "7",
+            "type": 1
+        },{
             "title": "关于 BCHA 升级处理方案的公告",
             "intro": "BCHA 官方将于香港时间 2021年7月1日晚进行升级，此次升级将会进行币种的精度调整。为保护广大用户的资产安全，比特派将于2021年7月1日下午18:00（香港时间）暂停 BCHA 收发、派银行充提等业务。\nBCHA 官方将于香港时间 2021年7月1日晚进行升级，此次升级将会进行币种的精度调整。为保护广大用户的资产安全，比特派将于2021年7月1日下午18:00（香港时间）暂停 BCHA 收发、派银行充提等业务。",
             "data": "2021-7-1",
@@ -1053,6 +1062,15 @@
         }
     ],
     "en": [{
+            "title": "Statement on preventing \"false Bitpie official website\"",
+            "intro": "Recently, we found that there are many fraudulent websites, that declare themselves to Bitpie official to carry out corresponding businesses in an attempt to defraud user assets.",
+            "data": "2021-07-07",
+            "watch": 396,
+            "id": 118,
+            "month": "July",
+            "day": "7",
+            "type": 1
+        },{
             "title": "Announcement on the adjustment of Bitpie businesses",
             "intro": "The following announcement on some business adjustments:",
             "data": "2021-5-18",
