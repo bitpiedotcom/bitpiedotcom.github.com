@@ -156,8 +156,12 @@
 
             if (window.location.host == "bitpie.com") {
                 document.getElementById('andorid-qr').src = "/img/android_qr.png";
-            } else {
+            } else if (window.location.host == "bitpiehk.com") {
                 document.getElementById('andorid-qr').src = "/img/android_qr_hk.png";
+            } else if (window.location.host == "bitpiecn.com") {
+                document.getElementById('andorid-qr').src = "/img/bitpie_qr_cn.png";
+            } else if (window.location.host == "bitpieasia.com") {
+                document.getElementById('andorid-qr').src = "/img/bitpie_qr_asia.png";
             }
 
             // isInChina((isChina) => {

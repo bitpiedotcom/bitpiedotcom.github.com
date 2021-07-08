@@ -48,7 +48,7 @@
             <div class="span12" style="text-align:center;">
                 <span lang="en">Use your cell phone  to install by scaning the qr code</span> <br />
                 <br />
-                <img src="/img/bitherandroid.png" />
+                <img id="andorid-hd-qr" src="/img/bitherandroid.png" />
             </div>
         </div>
     </div>
@@ -85,10 +85,7 @@
 
         $(function() {
             function run() {
-
                 document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
-
-
             }
 
             if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
@@ -114,6 +111,17 @@
                 div.innerHTML = '<p><img src="/img/live_weixin.png"  styl alt="微信打开" /></p>';
                 document.body.appendChild(div);
             }
+
+            if (window.location.host == "bitpie.com") {
+                document.getElementById('andorid-hd-qr').src = "/img/bitherandroid.png";
+            } else if (window.location.host == "bitpiehk.com") {
+                document.getElementById('andorid-hd-qr').src = "/img/bitherandroid.png";
+            } else if (window.location.host == "bitpiecn.com") {
+                document.getElementById('andorid-hd-qr').src = "/img/bithd_cn.png";
+            } else if (window.location.host == "bitpieasia.com") {
+                document.getElementById('andorid-hd-qr').src = "/img/bithd_asia.png";
+            }
+
 
             function loadStyleText(cssText) {
                 var style = document.createElement('style');
