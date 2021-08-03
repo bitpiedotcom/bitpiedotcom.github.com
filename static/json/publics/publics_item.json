@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于支持 Ethereum（ETH）伦敦升级的公告",
+            "intro": "以太坊网络将在 12,965,000 区块高度升级，代号：London（伦敦），预计升级时间为 2021 年 8 月 5 日。",
+            "data": "2021-08-03",
+            "watch": 396,
+            "id": 119,
+            "month": "August",
+            "day": "3",
+            "type": 1
+        },{
             "title": "关于防范 \"虚假比特派官网\" 的声明",
             "intro": "近期，经用户反馈，我们发现存在多家冒用比特派名字的骗子网站借由比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。",
             "data": "2021-07-07",
@@ -1062,6 +1071,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on the Ethereum’s London Upgrade",
+            "intro": "At block height 12,965,000, or approximately 2021-08-05 11:55 (UTC), the Ethereum (ETH) blockchain is scheduled to undergo the London Hard Fork.",
+            "data": "2021-08-03",
+            "watch": 396,
+            "id": 119,
+            "month": "August",
+            "day": "3",
+            "type": 1
+        },{
             "title": "Statement on preventing \"false Bitpie official website\"",
             "intro": "Recently, we found that there are many fraudulent websites, that declare themselves to Bitpie official to carry out corresponding businesses in an attempt to defraud user assets.",
             "data": "2021-07-07",

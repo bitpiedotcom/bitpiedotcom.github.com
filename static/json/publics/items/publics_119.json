@@ -1,0 +1,74 @@
+{
+  "cn": {
+    "title": "关于支持 Ethereum（ETH）伦敦升级的公告",
+    "data": "2021-08-03",
+    "id": 119,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "以太坊网络将在 12,965,000 区块高度升级，代号：London（伦敦），预计升级时间为 2021 年 8 月 5 日。"
+      },
+      {
+        "type": 0,
+        "data": "比特派会支持此次升级，为保障您的资产安全，升级期间尽量避免转账。请您提前做好相关规划。"
+      },
+      {
+        "type": 0,
+        "data": "查看升级倒计时 <a href='https://goto.etherscan.com/block/countdown/12965000' target='_blank'>https://goto.etherscan.com/block/countdown/12965000</a>"
+      },
+      {
+        "type": 0,
+        "data": "升级内容详述 <a href='https://medium.com/ethereum-cat-herders/london-upgrade-overview-8eccb0041b41' target='_blank'>https://medium.com/ethereum-cat-herders/london-upgrade-overview-8eccb0041b41</a>"
+      },
+      {
+        "type": 0,
+        "data": "以太坊博客 <a href='https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/' target='_blank'>https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/</a>"
+      },
+      {
+        "type": 0,
+        "data": "感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2021/08/03"
+      }
+    ]
+  },
+    "en": {
+    "title": "Announcement on the Ethereum’s London Upgrade",
+    "data": "2021-08-03",
+    "id": 119,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "At block height 12,965,000, or approximately 2021-08-05 11:55 (UTC), the Ethereum (ETH) blockchain is scheduled to undergo the London Hard Fork."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie will support the upgrade,In order to protect the security of your assets, Please avoid ETH sending and receiving during this period."
+      },
+      {
+        "type": 0,
+        "data": "Countdown For Block <a href='https://goto.etherscan.com/block/countdown/12965000' target='_blank'>https://goto.etherscan.com/block/countdown/12965000</a>"
+      },
+      {
+        "type": 0,
+        "data": "London Upgrade Overview <a href='https://medium.com/ethereum-cat-herders/london-upgrade-overview-8eccb0041b41' target='_blank'>https://medium.com/ethereum-cat-herders/london-upgrade-overview-8eccb0041b41</a>"
+      },
+      {
+        "type": 0,
+        "data": "London Mainnet Announcement <a href='https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/' target='_blank'>https://blog.ethereum.org/2021/07/15/london-mainnet-announcement/</a>"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>August 3, 2021"
+      }
+    ]
+  }
+}
