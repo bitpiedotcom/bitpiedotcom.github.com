@@ -3909,7 +3909,7 @@ body{overflow-x:hidden
 }
 .message-body-rol{padding-top:25px
 }
-.message-body-rol a{color:#2d49c6 !important;cursor:pointer
+.message-body-rol a{color:#2d49c6 !important;cursor:pointer;word-break:break-word
 }
 .message-body-rol .import{color:red !important
 }
