@@ -15,7 +15,11 @@
       },
       {
         "type": 0,
-        "data": "比特派会支持此次升级，为保障您的资产安全，升级期间尽量避免转账。请您提前做好相关规划。"
+        "data": "比特派会支持此次升级，为保护广大用户的资产安全，比特派将于2021年8月5日下午19:00（香港时间）暂停 ETH 收发、派银行充提等业务。请提前做好规划"
+      },
+      {
+        "type": 0,
+        "data": "相关服务将在升级稳定后第一时间恢复。感谢您对比特派 Bitpie 的支持。"
       },
       {
         "type": 0,
@@ -51,7 +55,11 @@
       },
       {
         "type": 0,
-        "data": "Bitpie will support the upgrade,In order to protect the security of your assets, Please avoid ETH sending and receiving during this period."
+        "data": "Bitpie will support the upgrade,In order to protect the security of your assets, Bitpie will limit the ETH send and receive function in the APP at 19:00 on 05/08/2021. Please avoid ETH sending and receiving during this period."
+      },
+      {
+        "type": 0,
+        "data": "The related functions will be restored in the first time after the ETH blockchain is stable ."
       },
       {
         "type": 0,
