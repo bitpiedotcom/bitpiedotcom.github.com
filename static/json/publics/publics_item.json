@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "Ethereum（ETH）伦敦升级已完成，转账功能已恢复",
+            "intro": "Ethereum（ETH）伦敦升级已完成，目前主网运行稳定，转账功能已恢复。",
+            "data": "2021-08-06",
+            "watch": 396,
+            "id": 122,
+            "month": "August",
+            "day": "5",
+            "type": 1
+        },{
             "title": "因 BSV 网络遭遇大规模攻击，暂停 BSV 发币的公告",
             "intro": "8 月 4 日凌晨，BitcoinSV（BSV）网络遭遇了一次大规模 51% 的攻击，导致同时出现了三个版本的 BSV 链。",
             "data": "2021-08-04",
@@ -1089,6 +1098,15 @@
         }
     ],
     "en": [{
+            "title": "The Ethereum (ETH) London Upgrade has been completed",
+            "intro": "The Ethereum (ETH) London upgrade has been completed, the main network is currently operating stably, and the transfer function has been restored.",
+            "data": "2021-08-05",
+            "watch": 396,
+            "id": 122,
+            "month": "August",
+            "day": "5",
+            "type": 1
+        },{
             "title": "Announcement on the Ethereum’s London Upgrade",
             "intro": "At block height 12,965,000, or approximately 2021-08-05 11:55 (UTC), the Ethereum (ETH) blockchain is scheduled to undergo the London Hard Fork.",
             "data": "2021-08-03",
