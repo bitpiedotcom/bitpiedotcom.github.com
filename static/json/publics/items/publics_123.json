@@ -49,5 +49,53 @@
                 "data": "比特派团队<br/>2021/08/12"
             }
         ]
-    }
+    },
+    "en": {
+        "title": "Announcement on suggesting that Apple users upgrade the Bitpie app to the PRO version",
+        "data": "2021-08-12",
+        "id": 122,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>Before operation of your wallet, make sure that your mnemonic phrase has been properly backed up. You should never uninstall your wallet unless you make sure that your mnemonic phrase and the private key are stored well and verified.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "Currently there are two versions of Bitpie and Bitpie PRO in the Apple store."
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img src=\"/img/ann_bitpiepro1_en.jpg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "The two versions are developed by the Bitpie team with the same security. Due to the functional complete of the PRO version, to avoid accidentally downloading the old version to affect the experience, the Bitpie team will remove the old version of the APP on August 16, 2021, and  the Apple store to retain only the most complete function PRO version."
+            },
+            {
+                "type": 0,
+                "data": "No action is required for Android users. "
+            },
+            {
+                "type": 0,
+                "data": "Update tutorial:"
+            },
+            {
+                "type": 0,
+                "data": "Open APP Store , log in your Apple ID, searching Bitpie, and download and install Bitpie with PRO mark."
+            },
+            {
+                "type": 0,
+                "data": "Open the Bitpie APP with the mark, click [Restore Old Wallet], and enter the mnemonic phrase of your old Bitpie APP to restore the account."
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 300px;margin: 0 auto;\" src=\"/img/ann_bitpiepro2_en.jpg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>August 12, 2021"
+            }
+    ]
+  }
 }

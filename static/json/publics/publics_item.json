@@ -1107,6 +1107,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on suggesting that Apple users upgrade the Bitpie app to the PRO version",
+            "intro": "Before operation of your wallet, make sure that your mnemonic phrase has been properly backed up. You should never uninstall your wallet unless you make sure that your mnemonic phrase and the private key are stored well and verified.",
+            "data": "2021-08-12",
+            "watch": 396,
+            "id": 123,
+            "month": "August",
+            "day": "12",
+            "type": 1
+        },{
             "title": "The Ethereum (ETH) London Upgrade has been completed",
             "intro": "The Ethereum (ETH) London upgrade has been completed, the main network is currently operating stably, and the transfer function has been restored.",
             "data": "2021-08-05",
