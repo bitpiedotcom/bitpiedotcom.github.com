@@ -1,54 +1,53 @@
 {
-  "cn": {
-    "title": "建议苹果用户将比特派 APP 升级到 PRO 版本的公告",
-    "data": "2021-08-12",
-    "id": 123,
-    "watch": 396,
-    "message": [
-      {
-        "type": 0,
-        "data": "亲爱的派友："
-      },
-      {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！</strong>"
-      },
-      {
-        "type": 0,
-        "data": "当前在苹果商店存在 Bitpie 与 Bitpie PRO 两版本比特派 APP"
-      },
-      {
-        "type": 0,
-        "data": "<p style=\"text-align: center;\"><img style=\"max-width: 300px;margin: 0 auto;\" src=\"/img/ann_bitpiepro1.jpg\"></p>"
-      },
-      {
-        "type": 0,
-        "data": "两版本均为比特派团队开发，安全性一致。因 PRO 版本功能更完善，为避免用户误下载旧版本影响体验，比特派团队将于2021年8月16日对旧版本 APP 进行下架，后续在苹果商店仅保留功能最完备的 PRO 版本。"
-      },
-      {
-        "type": 0,
-        "data": "请苹果普通版本用户及时迁移到 PRO 版本，安卓用户无需操作。"
-      },
-      {
-        "type": 0,
-        "data": "更新教程："
-      },
-      {
-        "type": 0,
-        "data": "打开 APP STORE ，登陆海外苹果 ID，搜索比特派，并下载安装带 PRO 角标的比特派。"
-      },
-      {
-        "type": 0,
-        "data": "打开带 PRO 角标的比特派 APP 首页，点击【恢复旧钱包】，输入你旧版比特派 APP 的助记词，即可将旧版 APP 的账户恢复到新版 APP 上。"
-      },
-      {
-        "type": 0,
-        "data": "<p style=\"text-align: center;\"><img style=\"max-width: 300px;margin: 0 auto;\" src=\"/img/ann_bitpiepro2.jpg\"></p>"
-      },
-      {
-        "type": 0,
-        "data": "比特派团队<br/>2021/08/12"
-      }
-    ]
-  }
+    "cn": {
+        "title": "建议苹果用户将比特派 APP 升级到 PRO 版本的公告",
+        "data": "2021-08-12",
+        "id": 123,
+        "watch": 396,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！</strong>"
+            },
+            {
+                "type": 0,
+                "data": "当前在苹果商店存在 Bitpie 与 Bitpie PRO 两版本比特派 APP"
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img src=\"/img/ann_bitpiepro1.jpg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "两版本均为比特派团队开发，安全性一致。因 PRO 版本功能更完善，为避免用户误下载旧版本影响体验，比特派团队将于2021年8月16日对旧版本 APP 进行下架，后续在苹果商店仅保留功能最完备的 PRO 版本。"
+            },
+            {
+                "type": 0,
+                "data": "请苹果普通版本用户及时迁移到 PRO 版本，安卓用户无需操作。"
+            },
+            {
+                "type": 0,
+                "data": "更新教程："
+            },
+            {
+                "type": 0,
+                "data": "打开 APP STORE ，登陆海外苹果 ID，搜索比特派，并下载安装带 PRO 角标的比特派。"
+            },
+            {
+                "type": 0,
+                "data": "打开带 PRO 角标的比特派 APP 首页，点击【恢复旧钱包】，输入你旧版比特派 APP 的助记词，即可将旧版 APP 的账户恢复到新版 APP 上。"
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 300px;margin: 0 auto;\" src=\"/img/ann_bitpiepro2.jpg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2021/08/12"
+            }
+        ]
+    }
 }
