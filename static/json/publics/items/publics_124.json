@@ -1,6 +1,6 @@
 {
   "cn": {
-    "title": "警惕恶意项目方，欺骗授权盗取用户资产的骗局",
+    "title": "警惕恶意授权骗局的公告",
     "data": "2021-08-18",
     "id": 124,
     "watch": 396,
@@ -11,15 +11,15 @@
       },
       {
         "type": 0,
-        "data": "经用户反馈，最近市场上已出现新型的诈骗手段，具体诈骗形式如下："
+        "data": "经用户反馈，近期市场中骗取授权的盗币事件频发。"
       },
       {
         "type": 0,
-        "data": "恶意项目方 <a href='http://eth-cat.com' target='_blank'>http://eth-cat.com</a>、<a href='https://eth-cat.co' target='_blank'>https://eth-cat.co</a> 在 Telegram 上建立群组宣传项目，前期以高额收益吸引用户参与，骗取用户授权后，择机将用户地址上的资产全部转走。"
+        "data": "风险项目方 <a href='http://eth-cat.com' target='_blank'>http://eth-cat.com</a>、<a href='https://eth-cat.co' target='_blank'>https://eth-cat.co</a> 以高额收益吸引用户参与，在用户参与该项目时，骗取用户授权，而后盗取转移用户地址上的资产。"
       },
       {
         "type": 0,
-        "data": "为了避免资产损失，用户需谨记："
+        "data": "为了避免此类骗局造成您的资产损失，您需谨记："
       },
       {
         "type": 0,
@@ -27,7 +27,14 @@
       },
       {
         "type": 0,
-        "data": "2、Telegram 号称高收益的项目都要谨慎参与，你盯著收益，诈骗团伙盯著你的本金。"
+        "data": "2、请勿参与任何陌生人主动推荐的高收益项目；"
+      },
+      { "type": 0,
+        "data": "3、Telegram 中诈骗项目居多，请勿轻信他人；"
+      },
+      {
+        "type": 0,
+        "data": "4、如不小心向风险项目授权，请及时转移资产并不要再用此地址进行收款。"
       },
       {
         "type": 0,
