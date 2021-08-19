@@ -30,5 +30,37 @@
         "data": "比特派团队<br/>2021/08/19"
       }
     ]
+  },
+  "en": {
+        "title": "Announcement on the BTM Mainnet Upgrade",
+        "data": "2021-08-19",
+        "id": 125,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "According to the official news of Bytom, Bytom will switch and upgrade the Bytom2.0 mainnet at block height 709,660 (estimated at 10:00 UTC+8 on August 20, 2021). "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie does not support BTM 2.0 mapping at the moment, please transfer your assets to the official wallet of Bytom. In order to ensure the safety of user assets, Bitpie will suspend BTM1.0 sending and receiving during the upgrade period. "
+            },
+            {
+                "type": 0,
+                "data": "Bytom official website: <a href='https://bytom.io/zh/' target='_blank'>https://bytom.io/zh/</a>"
+            },
+            {
+                "type": 0,
+                "data": "Thank you for your support to Bitpie. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>August 19, 2021"
+            }
+    ]
   }
 }
