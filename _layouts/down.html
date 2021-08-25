@@ -111,8 +111,7 @@
     <script>
         var testFlightBtn = document.getElementById("ios-test-flight");
         testFlightBtn.onclick = function() {
-            var testFlightBox = document.querySelector(".alert-test-flight");
-            testFlightBox.style.display = "flex";
+            showDownloadTestWarning();
         }
 
         var testFlightBox = document.querySelector(".alert-test-flight");
@@ -126,6 +125,38 @@
             cls = cls || '';
             if (cls.replace(/\s/g, '').length == 0) return false;
             return new RegExp(' ' + cls + ' ').test(' ' + elem.className + ' ');
+        }
+    </script>
+
+    <script>
+        function showDownloadWarning() {
+            document.getElementById('download-warning').style.display = "block";
+        }
+
+        function downloadSureClick() {
+            if (document.getElementById("box1").checked &&
+                document.getElementById("box2").checked &&
+                document.getElementById("box3").checked &&
+                document.getElementById("box4").checked) {
+                document.getElementById('download-warning').style.display = "none";
+                window.location.href = "https://apps.apple.com/us/app/bitpie-wallet/id1481314229";
+            }
+        }
+
+        function showDownloadTestWarning() {
+            document.getElementById('download-warning-test').style.display = "block";
+        }
+
+        function downloadTestSureClick() {
+            if (document.getElementById("box-test1").checked &&
+                document.getElementById("box-test2").checked &&
+                document.getElementById("box-test3").checked &&
+                document.getElementById("box-test4").checked &&
+                document.getElementById("box-test5").checked) {
+                document.getElementById('download-warning-test').style.display = "none";
+                var testFlightBox = document.querySelector(".alert-test-flight");
+                testFlightBox.style.display = "flex";
+            }
         }
     </script>
 

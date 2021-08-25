@@ -12,7 +12,7 @@
     </div>
 
     <div class="app-store">
-        <a href="https://apps.apple.com/us/app/bitpie-wallet/id1481314229">海外AppStore版 下载</a>
+        <a onclick="showDownloadWarning()">海外AppStore版 下载</a>
     </div>
 
     <a class="register-apple-id" href="https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519" target="_blank" rel="nofollow noopener noreferrer">海外苹果 ID 注册教程 ></a>
@@ -51,5 +51,64 @@
             <a href="https://testflight.apple.com/join/GJIPhGmA" target="_blank" rel="nofollow noopener noreferrer">前往下载</a>
         </div>
         <a class="test-flight-course" href="https://testflight.apple.com/join/qF8QUlUl" target="_blank" rel="nofollow noopener noreferrer">详细教程</a>
+    </div>
+</div>
+
+
+<div class="download-warning" id="download-warning">
+    <div class="warning-content">
+        <p class="title">下载前须知</p>
+        <div class="check-box">
+            <p class="box">
+                <input type="checkbox" id="box1">
+                <label for="cbox1">在创建钱包时，我保证不会让任何人知晓我的助记词（十二个单词）</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box2">
+                <label for="cbox1">我知道所有向我索要助记词的人和网站都是骗子。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box3">
+                <label for="cbox1">我知道所有自称风控部门且要指导我操作钱包的都是骗子。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box4">
+                <label for="cbox1">我知道助记词一旦泄露给他人，钱包内资产就会被盗走。</label>
+            </p>
+        </div>
+        <div class="sure">
+            <a onclick="downloadSureClick()">我知道了</a>
+        </div>
+    </div>
+</div>
+
+<div class="download-warning-test" id="download-warning-test">
+    <div class="warning-content">
+        <p class="title">下载前须知</p>
+        <div class="check-box">
+            <p class="box">
+                <input type="checkbox" id="box-test1">
+                <label for="cbox1">我知晓TESTFLIGHT版本为测试版，使用过程中一定要保存好助记词（十二个单词）。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box-test2">
+                <label for="cbox1">在创建钱包时，我保证不会让任何人知晓我的助记词。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box-test3">
+                <label for="cbox1">我知道所有向我索要助记词的人和网站都是骗子。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box-test4">
+                <label for="cbox1">我知道所有自称风控部门且要指导我操作钱包的都是骗子。</label>
+            </p>
+            <p class="box">
+                <input type="checkbox" id="box-test5">
+                <label for="cbox1">我知道助记词一旦泄露给他人，钱包内资产就会被盗走。</label>
+            </p>
+        </div>
+        <div class="sure">
+            <a onclick="downloadTestSureClick()">我知道了</a>
+        </div>
     </div>
 </div>

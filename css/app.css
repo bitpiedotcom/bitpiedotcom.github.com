@@ -3487,7 +3487,9 @@ img.img-circle {
     margin-top: 10px !important;
 }
 
-.alert-warning {
+.alert-warning,
+.download-warning,
+.download-warning-test {
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
@@ -3497,7 +3499,9 @@ img.img-circle {
     z-index: 1
 }
 
-.alert-warning .warning-content {
+.alert-warning .warning-content,
+.download-warning .warning-content,
+.download-warning-test .warning-content {
     overflow: hidden;
     background: #ffffff;
     border-radius: 8px;
@@ -3509,7 +3513,22 @@ img.img-circle {
     top: calc(50% - 154px);
 }
 
-.alert-warning .warning-content .title {
+.download-warning .warning-content {
+    height: 368px;
+}
+
+.download-warning-test .warning-content {
+    height: 420px;
+}
+
+.download-warning,
+.download-warning-test {
+    display: none;
+}
+
+.alert-warning .warning-content .title,
+.download-warning .warning-content .title,
+.download-warning-test .warning-content .title {
     font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 25px 20px;
     text-align: center;
@@ -3518,7 +3537,17 @@ img.img-circle {
     line-height: 24px;
 }
 
-.alert-warning .warning-content .sure {
+.box {
+    margin: 10px;
+}
+
+.box label {
+    display: contents;
+}
+
+.alert-warning .warning-content .sure,
+.download-warning .warning-content .sure,
+.download-warning-test .warning-content .sure {
     width: 270px;
     height: 44px;
     margin: 32px auto 0px;
@@ -3527,7 +3556,9 @@ img.img-circle {
     box-shadow: 0 2px 5px 0 rgba(47, 65, 106, 0.3);
 }
 
-.alert-warning .warning-content .sure a {
+.alert-warning .warning-content .sure a,
+.download-warning .warning-content .sure a,
+.download-warning-test .warning-content .sure a {
     font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 100%;
     height: 100%;
