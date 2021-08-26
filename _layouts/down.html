@@ -129,6 +129,32 @@
     </script>
 
     <script>
+        var download = document.getElementById("warning-content");
+        download.onclick = function(e) {
+            if (e && e.stopPropagation) {
+                e.stopPropagation();
+            } else {
+                window.event.cancelBubble = true;
+            }
+        }
+
+        var downloadTest = document.getElementById("warning-content-test");
+        downloadTest.onclick = function(e) {
+            if (e && e.stopPropagation) {
+                e.stopPropagation();
+            } else {
+                window.event.cancelBubble = true;
+            }
+        }
+
+        function hiddenDownloadWarning() {
+            document.getElementById('download-warning').style.display = "none";
+        }
+
+        function hiddenDownloadWarningTest() {
+            document.getElementById('download-warning-test').style.display = "none";
+        }
+
         function showDownloadWarning() {
             document.getElementById('download-warning').style.display = "block";
         }

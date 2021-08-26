@@ -27,8 +27,8 @@
         </div>
     </div>
 
-    <div class="download-warning" id="download-warning">
-        <div class="warning-content">
+    <div class="download-warning" id="download-warning" onclick="hiddenDownloadWarning()">
+        <div class="warning-content" id="warning-content">
             <p class="title">下载前须知</p>
             <div class="check-box">
                 <p class="box">
@@ -131,6 +131,10 @@
             document.getElementById('download-warning').style.display = "block";
         }
 
+        function hiddenDownloadWarning() {
+            document.getElementById('download-warning').style.display = "none";
+        }
+
         function downloadSureClick() {
             if (document.getElementById("box1").checked &&
                 document.getElementById("box2").checked &&
@@ -143,10 +147,16 @@
 
         $(function() {
             function run() {
-
                 document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
+            }
 
-
+            var download = document.getElementById("warning-content");
+            download.onclick = function(e) {
+                if (e && e.stopPropagation) {
+                    e.stopPropagation();
+                } else {
+                    window.event.cancelBubble = true;
+                }
             }
 
             if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
