@@ -11,7 +11,8 @@
 
     <div class="alert-warning" id="alert-warning">
         <div class="warning-content">
-            <p class="title">请勿将助记词告知他人，所有向您索要助记词的人和网站都是骗子</p>
+            <!-- <p class="title">请勿将助记词告知他人，所有向您索要助记词的人和网站都是骗子</p> -->
+            <p class="title">请勾选下载须知</p>
             <div class="sure">
                 <a onclick="hiddenWarning()">确认</a>
             </div>
@@ -166,6 +167,8 @@
                 document.getElementById("box4").checked) {
                 document.getElementById('download-warning').style.display = "none";
                 window.location.href = "https://apps.apple.com/us/app/bitpie-wallet/id1481314229";
+            } else {
+                document.getElementById('alert-warning').style.display = "block";
             }
         }
 
@@ -182,6 +185,8 @@
                 document.getElementById('download-warning-test').style.display = "none";
                 var testFlightBox = document.querySelector(".alert-test-flight");
                 testFlightBox.style.display = "flex";
+            } else {
+                document.getElementById('alert-warning').style.display = "block";
             }
         }
     </script>

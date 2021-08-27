@@ -20,7 +20,8 @@
 
     <div class="alert-warning" id="alert-warning">
         <div class="warning-content">
-            <p class="title">请勿将助记词告知他人，所有向您索要助记词的人和网站都是骗子</p>
+            <!-- <p class="title">请勿将助记词告知他人，所有向您索要助记词的人和网站都是骗子</p> -->
+            <p class="title">请勾选下载须知</p>
             <div class="sure">
                 <a onclick="hiddenWarning()">确认</a>
             </div>
@@ -31,22 +32,22 @@
         <div class="warning-content" id="warning-content">
             <p class="title">下载前须知</p>
             <div class="check-box">
-                <p class="box">
+                <div class="box">
                     <input type="checkbox" id="box1">
-                    <label for="cbox1">在创建钱包时，我保证不会让任何人知晓我的助记词（十二个单词）</label>
-                </p>
-                <p class="box">
+                    <p>在创建钱包时，我保证不会让任何人知晓我的助记词（十二个单词）</p>
+                </div>
+                <div class="box">
                     <input type="checkbox" id="box2">
-                    <label for="cbox1">我知道所有向我索要助记词的人和网站都是骗子。</label>
-                </p>
-                <p class="box">
+                    <p for="cbox1">我知道所有向我索要助记词的人和网站都是骗子。</p>
+                </div>
+                <div class="box">
                     <input type="checkbox" id="box3">
-                    <label for="cbox1">我知道所有自称风控部门且要指导我操作钱包的都是骗子。</label>
-                </p>
-                <p class="box">
+                    <p for="cbox1">我知道所有自称风控部门且要指导我操作钱包的都是骗子。</p>
+                </div>
+                <div class="box">
                     <input type="checkbox" id="box4">
-                    <label for="cbox1">我知道助记词一旦泄露给他人，钱包内资产就会被盗走。</label>
-                </p>
+                    <p for="cbox1">我知道助记词一旦泄露给他人，钱包内资产就会被盗走。</p>
+                </div>
             </div>
             <div class="sure">
                 <a onclick="downloadSureClick()">我知道了</a>
@@ -142,6 +143,8 @@
                 document.getElementById("box4").checked) {
                 document.getElementById('download-warning').style.display = "none";
                 install();
+            } else {
+                document.getElementById('alert-warning').style.display = "block";
             }
         }
 

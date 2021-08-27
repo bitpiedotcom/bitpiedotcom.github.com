@@ -269,6 +269,7 @@
     font-size: 17px;
     clear: both;
     display: block;
+    text-decoration: none;
 }
 
 .register-apple-id {

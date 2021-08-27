@@ -3496,7 +3496,12 @@ img.img-circle {
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1
+    z-index: 1;
+    display: none;
+}
+
+.alert-warning {
+    z-index: 10;
 }
 
 .alert-warning .warning-content,
@@ -3505,20 +3510,30 @@ img.img-circle {
     overflow: hidden;
     background: #ffffff;
     border-radius: 8px;
-    width: 339px;
-    height: 168px;
+    max-width: 325px;
+    width: 90%;
+    height: 140px;
     margin: auto;
     bottom: 0;
     position: relative;
-    top: calc(50% - 154px);
+    top: calc(50% - 70px);
 }
 
 .download-warning .warning-content {
-    height: 368px;
+    height: 359px !important;
+    top: calc(50% - 179px) !important;
 }
 
 .download-warning-test .warning-content {
-    height: 420px;
+    height: 408px;
+    top: calc(50% - 204px) !important;
+}
+
+@media screen and (max-width: 320px) {
+    .download-warning-test .warning-content {
+        height: 428px;
+        top: calc(50% - 214px) !important;
+    }
 }
 
 .download-warning,
@@ -3532,25 +3547,39 @@ img.img-circle {
     font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 25px 20px;
     text-align: center;
-    font-size: 18px;
-    color: red;
+    font-size: 17px;
+    color: black;
     line-height: 24px;
 }
 
 .box {
-    margin: 10px;
+    margin: 10px 15px;
+    text-align: left;
 }
 
-.box label {
-    display: contents;
+.box input {
+    margin-right: 8px;
+    display: inline-block;
+    vertical-align: top;
+    width: 13px;
+    margin-top: 3px;
+}
+
+.box p {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 0;
+    width: calc(100% - 25px);
 }
 
 .alert-warning .warning-content .sure,
 .download-warning .warning-content .sure,
 .download-warning-test .warning-content .sure {
-    width: 270px;
+    width: 260px;
     height: 44px;
-    margin: 32px auto 0px;
+    margin: 32px auto 15px;
     border-radius: 8px;
     background-image: linear-gradient( 49deg, #2ea3c9 0%, #3a33cf 36%, #320685 100%);
     box-shadow: 0 2px 5px 0 rgba(47, 65, 106, 0.3);
