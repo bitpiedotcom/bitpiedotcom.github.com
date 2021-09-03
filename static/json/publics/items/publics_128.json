@@ -1,0 +1,26 @@
+{
+  "cn": {
+    "title": "比特派 Bitpie 已正式支持 Arbitrum 主网",
+    "data": "2021-09-02",
+    "id": 128,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "Arbitrum 是目前非常热门的 Layer2 扩容方案，是由 Offchain Labs 团队构建的以太坊链上合约管理链下协议，旨在安全、便捷地实现以太坊扩容。开发者使用 Solidity 编写一组 DApp 合约，然后将这些合约编译成可以在 Arbitrum 虚拟机上运行的可执行代码，运行速度会更快。"
+      },
+      {
+        "type": 0,
+        "data": "比特派目前已正式支持 Arbitrum 主网。"
+      },
+      {
+        "type": 0,
+        "data": "在比特派钱包上使用 Arbitrum 网络教程: <a href='https://bitpie.zendesk.com/hc/zh-cn/articles/4405899539343'target='_blank'>https://bitpie.zendesk.com/hc/zh-cn/articles/4405899539343</a>"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2021/09/02"
+      }
+    ]
+  }
+}
