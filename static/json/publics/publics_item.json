@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于进行 Ethereum Classic（ETC）节点升级的公告",
+            "intro": "比特派正在对 Ethereum Classic（ETC）节点进行升级 ，为保障您的资产安全，当前已暂停 ETC 收发、云钱包充提等业务。",
+            "data": "2021-09-04",
+            "watch": 298,
+            "id": 129,
+            "month": "September",
+            "day": "04",
+            "type": 1
+        },{
             "title": "比特派 Bitpie 已正式支持 Arbitrum 主网",
             "intro": "Arbitrum 是目前非常热门的 Layer2 扩容方案，是由 Offchain Labs 团队构建的以太坊链上合约管理链下协议，旨在安全、便捷地实现以太坊扩容。开发者使用 Solidity 编写一组 DApp 合约，然后将这些合约编译成可以在 Arbitrum 虚拟机上运行的可执行代码，运行速度会更快。",
             "data": "2021-09-02",
