@@ -3525,14 +3525,14 @@ img.img-circle {
 }
 
 .download-warning-test .warning-content {
-    height: 408px;
-    top: calc(50% - 204px) !important;
+    height: 480px;
+    top: calc(50% - 234px) !important;
 }
 
 @media screen and (max-width: 320px) {
     .download-warning-test .warning-content {
-        height: 428px;
-        top: calc(50% - 214px) !important;
+        height: 500px;
+        top: calc(50% - 244px) !important;
     }
 }
 

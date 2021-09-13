@@ -418,12 +418,19 @@ ios-describe h2 {
     overflow: hidden;
     background: #FFFFFF;
     border-radius: 8px;
-    width: 339px;
+    max-width: 339px;
+    width: 90%;
     /* height: 323px; */
     height: 448px;
     margin: auto;
     bottom: 0;
     top: 0;
+}
+
+@media (max-width: 320px) {
+    .alert-test-flight .test-flight-content {
+        height: 480px;
+    }
 }
 
 .test-flight-content .title {
