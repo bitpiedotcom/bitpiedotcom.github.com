@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "TestFlight 公测版用户请使用正式版 Bitpie App",
+            "intro": "苹果系统上的 TestFlight（简称：TF ） 版本 bitpie APP 为小规模测试版本 APP，旨在让用户快速体验区块链行业的新功能，同时 TF 版本自发布以来也一直严格遵守苹果公司的相关准则。",
+            "data": "2021-09-13",
+            "watch": 298,
+            "id": 130,
+            "month": "September",
+            "day": "13",
+            "type": 1
+        },{
             "title": "关于进行 Ethereum Classic（ETC）节点升级的公告",
             "intro": "比特派正在对 Ethereum Classic（ETC）节点进行升级 ，为保障您的资产安全，当前已暂停 ETC 收发、云钱包充提等业务。",
             "data": "2021-09-04",
