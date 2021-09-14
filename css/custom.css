@@ -225,8 +225,8 @@
     display: block;
     margin: 18px auto 0;
     border-radius: 23.5px;
-    background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
-    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.50);
+    background-image: linear-gradient(49deg, #2EA3C926 0%, #3A33CF26 36%, #32068526 100%);
+    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.20);
     cursor: pointer;
 }
 
@@ -236,10 +236,11 @@
     height: 100%;
     line-height: 47px;
     text-align: center;
+    color: #374ACE;
     font-size: 17px;
-    color: #FFFFFF;
-    letter-spacing: 0;
-    cursor: pointer;
+    clear: both;
+    display: block;
+    text-decoration: none;
 }
 
 .ios-test-flight-mark {
@@ -255,8 +256,9 @@
     display: block;
     margin: 18px auto 0;
     border-radius: 23.5px;
-    background-image: linear-gradient(49deg, #2EA3C926 0%, #3A33CF26 36%, #32068526 100%);
-    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.20);
+    background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
+    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.50);
+    text-align: center;
 }
 
 .app-store a {
@@ -265,10 +267,10 @@
     height: 100%;
     line-height: 47px;
     text-align: center;
-    color: #374ACE;
     font-size: 17px;
-    clear: both;
-    display: block;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    cursor: pointer;
     text-decoration: none;
 }
 

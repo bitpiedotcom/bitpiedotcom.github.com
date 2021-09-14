@@ -3488,6 +3488,7 @@ img.img-circle {
 }
 
 .alert-warning,
+.alert-warning-testflight,
 .download-warning,
 .download-warning-test {
     width: 100%;
@@ -3504,6 +3505,11 @@ img.img-circle {
     z-index: 10;
 }
 
+.alert-warning-testflight {
+    z-index: 11;
+}
+
+.alert-warning-testflight .warning-content,
 .alert-warning .warning-content,
 .download-warning .warning-content,
 .download-warning-test .warning-content {
@@ -3517,6 +3523,10 @@ img.img-circle {
     bottom: 0;
     position: relative;
     top: calc(50% - 70px);
+}
+
+.alert-warning-testflight .warning-content {
+    height: 235px;
 }
 
 .download-warning .warning-content {
@@ -3541,6 +3551,7 @@ img.img-circle {
     display: none;
 }
 
+.alert-warning-testflight .warning-content .title,
 .alert-warning .warning-content .title,
 .download-warning .warning-content .title,
 .download-warning-test .warning-content .title {
@@ -3550,6 +3561,16 @@ img.img-circle {
     font-size: 17px;
     color: black;
     line-height: 24px;
+}
+
+.alert-warning-testflight .warning-content .title a {
+    color: #5887E3;
+}
+
+.alert-warning-testflight .warning-content .title {
+    color: #333;
+    font-size: 14px;
+    text-align: left;
 }
 
 .box {
@@ -3574,6 +3595,7 @@ img.img-circle {
     width: calc(100% - 25px);
 }
 
+.alert-warning-testflight .warning-content .sure,
 .alert-warning .warning-content .sure,
 .download-warning .warning-content .sure,
 .download-warning-test .warning-content .sure {
@@ -3585,6 +3607,7 @@ img.img-circle {
     box-shadow: 0 2px 5px 0 rgba(47, 65, 106, 0.3);
 }
 
+.alert-warning-testflight .warning-content .sure a,
 .alert-warning .warning-content .sure a,
 .download-warning .warning-content .sure a,
 .download-warning-test .warning-content .sure a {
