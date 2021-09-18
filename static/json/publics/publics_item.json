@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "请警惕假冒 Bitpie App 骗局",
+            "intro": "近期，经用户反馈，我们发现存在多家冒用 Bitpie 名字的骗子 APP 借由比特派 Bitpie 品牌，诱导用户下载假的 Bitpie，开展相应业务，试图骗取用户资产。",
+            "data": "2021-09-18",
+            "watch": 0,
+            "id": 131,
+            "month": "September",
+            "day": "18",
+            "type": 1
+        }, {
             "title": "苹果 TestFlight 版本比特派用户请及时迁移至正式版",
             "intro": "苹果系统上的 TestFlight（简称：TF ） 版本 bitpie APP 为小规模测试版本 APP，旨在让用户快速体验区块链行业的新功能，同时 TF 版本自发布以来也一直严格遵守苹果公司的相关准则。",
             "data": "2021-09-13",
@@ -8,7 +17,7 @@
             "month": "September",
             "day": "13",
             "type": 1
-        },{
+        }, {
             "title": "关于进行 Ethereum Classic（ETC）节点升级的公告",
             "intro": "比特派正在对 Ethereum Classic（ETC）节点进行升级 ，为保障您的资产安全，当前已暂停 ETC 收发、云钱包充提等业务。",
             "data": "2021-09-04",
@@ -17,7 +26,7 @@
             "month": "September",
             "day": "04",
             "type": 1
-        },{
+        }, {
             "title": "比特派 Bitpie 已正式支持 Arbitrum 主网",
             "intro": "Arbitrum 是目前非常热门的 Layer2 扩容方案，是由 Offchain Labs 团队构建的以太坊链上合约管理链下协议，旨在安全、便捷地实现以太坊扩容。开发者使用 Solidity 编写一组 DApp 合约，然后将这些合约编译成可以在 Arbitrum 虚拟机上运行的可执行代码，运行速度会更快。",
             "data": "2021-09-02",
@@ -26,7 +35,7 @@
             "month": "September",
             "day": "02",
             "type": 1
-        },{
+        }, {
             "title": "关于支持 Oasis Network（ROSE）网络升级的公告",
             "intro": "据 Oasis Network（ROSE）官方消息，Oasis Network 将于网络8,049出块时期（预计香港时间2021年09月01日00:00）进行网络升级。",
             "data": "2021-08-30",
@@ -35,7 +44,7 @@
             "month": "August",
             "day": "30",
             "type": 1
-        },{
+        }, {
             "title": "对于以太坊网络发生的漏洞，所有比特派用户不受影响的通知",
             "intro": "据推特多名用户和 The Block 报道，以太坊主网正遭遇分叉。以太坊 Geth 客户端刚刚发布了最新的 1.10.8 版本，声称修复了一个漏洞，但未公开漏洞细节。",
             "data": "2021-08-27",
@@ -44,7 +53,7 @@
             "month": "August",
             "day": "27",
             "type": 1
-        },{
+        }, {
             "title": "关于 Bytom2.0 升级处理方案的公告",
             "intro": "据比原链官方消息，比原链将于区块高度 709,660 时（预计时间2021年8月20日 10：00  UTC+8）进行 Bytom2.0 主网的切换升级。",
             "data": "2021-08-19",
@@ -53,7 +62,7 @@
             "month": "August",
             "day": "19",
             "type": 1
-        },{
+        }, {
             "title": "警惕恶意授权骗局的公告",
             "intro": "经用户反馈，近期市场中骗取授权的盗币事件频发。",
             "data": "2021-08-18",
@@ -62,7 +71,7 @@
             "month": "August",
             "day": "18",
             "type": 1
-        },{
+        }, {
             "title": "建议苹果用户将比特派 APP 升级到 PRO 版本的公告",
             "intro": "任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！",
             "data": "2021-08-12",
@@ -71,7 +80,7 @@
             "month": "August",
             "day": "12",
             "type": 1
-        },{
+        }, {
             "title": "Ethereum（ETH）伦敦升级已完成，转账功能已恢复",
             "intro": "Ethereum（ETH）伦敦升级已完成，目前主网运行稳定，转账功能已恢复。",
             "data": "2021-08-05",
@@ -80,7 +89,7 @@
             "month": "August",
             "day": "5",
             "type": 1
-        },{
+        }, {
             "title": "因 BSV 网络遭遇大规模攻击，暂停 BSV 发币的公告",
             "intro": "8 月 4 日凌晨，BitcoinSV（BSV）网络遭遇了一次大规模 51% 的攻击，导致同时出现了三个版本的 BSV 链。",
             "data": "2021-08-04",
@@ -89,7 +98,7 @@
             "month": "August",
             "day": "4",
             "type": 1
-        },{
+        }, {
             "title": "警惕诈骗短信、钓鱼网站，不要向任何人、网站透露助记词",
             "intro": "经用户举报，近期出现向用户发送诈骗短信、钓鱼网站来骗取用户住助记词的诈骗形式。",
             "data": "2021-08-04",
@@ -98,7 +107,7 @@
             "month": "August",
             "day": "4",
             "type": 1
-        },{
+        }, {
             "title": "关于支持 Ethereum（ETH）伦敦升级的公告",
             "intro": "以太坊网络将在 12,965,000 区块高度升级，代号：London（伦敦），预计升级时间为 2021 年 8 月 5 日。",
             "data": "2021-08-03",
@@ -107,7 +116,7 @@
             "month": "August",
             "day": "3",
             "type": 1
-        },{
+        }, {
             "title": "关于防范 \"虚假比特派官网\" 的声明",
             "intro": "近期，经用户反馈，我们发现存在多家冒用比特派名字的骗子网站借由比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。",
             "data": "2021-07-07",
@@ -116,7 +125,7 @@
             "month": "July",
             "day": "7",
             "type": 1
-        },{
+        }, {
             "title": "关于 BCHA 升级处理方案的公告",
             "intro": "BCHA 官方将于香港时间 2021年7月1日晚进行升级，此次升级将会进行币种的精度调整。为保护广大用户的资产安全，比特派将于2021年7月1日下午18:00（香港时间）暂停 BCHA 收发、派银行充提等业务。\nBCHA 官方将于香港时间 2021年7月1日晚进行升级，此次升级将会进行币种的精度调整。为保护广大用户的资产安全，比特派将于2021年7月1日下午18:00（香港时间）暂停 BCHA 收发、派银行充提等业务。",
             "data": "2021-7-1",
@@ -125,7 +134,7 @@
             "month": "July",
             "day": "1",
             "type": 1
-        },{
+        }, {
             "title": "关于比特派部分业务调整的公告",
             "intro": "因产品线调整，即日起比特派将下线矿工费加油站及矿工费代付功能。",
             "data": "2021-6-29",
@@ -134,7 +143,7 @@
             "month": "June",
             "day": "29",
             "type": 1
-        },{
+        }, {
             "title": "警惕冒充交易平台工作人员、冒充公检法形式的诈骗",
             "intro": "经用户反馈，最近市场上已出现新型的诈骗手段，具体诈骗形式如下：",
             "data": "2021-6-25",
@@ -143,7 +152,7 @@
             "month": "June",
             "day": "25",
             "type": 1
-        },{
+        }, {
             "title": "第一期派派志愿者入选名单公布",
             "intro": "经过多方面评估，派派志愿者第一期名单公布，共计 569 人申请，3人入选",
             "data": "2021-6-25",
@@ -152,7 +161,7 @@
             "month": "June",
             "day": "25",
             "type": 1
-        },{
+        }, {
             "title": "关于比特派钱包微博账号调整的公告",
             "intro": "今日，区块链行业多名KOL微博号被封禁，其中包括@比特派钱包 @超级比特币@比特币小侠@八哥谈币@区块链威廉等账号，目前微博官方未给出具体封禁原因。",
             "data": "2021-6-5",
@@ -1178,7 +1187,7 @@
             "month": "August",
             "day": "30",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on the BTM Mainnet Upgrade",
             "intro": "According to the official news of Bytom, Bytom will switch and upgrade the Bytom2.0 mainnet at block height 709,660 (estimated at 10:00 UTC+8 on August 20, 2021).",
             "data": "2021-08-19",
@@ -1187,7 +1196,7 @@
             "month": "August",
             "day": "19",
             "type": 1
-        },{
+        }, {
             "title": "Beware of the announcement of malicious authorization",
             "intro": "Rencenly, there are frequent cases of fraudulently obtaining users’ authorization. Some risky project parties like <a href='http://cat-eth.biz' target='_blank'>http://cat-eth.biz</a>、<a href='http://eth-cat.com' target='_blank'>http://eth-cat.com</a>、<a href='https://eth-cat.co' target='_blank'>https://eth-cat.co</a>、<a href='https://eth-ant.com/' target='_blank'>https://eth-ant.com/</a> attract users to participate in a high profit project, to get their authorization and steal the assets from their wallet. ",
             "data": "2021-08-18",
@@ -1196,7 +1205,7 @@
             "month": "August",
             "day": "18",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on suggesting that Apple users upgrade the Bitpie app to the PRO version",
             "intro": "Before operation of your wallet, make sure that your mnemonic phrase has been properly backed up. You should never uninstall your wallet unless you make sure that your mnemonic phrase and the private key are stored well and verified.",
             "data": "2021-08-12",
@@ -1205,7 +1214,7 @@
             "month": "August",
             "day": "12",
             "type": 1
-        },{
+        }, {
             "title": "The Ethereum (ETH) London Upgrade has been completed",
             "intro": "The Ethereum (ETH) London upgrade has been completed, the main network is currently operating stably, and the transfer function has been restored.",
             "data": "2021-08-05",
@@ -1214,7 +1223,7 @@
             "month": "August",
             "day": "5",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on the Ethereum’s London Upgrade",
             "intro": "At block height 12,965,000, or approximately 2021-08-05 11:55 (UTC), the Ethereum (ETH) blockchain is scheduled to undergo the London Hard Fork.",
             "data": "2021-08-03",
@@ -1223,7 +1232,7 @@
             "month": "August",
             "day": "3",
             "type": 1
-        },{
+        }, {
             "title": "Statement on preventing \"false Bitpie official website\"",
             "intro": "Recently, we found that there are many fraudulent websites, that declare themselves to Bitpie official to carry out corresponding businesses in an attempt to defraud user assets.",
             "data": "2021-07-07",
@@ -1232,7 +1241,7 @@
             "month": "July",
             "day": "7",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on the adjustment of Bitpie businesses",
             "intro": "The following announcement on some business adjustments:",
             "data": "2021-5-18",
