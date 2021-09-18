@@ -62,5 +62,57 @@
         "data": "比特派团队<br/>2021/09/13"
       }
     ]
+  },
+  "en": {
+        "title": "Apple TestFlight version Bitpie users please migrate to the official version in time",
+        "data": "2021-09-13",
+        "id": 130,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "The TestFlight (TF) of the Bitpie APP on Apple system is a test version of the APP, designed to allow users to quickly experience the new features of the wallet, and TF version of APP has been strictly abiding by Apple's relevant guidelines since its release.  Due to App Store policy changes, as well as the validity time of TF, and user limits, it is inconvenient to users."
+            },
+            {
+                "type": 0,
+                "data": "In order to improve the user experience, we decided not to continue to update the Bitpie app for the iOS TF "
+            },
+            {
+                "type": 0,
+                "data": "1. After the expiration date, the TF version can no longer be used.  Mnemonic phrases is the only way to restore wallet assets. If you never back up your mnemonic phrases , no one (including Bitpie) can help you retrieve your assets.  "
+            },
+            {
+                "type": 0,
+                "data": "2. Please follow the steps below to switch to the App Store version of Bitpie: "
+            },
+           {
+                "type": 0,
+                "data": "1). Back up the mobile wallet mnemonics (for users who have not backed up before, please make sure to complete the backup). "
+            },
+            {
+                "type": 0,
+                "data": "2). Use the Apple ID to download the Bitpie APP on the APP Store.  (The TF version and the APP Store version can coexist at the same time)"
+            },
+           {
+                "type": 0,
+                "data": "3). Import the backup mnemonic phrases into the APP Store version of Bitpie."
+            },
+            {
+                "type": 0,
+                "data": "4). Compare both Bitpie versions to ensure that your assets have been successfully transferred. "
+            },
+          {
+                "type": 0,
+                "data": "*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! "
+            },
+           {
+                "type": 0,
+                "data": "Bitpie has always reminded users that the TF version is only for testing and the importance of back up mnemonics. Users are requested to verify the mnemonic words in time and do this version migration to prevent asset loss. Bitpie will not be liable for any asset loss caused by the user's incorrect backup of the mnemonic phrases.  "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>September 13, 2021"
+            }
+    ]
   }
 }
