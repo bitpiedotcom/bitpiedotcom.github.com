@@ -1,0 +1,77 @@
+{
+    "cn": {
+        "title": "请警惕假冒 Bitpie App、诈骗短信、钓鱼网站的骗局",
+        "data": "2021-09-26",
+        "id": 131,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "经用户反馈，我们发现存在冒用 Bitpie 名字的骗子 APP 借由比特派 Bitpie 品牌，向用户发送钓鱼短信，诱导用户下载假的 Bitpie，开展相应业务，试图骗取用户资产。"
+            },
+            {
+                "type": 0,
+                "data": "诈骗形式如下："
+            },
+            {
+                "type": 1,
+                "image": "./static/image/news_publics132_1.png"
+            },
+            {
+                "type": 1,
+                "image": "./static/image/news/news_publics132_2.png"
+            },
+            {
+                "type": 0,
+                "data": "请大家对虚假信息予以警惕，不要在任何网站输入助记词，也不要把助记词透露给任何人，谨防资产损失。"
+            },
+            {
+                "type": 0,
+                "data": "下载安装 Bitpie，请大家认准 Bitpie 官网：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>"
+            },
+            {
+                "type": 0,
+                "data": "如何判断自己是否受影响？请按以下方式自查是否为正版 Bitpie："
+            },
+            {
+                "type": 0,
+                "data": "1. App Store：请确认所下载的 Bitpie 开发者为 BITPIE HK LIMITED，除此以外，其他所有 Bitpie App 均为假冒应用；"
+            },
+            {
+                "type": 0,
+                "data": "2. 其他渠道：请谨慎防范任何与 Bitpie 官网（<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>）相似的网址，从非官网渠道下载的均存在风险。"
+            },
+            {
+                "type": 0,
+                "data": "可能受影响的用户该怎么办？"
+            },
+            {
+                "type": 0,
+                "data": "1. 请立即停用在此期间创建或导入过假 Bitpie App 的钱包的地址。"
+            },
+            {
+                "type": 0,
+                "data": "2. 从 Bitpie 官网 <a href='https://piepiewallet.com/'>piepiewallet.com</a> 重新下载安装 Bitpie 并创建新钱包。"
+            },
+            {
+                "type": 0,
+                "data": "3. 将存在风险的钱包地址中的资产尽快转至新钱包地址。"
+            },
+            {
+                "type": 0,
+                "data": "同时，如果你发现了类似骗局，请通过邮件 service@bitpie.com 反馈给我们，感谢您的支持。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队"
+            },
+            {
+                "type": 0,
+                "data": "2021年9月26日"
+            }
+        ]
+    }
+}
