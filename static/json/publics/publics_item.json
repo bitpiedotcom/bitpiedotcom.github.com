@@ -36,7 +36,7 @@
             "day": "18",
             "type": 1
         }, {
-            "title": "苹果 TestFlight 版本比特派用户请及时迁移至正式版",
+            "title": "苹果 TestFlight 版本比特派用户请立即迁移至正式版",
             "intro": "苹果系统上的 TestFlight（简称：TF ） 版本 bitpie APP 为小规模测试版本 APP，旨在让用户快速体验区块链行业的新功能，同时 TF 版本自发布以来也一直严格遵守苹果公司的相关准则。",
             "data": "2021-09-13",
             "watch": 298,
@@ -1206,7 +1206,7 @@
         }
     ],
     "en": [{
-            "title": "Apple TestFlight version Bitpie users please migrate to the official version in time",
+            "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",
             "intro": "The TestFlight (TF) of the Bitpie APP on Apple system is a test version of the APP, designed to allow users to quickly experience the new features of the wallet, and TF version of APP has been strictly abiding by Apple's relevant guidelines since its release.  Due to App Store policy changes, as well as the validity time of TF, and user limits, it is inconvenient to users. ",
             "data": "2021-09-13",
             "watch": 396,

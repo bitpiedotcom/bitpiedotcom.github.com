@@ -1,6 +1,6 @@
 {
   "cn": {
-    "title": "苹果 TestFlight 版本比特派用户请及时迁移至正式版",
+    "title": "苹果 TestFlight 版本比特派用户请立即迁移至正式版",
     "data": "2021-09-13",
     "id": 130,
     "watch": 396,
@@ -47,7 +47,7 @@
       },
       {
         "type": 0,
-        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为 BITPIE HK LIMITED，其他的均为假冒 APP。</strong>"
+        "data": "<strong style='font-weight: 600'>* 比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
       },
       {
         "type": 0,
@@ -68,7 +68,7 @@
     ]
   },
   "en": {
-        "title": "Apple TestFlight version Bitpie users please migrate to the official version in time",
+        "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",
         "data": "2021-09-13",
         "id": 130,
         "watch": 396,
@@ -111,7 +111,7 @@
             },
               {
                 "type": 0,
-                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED, others are fake.</strong>"
+                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in mainland China, and the Bitpie APPs in Apple stores in mainland China are all counterfeit apps.</strong>"
             },
            {
                 "type": 0,
