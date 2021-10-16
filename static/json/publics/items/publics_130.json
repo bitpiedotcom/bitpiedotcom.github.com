@@ -43,7 +43,11 @@
       },
       {
         "type": 0,
-        "data": "*任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包,！"
+        "data": "<strong style='font-weight: 600'>*任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包,！</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为 BITPIE HK LIMITED，其他的均为假冒 APP。</strong>"
       },
       {
         "type": 0,
@@ -103,7 +107,11 @@
             },
           {
                 "type": 0,
-                "data": "*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! "
+                "data": "<strong style='font-weight: 600'>*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! </strong>"
+            },
+              {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED, others are fake.</strong>"
             },
            {
                 "type": 0,
