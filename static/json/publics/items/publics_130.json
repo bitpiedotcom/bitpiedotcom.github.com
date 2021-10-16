@@ -47,7 +47,11 @@
       },
       {
         "type": 0,
-        "data": "<strong style='font-weight: 600'>* 比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
+        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为  BITPIE HK LIMITED，其他的均为假冒APP。</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
       },
       {
         "type": 0,
@@ -60,6 +64,18 @@
       {
         "type": 0,
         "data": "<a href='https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519' target='_blank'>https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519</a>"
+      },
+      {
+        "type": 0,
+        "data": "如果您无法注册海外Apple ID，可以更换安卓手机并下载安装安卓版本比特派 APP。"
+      },
+      {
+        "type": 0,
+        "data": "下载时请认准 Bitpie 官网：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>"
+      },
+      {
+        "type": 0,
+        "data": "如需帮助请邮件至 service@bitpie.com"
       },
       {
         "type": 0,
@@ -89,7 +105,7 @@
                 "type": 0,
                 "data": "2. Please follow the steps below to switch to the App Store version of Bitpie: "
             },
-           {
+            {
                 "type": 0,
                 "data": "1). Back up the mobile wallet mnemonics (for users who have not backed up before, please make sure to complete the backup). "
             },
@@ -97,7 +113,7 @@
                 "type": 0,
                 "data": "2). Use the Apple ID to download the Bitpie APP on the APP Store.  (The TF version and the APP Store version can coexist at the same time)"
             },
-           {
+            {
                 "type": 0,
                 "data": "3). Import the backup mnemonic phrases into the APP Store version of Bitpie."
             },
@@ -105,17 +121,41 @@
                 "type": 0,
                 "data": "4). Compare both Bitpie versions to ensure that your assets have been successfully transferred. "
             },
-          {
+            {
                 "type": 0,
                 "data": "<strong style='font-weight: 600'>*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! </strong>"
             },
-              {
+            {
                 "type": 0,
-                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in mainland China, and the Bitpie APPs in Apple stores in mainland China are all counterfeit apps.</strong>"
+                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED.</strong>"
             },
-           {
+            {
                 "type": 0,
-                "data": "Bitpie has always reminded users that the TF version is only for testing and the importance of back up mnemonics. Users are requested to verify the mnemonic words in time and do this version migration to prevent asset loss. Bitpie will not be liable for any asset loss caused by the user's incorrect backup of the mnemonic phrases.  "
+                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in China, and the Bitpie APPs in Apple stores in China are all counterfeit apps.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie has always reminded users that the TF version is only for testing and the importance of back up mnemonics. Users are requested to verify the mnemonic words in time and do this version migration to prevent asset loss. Bitpie will not be liable for any asset loss caused by the user's incorrect backup of the mnemonic phrases. "
+            },
+            {
+                "type": 0,
+                "data": "Overseas Apple ID registration tutorial:"
+            },
+            {
+                "type": 0,
+                "data": "<a href='https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519' target='_blank'>https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519</a>"
+            },
+            {
+                "type": 0,
+                "data": "If you are unable to register an overseas Apple ID, you can change your Android phone and download and install the Android version of Bitpie APP."
+            },
+            {
+                "type": 0,
+                "data": "Please check Bitpie official website when downloading:<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>"
+            },
+            {
+                "type": 0,
+                "data": "If you have any help, please send an email to service@bitpie.com"
             },
             {
                 "type": 0,
