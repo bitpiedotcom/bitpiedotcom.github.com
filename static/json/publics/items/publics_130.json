@@ -19,6 +19,22 @@
       },
       {
         "type": 0,
+        "data": "<strong style='font-weight: 600'>*任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为  BITPIE HK LIMITED，其他的均为假冒APP。</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*当前 Bitpie 官网为：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>，除此之外均为假冒网站，在其他网站下载会导致资产丢失</strong>"
+      },
+      {
+        "type": 0,
         "data": "1. 过期后 TF 版本将无法继续使用。助记词是恢复钱包资产的唯一方式，若您始终不备份助记词，任何人（包括比特派）均无法帮您找回资产。"
       },
           {
@@ -51,18 +67,6 @@
       },
       {
         "type": 0,
-        "data": "<strong style='font-weight: 600'>*任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！</strong>"
-      },
-      {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为  BITPIE HK LIMITED，其他的均为假冒APP。</strong>"
-      },
-      {
-        "type": 0,
-        "data": "<strong style='font-weight: 600'>*比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
-      },
-      {
-        "type": 0,
         "data": "一直以来，比特派都在提醒用户 TF 版本仅供测试使用以及牢记助记词的重要性。请用户及时验证助记词、做好此次版本迁移，防止造成资产损失。如因用户未正确备份助记词造成的资产损失，比特派将不承担相关责任。"
       },
       {
@@ -76,10 +80,6 @@
       {
         "type": 0,
         "data": "如果您无法注册海外Apple ID，可以更换安卓手机并下载安装安卓版本比特派 APP。"
-      },
-      {
-        "type": 0,
-        "data": "下载时请认准 Bitpie 官网：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>"
       },
       {
         "type": 0,
@@ -107,6 +107,22 @@
             },
             {
                 "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! </strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in China, and the Bitpie APPs in Apple stores in China are all counterfeit apps.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please check Bitpie official website when downloading:<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a></strong>"
+            },
+            {
+                "type": 0,
                 "data": "1. After the expiration date, the TF version can no longer be used.  Mnemonic phrases is the only way to restore wallet assets. If you never back up your mnemonic phrases , no one (including Bitpie) can help you retrieve your assets.  "
             },
             {
@@ -131,18 +147,6 @@
             },
             {
                 "type": 0,
-                "data": "<strong style='font-weight: 600'>*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! </strong>"
-            },
-            {
-                "type": 0,
-                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED.</strong>"
-            },
-            {
-                "type": 0,
-                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in China, and the Bitpie APPs in Apple stores in China are all counterfeit apps.</strong>"
-            },
-            {
-                "type": 0,
                 "data": "Bitpie has always reminded users that the TF version is only for testing and the importance of back up mnemonics. Users are requested to verify the mnemonic words in time and do this version migration to prevent asset loss. Bitpie will not be liable for any asset loss caused by the user's incorrect backup of the mnemonic phrases. "
             },
             {
@@ -156,10 +160,6 @@
             {
                 "type": 0,
                 "data": "If you are unable to register an overseas Apple ID, you can change your Android phone and download and install the Android version of Bitpie APP."
-            },
-            {
-                "type": 0,
-                "data": "Please check Bitpie official website when downloading:<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpieone.com/'>bitpieone.com</a>"
             },
             {
                 "type": 0,
