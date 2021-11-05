@@ -8,13 +8,24 @@
 {% include down_header.html %}
 
 <body>
-    <div class="row-fluid breadcrumbs margin-bottom-20">
+    <div class="row-fluid breadcrumbs">
         <div class="container">
             <h1 class="pull-left" lang="en">{{site.androidsoftname}}</h1>
             <ul class="pull-right breadcrumb">
                 <li><span lang="en">Version:</span> {{site.anddownsoftversion}}</li>
                 <li>{{site.anddownsoftdate}}</li>
             </ul>
+        </div>
+    </div>
+
+    <div class="android-download-warning">
+        <div class="m-box">
+            <div class="index-public-box">
+                <div class="index-public">
+                    <img src="../img/notify.png" class="notify">
+                    <a href="/newsMessage?id=136" class="public-name">关于部分安卓机型误报比特派的安全声明</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -46,7 +57,7 @@
                 </div>
                 <div class="box">
                     <input type="checkbox" id="box4">
-                    <p for="cbox1">我知道助记词一旦泄露给他人，钱包内资产就会被盗走。</p>
+                    <p for="cbox1">我知道助记词一旦泄露给他人（拍照、截图、上传云盘或聊天软件），钱包内资产就会被盗走。</p>
                 </div>
             </div>
             <div class="sure">
