@@ -1,0 +1,37 @@
+{
+    "cn": {
+        "title": "关于部分安卓机型误报比特派的安全声明",
+        "data": "2021-11-02",
+        "id": 136,
+        "watch": 188,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "近日部分安卓机型将比特派误报为恶意软件，如果您是从官方网站下载的比特派 APP，那么比特派软件将不存在安全问题，您可继续放心使用，同时请勿卸载比特派 APP。"
+            },
+            {
+                "type": 1,
+                "image": "./static/image/news/bitpie_statement.png"
+            },
+            {
+                "type": 0,
+                "data": "比特派是去中心化钱包，资产均由用户自己通过助记词掌握，请您务必确保已正确备份钱包助记词，为了您的资产安全，请勿卸载比特派APP。"
+            },
+            {
+                "type": 0,
+                "data": "比特派官方网站：：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队"
+            },
+            {
+                "type": 0,
+                "data": "2021年11月2日"
+            }
+        ]
+    }
+}
