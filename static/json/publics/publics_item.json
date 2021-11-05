@@ -1224,6 +1224,15 @@
         }
     ],
     "en": [{
+            "title": "Prevention of \"FAKE Bitpie official website\"",
+            "intro": "Recently, we found that many scam page imitated Bitpie's official website in an attempt to defraud users' assets.",
+            "data": "2021-10-18",
+            "watch": 396,
+            "id": 135,
+            "month": "October",
+            "day": "18",
+            "type": 1
+        },{
             "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",
             "intro": "The TestFlight (TF) of the Bitpie APP on Apple system is a test version of the APP, designed to allow users to quickly experience the new features of the wallet, and TF version of APP has been strictly abiding by Apple's relevant guidelines since its release.  Due to App Store policy changes, as well as the validity time of TF, and user limits, it is inconvenient to users. ",
             "data": "2021-09-13",
