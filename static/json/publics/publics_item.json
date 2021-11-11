@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于防范 \"虚假比特派官网\" 的声明",
+            "intro": "近期，经用户反馈，我们发现多家骗子网站仿冒 Bitpie 官网，开展相应业务，试图骗取用户资产。",
+            "data": "2021-11-11",
+            "watch": 88,
+            "id": 135,
+            "month": "November",
+            "day": "11",
+            "type": 1
+        },{
             "title": "关于部分安卓机型误报比特派的安全声明",
             "intro": "近日部分安卓机型将比特派误报为恶意软件，如果您是从官方网站下载的比特派 APP，那么比特派软件将不存在安全问题，您可继续放心使用，同时请勿卸载比特派 APP。",
             "data": "2021-11-02",
@@ -7,15 +16,6 @@
             "id": 136,
             "month": "November",
             "day": "02",
-            "type": 1
-        },{
-            "title": "关于防范 \"虚假比特派官网\" 的声明",
-            "intro": "近期，经用户反馈，我们发现多家骗子网站仿冒 Bitpie 官网，开展相应业务，试图骗取用户资产。",
-            "data": "2021-10-18",
-            "watch": 88,
-            "id": 135,
-            "month": "October",
-            "day": "18",
             "type": 1
         },{
             "title": "警惕搬砖套利的骗局",
@@ -1226,11 +1226,11 @@
     "en": [{
             "title": "Prevention of \"FAKE Bitpie official website\"",
             "intro": "Recently, we found that many scam page imitated Bitpie's official website in an attempt to defraud users' assets.",
-            "data": "2021-10-18",
+            "data": "2021-11-11",
             "watch": 396,
             "id": 135,
-            "month": "October",
-            "day": "18",
+            "month": "November",
+            "day": "11",
             "type": 1
         },{
             "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",

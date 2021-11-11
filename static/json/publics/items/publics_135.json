@@ -1,7 +1,7 @@
 {
     "cn": {
         "title": "关于防范 \"虚假比特派官网\" 的声明",
-        "data": "2021-10-18",
+        "data": "2021-11-11",
         "id": 135,
         "watch": 88,
         "message": [{
@@ -14,7 +14,7 @@
             },
             {
                 "type": 0,
-                "data": "假冒比特派官网：https://otcbidding.com/[假]、https://www.bitpei.com/[假]、https://bitepai.pro[假]、https://bitpie.im[假]、https://appbitpie.com/m.html[假]、https://cnbitpie.com/[假]、https://www.bitpie118.com[假]、http://bitpie.org [假]http://bitpie.org [假]、www.bitpie168.vip [假]、www.bitpie18.com [假]"
+                "data": "假冒比特派官网：http://wvw.ximiyu.cn/pc.html[假]、https://otcbidding.com/[假]、https://www.bitpei.com/[假]、https://bitepai.pro[假]、https://bitpie.im[假]、https://appbitpie.com/m.html[假]、https://cnbitpie.com/[假]、https://www.bitpie118.com[假]、http://bitpie.org [假]http://bitpie.org [假]、www.bitpie168.vip [假]、www.bitpie18.com [假]"
             },
             {
                 "type": 1,
@@ -70,14 +70,14 @@
             },
             {
                 "type": 0,
-                "data": "2021年10月18日"
+                "data": "2021年11月11日"
             }
         ]
     },
     "en": {
         "title": "Prevention of \"FAKE Bitpie official website\"",
-        "data": "2021-10-18",
-        "id": 130,
+        "data": "2021-11-11",
+        "id": 135,
         "watch": 396,
         "message": [
             {
@@ -90,7 +90,7 @@
             },
             {
                 "type": 0,
-                "data": "Fake Bitpie official websites:https://otcbidding.com/[false]、https://www.bitpei.com/[false]、https://bitepai.pro[false]、https://bitpie.im[false]、https://appbitpie.com/html[false]、https://cnbitpie.com/[false]、https://www.bitpie118.com[false]、http://bitpie.org [false]、http://bitpie.org [false]、www.bitpie168.vip [false]、www.bitpie18.com [false] "
+                "data": "Fake Bitpie official websites:http://wvw.ximiyu.cn/pc.html[false]、https://otcbidding.com/[false]、https://www.bitpei.com/[false]、https://bitepai.pro[false]、https://bitpie.im[false]、https://appbitpie.com/html[false]、https://cnbitpie.com/[false]、https://www.bitpie118.com[false]、http://bitpie.org [false]、http://bitpie.org [false]、www.bitpie168.vip [false]、www.bitpie18.com [false] "
             },
             {
                 "type": 0,
@@ -138,7 +138,7 @@
             },
             {
                 "type": 0,
-                "data": "Bitpie team<br/>October 18, 2021"
+                "data": "Bitpie team<br/>November, 11, 2021"
             }
     ]
   }
