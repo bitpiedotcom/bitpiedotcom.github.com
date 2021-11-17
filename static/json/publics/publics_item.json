@@ -1242,6 +1242,24 @@
         }
     ],
     "en": [{
+            "title": "Announcement on users downloading the Fake App on the fake Bitpie website through the UC browser ",
+            "intro": "On November 15, 2021, there was feedback from users, searching “Bitpie” by the default Shenma search engine on UC browser, the assets were stolen after downloading and installing.",
+            "data": "2021-11-15",
+            "watch": 396,
+            "id": 138,
+            "month": "November",
+            "day": "15",
+            "type": 1
+        },{
+            "title": "Announcement on users downloaded the Fake App on the fake Bitpie website through the Baidu search",
+            "intro": "On November 11, 2021,  we received a report that searching \"Bitpie\" through Baidu, assets were stolen after downloading and installing.",
+            "data": "2021-11-12",
+            "watch": 396,
+            "id": 137,
+            "month": "November",
+            "day": "12",
+            "type": 1
+        },{
             "title": "Prevention of \"FAKE Bitpie official website\"",
             "intro": "Recently, we found that many scam page imitated Bitpie's official website in an attempt to defraud users' assets.",
             "data": "2021-11-11",
@@ -1249,6 +1267,15 @@
             "id": 135,
             "month": "November",
             "day": "11",
+            "type": 1
+        },{
+            "title": "Regarding Misreporting Bitpie as malware by some Android models",
+            "intro": "Recently, some Android models misreported Bitpie as malware. There will be no security issues if you downloaded Bitpie wallet  from the official website . You can continue to use it and do not need to uninstall the Bitpie app.",
+            "data": "2021-11-02",
+            "watch": 396,
+            "id": 136,
+            "month": "November",
+            "day": "02",
             "type": 1
         },{
             "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",

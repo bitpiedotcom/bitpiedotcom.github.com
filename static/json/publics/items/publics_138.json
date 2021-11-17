@@ -38,5 +38,36 @@
                 "data": "2021年11月15日"
             }
         ]
-    }
+    },"en": {
+        "title": "Announcement on users downloading the Fake App on the fake Bitpie website through the UC browser",
+        "data": "2021-11-15",
+        "id": 138,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Dear users: "
+            },
+            {
+                "type": 0,
+                "data": "On November 15, 2021, there was feedback from users, searching “Bitpie” by the default Shenma search engine on UC browser, the assets were stolen after downloading and installing."
+            },
+            {
+                "type": 0,
+                "data": "According to the analysis by Bitpie, the fake website completely cloned Bitpie's official website and purchased the website promotion service of Shenma. Download and Install the app will steal your mnemonic words, and the assets would be stolen when transferred to the wallet. "
+            },
+            {
+                "type": 0,
+                "data": "Our risk control department searched Bitpie by UC browser and Shenma search engine and found the following fraudulent websites: 【false】<a href='http://51quanyi.cn/'>http://51quanyi.cn/</a>【false】，【false】<a href='http://bitpie.qinianyun.cn/'>bitpie.qinianyun.cn/</a>【false】，【false】<a href='https://hnb.fadas2016.cn'>https://hnb.fadas2016.cn/</a>【false】【false】<a href='https://wvw-bitpie.com'>https://wvw-bitpie.com</a>【false】"
+            },
+            {
+                "type": 0,
+                "data": "The Shenma promotion of the fake website is still posting. Since the promotion was topped by Shenma search and marked as \"official website\" and \"brand advertisement\",  the number of users and assets stolen may be unpredictable. Bitpie has announced many times that users must download the APP through Bitpie's official website. For this fraudulent website, Bitpie has sent the feedback and complaints to Shenma Search but has not received any response from Shenma Search. At the same time, Bitpie will remind all users by the pop-up, please be sure to use the wallet before confirming that your Bitpie APP is downloaded from the official website."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Risk Control Department"
+            }
+        ]
+  }
 }

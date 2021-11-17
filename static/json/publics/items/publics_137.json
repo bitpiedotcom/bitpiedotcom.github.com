@@ -38,5 +38,40 @@
                 "data": "2021年11月12日"
             }
         ]
-    }
+    },"en": {
+        "title": "Announcement on users downloaded the Fake App on the fake Bitpie website through the Baidu search",
+        "data": "2021-11-12",
+        "id": 137,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Dear users: "
+            },
+            {
+                "type": 0,
+                "data": "On November 11, 2021,  we received a report that searching \"Bitpie\" through Baidu, assets were stolen after downloading and installing. "
+            },
+            {
+                "type": 0,
+                "data": "According to our analysis, a user searched a fake website through Baidu, and this fake website purchased Baidu promotion services. "
+            },
+            {
+                "type": 0,
+                "data": "The fraudulent websites are:【false】<a href='http://www.ximiyu.cn'>http://www.ximiyu.cn</a>【false】和 【false】<a href='http://wvw.ximiyu.cn'>wvw.ximiyu.cn</a>【false】"
+            },
+            {
+                "type": 0,
+                "data": "They are completely clones of Bitpie’s official website, and users are being induced. Downloaded and installed an APP will steal your mnemonic words, and the assets would be stolen when the assets were transferred to the wallet."
+            },
+            {
+                "type": 0,
+                "data": "The Baidu promotion of this fake website is still in posting. Since the promotion was topped by Baidu search and marked as \"official\" and \"brand advertisement\", especially the words \"guarantee\" marked by the blue shield, it is easy for users to misunderstand that this is the real official website. Therefore, the number of users and assets stolen may be unpredictable. Bitpie has announced many times that users must download the APP through Bitpie's official website. For this fraudulent website, Bitpie has reported and complained to Baidu but has not received any response from Baidu. At the same time, Bitpie will remind all users by the pop-up, please be sure to confirm the APP is downloaded from the official website before using."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Risk Control Department"
+            }
+        ]
+  }
 }
