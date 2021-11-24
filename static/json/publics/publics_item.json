@@ -1251,6 +1251,15 @@
         }
     ],
     "en": [{
+            "title": "Statement on preventing fake Bitpie customer support on Line chat",
+            "intro": "Recently, some users reported that they were induced by scammers claiming to be Bitpie customer service on Line chat to a scam website, eth-bit.com, requiring users to deposit assets and promising high yield returns. When users deposit assets, scammers will freeze the assets and require more assets to be deposited to unfreeze.",
+            "data": "2021-11-24",
+            "watch": 396,
+            "id": 139,
+            "month": "November",
+            "day": "24",
+            "type": 1
+        },{
             "title": "Announcement on users downloading the Fake App on the fake Bitpie website through the UC browser ",
             "intro": "On November 15, 2021, there was feedback from users, searching “Bitpie” by the default Shenma search engine on UC browser, the assets were stolen after downloading and installing.",
             "data": "2021-11-15",

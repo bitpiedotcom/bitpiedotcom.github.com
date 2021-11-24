@@ -26,5 +26,28 @@
                 "data": "2021年11月24日"
             }
         ]
-    }
+    },"en": {
+        "title": "Statement on preventing fake Bitpie customer support on Line chat",
+        "data": "2021-11-24",
+        "id": 139,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Recently, some users reported that they were induced by scammers claiming to be Bitpie customer service on Line chat to a scam website, <a href='https://eth-bit.com/' target='_blank'>eth-bit.com</a>, requiring users to deposit assets and promising high yield returns. When users deposit assets, scammers will freeze the assets and require more assets to be deposited to unfreeze."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Wallet does not have any Line account, and all those who pretend to be Bitpie customer service on Line are scammers."
+            },
+            {
+                "type": 0,
+                "data": "Please pay attention to anyone claimed to be Bitpie support and do not trust high-yield projects recommended by strangers, so as to avoid asset losses."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>November, 24, 2021"
+            }
+        ]
+  }
 }
