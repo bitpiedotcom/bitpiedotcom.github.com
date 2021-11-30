@@ -2,140 +2,314 @@
 <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
 {% include down_header.html %}
+
 <body>
-<div class="row-fluid breadcrumbs margin-bottom-20">
-    <div class="container">
-        <h1 class="pull-left" lang="en">{{site.androidsoftname}}</h1>
-        <ul class="pull-right breadcrumb">
-            <li><span lang="en">Version:</span> {{site.anddownsoftversion}}</li>
-            <li>{{site.anddownsoftdate}}</li>
-        </ul>
+    <div class="tecent-bg" id="tecent-bg">
+        <img src="../img/wechat-bg.png">
     </div>
-</div>
-<div class="container content">
-    <div class="view row">
-        <div class="span12" style="text-align:center;">
-            <a href="javascript:void(0);" onclick="javascript:install();"><img src="{{site.androidlogo}}" class="appicon" /></a>
-            <div>
+
+    <div class="row-fluid breadcrumbs">
+        <div class="container">
+            <h1 class="pull-left" lang="en">{{site.androidsoftname}}</h1>
+            <ul class="pull-right breadcrumb">
+                <li><span lang="en">Version:</span> {{site.anddownsoftversion}}</li>
+                <li>{{site.anddownsoftdate}}</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="android-download-warning">
+        <div class="m-box">
+            <div class="index-public-box">
+                <div class="index-public">
+                    <img src="../img/notify.png" class="notify">
+                    <a href="/newsMessage?id=136" class="public-name">关于部分安卓机型误报比特派的安全声明</a>
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="view row" style="margin-top:30px;">
-
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-            <a href="javascript:void(0);" onclick="javascript:install();" class="btn-u btn-u-lg"><i class="fa fa-download"></i><span lang="en">Download</span></a>
+    <div class="alert-warning" id="alert-warning">
+        <div class="warning-content">
+            <!-- <p class="title">请勿将助记词告知他人，所有向您索要助记词的人和网站都是骗子</p> -->
+            <p class="title">请勾选下载须知</p>
+            <div class="sure">
+                <a onclick="hiddenWarning()">确认</a>
+            </div>
         </div>
-        <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
+    </div>
+
+    <div class="download-warning" id="download-warning" onclick="hiddenDownloadWarning()">
+        <div class="warning-content" id="warning-content">
+            <p class="title">下载前须知</p>
+            <div class="check-box">
+                <div class="box">
+                    <input type="checkbox" id="box1">
+                    <p>在创建钱包时，我保证不会让任何人知晓我的助记词（十二个单词）</p>
+                </div>
+                <div class="box">
+                    <input type="checkbox" id="box2">
+                    <p for="cbox1">我知道所有向我索要助记词的人和网站都是骗子。</p>
+                </div>
+                <div class="box">
+                    <input type="checkbox" id="box3">
+                    <p for="cbox1">我知道所有自称风控部门且要指导我操作钱包的都是骗子。</p>
+                </div>
+                <div class="box">
+                    <input type="checkbox" id="box4">
+                    <p for="cbox1">我知道助记词一旦泄露给他人（拍照、截图、上传云盘或聊天软件），钱包内资产就会被盗走。</p>
+                </div>
+            </div>
+            <div class="sure">
+                <a onclick="downloadSureClick()">我知道了</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container content">
+        <div class="view row">
+            <div class="span12" style="text-align:center;">
+                <a href="javascript:void(0);" onclick="javascript:install();"><img src="{{site.androidlogo}}" class="appicon" /></a>
+                <div>
+                </div>
+            </div>
+        </div>
+
+        <div class="view row" style="margin-top:30px;">
+
+            <div class="span12 margin-bottom-20" style="text-align:center;">
+                <a href="javascript:void(0);" onclick="javascript:showDownloadWarning();" class="btn-u btn-u-lg"><i class="fa fa-download"></i><span lang="en">Download</span></a>
+            </div>
+            <!--<div class="span12 margin-bottom-20" style="text-align:center;">-->
             <!--<a href="javascript:void(0);" onclick="javascript:installs();" class="btn-u btn-u-lg"><i class="fa fa-download"></i>Download&nbsp;(World)</a>-->
-        <!--</div>-->
+            <!--</div>-->
 
-        <div class="span12" style="text-align:center;">
-            <span class="label label-info" id="spanlabel"><a class="downloada" href="{{site.androidsha}}" target="_blank">SHA256SUMS</a></span>
+            <div class="span12" style="text-align:center;">
+                <span class="label label-info" id="spanlabel"><a class="downloada" href="{{site.androidsha}}" target="_blank"  rel="nofollow noopener noreferrer" >SHA256SUMS</a></span>
+            </div>
+        </div>
+
+
+
+        <hr class="devider devider-dotted">
+        <div id="" class="view row margin-bottom-30">
+            <div class="span12" style="text-align:center;">
+                <span lang="en">Use your cell phone  to install by scaning the qr code</span> <br />
+                <br />
+                <img id="andorid-qr" src="{{site.androidHkqr}}" />
+            </div>
         </div>
     </div>
 
-    <hr class="devider devider-dotted">
-    <div id="" class="view row margin-bottom-30">
-        <div class="span12" style="text-align:center;">
-            <span lang="en" >Use your cell phone  to install by scaning the qr code</span> <br />
-            <br />
-            <img src="{{site.androidqr}}" />
-        </div>
-    </div>
-  </div>
 
+    <script src="/js/jquery-1.11.0.js"></script>
+    <script src="/js/jquery-lang.js" type="text/javascript"></script>
+    <script src="/js/js.cookie.js" type="text/javascript"></script>
+    <script src="/js/dynamicLang.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var lang = new Lang();
+        lang.init({
+            defaultLang: 'en',
+            currentLang: 'en',
+            cookie: {
+                name: 'langCookie',
+                expiry: 365,
+                path: '/'
+            },
+            allowCookieOverride: true
+        });
 
-<script src="/js/jquery-1.11.0.js"></script>
-<script src="/js/jquery-lang.js" type="text/javascript"></script>
-<script src="/js/js.cookie.js" type="text/javascript"></script>
-<script src="/js/dynamicLang.js" type="text/javascript"></script>
-<script type="text/javascript">
-    var lang = new Lang();
-    lang.init({
-        defaultLang: 'en',
-        currentLang: 'en',
-        cookie: {
-            name: 'langCookie',
-            expiry: 365,
-            path: '/'
-        },
-        allowCookieOverride: true
-    });
-    function install() {
+        var browser = {
+            version: function() {
+                var u = navigator.userAgent;
+                var ua = navigator.userAgent.toLocaleLowerCase();
+                var app = navigator.appVersion;
+                return {
+                    trident: u.indexOf('Trident') > -1,
+                    presto: u.indexOf('Presto') > -1,
+                    webKit: u.indexOf('AppleWebKit') > -1,
+                    gecko: u.indexOf('Gecko') > -1 && u.indexOf('KHTML') == -1,
+                    mobile: !!u.match(/AppleWebKit.*Mobile.*/) || !!u.match(/AppleWebKit/),
+                    ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/),
+                    android: u.indexOf('Android') > -1 || u.indexOf('Mac') > -1,
+                    iPhone: u.indexOf('iPhone') > -1 || u.indexOf('Mac') > -1,
+                    iPad: u.indexOf('iPad') > -1,
+                    webApp: u.indexOf('Safari') == -1,
+                    QQbrw: u.indexOf('MQQBrowser') > -1,
+                    weChat: u.indexOf('MicroMessenger') > -1,
+                    QQ: ua.match(/QQ/i) == "qq",
+                    weiBo: ua.match(/WeiBo/i) == "weibo",
+                    ucLowEnd: u.indexOf('UCWEB7.') > -1, //
+                    ucSpecial: u.indexOf('rv:1.2.3.4') > -1,
+                    webview: !(u.match(/Chrome\/([\d.]+)/) || u.match(/CriOS\/([\d.]+)/)) && u.match(/(iPhone|iPod|iPad).*AppleWebKit(?!.*Safari)/),
+                    ucweb: function() {
+                        try {
+                            return parseFloat(u.match(/ucweb\d+\.\d+/gi).toString().match(/\d+\.\d+/).toString()) >= 8.2
+                        } catch (e) {
+                            if (u.indexOf('UC') > -1) {
+                                return true;
+                            }
+                            return false;
+                        }
+                    }(),
+                    Symbian: u.indexOf('Symbian') > -1,
+                    ucSB: u.indexOf('Firofox/1.') > -1
+                };
+            }()
+        };
 
-//        if(!isMobile()){
-//            alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
-//            return;
-//        }
-        var lang = navigator.language || navigator.userLanguage || navigator.browserLanguage ||navigator.systemLanguage
-
-        if(lang && lang.indexOf("ja") > -1){
-            url = "https://play.google.com/store/apps/details?id=com.bitpie";
-        }else {
-            url = "https://dn-bither.qbox.me/bitpie.apk";
+        if (browser.version.weChat || browser.version.QQ) {
+            document.getElementById('tecent-bg').style.display = "block";
         }
 
-        window.location.href = url;
-    }
+        function install() {
+            // if (!isMobile()) {
+            //     alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
+            //     return;
+            // }
+            var lang = navigator.language || navigator.userLanguage || navigator.browserLanguage || navigator.systemLanguage
 
-    $(function(){
-         function run() {
-
-            document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
-
-
-        }
-
-        if((navigator.language || navigator.browserLanguage).indexOf("zh") > -1){
-            window.lang.change("zh")
-        }else if((navigator.language || navigator.browserLanguage).indexOf("ja") > -1){
-            window.lang.change("jp")
-        }else if((navigator.language || navigator.browserLanguage).indexOf("en") > -1){
-            window.lang.change('en')
-        }
-
-        function is_weixin() {
-            var ua = navigator.userAgent.toLowerCase();
-            if (ua.match(/MicroMessenger/i) == "micromessenger") {
-                return true;
+            if (lang && lang.indexOf("ja") > -1) {
+                url = "https://play.google.com/store/apps/details?id=com.bitpie";
             } else {
-                return false;
+                url = "https://dn-bither.qbox.me/bitpie.apk";
             }
-        }
-        var isWeixin = is_weixin();
-        var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : document.documentElement.clientHeight;
-        function loadHtml(){
-            var div = document.createElement('div');
-            div.id = 'weixin-tip';
-            div.innerHTML = '<p><img src="/img/live_weixin.png"  styl alt="微信打开" /></p>';
-            document.body.appendChild(div);
+
+            window.location.href = url;
         }
 
-        function loadStyleText(cssText) {
-            var style = document.createElement('style');
-            style.rel = 'stylesheet';
-            style.type = 'text/css';
-            try {
-                style.appendChild(document.createTextNode(cssText));
-            } catch (e) {
-                style.styleSheet.cssText = cssText; //ie9以下
+        function hiddenWarning() {
+            document.getElementById('alert-warning').style.display = "none";
+        }
+
+        function showDownloadWarning() {
+            document.getElementById('download-warning').style.display = "block";
+        }
+
+        function hiddenDownloadWarning() {
+            document.getElementById('download-warning').style.display = "none";
+        }
+
+        function downloadSureClick() {
+            if (document.getElementById("box1").checked &&
+                document.getElementById("box2").checked &&
+                document.getElementById("box3").checked &&
+                document.getElementById("box4").checked) {
+                document.getElementById('download-warning').style.display = "none";
+                install();
+            } else {
+                document.getElementById('alert-warning').style.display = "block";
             }
-            var head=document.getElementsByTagName("head")[0]; //head标签之间加上style样式
-            head.appendChild(style);
         }
-        var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:210%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5% 10% 5%;}";
-        if(isWeixin){
-            loadHtml();
-            loadStyleText(cssText);
-            run();
-        }
-    })
-</script>
-{% include tongji.html %}
+
+        $(function() {
+            function run() {
+                document.getElementById("aweixinDisplay").style = "text-align:center;display:block";
+            }
+
+            var download = document.getElementById("warning-content");
+            download.onclick = function(e) {
+                if (e && e.stopPropagation) {
+                    e.stopPropagation();
+                } else {
+                    window.event.cancelBubble = true;
+                }
+            }
+
+            if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
+                window.lang.change("zh")
+            } else if ((navigator.language || navigator.browserLanguage).indexOf("ja") > -1) {
+                window.lang.change("jp")
+            } else if ((navigator.language || navigator.browserLanguage).indexOf("en") > -1) {
+                window.lang.change('en')
+            }
+
+            function is_weixin() {
+                var ua = navigator.userAgent.toLowerCase();
+                if (ua.match(/MicroMessenger/i) == "micromessenger") {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+            var isWeixin = is_weixin();
+            var winHeight = typeof window.innerHeight != 'undefined' ? window.innerHeight : document.documentElement.clientHeight;
+
+            function loadHtml() {
+                var div = document.createElement('div');
+                div.id = 'weixin-tip';
+                div.innerHTML = '<p><img src="/img/live_weixin.png"  styl alt="微信打开" /></p>';
+                document.body.appendChild(div);
+            }
+
+            function loadStyleText(cssText) {
+                var style = document.createElement('style');
+                style.rel = 'stylesheet';
+                style.type = 'text/css';
+                try {
+                    style.appendChild(document.createTextNode(cssText));
+                } catch (e) {
+                    style.styleSheet.cssText = cssText; //ie9以下
+                }
+                var head = document.getElementsByTagName("head")[0]; //head标签之间加上style样式
+                head.appendChild(style);
+            }
+            var cssText = "#weixin-tip{position: fixed; left:0; top:0; background: rgba(0,0,0,0.8); filter:alpha(opacity=80); width:100%; height:210%; z-index: 100;} #weixin-tip p{text-align: center; margin-top: 10%; padding:0 5% 10% 5%;}";
+            if (isWeixin) {
+                loadHtml();
+                loadStyleText(cssText);
+                run();
+            }
+
+            if (window.location.host == "bitpie.com") {
+                document.getElementById('andorid-qr').src = "/img/android_qr.png";
+            } else if (window.location.host == "bitpiehk.com") {
+                document.getElementById('andorid-qr').src = "/img/android_qr_hk.png";
+            } else if (window.location.host == "bitpiecn.com") {
+                document.getElementById('andorid-qr').src = "/img/bitpie_qr_cn.png";
+            } else if (window.location.host == "bitpieasia.com") {
+                document.getElementById('andorid-qr').src = "/img/bitpie_qr_asia.png";
+            } else if (window.location.host == "piepiewallet.com") {
+                document.getElementById('andorid-qr').src = "/img/android_qr_pie.png";
+            }
+
+            // isInChina((isChina) => {
+            //     if (isChina) {
+            //         document.getElementById('andorid-qr').src = "/img/android_qr.png";
+            //     } else {
+            //         document.getElementById('andorid-qr').src = "/img/android_qr_hk.png";
+            //     }
+            // })
+
+            // function isInChina(cb) {
+            //     var url = '//graph.facebook.com/feed?callback=h';
+            //     var xhr = new XMLHttpRequest();
+            //     var called = false;
+            //     xhr.open('GET', url);
+            //     xhr.onreadystatechange = function() {
+            //         if (xhr.readyState === 4 && xhr.status === 200) {
+            //             called = true;
+            //             cb(false);
+            //         }
+            //     };
+            //     xhr.send();
+            //     setTimeout(function() {
+            //         if (!called) {
+            //             xhr.abort();
+            //             cb(true);
+            //         }
+            //     }, 1000);
+            // };
+
+        })
+    </script>
+    {% include tongji.html %}
 
 
 </body>
+
 </html>

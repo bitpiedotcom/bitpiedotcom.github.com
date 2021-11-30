@@ -1,0 +1,56 @@
+{
+    "cn": {
+        "title": "声明",
+        "data": "2020-6-4",
+        "id": 81,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "今收到用户反馈，有一家叫“比特派交易所”的平台仿冒比特派 Bitpie 品牌，开展相应业务。 比特派 Bitpie 钱包特此声明：比特派此前从未听说、也未与此类平台有过任何接触与合作。同时，对于任何未经比特派 Bitpie 允许而私自将比特派列为合作伙伴的项目方或机构，比特派均不对其行为负任何责任，并保留追究法律责任的权利。"
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 260px;margin: 0 auto;\" src=\"/static/image/news/public_81.jpeg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "同时比特派特此提醒广大用户，此类平台均存在较高风险，资产一旦转入，极有可能无法追回。请务必擦亮双眼，提高风险意识，谨慎投资！"
+            },
+            {
+                "type": 0,
+                "data": "比特派<br/>2020/06/04"
+            }
+        ]
+    },
+    "en": {
+        "title": "Announcement",
+        "data": "2020-6-4",
+        "id": 81,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "Dear Bitpie Users："
+            },
+            {
+                "type": 0,
+                "data": "We have recently noticed that there is an exchange called ‘Bitpie Exchange’ is offering service to his clients. Bitpie Wallet hereby announce: Bitpie Wallet never heard about this exchange before and has nothing relate to it. Meanwhile, for any third part that list Bitpie Wallet as a partner but without letting us know, Bitpie takes no responsibility to them and reserve the right to pursue legal responsibility."
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img style=\"max-width: 260px;margin: 0 auto;\" src=\"/static/image/news/public_81.jpeg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "Here we shall remind all users, these kind of platforms that promise investors high profits are all with high risks. Once you deposit your assets, you may not able to take them back. Please always be careful when you want to make investments. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie<br/>06/04/2020"
+            }
+        ]
+    }
+}

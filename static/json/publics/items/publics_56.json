@@ -1,0 +1,69 @@
+{
+  "cn": {
+    "title": "关于 iOS 版本比特派钱包更换开发者账号及APP更新的公告",
+    "data": "2019-10-9",
+    "id": 56,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "为了便于对 IOS 版本比特派APP的更新与管理，比特派团队已将原开发者账号【 BITPIE TECHNOLOGY INC. 】变更为新账号【BITPIE HK LIMITED】。"
+      },
+      {
+        "type": 0,
+        "data": "后续 APP 的更新与发布将由新账号执行。"
+      },
+      {
+        "type": 1,
+        "data": null,
+        "image": "/static/img/change_appleid.png"
+      },
+      {
+        "type": 0,
+        "data": "为了方便区分，新版 APP 已在右上角增加了橙色的PRO角标，当前两版 APP 可共存，此后原版APP将不再更新，请及时下载带有橙色PRO角标版本的比特派APP。执行下载更新等操作前，请先对助记词的正确性进行核对。"
+      },
+      {
+        "type": 0,
+        "data": "安卓用户不受影响。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年10月9日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on the replacement of developer account and APP update for  Bitpie Wallet iOS version",
+    "data": "2019-09-11",
+    "id": 56,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Dear Users:"
+      },
+      {
+        "type": 0,
+        "data": "In order to facilitate the update and management of the iOS version of Bitpie APP, the original developer account [BITPIE TECHNOLOGY INC.] has been changed to the new account [BITPIE HK LIMITED] by Bitpie Team"
+      },
+      {
+        "type": 0,
+        "data": "The update and release of subsequent APPs will be performed by the new account."
+      },
+      {
+        "type": 0,
+        "data": "In order to facilitate the distinction, the new APP has added an orange PRO sign in the upper right corner. Currently these two versions of the APP can coexist. Thereafter, the original APP will not be updated. Please download the Bitpie app with the orange PRO version. Please double check the correctness of your mnemonic before updates."
+      },
+      {
+        "type": 0,
+        "data": "Android users are not affected."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team<br/>October 9, 2019"
+      }
+    ]
+  }
+}

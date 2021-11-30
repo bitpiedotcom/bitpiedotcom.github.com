@@ -7,129 +7,130 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <link rel="shortcut icon" href="/favicon.ico" mce_href="/favicon.ico" type="image/x-icon">
     <script src="/js/flexible.min.js"></script>
-  <style>
-    body{
-      background:#fff !important;
-    }
-  </style>
+    <style>
+        body {
+            background: #fff !important;
+        }
+    </style>
     {% include css.html %}
 </head>
+
 <body>
-<nav style="display: block">
-  <div class="mobile-nav pc-hidden">
-    <div class="m-box">
-      <div class="mobile-header-logo mobile-bithd">
-        <a href="/index.html"><img class="logo" src="../resource/bithd.png"></a>
-      </div>
-      <div class="mobile-header-menu">
-        <img id="menu" src="../resource/menu.png">
-      </div>
-    </div>
-  </div>
-  <div id="menu-list" class="pc-nav mobile-hidden">
-    <div class="m-box">
-      <div class="pc-header-logo mobile-hidden">
-        <a href="/index.html"><img class="logo" src="../resource/bithd.png"></a>
-      </div>
-      <div class="pc-header-menu">
-        <ul>
-          <li>
-            <a href="../reports/reports.html" class="menu_report"></a>
-            <!--<ul class="mobile-ul" style="display: none">-->
-            <!--<li><a href="http://www.jinse.com/bitcoin/123580.html" target="_blank" id="jinse_mobile"></a></li>-->
-            <!--<li><a href="http://www.aicoin.net.cn/amp/services/news-share?id=3762&lang=zh&from=timeline" target="_blank" id="alcoin_mobile"></a></li>-->
-            <!--<li><a href="https://mp.weixin.qq.com/s/PHBJaW8kUW-duMeKb7Hg2g" target="_blank" id="chain_mobile"></a></li>-->
-            <!--</ul>-->
-          </li>
-          <li>
-            <a href="http://docs.bithd.com/" class="menu_docs" ></a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-  </div>
-</nav>
-<div class="body-box" onclick="containMenuOperation()">
-  <div class="nav-box">
-    <div class="nav-in-box">
-      <a href="/BITHD-watch-1.html" class="nav-btn">
-        <img src="../image/icon_bithd1@2x.png" class="nav-img" alt="">
-        <div>BITHD Watch 1</div>
-      </a>
-      <a href="/BITHD-watch-2.html" class="nav-btn">
-        <img src="../image/icon_bithd2@2x.png" class="nav-img" alt="">
-        <div>BITHD Watch 2</div>
-      </a>
-      <a href="/BITHD-Razor.html" class="nav-btn">
-        <img src="../image/icon_razor@3x.png" class="nav-img" alt="">
-        <div>BITHD Razor</div>
-        <div id="index_news" class="nav-btn-font">新款</div>
-      </a>
-      <a href="/BITHD-compare.html" class="nav-btn">
-        <img src="../image/icon_bithd@2x.png" class="nav-img bj" alt="">
-        <div id="nav_compare"></div>
-      </a>
-    </div>
-  </div>
-  <div class="rol razor-box-1 index-banner-box">
-    <div class="m-box">
-      <div class="box-1-font">
-        <div id="razor_banner_title" class="box-1-tltle"></div>
-        <div id="razor_banner_font" class="box-1-message index-banner"></div>
-        <div class="banner-btn-box">
-          <a id="index_banner_btn1" href="/BITHD-Razor.html" class="lt banner-btn">进一步了解 ></a>
-          <div id="index_banner_btn2" class="lt banner-btn open-buy not-open buy-razor">购买 ></div>
+    <nav style="display: block">
+        <div class="mobile-nav pc-hidden">
+            <div class="m-box">
+                <div class="mobile-header-logo mobile-bithd">
+                    <a href="/index.html"><img class="logo" src="../resource/bithd.png"></a>
+                </div>
+                <div class="mobile-header-menu">
+                    <img id="menu" src="../resource/menu.png">
+                </div>
+            </div>
         </div>
-      </div>
+        <div id="menu-list" class="pc-nav mobile-hidden">
+            <div class="m-box">
+                <div class="pc-header-logo mobile-hidden">
+                    <a href="/index.html"><img class="logo" src="../resource/bithd.png"></a>
+                </div>
+                <div class="pc-header-menu">
+                    <ul>
+                        <li>
+                            <a href="../reports/reports.html" class="menu_report"></a>
+                            <!--<ul class="mobile-ul" style="display: none">-->
+                            <!--<li><a href="http://www.jinse.com/bitcoin/123580.html" target="_blank"  rel="nofollow noopener noreferrer"  id="jinse_mobile"></a></li>-->
+                            <!--<li><a href="http://www.aicoin.net.cn/amp/services/news-share?id=3762&lang=zh&from=timeline" target="_blank"  rel="nofollow noopener noreferrer"  id="alcoin_mobile"></a></li>-->
+                            <!--<li><a href="https://mp.weixin.qq.com/s/PHBJaW8kUW-duMeKb7Hg2g" target="_blank"  rel="nofollow noopener noreferrer"  id="chain_mobile"></a></li>-->
+                            <!--</ul>-->
+                        </li>
+                        <li>
+                            <a href="http://docs.bithd.com/" class="menu_docs"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
 
-      <img src="../image/banner_pic@2x.png" class="banner-pic" alt="">
-    </div>
-  </div>
-  <div class="index-intro-box">
-    <div class="m-box">
-      <div class="lt intro-btn-box">
-        <div class="intro-title">BITHD Watch 2</div>
-        <div id="index_watch_2" class="intro-font">
-          经过由内而外的重新设计和打造，全新 BITHD Watch 2，给予数字资产更安全的守护。
         </div>
-        <a href="/BITHD-watch-2.html" class="intro-btn more">
+    </nav>
+    <div class="body-box" onclick="containMenuOperation()">
+        <div class="nav-box">
+            <div class="nav-in-box">
+                <a href="/BITHD-watch-1.html" class="nav-btn">
+                    <img src="../image/icon_bithd1@2x.png" class="nav-img" alt="">
+                    <div>BITHD Watch 1</div>
+                </a>
+                <a href="/BITHD-watch-2.html" class="nav-btn">
+                    <img src="../image/icon_bithd2@2x.png" class="nav-img" alt="">
+                    <div>BITHD Watch 2</div>
+                </a>
+                <a href="/BITHD-Razor.html" class="nav-btn">
+                    <img src="../image/icon_razor@3x.png" class="nav-img" alt="">
+                    <div>BITHD Razor</div>
+                    <div id="index_news" class="nav-btn-font">新款</div>
+                </a>
+                <a href="/BITHD-compare.html" class="nav-btn">
+                    <img src="../image/icon_bithd@2x.png" class="nav-img bj" alt="">
+                    <div id="nav_compare"></div>
+                </a>
+            </div>
+        </div>
+        <div class="rol razor-box-1 index-banner-box">
+            <div class="m-box">
+                <div class="box-1-font">
+                    <div id="razor_banner_title" class="box-1-tltle"></div>
+                    <div id="razor_banner_font" class="box-1-message index-banner"></div>
+                    <div class="banner-btn-box">
+                        <a id="index_banner_btn1" href="/BITHD-Razor.html" class="lt banner-btn">进一步了解 ></a>
+                        <div id="index_banner_btn2" class="lt banner-btn open-buy not-open buy-razor">购买 ></div>
+                    </div>
+                </div>
+
+                <img src="../image/banner_pic@2x.png" class="banner-pic" alt="">
+            </div>
+        </div>
+        <div class="index-intro-box">
+            <div class="m-box">
+                <div class="lt intro-btn-box">
+                    <div class="intro-title">BITHD Watch 2</div>
+                    <div id="index_watch_2" class="intro-font">
+                        经过由内而外的重新设计和打造，全新 BITHD Watch 2，给予数字资产更安全的守护。
+                    </div>
+                    <a href="/BITHD-watch-2.html" class="intro-btn more">
           进一步了解 >
         </a>
-        <img src="../image/home_pic_b@2x.png" alt="" class="intro-img">
-      </div>
-      <div class="lt intro-btn-box intro-btn-index">
-        <div class="intro-title">BITHD Razor</div>
-        <div id="index_watch_1" class="intro-font">
-          经过由内而外的重新设计和打造，全新 BITHD Watch 2，给予数字资产更安全的守护。
-        </div>
-        <a href="/BITHD-Razor.html" class="intro-btn more">
+                    <img src="../image/home_pic_b@2x.png" alt="" class="intro-img">
+                </div>
+                <div class="lt intro-btn-box intro-btn-index">
+                    <div class="intro-title">BITHD Razor</div>
+                    <div id="index_watch_1" class="intro-font">
+                        经过由内而外的重新设计和打造，全新 BITHD Watch 2，给予数字资产更安全的守护。
+                    </div>
+                    <a href="/BITHD-Razor.html" class="intro-btn more">
           进一步了解 >
         </a>
-        <img src="../image/icon_pic_razor@3x.png" alt="" class="intro-img razro-img">
-      </div>
+                    <img src="../image/icon_pic_razor@3x.png" alt="" class="intro-img razro-img">
+                </div>
+            </div>
+        </div>
+        <div class="alert-buy-box">
+            <div class="buy-box">
+                <div id="buy_title" class="buy-title"></div>
+                <div class="buy-btn-box">
+                    <a href="#" id="buy-wd" class="buy-btn" target="_blank" rel="nofollow noopener noreferrer">
+                        <span id="buy_wd_font"></span>
+                        <span class="gt">></span>
+                    </a>
+                    <a href="#" id="buy-tb" class="buy-btn" target="_blank" rel="nofollow noopener noreferrer">
+                        <span id="buy_tb_font"></span>
+                        <span class="gt">></span>
+                    </a>
+                </div>
+                <div id="buy_close_btn" class="close-btn"></div>
+            </div>
+        </div>
     </div>
-  </div>
-  <div class="alert-buy-box">
-    <div class="buy-box">
-      <div id="buy_title" class="buy-title"></div>
-      <div class="buy-btn-box">
-        <a href="#" id="buy-wd" class="buy-btn" target="_blank">
-          <span id="buy_wd_font"></span>
-          <span class="gt">></span>
-        </a>
-        <a href="#" id="buy-tb" class="buy-btn" target="_blank">
-          <span id="buy_tb_font"></span>
-          <span class="gt">></span>
-        </a>
-      </div>
-      <div id="buy_close_btn" class="close-btn"></div>
-    </div>
-  </div>
-</div>
 
     {% include js.html %}
-<link href="/css/index_media.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/css/index_media.css" rel="stylesheet" type="text/css" media="all" />
 
     <script>
         $(function() {
@@ -230,9 +231,9 @@
                 $("#convenience-bg").attr('src', '../resource/carousel_mobile.jpg');
                 $("#wear-bg").attr('src', '../resource/wear_mobile.jpg');
                 $("#float-image").attr('src', '../resource/watch_mobile.png');
-                if (new String($.i18n.browserLang()).indexOf("zh")> -1) {
+                if (new String($.i18n.browserLang()).indexOf("zh") > -1) {
                     $("#component-bg").attr('src', '../resource/industry_mobile_cn.jpg');
-                } else if ((new String($.i18n.browserLang()).toLowerCase()).indexOf("tw") > -1|| (new String($.i18n.browserLang()).toLowerCase()).indexOf("hk") > -1) {
+                } else if ((new String($.i18n.browserLang()).toLowerCase()).indexOf("tw") > -1 || (new String($.i18n.browserLang()).toLowerCase()).indexOf("hk") > -1) {
                     $("#component-bg").attr('src', '../resource/industry_mobile_rtw.jpg');
                 } else {
                     $("#component-bg").attr('src', '../resource/industry_mobile_en.jpg');
@@ -261,16 +262,16 @@
         $(function() {
             var languageCode;
 
-          if (new String($.i18n.browserLang()).indexOf("zh")> -1) {
-            languageCode = "zh";
-            $('body').addClass('zh')
-          } else if ((new String($.i18n.browserLang()).toLowerCase()).indexOf("tw") > -1|| (new String($.i18n.browserLang()).toLowerCase()).indexOf("hk") > -1) {
-            languageCode = "zh-rTW";
-            $('body').addClass('tw')
-          } else {
-            languageCode = "en";
-            $('body').addClass('en')
-          }
+            if (new String($.i18n.browserLang()).indexOf("zh") > -1) {
+                languageCode = "zh";
+                $('body').addClass('zh')
+            } else if ((new String($.i18n.browserLang()).toLowerCase()).indexOf("tw") > -1 || (new String($.i18n.browserLang()).toLowerCase()).indexOf("hk") > -1) {
+                languageCode = "zh-rTW";
+                $('body').addClass('tw')
+            } else {
+                languageCode = "en";
+                $('body').addClass('en')
+            }
             jQuery.i18n.properties({
                 name: 'strings',
                 path: '/i18n/',
@@ -278,8 +279,8 @@
                 async: true,
                 language: languageCode,
                 callback: function() {
-                  $('#razor_banner_title').html($.i18n.prop('razor_banner_title'));
-                  $('#razor_banner_font').html($.i18n.prop('razor_banner_font'));
+                    $('#razor_banner_title').html($.i18n.prop('razor_banner_title'));
+                    $('#razor_banner_font').html($.i18n.prop('razor_banner_font'));
                     $(".welcome-title").html($.i18n.prop('welcome'));
 
                     $(".menu_overview").html($.i18n.prop('menu_features'));

@@ -1,0 +1,48 @@
+{
+  "cn": {
+    "title": "恢复SAFE收发币的公告",
+    "data": "2019-07-01",
+    "id": 48,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "尊敬的bitpie用户："
+      },
+      {
+        "type": 0,
+        "data": "SAFE主网已稳定运行，Bitpie钱包已于7月1日18：00（UTC+8）恢复SAFE收发币等相关功能。"
+      },
+      {
+        "type": 0,
+        "data": "如您有任何疑问，请随时咨询bitpie官方：<br>官方客服微信号：tingtingwuxu<br>官方微博：比特派钱包"
+      },
+      {
+        "type": 0,
+        "data": "2019年7月1日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on Resumption of SAFE Sending and Receiving",
+    "data": "2019-07-01",
+    "id": 48,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers,"
+      },
+      {
+        "type": 0,
+        "data": "The SAFE mainnet has been running stably. Bitpie wallet has resumed SAFE transaction and other related functions at 18:00 (UTC+8) on July 1."
+      },
+      {
+        "type": 0,
+        "data": "If you have any question, feel free to reach out on:<br>Telegram: https://t.me/BitpieInternational<br>Twitter: https://twitter.com/BitpieWallet"
+      },
+      {
+        "type": 0,
+        "data": "July 1, 2019"
+      }
+    ]
+  }
+}

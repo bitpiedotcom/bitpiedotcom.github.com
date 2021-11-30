@@ -1,0 +1,145 @@
+{
+    "cn": {
+        "title": "关于防范 \"虚假比特派官网\" 的声明",
+        "data": "2021-11-11",
+        "id": 135,
+        "watch": 88,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "近期，经用户反馈，我们发现多家骗子网站仿冒 Bitpie 官网，开展相应业务，试图骗取用户资产。"
+            },
+            {
+                "type": 0,
+                "data": "假冒比特派官网：https://otcbidding.com/[假]、https://www.bitpei.com/[假]、https://bitepai.pro[假]、https://bitpie.im[假]、https://appbitpie.com/m.html[假]、https://cnbitpie.com/[假]、https://www.bitpie118.com[假]、http://bitpie.org [假]http://bitpie.org [假]、www.bitpie168.vip [假]、www.bitpie18.com [假]"
+            },
+            {
+                "type": 1,
+                "image": "./img/fake_site.png"
+            },
+            {
+                "type": 0,
+                "data": "请大家对虚假信息予以警惕，不要在任何网站输入助记词，也不要把助记词透露给任何人，谨防资产损失。"
+            },
+            {
+                "type": 0,
+                "data": "下载安装 Bitpie，请大家认准 Bitpie 官网：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "如何判断自己是否受影响？请按以下方式自查是否为正版 Bitpie："
+            },
+            {
+                "type": 0,
+                "data": "1. 在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为  BITPIE HK LIMITED，其他的均为假冒APP。"
+            },
+            {
+                "type": 0,
+                "data": "2. 比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。"
+            },
+            {
+                "type": 0,
+                "data": "3. 其他渠道：请谨慎防范任何与 Bitpie 官网（<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>）相似的网址，从非官网渠道下载的均有巨大风险。"
+            },
+            {
+                "type": 0,
+                "data": "可能受影响的用户该怎么办？"
+            },
+            {
+                "type": 0,
+                "data": "1. 请立即停用在此期间创建或导入过假 Bitpie App 的钱包的地址。"
+            },
+            {
+                "type": 0,
+                "data": "2. 从 Bitpie 官网 <a href='https://piepiewallet.com/'>piepiewallet.com</a> 重新下载安装 Bitpie 并创建新钱包。"
+            },
+            {
+                "type": 0,
+                "data": "3. 将存在风险的钱包地址中的资产尽快转至新钱包地址。"
+            },
+            {
+                "type": 0,
+                "data": "同时，如果你发现了类似骗局，请通过邮件 service@bitpie.com 反馈给我们，感谢您的支持。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队"
+            },
+            {
+                "type": 0,
+                "data": "2021年11月11日"
+            }
+        ]
+    },
+    "en": {
+        "title": "Prevention of \"FAKE Bitpie official website\"",
+        "data": "2021-11-11",
+        "id": 135,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Dear users: "
+            },
+            {
+                "type": 0,
+                "data": "Recently, we found that many scam page imitated Bitpie's official website in an attempt to defraud users' assets. "
+            },
+            {
+                "type": 0,
+                "data": "Fake Bitpie official websites:https://otcbidding.com/[false]、https://www.bitpei.com/[false]、https://bitepai.pro[false]、https://bitpie.im[false]、https://appbitpie.com/html[false]、https://cnbitpie.com/[false]、https://www.bitpie118.com[false]、http://bitpie.org [false]、http://bitpie.org [false]、www.bitpie168.vip [false]、www.bitpie18.com [false] "
+            },
+            {
+                "type": 0,
+                "data": "Please be alert to false information, do not enter mnemonic phases on any website, and do not disclose the mnemonic words to anyone to prevent asset loss. "
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Download and install Bitpie on the official Bitpie websites: <a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a></strong>"
+            },
+            {
+                "type": 0,
+                "data": "How do you check whether you are affected?  "
+            },
+            {
+                "type": 0,
+                "data": "Please check in the following ways: "
+            },
+            {
+                "type": 0,
+                "data": "1. Check the developer account when installing the Bitpie APP on APP Store or Play Store. The developer of the Bitpie APP is BITPIE HK LIMITED, and the others are counterfeit apps. "
+            },
+            {
+                "type": 0,
+                "data": "2. The Bitpie APP is not available in mainland China, and the Bitpie APPs on APP Store in mainland China are all counterfeit apps. "
+            },
+            {
+                "type": 0,
+                "data": "3. Other channels: Please be careful to prevent any URLs similar to Bitpie's official website (piepiewallet.com, bitpie.com, bitpiecn.com, bitpiehk.com, bitpieasia.com, bitpie.one), and downloads from non-official channels have high risk.  "
+            },
+            {
+                "type": 0,
+                "data": "What should the users who may be affected do?  "
+            },
+            {
+                "type": 0,
+                "data": "1. Please immediately deactivate the addresses of wallets that have created or imported to fake Bitpie App during this period. "
+            },
+            {
+                "type": 0,
+                "data": "2. Re-download and install Bitpie from Bitpie's official website piepiewallet.com and create a new wallet. "
+            },
+            {
+                "type": 0,
+                "data": "3. Transfer the assets in the risky wallet address to the new wallet address as soon as possible.  At the same time, if you find a similar scam, please send us an email to service@bitpie.com, thank you for your support. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>November, 11, 2021"
+            }
+    ]
+  }
+}

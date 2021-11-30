@@ -1,0 +1,121 @@
+{
+  "cn": {
+    "title": "警惕恶意授权骗局的公告",
+    "data": "2021-08-18",
+    "id": 124,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "经用户反馈，近期市场中骗取授权的盗币事件频发。"
+      },
+      {
+        "type": 0,
+        "data": "风险项目方 <a href='https://eth-bit.com/' target='_blank'>https://eth-bit.com/</a>、<a href='http://cat-eth.biz' target='_blank'>http://cat-eth.biz</a>、<a href='http://eth-cat.com' target='_blank'>http://eth-cat.com</a>、<a href='https://eth-cat.co' target='_blank'>https://eth-cat.co</a>、<a href='https://eth-ant.com/' target='_blank'>https://eth-ant.com/</a>以高额收益吸引用户参与，在用户参与该项目时，骗取用户授权，而后盗取转移用户地址上的资产。"
+      },
+      {
+        "type": 0,
+        "data": "<p style=\"text-align: center;\"><img src=\"/static/image/news/scam_website.jpg\"></p>"
+      },
+      {
+        "type": 0,
+        "data": "为了避免此类骗局造成您的资产损失，您需谨记："
+      },
+      {
+        "type": 0,
+        "data": "1、不要向任何陌生项目合约地址授权；"
+      },
+      {
+        "type": 0,
+        "data": "2、请勿参与任何陌生人主动推荐的高收益项目；"
+      },
+      { "type": 0,
+        "data": "3、Telegram 中诈骗项目居多，请勿轻信他人；"
+      },
+      {
+        "type": 0,
+        "data": "4、如不小心向风险项目授权，请及时转移资产并不要再用此地址进行收款。"
+      },
+      {
+        "type": 0,
+        "data": "请认准比特派官网：1.bitpie.com 2.bitpiehk.com 3.bitpie.one 4.bitpiecn.com  5.bitpieasia.com"
+      },
+      {
+        "type": 0,
+        "data": "如有问题请联系比特派官方工作人员：service@bitpie.com"
+      },
+      {
+        "type": 0,
+        "data": "感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2021/08/18"
+      }
+    ]
+  },
+  "en": {
+        "title": "Beware of the announcement of malicious authorization",
+        "data": "2021-08-18",
+        "id": 124,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Rencenly, there are frequent cases of fraudulently obtaining users’ authorization. Some risky project parties like <a href='https://eth-bit.com/' target='_blank'>https://eth-bit.com/</a>、<a href='http://cat-eth.biz' target='_blank'>http://cat-eth.biz</a>、<a href='http://eth-cat.com' target='_blank'>http://eth-cat.com</a>、<a href='https://eth-cat.co' target='_blank'>https://eth-cat.co</a>、<a href='https://eth-ant.com/' target='_blank'>https://eth-ant.com/</a> attract users to participate in a high profit project, to get their authorization and steal the assets from their wallet.  "
+            },
+            {
+                "type": 0,
+                "data": "<p style=\"text-align: center;\"><img src=\"/static/image/news/scam_website_en.jpg\"></p>"
+            },
+            {
+                "type": 0,
+                "data": "In order to avoid such scams, please"
+            },
+            {
+                "type": 0,
+                "data": "1. Do not authorize any unfamiliar project contract address; "
+            },
+            {
+                "type": 0,
+                "data": "2. Do not participate in any high-yield projects recommended by strangers; "
+            },
+            {
+                "type": 0,
+                "data": "3. Most of the fraud projects in Telegram, do not trust any strangers; "
+            },
+            {
+                "type": 0,
+                "data": "4. If you accidentally authorize an unfamiliar project, please transfer the assets immediately and do not use this address for storing assets."
+            },
+            {
+                "type": 0,
+                "data": "Here are the official website of Bitpie: "
+            },
+            {
+                "type": 0,
+                "data": "1.bitpie.com 2.bitpiehk.com 3.bitpie.one 4.bitpiecn.com  5.bitpieasia.com"
+            },
+            {
+                "type": 0,
+                "data": "If you have any questions, please contact Bitpie official email: service@bitpie.com"
+            },
+            {
+                "type": 0,
+                "data": "Thank you for your support to Bitpie. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>2021/08/18"
+            }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "cn":{
+    "title":"有关停止支持 LCH 币种的公告",
+    "data":"2019-08-20",
+    "id":53,
+    "watch":29,
+    "message":[
+      {
+        "type":0,
+        "data":"亲爱的比特派用户："
+      },
+      {
+        "type":0,
+        "data":"因 LCH 官方已经不再对该项目进行维护，比特派将从即日起停止提供 LCH 收发等一切相关服务，如需咨询相关事宜请联系 LCH 官方。"
+      },
+      {
+        "type":0,
+        "data":"比特派<br/>2019年8月20日"
+      }
+    ]
+  },
+  "en":{
+    "title":"Announcement on LCH",
+    "data":"2019-08-20",
+    "id":53,
+    "watch":29,
+    "message":[
+      {
+        "type":0,
+        "data":"Fellow Bitpiers:"
+      },
+      {
+        "type":0,
+        "data":"As the LCH official team no longer maintains the project, Bitpie Wallet will stop providing all related services such as LCH sending and receiving from now on. Please contact LCH official if you have any other issues."
+      },
+      {
+        "type":0,
+        "data":"Thanks for your understanding and support."
+      },
+      {
+        "type":0,
+        "data":"Bitpie Team<br/>August 20, 2019"
+      }
+    ]
+  }
+}

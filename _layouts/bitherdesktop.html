@@ -1,9 +1,11 @@
-
 <!DOCTYPE html>
 <!--[if IE 7]> <html lang="en" class="ie7"> <![endif]-->
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<!--[if !IE]><!-->
+<html lang="en">
+<!--<![endif]-->
+
 <head>
     <title>{{page.title}}</title>
     <meta charset="utf-8" />
@@ -27,50 +29,51 @@
 
 <body>
 
-<div class="row-fluid breadcrumbs margin-bottom-20">
-    <div class="container">
-        <h1 class="pull-left" lang="en">{{site.bitherdownsoftname}} - {{page.subname}}</h1>
-        <ul class="pull-right breadcrumb">
-            <li><span lang="en">Version:</span> {{page.softversion}}</li>
-            <li>{{page.softdate}}</li>
-        </ul>
+    <div class="row-fluid breadcrumbs margin-bottom-20">
+        <div class="container">
+            <h1 class="pull-left" lang="en">{{site.bitherdownsoftname}} - {{page.subname}}</h1>
+            <ul class="pull-right breadcrumb">
+                <li><span lang="en">Version:</span> {{page.softversion}}</li>
+                <li>{{page.softdate}}</li>
+            </ul>
+        </div>
     </div>
-</div>
 
-<div class="container content">
-
+    <div class="container content">
 
 
 
 
-    <div id="" class="view row">
- <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
+
+        <div id="" class="view row">
+            <div class="span12 lessonimg " id="aweixinDisplay" style="text-align:center;display: none">
                 <img src="/img/androidweixin.jpg" id="downloading">
             </div>
-        <div class="span12" style="text-align:center;">
-            <a href="{{page.downurl}}" ><img src="{{site.bitherandroidlogo}}" class="appicon" /></a>
-            <div>
+            <div class="span12" style="text-align:center;">
+                <a href="{{page.downurl}}"><img src="{{site.bitherandroidlogo}}" class="appicon" /></a>
+                <div>
+                </div>
             </div>
         </div>
+
+        <div id="" class="view row" style="margin-top:30px;">
+
+            <div class="span12 margin-bottom-20" style="text-align:center;">
+                <a href="{{page.downurl}}" class="btn-u btn-u-lg"><i class="fa fa-download"></i> 下载</a>
+            </div>
+            <div class="span12 margin-bottom-20" style="text-align:center;">
+                <span class="label label-info" id="spanlabel"><a class="downloada" href="{{page.hashurl}}" target="_blank"  rel="nofollow noopener noreferrer" >SHA256SUMS</a></span>
+            </div>
+        </div>
+
+        <hr class="devider devider-dotted">
+
+
     </div>
 
-    <div id="" class="view row" style="margin-top:30px;">
-
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-           <a href="{{page.downurl}}"  class="btn-u btn-u-lg"><i class="fa fa-download"></i> 下载</a>
-        </div>
-        <div class="span12 margin-bottom-20" style="text-align:center;">
-            <span class="label label-info" id="spanlabel"><a class="downloada" href="{{page.hashurl}}" target="_blank">SHA256SUMS</a></span>
-        </div>
-    </div>
-
-<hr class="devider devider-dotted">
-
-
-</div>
-
-{% include js.html %}
+    {% include js.html %}
 
 
 </body>
+
 </html>

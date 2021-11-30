@@ -1,0 +1,56 @@
+{
+  "cn": {
+    "title": "比特派将支持Ethereum Classic（ETC）硬分叉升级",
+    "data": "2019-09-11",
+    "id": 55,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派将支持Ethereum Classic（ETC）硬分叉升级，根据ETC (Ethereum Classic) 官方计划，ETC将于区块高度达到8,772,000时（预计于香港时间2019年9月12日-13日）进行硬分叉升级。"
+      },
+      {
+        "type": 0,
+        "data": "为保障您的资产安全， 比特派将于2019年9月12日 21:00在APP内暂停ETC相关收发业务，期间请您避免进行ETC的收发行为。"
+      },
+      {
+        "type": 0,
+        "data": "ETC网络稳定后，相关功能会第一时间恢复。"
+      },
+      {
+        "type": 0,
+        "data": "比特派<br/>2019年9月11日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on Bitcoin Support ETC Hard Fork Upgrade",
+    "data": "2019-09-11",
+    "id": 55,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Dear Users:"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie wallet will support the Ethereum Classic (ETC) hard fork upgrade. According to the ETC (Ethereum Classic) Official`s  plan, ETC will implement the hard fork at block height 8,772,000 (expected in HK time September 12-13, 2019) for upgrade."
+      },
+      {
+        "type": 0,
+        "data": "In order to protect the security of your assets, Bitpie will limit the ETC send and receive function in the APP at 21:00 on 12/09/2019. Please avoid ETC sending and receiving during this period."
+      },
+      {
+        "type": 0,
+        "data": "The related functions will be restored in the first time after the ETC blockchain is stable ."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team<br/>September 11, 2019"
+      }
+    ]
+  }
+}

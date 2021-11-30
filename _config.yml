@@ -31,7 +31,7 @@ social:
   - title: reddit
     url: https://www.reddit.com/user/bitpie-wallet
   - title: email
-    url: mailto:support@bitpie.com
+    url: mailto:service@bitpie.com
   - title: Medium
     url: https://medium.com/@Bitpie/ 
   - title: Steemit
@@ -57,8 +57,8 @@ downtitle: 比特派
 downsoftname: 比特派
 iosdownsoftversion: 3.3.3
 iosdownsoftdate: 2018-06-26
-anddownsoftversion: 4.1.0
-anddownsoftdate: 2019-06-26
+anddownsoftversion: 5.0.053
+anddownsoftdate: 2021-11-12
 
 
 # ----------------------- #
@@ -69,8 +69,8 @@ bitherdowntitle: 比太钱包
 bitherdownsoftname: Bither
 bitherios: 1.8.2
 bitheriosdate: 2018-02-06
-bitheranddownversion: 1.8.8
-bitheranddate: 2019-06-17
+bitheranddownversion: 2.0.3
+bitheranddate: 2021-11-29
 
 iOSsoftname: 'Bitpie iOS'
 bitherandroidlogo: '/img/logo_bither.jpg'
@@ -84,7 +84,7 @@ downmobilesecond: '/img/MobileIOSStep2.png'
 downmobilethreetitle: 3.信任下面的证书就可以启动bitpie了
 downmobilethree: '/img/MobileIOSStep3.png'
 downhttps: 'https://bitpiedotcom.github.io'
-appstore: 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
+appstore: 'https://apps.apple.com/us/app/bitpie-wallet/id1481314229'
 winxin: '/img/weixin.png'
 step1: '/img/step1.png'
 step2: '/img/step2.png'
@@ -95,6 +95,7 @@ step3: '/img/step3.png'
 # ----------------------- #
 androidsoftname: 'Bitpie Android'
 androidqr: '/img/android_qr.png'
+androidHkqr: '/img/android_qr_hk.png'
 androidlogo: '/img/logo.png'
 androidsha: 'https://github.com/bitpiedotcom/bitpiedotcom.github.com/raw/master/android/SHA256SUMS'
 googleplay: 'https://play.google.com/store/apps/details?id=com.bitpie'
@@ -136,6 +137,6 @@ markdown:       kramdown
 #   term index.html   #
 # ----------------------- #
 userAgreementName: 用户服务协议
-userAgreementVersion: 2.1
-userAgreementDate: 2019-03-21
+userAgreementVersion: 2.2
+userAgreementDate: 2021-09-27
 

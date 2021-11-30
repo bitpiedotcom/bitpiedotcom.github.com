@@ -1,0 +1,25 @@
+{
+    "cn": {
+        "title": "Cosmos Network(ATOM) 硬分叉升级已完成，相关功能已恢复",
+        "data": "2021-3-4",
+        "id": 108,
+        "watch": 103,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "Cosmos Network(ATOM) 硬分叉升级已完成，主网运行稳定。比特派 v5.0.016 已恢复相关功能。"
+            },
+            {
+                "type": 0,
+                "data": "感谢您对比特派 Bitpie 的支持。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2021年3月4日"
+            }
+        ]
+    }
+}

@@ -8,17 +8,17 @@
 
                     {% for link in site.social %}
                     <li>
-                        <a href="{{link.url}}" target="_blank" ><i style='display: inline-table;width:24px;height:24px;background-image: url("/img/{{ link.title }}.png");background-repeat: no-repeat;background-size: 100% auto'></i></a>
+                        <a href="{{link.url}}" target="_blank" rel="nofollow noopener noreferrer"><i style='display: inline-table;width:24px;height:24px;background-image: url("/img/{{ link.title }}.png");background-repeat: no-repeat;background-size: 100% auto'></i></a>
                     </li>
                     {% endfor %}
                     <!--<li>-->
-                        <!--<a href="https://bitpie.com/2017-12-10/announcement-close-official-qq-group"  target="_blank" id="qq" data="hide"><i style="display: inline-table;width:30px;height:30px;background-image: url('/img/qq.png');background-repeat: no-repeat;background-size: 100% auto"></i></a>-->
+                    <!--<a href="/2017-12-10/announcement-close-official-qq-group"  target="_blank"  rel="nofollow noopener noreferrer"  id="qq" data="hide"><i style="display: inline-table;width:30px;height:30px;background-image: url('/img/qq.png');background-repeat: no-repeat;background-size: 100% auto"></i></a>-->
                     <!--</li>-->
                     <li>
 
-                        <a href="javascript:void(0)"  target="_blank" id="wechat" data="hide" style="position:relative">
+                        <a href="javascript:void(0)" target="_blank" rel="nofollow noopener noreferrer" id="wechat" data="hide" style="position:relative">
                             <i style="display: inline-table;width:24px;height:24px;background-image: url('/img/wechat.png');background-repeat: no-repeat;background-size: 100% auto"></i>
-                            <img src="/img/weixin_qr.png" class= "weixin_qr"  data="hide"/>
+                            <img src="/img/weixin_qr.png" class="weixin_qr" data="hide" />
                         </a>
 
 
@@ -29,13 +29,13 @@
                     </li>
                     <li style="position: absolute">
 
-                        <a href="javascript:void(0)"  target="_blank" id="telegram" data="hide"><i style="display: inline-table;width:24px;height:24px;background-image: url('/img/telegram.png');background-repeat: no-repeat;background-size: 100% auto"></i></a>
-                        <div  id="group_show" tabindex="-1" role="dialog" data-backdrop="static" style="display: none" data="hide">
+                        <a href="javascript:void(0)" target="_blank" rel="nofollow noopener noreferrer" id="telegram" data="hide"><i style="display: inline-table;width:24px;height:24px;background-image: url('/img/telegram.png');background-repeat: no-repeat;background-size: 100% auto"></i></a>
+                        <div id="group_show" tabindex="-1" role="dialog" data-backdrop="static" style="display: none" data="hide">
                             <ul class="list-inline qq-list">
                                 {% for social in site.telegram %}
 
-                                <li >
-                                    <span class="telegram" lang="en">{{social.title}}</span><a href="{{ social.url }}" target="_blank" class=""><i class="{{ social.title }} fa-fw" ></i> <span class="span_qq" lang="en">{{ social.url}}</span></a>
+                                <li>
+                                    <span class="telegram" lang="en">{{social.title}}</span><a href="{{ social.url }}" target="_blank" rel="nofollow noopener noreferrer" class=""><i class="{{ social.title }} fa-fw" ></i> <span class="span_qq" lang="en">{{ social.url}}</span></a>
                                 </li>
 
 
@@ -58,9 +58,8 @@
 
         </div>
         <div class="col-md-12">
-            <p class="copyright text-muted small center" ><a href="#myModal" role="button" class="registered" data-toggle="modal" data-target="#myModal" lang="en" >BITPIE LIMITED was registered at Republic of Seychelles since 2015</a> </p>
-            <p class="copyright text-muted small center" lang="en">Bitpie iOS app is under operation of Bitpie Canada</p>
-            <p class="copyright text-muted small center" ><a class="registered" href="{{site.url}}/term/" lang="en">BITPIE Terms of Service</a> </p>
+            <p class="copyright text-muted small center" lang="en">Bitpie Wallet Team</p>
+            <p class="copyright text-muted small center"><a class="registered" href="{{site.url}}/term/" lang="en">BITPIE Terms of Service</a> </p>
             <p class="copyright text-muted small center" id="copyright"></p>
 
 
@@ -68,18 +67,18 @@
 
         <!--&lt;!&ndash; Button trigger modal &ndash;&gt;-->
         <!--<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">-->
-            <!--Launch demo modal-->
+        <!--Launch demo modal-->
         <!--</button>-->
 
         <!-- Modal -->
-        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                         <h4 class="modal-title" id="myModalLabel" lang="en">Certificate</h4>
                     </div>
-                    <div class="modal-body" style="background: url('/image/rof.jpg') no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;" >
+                    <div class="modal-body" style="background: url('/image/rof.jpg') no-repeat;background-size:100% 100%;-moz-background-size:100% 100%;">
 
                     </div>
                     <div class="modal-footer">
@@ -88,7 +87,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 </footer>

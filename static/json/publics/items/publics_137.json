@@ -1,0 +1,85 @@
+{
+    "cn": {
+        "title": "关于用户通过百度搜索在假比特派网站下载到盗币 App 的公告",
+        "data": "2021-11-12",
+        "id": 137,
+        "watch": 188,
+        "message": [
+            {
+                "type": 0,
+                "data": "2021年11月11日有用户反馈，通过手机浏览器使用百度搜索“比特派”，下载安装后资产被盗。"
+            },
+            {
+                "type": 0,
+                "data": "经比特派团队分析，此次用户通过百度搜索到的为假网站，此假网站购买了百度推广服务。"
+            },
+            {
+                "type": 1,
+                "image": "./img/baidu_false_website.png"
+            },
+            {
+                "type": 0,
+                "data": "该诈骗网站为【假】<a href='http://www.ximiyu.cn'>http://www.ximiyu.cn</a>【假】和 【假】<a href='http://wvw.ximiyu.cn'>wvw.ximiyu.cn</a>【假】，后者 wvw 则是完全克隆了比特派的官方网站，用户在被诱导至此假网站后，下载安装了专门用于盗取助记词的 APP，一转入资产就会被盗走。此用户被盗资产为 16万USDT，已进行报警处理。"
+            },
+            {
+                "type": 0,
+                "data": "发文时此假网站的百度推广仍在进行中，由于该推广被百度搜索置顶，并标记为“官方”、“品牌广告”，尤其是蓝色盾牌标记的“保障”字样，很容易让普通用户误以为这就是真正的官网。因此，被盗的用户及资产数量可能是惊人的。"
+            },
+            {
+                "type": 0,
+                "data": "比特派曾多次公告，请用户务必通过比特派官网下载 APP。对于此诈骗网站，比特派已在第一时间向百度进行反馈与投诉，暂未收到百度任何回复，同时比特派会对所有用户进行弹窗提醒，请务必在使用钱包之前，确认自己的比特派 APP 为官方网站下载。"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包风控部门"
+            },
+            {
+                "type": 0,
+                "data": "2021年11月12日"
+            }
+        ]
+    },"en": {
+        "title": "Announcement on users downloaded the Fake App on the fake Bitpie website through the Baidu search",
+        "data": "2021-11-12",
+        "id": 137,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Dear users: "
+            },
+            {
+                "type": 0,
+                "data": "On November 11, 2021,  we received a report that searching \"Bitpie\" through Baidu, assets were stolen after downloading and installing. "
+            },
+            {
+                "type": 0,
+                "data": "According to our analysis, a user searched a fake website through Baidu, and this fake website purchased Baidu promotion services. "
+            },
+            {
+                "type": 0,
+                "data": "The fraudulent websites are:【false】<a href='http://www.ximiyu.cn'>http://www.ximiyu.cn</a>【false】和 【false】<a href='http://wvw.ximiyu.cn'>wvw.ximiyu.cn</a>【false】"
+            },
+            {
+                "type": 0,
+                "data": "They are completely clones of Bitpie’s official website, and users are being induced. Downloaded and installed an APP will steal your mnemonic words, and the assets would be stolen when the assets were transferred to the wallet."
+            },
+            {
+                "type": 0,
+                "data": "The Baidu promotion of this fake website is still in posting. Since the promotion was topped by Baidu search and marked as \"official\" and \"brand advertisement\", especially the words \"guarantee\" marked by the blue shield, it is easy for users to misunderstand that this is the real official website. Therefore, the number of users and assets stolen may be unpredictable. Bitpie has announced many times that users must download the APP through Bitpie's official website. For this fraudulent website, Bitpie has reported and complained to Baidu but has not received any response from Baidu. At the same time, Bitpie will remind all users by the pop-up, please be sure to confirm the APP is downloaded from the official website before using."
+            },
+            {
+                "type": 0,
+                "data": "Download and install Bitpie on the official Bitpie websites: <a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Risk Control Department"
+            }
+        ]
+  }
+}

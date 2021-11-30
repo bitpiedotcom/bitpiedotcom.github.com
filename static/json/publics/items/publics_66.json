@@ -1,0 +1,48 @@
+{
+    "cn": {
+        "title": "比特派钱包关于支持BSV创世纪升级硬分叉的公告",
+        "data": "2020-01-17",
+        "id": 66,
+        "watch": 375,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "BSV将于2020年2月4日进行“创世纪升级硬分叉”，比特派团队已经做好了支持此次硬分叉的准备。分叉期间，比特派将暂停BSV的收发及相关功能（具体暂停时间另行通知），待网络平稳运行后恢复相关功能。"
+            },
+            {
+                "type": 0,
+                "data": "此次节点升级详情，请查阅：https://www.weibo.com/ttarticle/p/show?id=2309404461359092859075"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020年1月17日"
+            }
+        ]
+    },
+    "en": {
+        "title": "Bitpie ANN for supporting BSV Genesis Upgrade",
+        "data": "2020-01-17",
+        "id": 66,
+        "watch": 375,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "BSV blockchain will implement the Genesis Upgrade hard fork  on Feb 4th, 2020. Bitpie Team already well prepared for this upgrade. BSV Send/Receive will be suspend during the upgrade, and all related functions will be recover after the network is stable."
+            },
+            {
+                "type": 0,
+                "data": "For the details: https://github.com/bitcoin-sv-specs/protocol/blob/master/updates/genesis-spec.md"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>Jan 17th, 2020"
+            }
+        ]
+    }
+}

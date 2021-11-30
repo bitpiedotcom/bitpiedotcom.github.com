@@ -1,0 +1,30 @@
+{
+    "cn": {
+        "title": "关于 BCHA 升级处理方案的公告",
+        "data": "2021-7-1",
+        "id": 117,
+        "watch": 134,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "BCHA 官方将于香港时间 2021年7月1日晚进行升级，此次升级将会进行币种的精度调整。为保护广大用户的资产安全，比特派将于2021年7月1日下午18:00（香港时间）暂停 BCHA 收发、派银行充提等业务。"
+            },
+            {
+                "type": 0,
+                "data": "相关服务将在升级稳定后第一时间恢复。感谢您对比特派 Bitpie 的支持。"
+            },
+            {
+                "type": 0,
+                "data": "BCHA 官方公告原文：<a href='https://www.bitcoinabc.org/ecash/' target='_blank'>https://www.bitcoinabc.org/ecash/</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包<br/>2021年7月1日"
+            }
+        ]
+    }
+}
+

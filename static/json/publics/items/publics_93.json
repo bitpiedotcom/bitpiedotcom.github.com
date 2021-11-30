@@ -1,0 +1,53 @@
+{
+  "cn": {
+    "title": "关于比特派服务器常规升级的通知",
+    "data": "2020-11-2",
+    "id":93,
+    "watch": 571,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2020年11月3日凌晨 00:30 进行常规升级，预计30分钟内完成升级。升级期间将暂停软件内收发币、币币交易等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。"
+      },
+      {
+        "type": 0,
+        "data": "扩展说明：比特派为去中心化钱包，服务器的主要作用是为用户同步常见区块数据，因此服务器的升级并不会影响用户资产安全性。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2020年11月2日"
+      }
+    ]
+  },
+  "en": {
+     "title": "Notification on Regular Upgrade of Server",
+    "data": "2020-11-2",
+    "id": 93,
+    "watch": 571,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:30 November 3, 2020 (HongKong Time). The duration will be about 30 minutes. During this period, all receiving, sending and Coin Swap will be suspended. We will resume all the services as soon as we complete the upgrade."
+      },
+      {
+        "type": 0,
+        "data":"Thank you for your understanding and support."
+      },
+      {
+        "type": 0,
+        "data": "Tip: Bitpie is a decentralized wallet. The main function of the server is to synchronize the common block data for users. Hence the server upgrade has nothing to do with the users’ asset safety."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>Nov. 2, 2020"
+      }
+    ]
+  }
+}

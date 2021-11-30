@@ -1,0 +1,54 @@
+{
+  "cn": {
+    "title": "有关停止支持 BCX、BTN、BIFI、BBC、BPA、BTV、SBTC、BTW、BTP、CDY、BTF币种的公告",
+    "data": "2020-12-17",
+    "id": 99,
+    "watch": 296,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "因 BCX、BTN、BIFI、BBC、BPA、BTV、SBTC、BTW、BTP、CDY、BTF 官方已经不再对对应项目进行维护，比特派将从2020年12月18日12:00 （香港时间） 起停止提供以上币种的相关服务，如需咨询相关事宜请联系各币种官方。"
+      },
+      {
+        "type": 0,
+        "data": "感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2020年12月17日"
+      }
+    ]
+  },
+  "en":{
+      "title":"Announcement on stopping support for BCX, BTN, BIFI, BBC, BPA, BTV, SBTC, BTW, CDY, BTF tokens",
+      "data":"2020-12-17",
+      "id":99,
+      "watch":122,
+      "message":[
+        {
+          "type":0,
+          "data":"Dear Bitpiers:"
+        },
+        {
+          "type":0,
+          "data":"As the above tokens officially no longer maintain the node or updates, Bitpie will stop supporting those tokens from 12:00 on December 18, 2020 (GMT+8) "
+        },
+        {
+            "type":0,
+            "data":"For any enquiries related to above tokens, please contact their official support."
+        },
+        {
+            "type":0,
+            "data":"Thank you for your support to Bitpie."
+        },
+        {
+            "type":0,
+            "data":"Bitpie Team<br/>December 17, 2020"
+        }
+      ]
+    }
+}

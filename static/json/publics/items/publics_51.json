@@ -1,0 +1,124 @@
+{
+  "cn": {
+    "title": "比特派钱包将第一时间支持波场稳定币USDT-TRON激励计划2.0版及USDT兑换教程",
+    "data": "2019-07-12",
+    "id": 51,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派现已经支持波场和Tether泰达公司合作推出的基于TRC20的USDT代币（USDT-TRON），并已经开通USDT-TRON与USDT-OMNI和USDT-ERC20之间的双向跨链兑换。 同时，比特派也将支持波场官方针对于USDT-TRON持有者的激励计划2.0版。"
+      },
+      {
+        "type": 1,
+        "image": "./static/image/news/usdt-tron-cn.png"
+      },
+      {
+        "type": 0,
+        "data": "波场官方激励计划2.0版公告：<br>https://weibo.com/ttarticle/p/show?id=2309404392227848716482#_0"
+      },
+      {
+        "type": 0,
+        "data": "怎样兑换USDT-TRON？"
+      },
+      {
+        "type": 0,
+        "data": "在 比特派APP——派银行——USDT理财 初参与。可以将USDT-OMNI或USDT-ERC20 与 USDT-TRON 进行1：1兑换。"
+      },
+      {
+        "type": 0,
+        "data": "兑换USDT-TRON需要多久？"
+      },
+      {
+        "type": 0,
+        "data": "Tether 官方通常会在两个工作日内完成兑换，具体兑换时长以Tether 官方发布为准。兑换完成后，对应的资产会自动发到您的波场地址中。"
+      },
+      {
+        "type": 0,
+        "data": "持有USDT-TRON 有哪些好处？"
+      },
+      {
+        "type": 0,
+        "data": "波场官方将对TRC20版USDT持币人进行空投奖励。"
+      },
+      {
+        "type": 0,
+        "data": "如何将USDT-TRON兑换回USDT？"
+      },
+      {
+        "type": 0,
+        "data": "目前比特派暂未支持该功能，后续支持将视市场需求而定。"
+      },
+      {
+        "type": 0,
+        "data": "注意事项：<br>*波场新用户在参与兑换之前需要先切换至波场体系。<br>*请合理安排兑换时间，兑换期间引发的资产波动，损失由用户自行承担。<br>*如果您需要帮助，请添加客服微信 dongshaobtc"
+      },
+      {
+        "type": 0,
+        "data": "基于TRC20的USDT官网: https://tron.network/usdt"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队"
+      },
+      {
+        "type": 0,
+        "data": "2019年7月12日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on Supporting USDT-TRON New Incentive Plan and USDT Swap Demo",
+    "data": "2019-07-12",
+    "id": 51,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Dear Bitpie Users:"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie has already supported the sends and receives of the USDT-TRON, a TRC20-based stable coin issued jointly by TRON and Tether Company."
+      },
+      {
+        "type": 0,
+        "data": "Meanwhile, Bitpie will support the TRON official’s 30 million US dollars New Incentive Plan for USDT-TRON holders."
+      },
+      {
+        "type": 1,
+        "image": "./static/image/news/usdt-tron-en.jpg"
+      },
+      {
+        "type": 0,
+        "data": "How long does it take to complete the swapping?"
+      },
+      {
+        "type": 0,
+        "data": "Tether will complete the swapping within two workdays. However, the final duration shall be subject to the official operation by Tether. The corresponding assets will be automatically sent to your TRX address."
+      },
+      {
+        "type": 0,
+        "data": "How to swap USDT-TRON back to USDT-OMNI/ERC20?"
+      },
+      {
+        "type": 0,
+        "data": "Currently, Bitpie does not support this reverse swapping feature; yet, we will support that as the case may be."
+      },
+      {
+        "type": 0,
+        "data": "Please be noted:<br>* New users of TRON need to switch to the TRON system before starting the swap.<br>* Please arrange your time reasonably. The fluctuation of assets values caused during the swapping period; the losses shall be borne by the users.<br>*If you need any assistance, feel free to reach out to our customer service team on Telegram: https://t.me/BitpieInternational."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team"
+      },
+      {
+        "type": 0,
+        "data": "July 12, 2019"
+      }
+    ]
+  }
+}

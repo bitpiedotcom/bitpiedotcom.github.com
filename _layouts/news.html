@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html>
-{% include head.html %}
-
-
-{% include menu.html %}
+{% include head.html %} {% include menu.html %}
 <!-- About Section -->
 
-<section  class="container content-section text-center annou-list" >
+<section class="container content-section text-center annou-list">
     <div class="catalogue">
-        {% for post in site.posts %}
-        {% if post.layout != "default" %}
-        {% if post.ref == "news" %}
-        {% if post.lang == "zh"%}
+        {% for post in site.posts %} {% if post.layout != "default" %} {% if post.ref == "news" %} {% if post.lang == "zh"%}
 
-        <a href="{{post.urls }}" target="_blank" class="catalogue-item aclick" style="float:left"><h5>{{ post.title }}</h5></a>
+        <a href="{{post.urls }}" target="_blank" rel="nofollow noopener noreferrer" class="catalogue-item aclick" style="float:left">
+            <h5>{{ post.title }}</h5>
+        </a>
         <div style="clear:both" id="page"></div>
         <p class="content-list">
             {{ post.content | truncatewords:8 | strip_html }}</p>
@@ -22,12 +18,7 @@
         <hr>
     </div>
 
-    {% endif %}
-
-    {% endif %}
-    {% endif %}
-
-    {% endfor %}
+    {% endif %} {% endif %} {% endif %} {% endfor %}
     </div>
 
 </section>
@@ -65,57 +56,57 @@
         },
         allowCookieOverride: true
     });
-    $(function(){
+    $(function() {
         if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
             $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-            $("#blogs").attr("href", "https://bitpie.com/blog/")
-            $("#ads").attr("href", "https://bitpie.com/announcement/");
+            $("#blogs").attr("href", "/blog/")
+            $("#ads").attr("href", "/announcement/");
             window.lang.change("zh");
 
-        } 
+        }
 
-        $("#en").on("click",function(){
-            window.location.href = "https://bitpie.com/announcement/en/";
+        $("#en").on("click", function() {
+            window.location.href = "/announcement/en/";
         })
         window.lang.change("zh");
-        $("#zh").on("click",function(){
-            window.location.href = "https://bitpie.com/announcement/";
+        $("#zh").on("click", function() {
+            window.location.href = "/announcement/";
 
             window.lang.change("zh");
         })
-        $("#docs").attr("href","http://docs.bitpie.com/zh_CN/latest/")
-        $("#blogs").attr("href","https://bitpie.com/blog/")
-        $("#ads").attr("href","https://bitpie.com/announcement")
+        $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
+        $("#blogs").attr("href", "/blog/")
+        $("#ads").attr("href", "/announcement")
 
 
-        $("#telegram").on("click",function(e){
+        $("#telegram").on("click", function(e) {
             e.stopPropagation();
             var flag = $(this).attr("data");
-            if(flag == "hide") {
-                $(this).attr("data","show")
-                $("#Contact").attr("data","show");
+            if (flag == "hide") {
+                $(this).attr("data", "show")
+                $("#Contact").attr("data", "show");
                 $("#group_show").show();
 
-            }else if(flag == "show") {
-                $(this).attr("data","hide")
-                $("#Contact").attr("data","hide");
+            } else if (flag == "show") {
+                $(this).attr("data", "hide")
+                $("#Contact").attr("data", "hide");
                 $("#group_show").hide();
             }
         });
 
-        $("#telegram").mouseenter(function(){
+        $("#telegram").mouseenter(function() {
             $("#group_show").show();
-            $("#qq").on("click",function(e){
+            $("#qq").on("click", function(e) {
                 $("#group_show").show();
             })
         });
-//        $("#qq").mouseleave(function(){
-//            $("#group_show").hide();
-//        });
+        //        $("#qq").mouseleave(function(){
+        //            $("#group_show").hide();
+        //        });
 
 
-        $(function () {
-            $(document).on('click', function (e) {
+        $(function() {
+            $(document).on('click', function(e) {
                 $("#group_show").hide();
             });
 
@@ -128,4 +119,5 @@
 {% include tongji.html %}
 
 </body>
+
 </html>

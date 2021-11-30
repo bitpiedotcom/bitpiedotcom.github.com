@@ -1,0 +1,74 @@
+{
+  "cn": {
+    "title": "关于应对 Bitcoin Cash（BCH）分叉的公告",
+    "data": "2020-11-13",
+    "id": 96,
+    "watch": 196,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "由于 Bitcoin Cash（BCH）将于香港时间 2020年11月15日20:00 进行硬分叉升级。且存在 Bitcoin Cash ABC（BCHA）和Bitcoin Cash Node（BCHN）两个节点方案。"
+      },
+            {
+        "type": 0,
+        "data": "因当前社区内并未有公允的 BCH 分叉冠名标准，为了最大限度保护广大用户的权益，避免硬分叉带来的不确定风险，现作出以下安排："
+      },
+      {
+        "type": 0,
+        "data": "比特派钱包将于 2020年11月15日12:00 暂停 BCH 发币功能。"
+      },
+      {
+        "type": 0,
+        "data": "钱包将会在 Bitcoin Cash（BCH）硬分叉完成且运行稳定后，重新开放 BCH 发币功能。用户的资产不会受到本次分叉影响。"
+      },
+      {
+        "type": 0,
+        "data": "感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2020年11月13日"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie 社群：<br/>新浪微博：@比特派钱包<a href='https://weibo.com/bitpiewallet' target='_blank'>https://weibo.com/bitpiewallet</a><br/>微信公众号：公众号搜索“bitpieteam"
+      }
+    ]
+  },
+  "en":{
+      "title":"Announcement on the suspension of Bitcoin Cash (BCH) withdrawal",
+      "data":"2020-11-13",
+      "id":96,
+      "watch":122,
+      "message":[
+        {
+          "type":0,
+          "data":"Dear Bitpiers:"
+        },
+        {
+          "type":0,
+          "data":"As Bitcoin Cash (BCH) will undergo a hard fork upgrade at 20:00 on November 15, 2020 (GMT+8).  There are two node schemes in the community: Bitcoin Cash ABC (BCHA) and Bitcoin Cash Node (BCHN)."
+        },
+        {
+            "type":0,
+            "data":"Since there is no confirmed naming of this hard fork in the community, in order to protect the rights of users and avoid the uncertain risks caused by hard forks, the following arrangements are made:"
+        },
+        {
+            "type":0,
+            "data":"Bitpie Wallet will suspend the BCH withdrawal at 12:00 on November 15, 2020 (GMT+8)."
+        },
+        {
+            "type":0,
+            "data":"The wallet will relaunch the BCH withdrawal function after the hard fork is completed and stable.  Users' assets will not be affected by this fork."
+        },
+        {
+            "type":0,
+            "data":"Bitpie Team<br/>November 13, 2020"
+        }
+      ]
+    }
+}

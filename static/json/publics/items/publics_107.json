@@ -1,0 +1,57 @@
+{
+    "cn": {
+        "title": "关于暂停支持 COCOS 币种的公告",
+        "data": "2021-2-23",
+        "id": 107,
+        "watch": 0,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "因 COCOS 官方在近期升级中节点存在异常，同时 COCOS 官方一直未能修复此问题，致使比特派钱包无法获取相关节点数据。"
+            },
+            {
+                "type": 0,
+                "data": "比特派决定停止 COCOS 相关业务支持，持有 COCOS 的用户资产安全不会受此影响，可将 COCOS 私钥导入官方钱包进行后续操作。"
+            },
+            {
+                "type": 0,
+                "data": "导入官方钱包教程：<a href= 'https://www.yuque.com/docs/share/054a057d-bdb2-48b7-9140-e3a7ba3520ed' target='_blank'>https://www.yuque.com/docs/share/054a057d-bdb2-48b7-9140-e3a7ba3520ed</a>"
+            },
+            {
+                "type": 0,
+                "data": "感谢您对比特派 Bitpie 的支持。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2021年2月23日"
+            }
+        ]
+    },
+   "en": {
+    "title": "Announcement on suspension of support for COCOS",
+    "data": "2021-02-23",
+    "id": 107,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "Due to the abnormality of the node during the recent upgrade of COCOS, and COCOS has not been fixed this issue, Bitpie Wallet cannot obtain relevant node."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie decided to stop COCOS-related support, and the security of COCOS will not be affected by this. The COCOS private key can be imported into the official wallet for subsequent operations."
+      },
+      {
+        "type": 0,
+        "data": "Tutorial of Importing to official wallet:<a href= 'https://www.yuque.com/docs/share/054a057d-bdb2-48b7-9140-e3a7ba3520ed' target='_blank'>https://www.yuque.com/docs/share/054a057d-bdb2-48b7-9140-e3a7ba3520ed</a>"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>February 23, 2021"
+      }
+    ]
+  }
+}

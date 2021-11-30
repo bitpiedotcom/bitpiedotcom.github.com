@@ -1,0 +1,30 @@
+{
+    "cn": {
+        "title": "关于比特派将首发支持 Oasis 主链的公告",
+        "data": "2020-10-19",
+        "id": 90,
+        "watch": 741,
+        "message": [
+            {
+                "type": 0,
+                "data": "比特派将在第一时间支持 Oasis 主链，Oasis 用户可以使用比特派钱包进行币种的收发操作。"
+            },
+            {
+                "type": 0,
+                "data": "使用比特派存储 Oasis 可免去严苛的 KYC 托管环节，安全便捷。"
+            },
+                    {
+                "type": 0,
+                "data": "Oasis 官网 <a href='https://oasisprotocol.org' target='_blank'>https://oasisprotocol.org</a>"
+            },
+                    {
+                "type": 0,
+                "data": "bitpie 官网 <a href='https://bitpiehk.com' target='_blank'>https://bitpiehk.com</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2020/10/19"
+            }
+        ]
+    }
+}

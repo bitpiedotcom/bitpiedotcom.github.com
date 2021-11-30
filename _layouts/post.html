@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 
     <meta charset="utf-8">
@@ -29,54 +30,57 @@
         <script src="/js/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" type="text/css" href="/css/post.css">
-    <div  style='margin:0 auto;display:none;'>
+    <div style='margin:0 auto;display:none;'>
         <img src='/img/btg_lucky_draw_img.png' />
     </div>
 
 </head>
 <style>
-      table{
-     width: 100%;
-    max-width: 100%;
-    margin-bottom: 20px;
-    border-spacing: 0;
-    border-collapse: collapse;
-          display: table;
-    border-spacing: 2px;
-    border-color: grey;
-      }
-    tr>th,tr>td{
+    table {
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+        border-spacing: 0;
+        border-collapse: collapse;
+        display: table;
+        border-spacing: 2px;
+        border-color: grey;
+    }
+    
+    tr>th,
+    tr>td {
         text-align: center;
         padding: 8px;
-    line-height: 1.42857143;
-    vertical-align: top;
-    border: 1px solid #dedede;
+        line-height: 1.42857143;
+        vertical-align: top;
+        border: 1px solid #dedede;
     }
 </style>
 
 
 <body>
-{% include menu.html %}
-<!-- About Section -->
+    {% include menu.html %}
+    <!-- About Section -->
 
-<section  class="container content-section text-center" >
-<div class="catalogue" id="content">
-
-
+    <section class="container content-section text-center">
+        <div class="catalogue" id="content">
 
 
 
 
-    <h5>{{ page.title }}</span></h5>
-    
-    <div style="clear:both"></div>
-
-    <div class="content-p">
 
 
-    {{ page.content}}
-    <hr>
-    <span id="statistic" style="font-size:12px;font-weight: 200;color: gray;float:right">
+            <h5>{{ page.title }}</span>
+            </h5>
+
+            <div style="clear:both"></div>
+
+            <div class="content-p">
+
+
+                {{ page.content}}
+                <hr>
+                <span id="statistic" style="font-size:12px;font-weight: 200;color: gray;float:right">
 
     </div>
     </div>
@@ -198,8 +202,8 @@ window.onload =function() {
         if(getCookie("langCookie") == "en" || !getCookie("langCookie")) {
             if ((navigator.language || navigator.browserLanguage).indexOf("zh") > -1) {
                 $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-                $("#blogs").attr("href", "https://bitpie.com/blog/")
-                $("#ads").attr("href", "https://bitpie.com/announcement/");
+                $("#blogs").attr("href", "/blog/")
+                $("#ads").attr("href", "/announcement/");
                 window.lang.change("zh");
 
             } else if((navigator.language || navigator.browserLanguage).indexOf("en") > -1) {
@@ -228,14 +232,14 @@ window.onload =function() {
         delCookie("langCookie");
         setCookie("langCookie","zh",7);
         $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-        $("#blogs").attr("href", "https://bitpie.com/blog/")
-        $("#ads").attr("href", "https://bitpie.com/announcement")
+        $("#blogs").attr("href", "/blog/")
+        $("#ads").attr("href", "/announcement")
         if (location.href.indexOf("en") > -1 ) {
             window.location.href = location.href.replace(/\-en/, "");
         }else if( location.href.indexOf("jp") > -1){
             window.location.href = location.href.replace(/\-jp/, "");
         }else{
-            window.location.href = "https://bitpie.com/announcement"
+            window.location.href = "/announcement"
         }
         window.lang.change("zh");
 
@@ -245,11 +249,11 @@ window.onload =function() {
         delCookie("langCookie");
         setCookie("langCookie","en",7);
         var enads = "http://docs.bitpie.com/en/latest/";
-        var ens = "https://bitpie.com/announcement/en";
+        var ens = "/announcement/en";
         var url = location.href;
         $("#docs").attr("href",enads)
-        $("#blogs").attr("href", "https://bitpie.com/blog/en/")
-        $("#ads").attr("href", "https://bitpie.com/announcement/en");
+        $("#blogs").attr("href", "/blog/en/")
+        $("#ads").attr("href", "/announcement/en");
 
 
 
@@ -267,7 +271,7 @@ window.onload =function() {
     })
     $("#jp").on("click",function(){
         delCookie("langCookie");
-        var ads = "https://bitpie.com/announcement/jp";
+        var ads = "/announcement/jp";
         $("#ads").attr("href",ads);
         var url = location.href;
         if(changejp(jp)){
@@ -291,8 +295,8 @@ window.onload =function() {
 
     if(getCookie('langCookie') == "zh"){
         $("#docs").attr("href", "http://docs.bitpie.com/zh_CN/latest/")
-        $("#blogs").attr("href", "https://bitpie.com/blog/")
-        $("#ads").attr("href", "https://bitpie.com/announcement")
+        $("#blogs").attr("href", "/blog/")
+        $("#ads").attr("href", "/announcement")
 
     }
 
@@ -334,19 +338,13 @@ window.onload =function() {
             console.log(data);
             if(data.code == 4000){
             }else{
-                $("#statistic").html("<span lang='en'>Viewed:</span>"+data.statisticCount);
-            }
-
-        });
-
-
-
-    })
+                $("#statistic").html("<span lang='en'>Viewed:</span>"+data.statisticCount); } }); })
 
 
 
 
-</script>
-{% include tongji.html %}
+                </script>
+                {% include tongji.html %}
 </body>
+
 </html>

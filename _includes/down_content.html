@@ -1,40 +1,120 @@
 <div class="container ios-container">
-  <div class="ios-logo">
-    <img src="/img/bitpieios.png" />
-  </div>
-  <div class="ios-title">
-    <p>下载苹果商店版本</p>
-  </div>
-  <div class="ios-down">
-    <a class="ios-button" href="https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820">点击安装</a
-    >
-  </div>
-  <div class="ios-info">
-    <p>
-      *
-      若无法安装或任何原因需要卸载原版本，请先备份好助记词，并使用验证助记词功能验证无误后，再重新安装新版本。
-    </p>
-  </div>
-  <div class="ios-account">
-    <h6>
-      海外苹果 ID 注册教程<a
-        class="custom-link"
-        href="https://m.weibo.cn/6404560407/4353761147226656"
-        target="_blank"
-      >
-        点击
-      </a>
-    </h6>
-  </div>
-  <div class="ios-describe">
-    <h2>苹果手机使用 海外 ID 下载比特派教程</h2>
-    <p>1、打开 <span>App Store</span>,点击右上角<span>个人中心</span></p>
-    <img class="ios-img" src="../img/bitpieios1.jpg" />
-    <p>2、点击个人中心下方<span>退出登录</span></p>
-    <img class="ios-img" src="../img/bitpieios2.jpg" />
-    <p>3、登录 <span>海外 ID</span></p>
-    <img class="ios-img" src="../img/bitpieios3.jpg" />
-    <p>4、搜索<span>"bitpie"</span>并下载</p>
-    <img class="ios-img" src="../img/bitpieios4.jpg" />
-  </div>
+    <div class="ios-logo">
+        <img src="/img/bitpieios.png" />
+    </div>
+    <div class="ios-title">
+        <p>苹果 IOS 版本下载</p>
+    </div>
+
+    <div class="app-store">
+        <a onclick="showDownloadWarning()">海外AppStore版 下载</a>
+    </div>
+
+    <div class="ios-test-flight" id="ios-test-flight">
+        <p>全功能内测版 下载</p>
+        <img class="ios-test-flight-mark" src="../img/test-flight-mark.png">
+    </div>
+
+
+
+    <a class="register-apple-id" href="https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519" target="_blank" rel="nofollow noopener noreferrer">海外苹果 ID 注册教程 ></a>
+
+    <div class="ios-info">
+        <div class="left-info">*</div>
+        <div class="right-info">
+            <p>若无法安装或任何原因需要卸载原版本，请先备份好助记词，并使用验证助记词功能验证无误后，再重新安装新版本。</p>
+        </div>
+    </div>
+
+    <div class="ios-describe">
+        <h2>苹果手机使用 海外 ID 下载比特派教程</h2>
+        <p>1、打开 <span>App Store</span>,点击右上角<span>个人中心</span></p>
+        <img class="ios-img" src="../img/bitpieios1.jpg" />
+        <p>2、点击个人中心下方<span>退出登录</span></p>
+        <img class="ios-img" src="../img/bitpieios2.jpg" />
+        <p>3、登录 <span>海外 ID</span></p>
+        <img class="ios-img" src="../img/bitpieios3.jpg" />
+        <p>4、搜索 “bitpie” 下载带有<span>“PRO”角标</span>的为最新版本</p>
+        <img class="ios-img" src="../img/bitpieios4.jpg" />
+    </div>
+</div>
+
+<div class="alert-test-flight">
+    <div class="test-flight-content">
+        <p class="title">安装指南</p>
+        <p class="desc-1">1. 下载安装 TestFlight</p>
+        <img class="test-flight-img" src="../static/img/test-flight.png" alt="test flight">
+        <p class="desc-2">2. 安装 Bitpie 钱包</p>
+        <p class="warning">注意事项：</p>
+        <p class="warning" style="color: red;">1、为了您的资产安全，请务必备份好钱包助记词 </p>
+        <p class="warning">2、应苹果公司要求，TEST版本需要您每90天内更新一次，建议您在TESTFLIGHT内开启自动更新。</p>
+        <p class="warning">3、更新TEST版本时请确保 APPLE ID与您最初下载时的账户一致</p>
+        <div class="test-flight-downlaod">
+            <a href="https://testflight.apple.com/join/GJIPhGmA" target="_blank" rel="nofollow noopener noreferrer">前往下载</a>
+        </div>
+        <a class="test-flight-course" href="https://testflight.apple.com/join/qF8QUlUl" target="_blank" rel="nofollow noopener noreferrer">详细教程</a>
+    </div>
+</div>
+
+
+<div class="download-warning" id="download-warning" onclick="hiddenDownloadWarning()">
+    <div class="warning-content" id="warning-content">
+        <p class="title">下载前须知</p>
+        <div class="check-box">
+            <div class="box">
+                <input type="checkbox" id="box1">
+                <p>在创建钱包时，我保证不会让任何人知晓我的助记词（十二个单词）</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box2">
+                <p>我知道所有向我索要助记词的人和网站都是骗子。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box3">
+                <p>我知道所有自称风控部门且要指导我操作钱包的都是骗子。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box4">
+                <p>我知道助记词一旦泄露给他人（拍照、截图、上传云盘或聊天软件），钱包内资产就会被盗走。</p>
+            </div>
+        </div>
+        <div class="sure">
+            <a onclick="downloadSureClick()">我知道了</a>
+        </div>
+    </div>
+</div>
+
+<div class="download-warning-test" id="download-warning-test" onclick="hiddenDownloadWarningTest()">
+    <div class="warning-content" id="warning-content-test">
+        <p class="title">下载前须知</p>
+        <div class="check-box">
+            <div class="box">
+                <input type="checkbox" id="box-test1">
+                <p>我知晓TESTFLIGHT版本为测试版，使用过程中一定要保存好助记词（十二个单词）。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box-test6">
+                <p>我已知晓，TEST版本需要每90天内手动更新一次（建议您在TESTFLIGHT内开启自动更新）</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box-test2">
+                <p>在创建钱包时，我保证不会让任何人知晓我的助记词。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box-test3">
+                <p>我知道所有向我索要助记词的人和网站都是骗子。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box-test4">
+                <p>我知道所有自称风控部门且要指导我操作钱包的都是骗子。</p>
+            </div>
+            <div class="box">
+                <input type="checkbox" id="box-test5">
+                <p>我知道助记词一旦泄露给他人（拍照、截图、上传云盘或聊天软件），钱包内资产就会被盗走。</p>
+            </div>
+        </div>
+        <div class="sure">
+            <a onclick="downloadTestSureClick()">我知道了</a>
+        </div>
+    </div>
 </div>

@@ -1,0 +1,52 @@
+{
+  "cn": {
+    "title": "暂停 Algo 收发的公告",
+    "data": "2019-11-27",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "为配合 Algorand 2.0主网升级，Bitpie 钱包已于11月27日11：00 am（UTC+8）暂停 Algo 收发币功能，具体恢复时间另行通知，请您耐心等待。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年11月27日"
+      },
+      {
+        "type":0,
+        "data":"新浪微博：@比特派钱包 weibo.com/bitpiewallet <br/> 微信公众号：公众号搜索“bitpieteam” <br/>Telegram：t.me/bitpie1"
+      }
+    ]
+  },
+  "en": {
+     "title": "ANN of Algo Sending / Receiving Suspension",
+    "data": "2019-11-27",
+    "id": 57,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "In order to support the upgrade of the Algorand 2.0 mainnet, Bitpie wallet has suspended Algo's currency Sending / Receiving function at 11:00 am (UTC + 8) , Nov 27. The specific recovery time will be notified later, please be patient and wait."
+      },
+      {
+        "type": 0,
+        "data": "If you have any questions, please feel free to contact us:"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>November 27, 2019"
+      },
+      {
+        "type":0,
+        "data":"Telegram：https://t.me/BitpieInternational <br/> Twitter: @BitpieWallet "
+      }
+    ]
+  }
+}

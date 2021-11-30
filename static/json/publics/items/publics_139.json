@@ -1,0 +1,53 @@
+{
+    "cn": {
+        "title": "关于防范 \"冒充比特派 Line 客服\" 的声明",
+        "data": "2021-11-24",
+        "id": 139,
+        "watch": 288,
+        "message": [
+            {
+                "type": 0,
+                "data": "近期，有用户反馈，被在 Line 上冒充比特派客服的骗子诱导至 <a href='https://eth-bit.com/' target='_blank'>eth-bit.com</a> 这个诈骗网站，要求用户存入资产并许诺高额回报，当用户存入资产后，骗子将资产冻结，要求存入更多资产方可解冻。"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包无任何 Line 账户，所有在 Line 上冒充比特派客服的都是骗子。"
+            },
+            {
+                "type": 0,
+                "data": "请大家一定注意此类风险，切勿轻信陌生人推荐的高收益项目，以免造成资产损失。"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队"
+            },
+            {
+                "type": 0,
+                "data": "2021年11月24日"
+            }
+        ]
+    },"en": {
+        "title": "Statement on preventing fake Bitpie customer support on Line chat",
+        "data": "2021-11-24",
+        "id": 139,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Recently, some users reported that they were induced by scammers claiming to be Bitpie customer service on Line chat to a scam website, <a href='https://eth-bit.com/' target='_blank'>eth-bit.com</a>, requiring users to deposit assets and promising high yield returns. When users deposit assets, scammers will freeze the assets and require more assets to be deposited to unfreeze."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Wallet does not have any Line account, and all those who pretend to be Bitpie customer service on Line are scammers."
+            },
+            {
+                "type": 0,
+                "data": "Please pay attention to anyone claimed to be Bitpie support and do not trust high-yield projects recommended by strangers, so as to avoid asset losses."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>November, 24, 2021"
+            }
+        ]
+  }
+}

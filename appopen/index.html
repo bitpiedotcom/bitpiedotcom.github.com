@@ -1,129 +1,133 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <title></title>
 </head>
+
 <body>
-<script type="text/javascript">
-    var open = true;
-    var datenumber = 0;
-    var start = 0;
-    function whichClient() {
-        if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {
-            return 'ios'
-        } else if ((navigator.userAgent.match(/Chrome\/([\d.]+)/) || navigator.userAgent.match(/CriOS\/([\d.]+)/)) &&
+    <script type="text/javascript">
+        var open = true;
+        var datenumber = 0;
+        var start = 0;
+
+        function whichClient() {
+            if (/(iPhone|iPad|iPod|iOS)/i.test(navigator.userAgent)) {
+                return 'ios'
+            } else if ((navigator.userAgent.match(/Chrome\/([\d.]+)/) || navigator.userAgent.match(/CriOS\/([\d.]+)/)) &&
                 (/(Android)/i.test(navigator.userAgent)) &&
                 !(/(iPad|iPhone|iPod).*? (IPad)?QQ\/([\d\.]+)/.test(navigator.userAgent) ||
-                /\bV1_AND_SQI?_([\d\.]+)(.*? QQ\/([\d\.]+))?/.test(navigator.userAgent))) {
-            return 'android-chrome'
-        } else if (/(Android)/i.test(navigator.userAgent)) {
-            return 'android'
-        } else {
-            return 'pc'
+                    /\bV1_AND_SQI?_([\d\.]+)(.*? QQ\/([\d\.]+))?/.test(navigator.userAgent))) {
+                return 'android-chrome'
+            } else if (/(Android)/i.test(navigator.userAgent)) {
+                return 'android'
+            } else {
+                return 'pc'
+            }
         }
-    }
-    function openBitpie() {
-        if (whichClient() != 'pc') {
-            var url = location.href;    
-            var scheme = "bitpie://discover";
-            var hrefStr;
-            var arg = "";
-        
-            if(url.indexOf("?") > -1 && (url.indexOf("trend_id") > -1 || url.indexOf("project_id") > -1)){
-                arg = url.split("?")[1];
-            }else{
-                return;
-            }
-            var trend = "trend";
-            var project = "project";
-            var flag;
-            var result = [];
-            if(arg.indexOf("=") > -1){
-                result = arg.split("=");
-            }
-            if(result.length) {
-                if (result[0].indexOf("trend") > -1) {
-                    flag = trend +"?" +result[1];
-                } else if (result[0].indexOf("project") > -1) {
-                    flag = project+ "?"+result[1];
+
+        function openBitpie() {
+            if (whichClient() != 'pc') {
+                var url = location.href;
+                var scheme = "bitpie://discover";
+                var hrefStr;
+                var arg = "";
+
+                if (url.indexOf("?") > -1 && (url.indexOf("trend_id") > -1 || url.indexOf("project_id") > -1)) {
+                    arg = url.split("?")[1];
+                } else {
+                    return;
                 }
-            }
-            hrefStr = scheme+"/"+flag;
-            var iframe = document.createElement('iframe');
-            var aLink = document.createElement('a');
-            var body = document.body;
-            var loadTimer = null;
-
-            aLink.style.cssText = iframe.style.cssText =
-                    'display:none;width:0px;height:0px;'
-
-            if (whichClient() == 'ios') {
-                aLink.href = hrefStr
-                body.appendChild(aLink)
-                aLink.click()
-            } else if (whichClient() == 'android-chrome') {
-                aLink.href = hrefStr
-                body.appendChild(aLink)
-                aLink.click()
-            } else if (whichClient() == 'android') {
-                body.appendChild(iframe)
-                iframe.src = hrefStr
-            }
-
-            start = Date.now()
-            console.log("date");  
-            console.log("visibilitychange",document.visibilityState) 
-            console.log("ddd",document.hidden); 
-            loadTimer = setTimeout(function() {
-                if (document.hidden || document.webkitHidden) {
-                    return
+                var trend = "trend";
+                var project = "project";
+                var flag;
+                var result = [];
+                if (arg.indexOf("=") > -1) {
+                    result = arg.split("=");
                 }
-                console.log(Date.now() - start)
-                console.log("test")
-                if (Date.now() - start <= 1300) {
-                    //todo not found bitpie
-                    console.log('====')
-                    if(whichClient().indexOf("and") > -1){
-                        window.location = 'https://bitpie.com';
-                    }else if(whichClient().indexOf("ios")> -1){
-                        window.location.href = 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
-                    }else{
-                        window.location = "https://bitpie.com"
+                if (result.length) {
+                    if (result[0].indexOf("trend") > -1) {
+                        flag = trend + "?" + result[1];
+                    } else if (result[0].indexOf("project") > -1) {
+                        flag = project + "?" + result[1];
                     }
                 }
-            }, 1200)
-            console.log("setTimeout");
-            var visibilitychange = function() {
-                open = false;
-                datenumber = Date.now();
-                console.log("visibilitychange");
-                var tag = document.hidden || document.webkitHidden
-                tag && clearTimeout(loadTimer)
-                if(document.hidden){
-                    clearTimeout(loadTimer);
-                    loadTimer = null;
+                hrefStr = scheme + "/" + flag;
+                var iframe = document.createElement('iframe');
+                var aLink = document.createElement('a');
+                var body = document.body;
+                var loadTimer = null;
+
+                aLink.style.cssText = iframe.style.cssText =
+                    'display:none;width:0px;height:0px;'
+
+                if (whichClient() == 'ios') {
+                    aLink.href = hrefStr
+                    body.appendChild(aLink)
+                    aLink.click()
+                } else if (whichClient() == 'android-chrome') {
+                    aLink.href = hrefStr
+                    body.appendChild(aLink)
+                    aLink.click()
+                } else if (whichClient() == 'android') {
+                    body.appendChild(iframe)
+                    iframe.src = hrefStr
                 }
-                 console.log(loadTimer);
 
-            }
-            console.log("addEventListener")
+                start = Date.now()
+                console.log("date");
+                console.log("visibilitychange", document.visibilityState)
+                console.log("ddd", document.hidden);
+                loadTimer = setTimeout(function() {
+                    if (document.hidden || document.webkitHidden) {
+                        return
+                    }
+                    console.log(Date.now() - start)
+                    console.log("test")
+                    if (Date.now() - start <= 1300) {
+                        //todo not found bitpie
+                        console.log('====')
+                        if (whichClient().indexOf("and") > -1) {
+                            window.location = '';
+                        } else if (whichClient().indexOf("ios") > -1) {
+                            window.location.href = 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
+                        } else {
+                            window.location = ""
+                        }
+                    }
+                }, 1200)
+                console.log("setTimeout");
+                var visibilitychange = function() {
+                    open = false;
+                    datenumber = Date.now();
+                    console.log("visibilitychange");
+                    var tag = document.hidden || document.webkitHidden
+                    tag && clearTimeout(loadTimer)
+                    if (document.hidden) {
+                        clearTimeout(loadTimer);
+                        loadTimer = null;
+                    }
+                    console.log(loadTimer);
 
-            document.addEventListener('visibilitychange', visibilitychange, false)
-            document.addEventListener(
+                }
+                console.log("addEventListener")
+
+                document.addEventListener('visibilitychange', visibilitychange, false)
+                document.addEventListener(
                     'webkitvisibilitychange',
                     visibilitychange,
                     false
-            )
-            window.addEventListener(
+                )
+                window.addEventListener(
                     'pagehide',
                     function() {
                         console.log('=====pianpianpianpian')
                         clearTimeout(loadTimer)
                     },
                     false
-            )
-             window.addEventListener(
+                )
+                window.addEventListener(
 
                     'pageshow',
                     function() {
@@ -131,32 +135,33 @@
                         clearTimeout(loadTimer)
                     },
                     false
-            )
+                )
 
 
-        }
-    }
- 
-    openBitpie();
-
-
-    setTimeout(function(){
-            if(open){
-                     if(start - datenumber == start){
-
-                               if(whichClient().indexOf("and") > -1){
-                                    window.location = 'https://bitpie.com';
-                                }else if(whichClient().indexOf("ios")> -1){
-                                    window.location.href = 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
-                                }else{
-                                    window.location = "https://bitpie.com"
-                                }
-
-                        
-                     }
             }
-    },3000)
-</script>
+        }
+
+        openBitpie();
+
+
+        setTimeout(function() {
+            if (open) {
+                if (start - datenumber == start) {
+
+                    if (whichClient().indexOf("and") > -1) {
+                        window.location = '';
+                    } else if (whichClient().indexOf("ios") > -1) {
+                        window.location.href = 'https://itunes.apple.com/us/app/bitpie-bitcoin-wallet/id1168568820'
+                    } else {
+                        window.location = ""
+                    }
+
+
+                }
+            }
+        }, 3000)
+    </script>
 
 </body>
+
 </html>

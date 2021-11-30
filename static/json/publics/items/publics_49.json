@@ -1,0 +1,64 @@
+{
+  "cn": {
+    "title": "关于支持 ZEC（Zcash）分叉币 Ycash 的公告",
+    "data": "2019-07-02",
+    "id": 49,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派暂定将支持 ZEC（Zcash）的分叉币 Ycash，并将于区块高度 570,000 进行快照（预计2019年07月18日）。"
+      },
+      {
+        "type": 0,
+        "data": "据YCASH社区消息，届时钱包内的 ZEC 持币者将获得1:1数量的Ycash代币，分叉币发放将以社区最后的规则为准。"
+      },
+      {
+        "type": 0,
+        "data": "为了您的资产安全，分叉期间请避免收发行为。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队"
+      },
+      {
+        "type": 0,
+        "data": "2019年7月2日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on Supporting ZEC (Zcash) Fork Coin Ycash",
+    "data": "2019-07-02",
+    "id": 49,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Dear Bitpie Users:"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie wallet is tentatively scheduled to support ZEC (Zcash)'s forked coin Ycash and will take a snapshot at the block height of 570,000 (expected time July 18, 2019)."
+      },
+      {
+        "type": 0,
+        "data": "According to the YCASH community news, the ZEC holders in the wallet will receive a 1:1 quantity of Ycash tokens. The distribution of the fork coin will be subject to the final rules of the community."
+      },
+      {
+        "type": 0,
+        "data": "For your asset security, please avoid sending and receiving during the fork."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team"
+      },
+      {
+        "type": 0,
+        "data": "July 02, 2019"
+      }
+    ]
+  }
+}

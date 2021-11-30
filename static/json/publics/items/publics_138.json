@@ -1,0 +1,81 @@
+{
+    "cn": {
+        "title": "关于用户通过UC浏览器在假比特派网站下载到盗币 App 的公告",
+        "data": "2021-11-15",
+        "id": 138,
+        "watch": 288,
+        "message": [
+            {
+                "type": 0,
+                "data": "继2021年11月12日比特派风控部门发布《关于用户通过百度搜索在假比特派网站下载到盗币 App 的公告》之后，2021年11月15日有用户反馈，通过UC浏览器使用默认的神马搜索引擎搜索搜索“比特派”，下载安装后资产被盗。"
+            },
+            {
+                "type": 0,
+                "data": "经比特派风控部门分析，此次用户通过神马搜索引擎搜索到的为假网站，假网站完全克隆了比特派的官方网站，并且购买了神马的网站置顶推广服务，用户在被诱导至假网站后，下载安装了专门用于盗取助记词的 APP，一转入资产就会被盗走。"
+            },
+            {
+                "type": 1,
+                "image": "./img/uc_false_website.png"
+            },
+            {
+                "type": 0,
+                "data": "风控部门通过测试UC浏览器及神马搜索引擎搜索比特派，发现以下诈骗网站：【假】<a href='http://51quanyi.cn/'>http://51quanyi.cn/</a>【假】，【假】<a href='http://bitpie.qinianyun.cn/'>bitpie.qinianyun.cn/</a>【假】，【假】<a href='https://hnb.fadas2016.cn'>https://hnb.fadas2016.cn/</a>【假】【假】<a href='https://wvw-bitpie.com'>https://wvw-bitpie.com</a>【假】"
+            },
+            {
+                "type": 0,
+                "data": "发文时假网站的神马推广仍在进行中，由于该推广被神马搜索置顶，并标记为“官网”、“品牌广告”，很容易让普通用户误以为这就是真正的官网。因此，被盗的用户及资产数量可能是惊人的。"
+            },
+            {
+                "type": 0,
+                "data": "比特派曾多次公告，请用户务必通过比特派官网下载 APP。对于此诈骗网站，比特派已在第一时间向神马搜索进行反馈与投诉，暂未收到神马搜索的任何回复，同时比特派会对所有用户进行弹窗提醒，请务必在使用钱包之前，确认自己的比特派 APP 为官方网站下载。"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包风控部门"
+            },
+            {
+                "type": 0,
+                "data": "2021年11月15日"
+            }
+        ]
+    },"en": {
+        "title": "Announcement on users downloading the Fake App on the fake Bitpie website through the UC browser",
+        "data": "2021-11-15",
+        "id": 138,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Dear users: "
+            },
+            {
+                "type": 0,
+                "data": "On November 15, 2021, there was feedback from users, searching “Bitpie” by the default Shenma search engine on UC browser, the assets were stolen after downloading and installing."
+            },
+            {
+                "type": 0,
+                "data": "According to the analysis by Bitpie, the fake website completely cloned Bitpie's official website and purchased the website promotion service of Shenma. Download and Install the app will steal your mnemonic words, and the assets would be stolen when transferred to the wallet. "
+            },
+            {
+                "type": 0,
+                "data": "Our risk control department searched Bitpie by UC browser and Shenma search engine and found the following fraudulent websites: 【false】<a href='http://51quanyi.cn/'>http://51quanyi.cn/</a>【false】，【false】<a href='http://bitpie.qinianyun.cn/'>bitpie.qinianyun.cn/</a>【false】，【false】<a href='https://hnb.fadas2016.cn'>https://hnb.fadas2016.cn/</a>【false】【false】<a href='https://wvw-bitpie.com'>https://wvw-bitpie.com</a>【false】"
+            },
+            {
+                "type": 0,
+                "data": "The Shenma promotion of the fake website is still posting. Since the promotion was topped by Shenma search and marked as \"official website\" and \"brand advertisement\",  the number of users and assets stolen may be unpredictable. Bitpie has announced many times that users must download the APP through Bitpie's official website. For this fraudulent website, Bitpie has sent the feedback and complaints to Shenma Search but has not received any response from Shenma Search. At the same time, Bitpie will remind all users by the pop-up, please be sure to use the wallet before confirming that your Bitpie APP is downloaded from the official website."
+            },
+            {
+                "type": 0,
+                "data": "Download and install Bitpie on the official Bitpie websites: <a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Risk Control Department"
+            }
+        ]
+  }
+}

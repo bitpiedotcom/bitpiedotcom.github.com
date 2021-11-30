@@ -1,94 +1,94 @@
 /* Add here all your css styles (customizations) */
 
 .appicon {
-  width: 120px;
-  height: 120px;
-  -webkit-border-radius: 24px;
-  -moz-border-radius: 24px;
-  border-radius: 24px;
-  border: 1px solid #ddd;
+    width: 120px;
+    height: 120px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    border-radius: 24px;
+    border: 1px solid #ddd;
 }
 
 .appicon_s {
-  width: 30px;
-  height: 30px;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
-  border: 1px solid #ddd;
+    width: 30px;
+    height: 30px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
 }
 
 .appicon_ss {
-  width: 20px;
-  height: 20px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  border: 1px solid #ddd;
+    width: 20px;
+    height: 20px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
 }
 
 .myapps td {
-  vertical-align: middle !important;
+    vertical-align: middle !important;
 }
 
 .app_view_history td {
-  vertical-align: middle !important;
+    vertical-align: middle !important;
 }
 
 .app_view_history tr {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .clickable {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 .re_min {
-  min-width: 120px;
-  text-align: left;
+    min-width: 120px;
+    text-align: left;
 }
 
 
 /* app edit */
 
 #screenshotTableContainer {
-  height: 190px;
+    height: 190px;
 }
 
 .app_edit_no_screenshot {
-  height: 190px;
-  text-align: center;
-  line-height: 190px;
+    height: 190px;
+    text-align: center;
+    line-height: 190px;
 }
 
 .app_edit_screenshot_img {
-  cursor: pointer;
-  max-width: 100px;
-  max-height: 160px;
+    cursor: pointer;
+    max-width: 100px;
+    max-height: 160px;
 }
 
 .app_edit_screenshot_img.pad {
-  margin: 0 0 0 22px;
+    margin: 0 0 0 22px;
 }
 
 .app_edit_screenshot_container {
-  background-color: #fff;
-  border: 1px solid #bbb;
-  padding: 10px;
-  display: block;
+    background-color: #fff;
+    border: 1px solid #bbb;
+    padding: 10px;
+    display: block;
 }
 
 .app_edit_screenshot_container table {
-  width: 100%;
+    width: 100%;
 }
 
 .app_edit_screenshot_upload_button {
-  margin-top: 10px;
+    margin-top: 10px;
 }
 
 .app_edit_screenshot_delete_button {
-  margin-top: 10px;
-  display: inline-block;
+    margin-top: 10px;
+    display: inline-block;
 }
 
 
@@ -98,202 +98,424 @@
 
 .pager a,
 .pager strong {
-  display: inline-block;
-  padding: 3px 10px;
-  margin: 0 0px;
-  border: 1px solid #ccc;
-  background-color: #fff;
-  text-decoration: none;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 0 0px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    text-decoration: none;
 }
 
 .pager a:hover {
-  background-color: #f5f5f5;
+    background-color: #f5f5f5;
 }
 
 .doc-nav.affix {
-  top: 20px;
+    top: 20px;
 }
 
 .doc-nav.affix-bottom {
-  position: relative;
+    position: relative;
 }
 
 @media (min-width: 1px) and (max-width:992px) {
-  .doc-nav {
-    position: static;
-  }
+    .doc-nav {
+        position: static;
+    }
 }
 
 @media (min-width: 992px) {
-  .doc-nav {
-    width: 213px;
-  }
+    .doc-nav {
+        width: 213px;
+    }
 }
 
 @media (min-width: 1200px) {
-  .doc-nav {
-    width: 260px;
-  }
+    .doc-nav {
+        width: 260px;
+    }
 }
 
 .doc-nav .docs-progress-bar {
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  top: 0;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
 }
 
 
 /* about/partner */
 
 .partner ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 }
 
 .partner ul li {
-  float: left;
-  border: 1px solid #eee;
-  width: 200px;
-  height: 80px;
-  line-height: 80px;
-  text-align: center;
-  overflow: hidden;
-  font-size: 14px;
-  margin: 2px;
+    float: left;
+    border: 1px solid #eee;
+    width: 200px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    overflow: hidden;
+    font-size: 14px;
+    margin: 2px;
 }
 
 .partner ul li img {
-  max-width: 140px;
-  max-height: 45px;
+    max-width: 140px;
+    max-height: 45px;
 }
 
 .ios-logo {
-  padding-top: 50px;
-  padding-bottom: 35px;
+    padding-top: 50px;
+    padding-bottom: 35px;
 }
 
 .ios-logo img {
-  display: block;
-  width: 105px;
-  margin: 0 auto;
+    display: block;
+    width: 104px;
+    margin: 0 auto;
 }
 
 .ios-title p {
-  font-family: PingFangSC-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 20px;
-  color: #000;
-  letter-spacing: 0;
-  text-align: center;
-  padding-bottom: 30px;
+    font-family: PingFangSC-Medium, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    color: #000;
+    letter-spacing: 0;
+    text-align: center;
+    padding-bottom: 30px;
 }
 
 .ios-down {
-  /*background: url("../img/bitpiebtn.png") no-repeat;*/
-  /*display: block;*/
-  /*width:185px;*/
-  /*height:63px;*/
-  /*background-size: contain;*/
-  /*margin:0 auto;*/
-  width: 169px;
-  height: 47px;
-  display: block;
-  margin: 0 auto;
-  background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
-  box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.50);
-  border-radius: 23.5px;
+    /*background: url("../img/bitpiebtn.png") no-repeat;*/
+    /*display: block;*/
+    /*width:185px;*/
+    /*height:63px;*/
+    /*background-size: contain;*/
+    /*margin:0 auto;*/
+    width: 229px;
+    height: 47px;
+    display: block;
+    margin: 0 auto;
+    background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
+    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.50);
+    border-radius: 23.5px;
 }
 
 .ios-down a {
-  font-family: PingFangSC-Medium;
-  font-size: 17px;
-  color: #FFFFFF;
-  letter-spacing: 0;
-  text-align: center;
-  display: block;
-  line-height: 47px;
-  width: 100%;
-  margin: 0 auto;
-  text-decoration: none;
+    font-family: PingFangSC-Medium;
+    font-size: 17px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    display: block;
+    line-height: 47px;
+    width: 100%;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.ios-test-flight {
+    position: relative;
+    width: 229px;
+    height: 47px;
+    display: block;
+    margin: 18px auto 0;
+    border-radius: 23.5px;
+    background-image: linear-gradient(49deg, #2EA3C926 0%, #3A33CF26 36%, #32068526 100%);
+    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.20);
+    cursor: pointer;
+}
+
+.ios-test-flight p {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+    line-height: 47px;
+    text-align: center;
+    color: #374ACE;
+    font-size: 17px;
+    clear: both;
+    display: block;
+    text-decoration: none;
+}
+
+.ios-test-flight-mark {
+    position: absolute;
+    right: 0;
+    top: -5px;
+    width: 56px;
+}
+
+.app-store {
+    width: 229px;
+    height: 47px;
+    display: block;
+    margin: 18px auto 0;
+    border-radius: 23.5px;
+    background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
+    box-shadow: 2px 2px 8px 0 rgba(52, 20, 157, 0.50);
+    text-align: center;
+}
+
+.app-store a {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+    line-height: 47px;
+    text-align: center;
+    font-size: 17px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.register-apple-id {
+    margin-top: 18px;
+    font-family: "PingFangSC-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #333333;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 20px;
+    width: 100%;
+    display: block;
+}
+
+.register-apple-id:hover {
+    color: #333333;
 }
 
 .ios-info {
-  padding-top: 40px;
-  width: 257px;
-  margin: 0 auto;
+    width: 330px;
+    margin: 50px auto 0;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 10px 0 rgba(52, 16, 150, 0.10);
+    border-radius: 10px;
+    padding: 25px;
 }
 
-.ios-info p {
-  font-family: PingFangSC-Regular;
-  font-size: 12px;
-  color: #D0021B;
-  letter-spacing: 0;
-  text-align: center;
-  line-height: 20px;
-  width: 100%;
+.ios-info .left-info,
+.ios-info .right-info {
+    display: inline-block;
+}
+
+.left-info {
+    font-family: "PingFangSC-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #D0021B;
+    letter-spacing: 0;
+    width: 5px;
+    height: 100%;
+    vertical-align: top;
+}
+
+.right-info {
+    font-family: "PingFangSC-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #D0021B;
+    letter-spacing: 0;
+    width: calc(100% - 9px);
+}
+
+.right-info p {
+    font-family: "PingFangSC-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #D0021B;
+    letter-spacing: 0;
+    height: 100%;
+    width: 100%;
+    text-align: justify;
 }
 
 .ios-account {
-  background: #FFFFFF;
-  box-shadow: 2px 2px 10px 0 rgba(52, 16, 150, 0.10);
-  border-radius: 10px;
-  width: 300px;
-  height: 60px;
-  text-align: center;
-  margin: 0 auto;
+    background: #FFFFFF;
+    box-shadow: 2px 2px 10px 0 rgba(52, 16, 150, 0.10);
+    border-radius: 10px;
+    width: 300px;
+    height: 60px;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .ios-account h6 {
-  font-family: PingFangSC-Regular;
-  font-size: 12px;
-  color: #333333;
-  letter-spacing: 0;
-  text-align: center;
-  line-height: 60px;
+    font-family: "PingFangSC-Regular";
+    font-size: 12px;
+    color: #333333;
+    letter-spacing: 0;
+    text-align: center;
+    line-height: 60px;
 }
 
 .ios-account .custom-link {
-  cursor: pointer;
-  color: #D0021B !important;
-  text-decoration: none;
+    cursor: pointer;
+    color: #D0021B !important;
+    text-decoration: none;
+}
+
+.ios-describe {
+    margin-top: 50px;
+}
+
+ios-describe h2 {
+    margin: 0;
+    padding: 0;
 }
 
 .ios-describe p {
-  font-family: PingFangSC-Regular;
-  padding: 20px 0;
-  font-size: 13px;
-  color: #333333;
-  letter-spacing: 0;
-  display: block;
-  text-align: center;
-  margin: 0 auto;
+    font-family: "PingFangSC-Regular";
+    padding: 20px 0;
+    font-size: 13px;
+    color: #333333;
+    letter-spacing: 0;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .ios-describe p span {
-  color: #D0021B;
+    color: #D0021B;
 }
 
 .ios-describe h2 {
-  font-family: PingFangSC-Semibold;
-  font-size: 15px;
-  color: #333333;
-  letter-spacing: 0;
-  display: block;
-  text-align: center;
-  padding: 35px 0 0 0;
+    font-family: "PingFangSC-Semibold";
+    font-size: 15px;
+    color: #333333;
+    letter-spacing: 0;
+    display: block;
+    text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
 .ios-img {
-  display: block;
-  width: 320px;
-  margin: 0 auto;
+    display: block;
+    width: 320px;
+    margin: 0 auto;
 }
 
 @media (max-width: 330px) {
-  .ios-container {
+    .ios-container {
+        width: 100%;
+        padding-right: 0px !important;
+        padding-left: 0px !important;
+    }
+}
+
+.alert-test-flight {
     width: 100%;
-    padding-right: 0px !important;
-    padding-left: 0px !important;
-  }
+    height: 100%;
+    background: rgba(0, 0, 0, .5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.alert-test-flight .test-flight-content {
+    overflow: hidden;
+    background: #FFFFFF;
+    border-radius: 8px;
+    max-width: 339px;
+    width: 90%;
+    /* height: 323px; */
+    height: 448px;
+    margin: auto;
+    bottom: 0;
+    top: 0;
+}
+
+@media (max-width: 320px) {
+    .alert-test-flight .test-flight-content {
+        height: 480px;
+    }
+}
+
+.test-flight-content .title {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    margin-top: 25px;
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    height: 18px;
+    line-height: 18px;
+}
+
+.test-flight-content .desc-1 {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    margin: 18px 20px 10px 20px;
+    text-align: left;
+    font-size: 13px;
+    color: #999;
+    height: 13px;
+    line-height: 13px;
+}
+
+.test-flight-content .test-flight-img {
+    width: 55px;
+    height: 55px;
+    margin: 10px calc((100% - 55px) / 2) 12px calc((100% - 55px) / 2);
+}
+
+.test-flight-content .desc-2 {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    margin: 12px 20px 3px 20px;
+    text-align: left;
+    font-size: 13px;
+    color: #999;
+    height: 13px;
+    line-height: 13px;
+}
+
+.test-flight-content .warning {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 12px 20px 0 20px;
+    text-align: left;
+    font-size: 13px;
+    color: #999;
+}
+
+.test-flight-content .test-flight-downlaod {
+    width: 270px;
+    height: 44px;
+    margin: 32px auto 10px;
+    border-radius: 8px;
+    background-image: linear-gradient(49deg, #2EA3C9 0%, #3A33CF 36%, #320685 100%);
+    box-shadow: 0 2px 5px 0 rgba(47, 65, 106, 0.30);
+}
+
+.test-flight-content .test-flight-downlaod a {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    height: 100%;
+    line-height: 44px;
+    clear: both;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    text-align: center;
+    display: block;
+}
+
+.test-flight-content .test-flight-course {
+    font-family: "PingFangSC-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #2F99ED;
+    letter-spacing: 0;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+
+@media (max-width: 350px) {
+    .alert-test-flight .text-flight-content {
+        width: calc(100% - 30px);
+    }
 }

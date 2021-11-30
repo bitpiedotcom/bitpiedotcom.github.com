@@ -1,0 +1,49 @@
+{
+  "cn": {
+    "title": "比特派关于支持以太坊“缪尔冰川”升级的公告",
+    "data": "2019-12-30",
+    "id": 64,
+    "watch": 673,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "比特派将支持以太坊“缪尔冰川”升级。据以太坊官网消息，以太坊网络将在区块高度 9,200,000 进行“缪尔冰川”升级，预计升级时间为 2020 年 1 月 1 日（周三），具体时间取决于网络的出块情况。为保障您的资产安全， 升级期间期间请您避免进行以太坊的收发行为。网络稳定后，相关功能会第一时间恢复。"
+      },
+      {
+        "type": 0,
+        "data": "此次升级，用户无需执行任何操作，比特派团队会解决升级中的一切问题。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年12月30日"
+      }
+    ]
+  },
+    "en": {
+        "title": "Bitpie Announcement for Supporting Ethereum \"Muel Glacier\" Upgrade",
+        "data": "2019-12-30",
+        "id": 64,
+        "watch": 124,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie will support the Ethereum \"Muel Glacier\" upgrade.  According to the official website of Ethereum, the Ethereum network will have the  \"Muel Glacier\" upgraded at a block height of 9,200,000. \nThe estimated upgrade time is January 1, 2020 (Wednesday), depending on the network block.  To ensure the safety of your assets, please avoid Ethereum sending and receiving during the upgrade period.  After the network is stable, related functions will be restored ASAP."
+            },
+            {
+                "type": 0,
+                "data": "Users do not need to do any operation during the update. Bitpie Team will resolve all issues."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>December 30, 2019"
+            }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "cn": {
+    "title": "Ethereum（ETH）伦敦升级已完成，转账功能已恢复",
+    "data": "2021-08-05",
+    "id": 122,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "Ethereum（ETH）伦敦升级已完成，目前主网运行稳定，转账功能已恢复。"
+      },
+      {
+        "type": 0,
+        "data": "感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2021/08/05"
+      }
+    ]
+  },
+    "en": {
+    "title": "The Ethereum (ETH) London upgrade has been completed",
+    "data": "2021-08-05",
+    "id": 122,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "The Ethereum (ETH) London upgrade has been completed, the main network is currently operating stably, and the transfer function has been restored."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie team<br/>August 5, 2021"
+      }
+    ]
+  }
+}

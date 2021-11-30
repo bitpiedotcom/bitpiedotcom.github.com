@@ -1,0 +1,80 @@
+{
+  "cn": {
+    "title": "关于 iOS 版本比特派钱包不再禁止用户截屏助记词的公告",
+    "data": "2019-07-04",
+    "id": 50,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data":"因苹果官方强制要求，比特派现已不再禁止用户截屏助记词（但我们仍然会在相关页面予以警示）。"
+      },
+      {
+        "type": 0,
+        "data": "过去由于比特派一直在软件（Android/iOS）上禁止助记词截屏行为，有效地制止了用户将助记词截图储存于图库甚至上传到云盘的错误行为，大大降低了用户因保管不当而丢币的概率，比特派也因此一直被用户称为“良心钱包”“安全钱包”。"
+      },
+      {
+        "type": 0,
+        "data": "比特派一直对用户的助记词安全极为重视并始终保持业内最严格水准，其中可能会影响部分用户的体验，但是我们始终认为“安全是谈论一切的基础”，比特派会继续基于安全的基础上，努力提高用户体验。"
+      },
+      {
+        "type": 0,
+        "data": "由于苹果在审核条款上强制所有应用必须遵循他们的规范，我们的禁止截屏功能也已经被要求修改，因此，从4.1.3 版本开始，比特派 iOS 版本将不再禁止用户截屏助记词。"
+      },
+      {
+        "type": 0,
+        "data": "尽管如此，最后我们还是要再叮嘱大家一遍：助记词不要截屏，不要存放在联网设备中，用纸抄好或存放在助记词板中..."
+      },
+      {
+        "type": 0,
+        "data": "\"比特派的12个助记词，你记好了吗？\""
+      },
+      {
+        "type": 0,
+        "data": "2019年7月4日"
+      }
+    ]
+  },
+  "en": {
+    "title": "Announcement on the iOS version of Bitpie is no longer prohibit for screenshots mnemonics",
+    "data": "2019-07-04",
+    "id": 50,
+    "watch": 29,
+    "message": [{
+        "type": 0,
+        "data": "Dear Bitpie Users:"
+      },
+      {
+        "type": 0,
+        "data":"Due to Apple’s official mandate, Bitpie Wallet is no longer prohibit user from doing mnemonics screenshots  (but we will still be alerted on the relevant page)."
+      },
+      {
+        "type": 0,
+        "data": "In the past, because Bitpie Wallet had prohibit users from doing mnemonics screenshots on Android & iOS, it effectively stopped the user from store the mnemonic screenshots in the gallery or even uploading them to the cloud disk, which greatly reduced the user's improper storage and the probability of losing coins. Therefore, Bitpie Wallet has been called \"conscience wallet\" and \"safe wallet\" by users."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Wallet has always attached great importance to the security of the user's mnemonic and always maintains the most rigorous level in the industry, which may affect the experience of some users, but we always think that \"security is the basis for everything\", Bitpie Wallet will work hard to improve the user experience on the basis of security."
+      },
+      {
+        "type": 0,
+        "data": "Since Apple enforces all applications to comply with their specifications on the review terms, our ban screen feature has been requested to be modified, so starting with version 4.1.3, Bitpie iOS version will no longer prohibit user screen mnemonics."
+      },
+      {
+        "type": 0,
+        "data": "In spite of this, we still have to exhort users: Do not take screenshots of mnemonics, do not store them in networked devices, write them down on a  paper or store them in Frozen Armor…"
+      },
+      {
+        "type":0,
+              "data":"\"Please keep well the 12 mnemonics Bitpie generated\""
+      },
+      {
+        "type": 0,
+        "data": "July 04, 2019"
+      }
+    ]
+  }
+}

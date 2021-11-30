@@ -1,0 +1,40 @@
+{
+  "cn": {
+    "title": "以太坊“伊斯坦布尔”升级已完成，相关功能已恢复",
+    "data": "2019-12-8",
+    "id": 60,
+    "watch": 123,
+    "message": [{
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "以太坊“伊斯坦布尔”升级已完成。主网运行稳定，比特派相关功能已恢复。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2019年12月8日"
+      }
+    ]
+  },
+  "en": {
+     "title": "Ethereum \"Istanbul\" upgrade has been completed and related functions have been restored",
+    "data": "2019-12-8",
+    "id": 60,
+    "watch": 124,
+    "message": [{
+        "type": 0,
+        "data": "Fellow Bitpiers"
+      },
+      {
+        "type": 0,
+        "data": "Ethereum \"Istanbul\" upgrade has been completed. The main network is stable, and Bitpie related functions have been restored."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>December 8, 2019"
+      }
+    ]
+  }
+}

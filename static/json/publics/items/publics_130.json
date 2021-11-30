@@ -1,0 +1,174 @@
+{
+  "cn": {
+    "title": "苹果 TestFlight 版本比特派用户请立即迁移至正式版",
+    "data": "2021-09-13",
+    "id": 130,
+    "watch": 396,
+    "message": [
+      {
+        "type": 0,
+        "data": "亲爱的派友："
+      },
+      {
+        "type": 0,
+        "data": "苹果系统上的 TestFlight（简称：TF ） 版本 Bitpie APP 为小规模测试版本 APP，旨在让用户快速体验区块链行业的新功能，同时 TF 版本自发布以来也一直严格遵守苹果公司的相关准则。"
+      },
+      {
+        "type": 0,
+        "data": "由于 App Store 政策变化，以及 TF 本身有效期，用户上限等问题，容易给用户造成不便。出于提升用户体验考虑，我们决定将不再继续更新 iOS TF 版本的 Bitpie 应用。"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*任何操作前都请确保您的助记词已经正确备份好，除非你百分之百确认你的助记词以及可能用过的私钥都保存的完好并且验证成功，否则永远别卸载钱包！</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*在苹果海外商店安装比特派 APP 时请注意核对开发者账号，比特派 APP 的开发者为  BITPIE HK LIMITED，其他的均为假冒APP。</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*比特派 APP 未在中国大陆区上架，中国大陆区的苹果商店中的比特派 APP 均为假冒 APP。</strong>"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600'>*当前 Bitpie 官网为：<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>，除此之外均为假冒网站，在其他网站下载会导致资产丢失</strong>"
+      },
+      {
+        "type": 0,
+        "data": "1. 过期后 TF 版本将无法继续使用。助记词是恢复钱包资产的唯一方式，若您始终不备份助记词，任何人（包括比特派）均无法帮您找回资产。"
+      },
+          {
+        "type": 0,
+        "data": "2. 请按照以下步骤，切换至 App Store 版本的 Bitpie app : "
+      },
+      {
+        "type": 0,
+        "data": "1). 备份手机钱包助记词(之前没有备份的用户请您务必完成备份)。"
+      },
+      {
+        "type": 0,
+        "data": "2). 在手机上使用海外 Apple ID 下载 Bitpie app。（ TF 版本和海外版本会同时存在）"
+      },
+      {
+        "type": 0,
+        "data": "3). 将备份的助记词导入海外 Bitpie app。"
+      },
+      {
+        "type": 0,
+        "data": "4). 对照两个版本的 Bitpie app，确保您的资产已经顺利转移完成。"
+      },
+      {
+        "type": 0,
+        "data": "检查自己的 APP 是否需要进行迁移？ <a href='https://www.yuque.com/bitpie/faflk7/oal4a1' target='_blank'>https://www.yuque.com/bitpie/faflk7/oal4a1</a>"
+      },
+      {
+        "type": 0,
+        "data": "如何安全正确地备份助记词：<a href='https://www.yuque.com/bitpie/tn0oho/gzdgh2' target='_blank'>https://www.yuque.com/bitpie/tn0oho/gzdgh2</a>"
+      },
+      {
+        "type": 0,
+        "data": "一直以来，比特派都在提醒用户 TF 版本仅供测试使用以及牢记助记词的重要性。请用户及时验证助记词、做好此次版本迁移，防止造成资产损失。如因用户未正确备份助记词造成的资产损失，比特派将不承担相关责任。"
+      },
+      {
+        "type": 0,
+        "data": "海外 Apple ID 注册教程:"
+      },
+      {
+        "type": 0,
+        "data": "<a href='https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519' target='_blank'>https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519</a>"
+      },
+      {
+        "type": 0,
+        "data": "如果您无法注册海外Apple ID，可以更换安卓手机并下载安装安卓版本比特派 APP。"
+      },
+      {
+        "type": 0,
+        "data": "如需帮助请邮件至 service@bitpie.com"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队<br/>2021/09/13"
+      }
+    ]
+  },
+  "en": {
+        "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",
+        "data": "2021-09-13",
+        "id": 130,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "The TestFlight (TF) of the Bitpie APP on Apple system is a test version of the APP, designed to allow users to quickly experience the new features of the wallet, and TF version of APP has been strictly abiding by Apple's relevant guidelines since its release.  Due to App Store policy changes, as well as the validity time of TF, and user limits, it is inconvenient to users."
+            },
+            {
+                "type": 0,
+                "data": "In order to improve the user experience, we decided not to continue to update the Bitpie app for the iOS TF "
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please make sure that your mnemonic phrase has been properly backed up before any operations. Unless you are 100% sure that your mnemonic phrases and the private key that may have been kept safely and verified successfully, you should never uninstall the wallet! </strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please check the developer account when installing Bitpie APP in Apple's overseas stores. The developer of Bitpie APP is BITPIE HK LIMITED.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*The Bitpie APP is not available in China, and the Bitpie APPs in Apple stores in China are all counterfeit apps.</strong>"
+            },
+            {
+                "type": 0,
+                "data": "<strong style='font-weight: 600'>*Please check Bitpie official website when downloading:<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a></strong>"
+            },
+            {
+                "type": 0,
+                "data": "1. After the expiration date, the TF version can no longer be used.  Mnemonic phrases is the only way to restore wallet assets. If you never back up your mnemonic phrases , no one (including Bitpie) can help you retrieve your assets.  "
+            },
+            {
+                "type": 0,
+                "data": "2. Please follow the steps below to switch to the App Store version of Bitpie: "
+            },
+            {
+                "type": 0,
+                "data": "1). Back up the mobile wallet mnemonics (for users who have not backed up before, please make sure to complete the backup). "
+            },
+            {
+                "type": 0,
+                "data": "2). Use the Apple ID to download the Bitpie APP on the APP Store.  (The TF version and the APP Store version can coexist at the same time)"
+            },
+            {
+                "type": 0,
+                "data": "3). Import the backup mnemonic phrases into the APP Store version of Bitpie."
+            },
+            {
+                "type": 0,
+                "data": "4). Compare both Bitpie versions to ensure that your assets have been successfully transferred. "
+            },
+            {
+                "type": 0,
+                "data": "Bitpie has always reminded users that the TF version is only for testing and the importance of back up mnemonics. Users are requested to verify the mnemonic words in time and do this version migration to prevent asset loss. Bitpie will not be liable for any asset loss caused by the user's incorrect backup of the mnemonic phrases. "
+            },
+            {
+                "type": 0,
+                "data": "Overseas Apple ID registration tutorial:"
+            },
+            {
+                "type": 0,
+                "data": "<a href='https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519' target='_blank'>https://bitpie.zendesk.com/hc/zh-cn/articles/4402595605519</a>"
+            },
+            {
+                "type": 0,
+                "data": "If you are unable to register an overseas Apple ID, you can change your Android phone and download and install the Android version of Bitpie APP."
+            },
+            {
+                "type": 0,
+                "data": "If you have any help, please send an email to service@bitpie.com"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>September 13, 2021"
+            }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+    "cn": {
+        "title": "用批量转账，享百万矿工费补贴！",
+        "data": "2019-12-24",
+        "id": 62,
+        "watch": 193,
+        "message": [{
+                "type": 0,
+                "data": "亲爱的派友："
+            },
+            {
+                "type": 0,
+                "data": "使用比特派钱包【批量转账】功能的用户，可获得矿工费补贴。"
+            },
+            {
+                "type": 0,
+                "data": "详细规则："
+            },
+            {
+                "type": 0,
+                "data": "当你使用【批量转账】时，如果接收地址中有比特派用户，你将获得部分矿工费补贴。"
+            },
+            {
+                "type": 0,
+                "data": "比特派用户占比越高，你获得的矿工费补贴越高，最高可获得转账矿工费50%的补贴。"
+            },
+            {
+                "type": 0,
+                "data": "补贴的金额将于每周一或周五发送到您的账户中。"
+            },
+            {
+                "type": 0,
+                "data": "活动时间：2019年12月24日——2020年1月24日"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队<br/>2019年12月24日"
+            }
+        ]
+    },
+
+    "en": {
+        "title": "Use Bitpie Batch Sender; Win Million USD Rewards",
+        "data": "2019-12-24",
+        "id": 63,
+        "watch": 124,
+        "message": [{
+                "type": 0,
+                "data": "Fellow Bitpiers"
+            },
+            {
+                "type": 0,
+                "data": "Users who use our Batch Sender tool will get reimbursement of gas fees."
+            },
+            {
+                "type": 0,
+                "data": "Rules:"
+            },
+            {
+                "type": 0,
+                "data": "1.Upon using Batch Sender, if the receiving addresses are Bitpie addresses as well, you will get gas fee reimbursement;"
+            },
+            {
+                "type": 0,
+                "data": "2.The more Bitpie addresses you are sending to, the more reimbursements you will win;\n"
+            },
+            {
+                "type": 0,
+                "data": "3.We’ll send the rewards to you every Mon. or Fri."
+            },
+            {
+                "type": 0,
+                "data": "Time: 2019.12.24 - 2020.01.24"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Team <br/>December 24, 2019"
+            }
+    ]
+  }
+}
