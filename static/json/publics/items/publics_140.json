@@ -4,14 +4,13 @@
         "data": "2021-11-30",
         "id": 140,
         "watch": 288,
-        "message": [
-            {
+        "message": [{
                 "type": 0,
                 "data": "近期，经用户反馈，我们发现 google play 商店存在多家冒用 Bitpie 名字的骗子 APP ，试图骗取用户资产。"
             },
             {
                 "type": 1,
-                "image": ".static/image/news/googleplay_fake_bitpie.png"
+                "image": "/static/image/news/googleplay_fake_bitpie.png"
             },
             {
                 "type": 0,
@@ -31,7 +30,7 @@
             },
             {
                 "type": 1,
-                "image": ".static/image/news/bitpie_googleplay.png"
+                "image": "/static/image/news/bitpie_googleplay.png"
             },
             {
                 "type": 0,
