@@ -70,5 +70,72 @@
                 "data": "2021年11月30日"
             }
         ]
-    }
+    },"en": {
+        "title": "Beware of fake Bitpie App on Google Play Store",
+        "data": "2021-11-30",
+        "id": 140,
+        "watch": 396,
+        "message": [
+            {
+                "type": 0,
+                "data": "Recently, we found that there are many fraudulent apps on the google play store that use the Bitpie name to defraud users' assets."
+            },
+            {
+                "type": 1,
+                "image": "/static/image/news/googleplay_fake_bitpie_en.png"
+            },
+            {
+                "type": 0,
+                "data": "The above are all fake Bitpie APP, please do not enter mnemonic words on any website, and do not disclose the mnemonic words to anyone, to avoid assets lost. "
+            },
+            {
+                "type": 0,
+                "data": "Before download and install Bitpie wallet, please make sure that it is downloaded from official Bitpie website: <a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+            },
+            {
+                "type": 0,
+                "data": "Please check whether to download the Bitpie wallet in the following way: "
+            },
+            {
+                "type": 0,
+                "data": "1. Google Play: Please confirm the developer of the Bitpie is Getcai, except for this, all other Bitpie App are counterfeit applications;"
+            },
+            {
+                "type": 1,
+                "image": "/static/image/news/bitpie_googleplay_en.png"
+            },
+            {
+                "type": 0,
+                "data": "2. App Store: Please confirm that the Bitpie developer you downloaded is BITPIE HK LIMITED. Except for this, all other Bitpie Apps are counterfeit applications;"
+            },
+            {
+                "type": 0,
+                "data": "3. Other channels: Please be cautious to prevent any URL similar to Bitpie's official website (bitpie.com, piepiewallet.com, bitpiecn.com, bitpiehk.com, bitpieasia.com, bitpie.one), and downloading from non-official channels involves huge risks."
+            },
+                        {
+                "type": 0,
+                "data": "What if I am an affected user? "
+            },
+            {
+                "type": 0,
+                "data": "1. Please immediately deactivate the addresses of wallets that have created or imported to fake Bitpie App during this period. "
+            },
+            {
+                "type": 0,
+                "data": "2. Re-download and install Bitpie from Bitpie's official website and create a new wallet. "
+            },
+            {
+                "type": 0,
+                "data": "3. Transfer the assets in the risky wallet address to the new wallet address as soon as possible. "
+            },
+            {
+                "type": 0,
+                "data": "At the same time, if you find a similar website and someone claiming to be Bitpie customer service to contact you proactively, please send an email to service@bitpie.com, Thank you for your support."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>November, 30, 2021"
+            }
+        ]
+  }
 }

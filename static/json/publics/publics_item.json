@@ -1260,6 +1260,15 @@
         }
     ],
     "en": [{
+            "title": "Beware of fake Bitpie App on Google Play Store",
+            "intro": "Recently, we found that there are many fraudulent apps on the google play store that use the Bitpie name to defraud users'  assets.",
+            "data": "2021-11-30",
+            "watch": 396,
+            "id": 140,
+            "month": "November",
+            "day": "30",
+            "type": 1
+        },{
             "title": "Statement on preventing fake Bitpie customer support on Line chat",
             "intro": "Recently, some users reported that they were induced by scammers claiming to be Bitpie customer service on Line chat to a scam website, eth-bit.com, requiring users to deposit assets and promising high yield returns. When users deposit assets, scammers will freeze the assets and require more assets to be deposited to unfreeze.",
             "data": "2021-11-24",
