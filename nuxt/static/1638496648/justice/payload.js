@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/justice", {data:[{}],fetch:{},mutations:[["LANG","cn"],["YEAR",2021]]});
