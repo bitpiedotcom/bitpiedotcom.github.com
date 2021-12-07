@@ -1,0 +1,70 @@
+{
+  "cn": {
+    "title": "警惕必应搜索引擎中假冒 Bitpie App 的骗局",
+    "data": "2021-12-07",
+    "id": 143,
+    "watch": 188,
+    "message": [
+      {
+        "type": 0,
+        "data": "近期，经用户反馈，我们发现必应搜索引擎在搜索“比特派”“bitpie”关键字时，搜索内容存在多个冒用 Bitpie 名字的骗子网站，试图引导用户下载盗币APP骗取用户资产。"
+      },
+      {
+        "type": 1,
+        "image": "/img/publics_bing_fakebitpie.png"
+      },
+      {
+        "type": 0,
+        "data": "以上均为假冒比特派网站，请大家对虚假信息予以警惕，不要在任何网站输入助记词，也不要把助记词透露给任何人，谨防资产损失。"
+      },
+      {
+        "type": 0,
+        "data": "下载安装 Bitpie，请大家认准 Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>"
+      },
+      {
+        "type": 0,
+        "data": "如何判断自己是否受影响？请按以下方式自查是否为正版 Bitpie："
+      },
+      {
+        "type": 0,
+        "data": "1.Google Play：请确认所下载的 Bitpie 开发者为 getcai ，除此以外，其他所有 Bitpie App 均为假冒应用；"
+      },
+      {
+        "type": 0,
+        "data": "2. App Store：请确认所下载的 Bitpie 开发者为 BITPIE HK LIMITED，除此以外，其他所有 Bitpie App 均为假冒应用；"
+      },
+      {
+        "type": 0,
+        "data": "3. 其他渠道：请谨慎防范任何与 Bitpie 官网（<a href='https://bitpie.com/'>bitpie.com</a>、<a href='https://piepiewallet.com/'>piepiewallet.com</a>、<a href='https://bitpiecn.com/'>bitpiecn.com</a>、<a href='https://bitpiehk.com/'>bitpiehk.com</a>、<a href='https://bitpieasia.com/'>bitpieasia.com</a>、<a href='https://bitpie.one/'>bitpie.one</a>）相似的网址，从非官网渠道下载的均存在巨大风险。"
+      },
+      {
+        "type": 0,
+        "data": "可能受影响的用户该怎么办？"
+      },
+      {
+        "type": 0,
+        "data": "1. 请立即停用在此期间创建或导入过假 Bitpie App 的钱包的地址。"
+      },
+      {
+        "type": 0,
+        "data": "2. 从 Bitpie 官网重新下载安装 Bitpie 并创建新钱包。"
+      },
+      {
+        "type": 0,
+        "data": "3. 将存在风险的钱包地址中的资产尽快转至新钱包地址。"
+      },
+      {
+        "type": 0,
+        "data": "同时，如果你发现了类似骗局，请通过邮件 service@bitpie.com 反馈给我们，感谢您的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队"
+      },
+      {
+        "type": 0,
+        "data": "2021年12月7日"
+      }
+    ]
+  }
+}
