@@ -1,0 +1,106 @@
+{
+  "cn": {
+    "title": "关于部分安卓手机误报比特派的操作方法",
+    "data": "2021-12-15",
+    "id": 145,
+    "watch": 188,
+    "message": [
+      {
+        "type": 0,
+        "data": "近期有用户反馈，在部分使用了某手机管家作为病毒数据库的安卓手机在安装、使用比特派 APP 时会有安全误报。"
+      },
+      {
+        "type": 0,
+        "data": "我们在与某手机管家尝试沟通后，其表示 “软件含有相关规定禁止的内容，手机管家将继续提示风险”，而事实上，比特派严格遵守当地法律法规，钱包中无任何交易、挖矿等相关功能。。"
+      },
+      {
+        "type": 0,
+        "data": "鉴于此类误报可能会长期存在，为了您的资产安全，无论在何种情况下，都不要随意卸载比特派 APP。"
+      },
+      {
+        "type": 0,
+        "data": "如果您遇到相关情况，可参考以下操作步骤。"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600;'>情况一：官网下载时提示风险</strong>"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1451.png"
+      },
+      {
+        "type": 0,
+        "data": "如果您确认您登录的网站为比特派官网可点击继续下载"
+      },
+      {
+        "type": 0,
+        "data": "(Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>  备用：<a href='https://piepiewallet.com/'>piepiewallet.com</a>)"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600;'>情况二：安装软件时提示风险</strong>"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1452.png"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1453.png"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1454.png"
+      },
+      {
+        "type": 0,
+        "data": "如果您的手机有 “无视风险安装” 按钮，可以点击进行安装。"
+      },
+      {
+        "type": 0,
+        "data": "如果您的手机没有任何安装相关的按钮，您可退出相关页面，在手机设置中断开网络，然后重新尝试安装。"
+      },
+      {
+        "type": 0,
+        "data": "<strong style='font-weight: 600;'>情况三：使用杀毒、网银软件时提示风险</strong>"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1455.png"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1456.png"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_android_ misreporting_1457.png"
+      },
+      {
+        "type": 0,
+        "data": "如果在使用杀毒软件时提示风险，您可以在手机的安全检测相关设置中将比特派APP设为白名单；"
+      },
+      {
+        "type": 0,
+        "data": "如果在使用网银等软件时提示风险，您可以在手机设置中暂时关闭支付检测等相关功能。"
+      },
+      {
+        "type": 0,
+        "data": "为了您的资产安全，无论在何种情况下，都不要随意卸载比特派APP。"
+      },
+      {
+        "type": 0,
+        "data": "Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>  备用：<a href='https://piepiewallet.com/'>piepiewallet.com</a>"
+      },
+      {
+        "type": 0,
+        "data": "比特派团队"
+      },
+      {
+        "type": 0,
+        "data": "2021年12月15日"
+      }
+    ]
+  }
+}
