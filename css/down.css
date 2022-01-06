@@ -2385,3 +2385,14 @@ ul.labels-demo li {
 
 
 }
+
+.hash {
+	font-family: "PingFangSC-Regular";
+	margin-top: 18px;
+	font-size: 12px;
+	color: #333333;
+	letter-spacing: 0;
+	text-align: center;
+	line-height: 20px;
+	margin: 20px auto 0;
+  }
