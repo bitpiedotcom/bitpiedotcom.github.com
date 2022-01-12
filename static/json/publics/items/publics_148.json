@@ -1,0 +1,70 @@
+{
+  "cn": {
+    "title": "警惕「关停旧版」等名义类的短信骗局",
+    "data": "2022-01-12",
+    "id": 148,
+    "watch": 188,
+    "message": [
+      {
+        "type": 0,
+        "data": "近期发现有不法分子以“清退”，“关停旧版服务”等名义向用户发送诈骗短信，诱导用户前往假网站下载假比特派APP，骗取用户助记词后盗取用户资产。"
+      },
+      {
+        "type": 0,
+        "data": "请注意防范，短信中提及的网址均为虚假网站，下载比特派认准比特派官网：<a href='https://bitpie.com/'>bitpie.com</a>"
+      },
+      {
+        "type": 0,
+        "data": "诈骗短信形式多如图所示，多以恐吓、诱导的形式骗取你的助记词，谨防上当受骗。"
+      },
+      {
+        "type": 1,
+        "image": "/static/image/news/publics_scam_message_1481.png"
+      },
+      {
+        "type": 0,
+        "data": "如何判断自己是否受影响？请按以下方式自查是否为正版 Bitpie："
+      },
+      {
+        "type": 0,
+        "data": "1.Google Play：请确认所下载的 Bitpie 开发者为 getcai ，除此以外，其他所有 Bitpie App 均为假冒应用；"
+      },
+      {
+        "type": 0,
+        "data": "2. App Store：请确认所下载的 Bitpie 开发者为 BITPIE HK LIMITED，除此以外，其他所有 Bitpie App 均为假冒应用；"
+      },
+      {
+        "type": 0,
+        "data": "3. 其他渠道：请谨慎防范任何与 Bitpie 官网（<a href='https://bitpie.com/'>bitpie.com</a>）相似的网址，从非官网渠道下载的均存在巨大风险。"
+      },
+      {
+        "type": 0,
+        "data": "可能受影响的用户该怎么办？"
+      },
+      {
+        "type": 0,
+        "data": "1. 请立即停用在此期间创建或导入过假 Bitpie App 的钱包的地址。"
+      },
+      {
+        "type": 0,
+        "data": "2. 从 Bitpie 官网重新下载安装 Bitpie 并创建新钱包。"
+      },
+      {
+        "type": 0,
+        "data": "3. 将存在风险的钱包地址中的资产尽快转至新钱包地址。"
+      },
+      {
+        "type": 0,
+        "data": "如果你发现了类似骗局，请通过邮件 service@bitpie.com 反馈给我们，感谢您的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派钱包团队"
+      },
+      {
+        "type": 0,
+        "data": "2022年01月12日"
+      }
+    ]
+  }
+}
