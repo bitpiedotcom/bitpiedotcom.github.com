@@ -18,5 +18,20 @@
         "data": "2022年01月26日"
       }
     ]
+  },"en": {
+        "title": "Regarding the update of the historical deposit and withdrawal records of USDT cloud wallet",
+        "data": "2022-01-26",
+        "id": 149,
+        "watch": 188,
+        "message": [
+            {
+                "type": 0,
+                "data": "From 2022-01-26, \"USDT exchange history between different network\" has been updated to \"cloud wallet deposit and withdrawal record\". As this is actually operating with cloud wallet, you can check the related records in cloud wallet."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>January, 26, 2022"
+            }
+        ]
   }
 }
