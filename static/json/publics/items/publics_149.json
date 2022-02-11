@@ -1,0 +1,37 @@
+{
+  "cn": {
+    "title": "关于 USDT 云钱包历史充提记录的显示更新说明",
+    "data": "2022-01-26",
+    "id": 149,
+    "watch": 188,
+    "message": [
+      {
+        "type": 0,
+        "data": "从2022年1月26日起\"USDT 不同格式间兑换历史记录\"更新至\"云钱包充提记录\"中显示，因为这种操作其实就是在做云钱包充提，您可以在云钱包中查询到相关记录。"
+      },
+      {
+        "type": 0,
+        "data": "比特派钱包团队"
+      },
+      {
+        "type": 0,
+        "data": "2022年01月26日"
+      }
+    ]
+  },"en": {
+        "title": "Regarding the update of the historical deposit and withdrawal records of USDT cloud wallet",
+        "data": "2022-01-26",
+        "id": 149,
+        "watch": 188,
+        "message": [
+            {
+                "type": 0,
+                "data": "From 2022-01-26, \"USDT exchange history between different network\" has been updated to \"cloud wallet deposit and withdrawal record\". As this is actually operating with cloud wallet, you can check the related records in cloud wallet."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>January, 26, 2022"
+            }
+        ]
+  }
+}

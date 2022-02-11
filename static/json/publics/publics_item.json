@@ -1,5 +1,23 @@
 {
     "cn": [{
+            "title": "关于 USDT 云钱包历史充提记录的显示更新说明",
+            "intro": "从2022年1月26日起\"USDT 不同格式间兑换历史记录\"更新至\"云钱包充提记录\"中显示，因为这种操作其实就是在做云钱包充提，您可以在云钱包中查询到相关记录。",
+            "data": "2022-01-26",
+            "watch": 188,
+            "id": 149,
+            "month": "January",
+            "day": "26",
+            "type": 1
+        },{
+            "title": "警惕「关停旧版」等名义类的短信骗局",
+            "intro": "近期发现有不法分子以“清退”，“关停旧版服务”等名义向用户发送诈骗短信，诱导用户前往假网站下载假比特派APP，骗取用户助记词后盗取用户资产。",
+            "data": "2022-01-12",
+            "watch": 188,
+            "id": 148,
+            "month": "January",
+            "day": "12",
+            "type": 1
+        },{
             "title": "比特派关于「无任何第三方合作」的声明",
             "intro": "比特派作为全球领先的钱包服务商，之前经常会有用户询问“某某项目方将比特派列为合作伙伴，请问是真的吗？”。每次遇到这种情况，我们都不得不发公告专门澄清“从来没听说过某某项目，请用户一定要注意风险”。",
             "data": "2021-12-20",
@@ -1323,6 +1341,15 @@
         }
     ],
     "en": [{
+            "title": "Regarding the update of the historical deposit and withdrawal records of USDT cloud wallet",
+            "intro": "From 2022-01-26, \"USDT exchange history between different network\" has been updated to \"cloud wallet deposit and withdrawal record\". As this is actually operating with cloud wallet, you can check the related records in cloud wallet.",
+            "data": "2022-01-26",
+            "watch": 188,
+            "id": 149,
+            "month": "January",
+            "day": "26",
+            "type": 1
+        },{
             "title": "Beware of fake Bitpie App on Google Play Store",
             "intro": "Recently, we found that there are many fraudulent apps on the google play store that use the Bitpie name to defraud users'  assets.",
             "data": "2021-11-30",
