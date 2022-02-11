@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/newsMessage", {data:[{}],fetch:{},mutations:[["LANG","cn"],["YEAR",2021]]});
