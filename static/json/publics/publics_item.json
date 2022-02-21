@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于支持 Conflux v2.0.0 网络升级的公告",
+            "intro": "据 Conflux 官方消息，Conflux 将在 区块数 92060600 或区块高度 36935000（预计 2022 年 2 月 23 日 12 时）至 区块高度 37230000（预计 2022 年 2 月 28 日 12 时）进行 Hardfork 升级，升级后的网络名称将由 Conflux Tethys 网络 升级为 Conflux Hydra 网络。",
+            "data": "2022-02-21",
+            "watch": 188,
+            "id": 150,
+            "month": "February",
+            "day": "21",
+            "type": 1
+        },{
             "title": "关于 USDT 云钱包历史充提记录的显示更新说明",
             "intro": "从2022年1月26日起\"USDT 不同格式间兑换历史记录\"更新至\"云钱包充提记录\"中显示，因为这种操作其实就是在做云钱包充提，您可以在云钱包中查询到相关记录。",
             "data": "2022-01-26",
@@ -1341,6 +1350,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on Conflux v2.0.0 Network Hardfork Upgrade",
+            "intro": "Conflux Network will be upgraded from Block Number 92060600 or Epoch Number 36935000 (around 12:00 Feb.23rd, 2022(GMT+8)) to Epoch Number 37230000 (around 12:00 Feb.28th, 2022(GMT+8)). The Conflux Tethys Network will be upgraded to the Conflux Hydra Network.",
+            "data": "2022-02-21",
+            "watch": 188,
+            "id": 150,
+            "month": "February",
+            "day": "21",
+            "type": 1
+        },{
             "title": "Regarding the update of the historical deposit and withdrawal records of USDT cloud wallet",
             "intro": "From 2022-01-26, \"USDT exchange history between different network\" has been updated to \"cloud wallet deposit and withdrawal record\". As this is actually operating with cloud wallet, you can check the related records in cloud wallet.",
             "data": "2022-01-26",
