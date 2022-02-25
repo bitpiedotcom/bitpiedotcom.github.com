@@ -57,8 +57,8 @@ downtitle: 比特派
 downsoftname: 比特派
 iosdownsoftversion: 3.3.3
 iosdownsoftdate: 2018-06-26
-anddownsoftversion: 5.0.056
-anddownsoftdate: 2021-12-27
+anddownsoftversion: 5.0.100
+anddownsoftdate: 2022-02-25
 
 
 # ----------------------- #
@@ -69,8 +69,8 @@ bitherdowntitle: 比太钱包
 bitherdownsoftname: Bither
 bitherios: 1.8.2
 bitheriosdate: 2018-02-06
-bitheranddownversion: 2.0.3
-bitheranddate: 2021-11-30
+bitheranddownversion: 2.0.4
+bitheranddate: 2021-12-31
 
 iOSsoftname: 'Bitpie iOS'
 bitherandroidlogo: '/img/logo_bither.jpg'
