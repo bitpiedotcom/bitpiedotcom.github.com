@@ -173,14 +173,15 @@
             //     alert('请在手机上使用浏览器打开本页面，或者扫描下面的二维码，即可安装');
             //     return;
             // }
-            var lang = navigator.language || navigator.userLanguage || navigator.browserLanguage || navigator.systemLanguage
+            // var lang = navigator.language || navigator.userLanguage || navigator.browserLanguage || navigator.systemLanguage
 
-            if (lang && lang.indexOf("ja") > -1) {
-                url = "https://play.google.com/store/apps/details?id=com.bitpie";
-            } else {
-                url = "https://dn-bither.qbox.me/bitpie.apk";
-            }
+            // if (lang && lang.indexOf("ja") > -1) {
+            //     url = "https://play.google.com/store/apps/details?id=com.bitpie";
+            // } else {
+            //     url = "https://dn-bither.qbox.me/bitpie.apk";
+            // }
 
+            url = "https://dn-bither.qbox.me/bitpie.apk";
             window.location.href = url;
         }
 
