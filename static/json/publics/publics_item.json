@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于谷歌商店中比特派APP暂停下载的公告",
+            "intro": "Google Play 商店内的比特派APP正在审核中，暂停下载。目前 Google Play 内\"bitpie\"\"比特派\"相关字眼的其他 APP 均为假冒，请从唯一下载渠道 bitpie.com 官网下载。Google Play 商店恢复下载后我们将会第一时间进行公告。",
+            "data": "2022-04-02",
+            "watch": 0,
+            "id": 151,
+            "month": "April",
+            "day": "2",
+            "type": 1
+        },{
             "title": "关于支持 Conflux v2.0.0 网络升级的公告",
             "intro": "据 Conflux 官方消息，Conflux 将在 区块数 92060600 或区块高度 36935000（预计 2022 年 2 月 23 日 12 时）至 区块高度 37230000（预计 2022 年 2 月 28 日 12 时）进行 Hardfork 升级，升级后的网络名称将由 Conflux Tethys 网络 升级为 Conflux Hydra 网络。",
             "data": "2022-02-21",
