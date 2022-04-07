@@ -1,0 +1,66 @@
+{
+    "cn": {
+      "title": "警惕通过华为应用商店安装 Bitpie App",
+      "data": "2022-04-07",
+      "id": 152,
+      "watch": 0,
+      "message": [
+        {
+          "type": 0,
+          "data": "近期用户反馈，当用户安装比特派 APP 时，部分华为手机会对比特派的正版 APP 提示风险，并推荐用户通过“官方安装”按钮。 但经测试，点击华为手机的“官方推荐”按钮后跳转的页面为假冒 APP 的安装页面。通过此页面安装 APP，存在巨大风险。"
+        },
+        {
+        "type": 1,
+        "image": "/static/image/news/puclics_152_huawei.png"
+        },
+        {
+        "type": 0,
+        "data": "下载安装 Bitpie，请大家认准 Bitpie 官网：<a href='https://bitpie.com/'>bitpie.com</a>"
+        },
+        {
+        "type": 0,
+        "data": "如何判断自己是否受影响？请按以下方式自查是否为正版 Bitpie："
+        },
+        {
+        "type": 0,
+        "data": "1.Google Play：请确认所下载的 Bitpie 开发者为 getcai ，除此以外，其他所有 Bitpie App 均为假冒应用；"
+        },
+        {
+        "type": 0,
+        "data": "2. App Store：请确认所下载的 Bitpie 开发者为 BITPIE HK LIMITED，除此以外，其他所有 Bitpie App 均为假冒应用；"
+        },
+        {
+        "type": 0,
+        "data": "3. 其他渠道：请谨慎防范任何与 Bitpie 官网（<a href='https://bitpie.com/'>bitpie.com</a>）相似的网址，从非官网渠道下载的均存在巨大风险。"
+        },
+        {
+        "type": 0,
+        "data": "可能受影响的用户该怎么办？"
+        },
+        {
+        "type": 0,
+        "data": "1. 请立即停用在此期间创建或导入过假 Bitpie App 的钱包的地址。"
+        },
+        {
+        "type": 0,
+        "data": "2. 从 Bitpie 官网重新下载安装 Bitpie 并创建新钱包。"
+        },
+        {
+        "type": 0,
+        "data": "3. 将存在风险的钱包地址中的资产尽快转至新钱包地址。"
+        },
+        {
+        "type": 0,
+        "data": "同时，如果你发现了类似骗局，请通过邮件 service@bitpie.com 反馈给我们，感谢您的支持。"
+        },
+        {
+        "type": 0,
+        "data": "比特派团队"
+        },
+        {
+        "type": 0,
+        "data": "2022年04月07日"
+        }
+    ]
+  }
+}
