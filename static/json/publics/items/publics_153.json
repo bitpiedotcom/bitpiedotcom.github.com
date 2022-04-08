@@ -1,0 +1,89 @@
+{
+    "cn": {
+      "title": "关于防范 \"虚假比特派交易所\" 的声明",
+      "data": "2022-04-08",
+      "id": 153,
+      "watch": 188,
+      "message": [
+        {
+          "type": 0,
+          "data": "经用户反馈，我们发现存在冒用比特派名字的骗子网站仿冒比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。"
+        },
+        {
+        "type": 0,
+        "data": "假冒比特派官网："
+        },
+        {
+        "type": 0,
+        "data": "https://www.bitpiecrypto.com[假]"
+        },
+        {
+        "type": 0,
+        "data": "https://d.bitpiebf.xyz[假]"
+        },
+        {
+        "type": 1,
+        "image": "/static/image/news/puclics_153_1.png"
+        },
+        {
+        "type": 1,
+        "image": "/static/image/news/puclics_153_3.png"
+        },
+        {
+        "type": 0,
+        "data": "请大家对虚假信息予以警惕，不要在任何网站输入助记词，也不要把助记词透露给任何人，谨防资产损失。请认准比特派官网：<a href='https://bitpie.com/'>bitpie.com</a>"
+        },
+        {
+        "type": 0,
+        "data": "如有问题请联系比特派官方邮箱：service@bitpie.com"
+        },
+        {
+        "type": 0,
+        "data": "比特派团队"
+        },
+        {
+        "type": 0,
+        "data": "2022年04月08日"
+        }
+    ]
+  },"en": {
+        "title": "Statement on Preventing \"Fake Bitpie Exchanges\"",
+        "data": "2022-04-08",
+        "id": 153,
+        "watch": 188,
+        "message": [
+            {
+                "type": 0,
+                "data": "Recently, we found that there are scam websites that use the name of Bitpie to counterfeit the Bitpie brand and try to defraud users' assets."
+            },
+            {
+                "type": 0,
+                "data": "There are the FAKE Bitpie official website:"
+            },
+            {
+                "type": 0,
+                "data": "https://www.bitpiecrypto.com [FAKE]"
+            },
+            {
+                "type": 0,
+                "data": "https://d.bitpiebf.xyz[FAKE]"
+            },
+            {
+                "type": 1,
+                "image": "/static/image/news/puclics_153_2.png"
+            },
+            {
+                "type": 0,
+                "data": "To avoid asset loss, please be vigilant against false information, do not enter your mnemonic phrases or private key on any website, and do not disclose mnemonic phrases to anyone."
+            },
+            {
+                "type": 0,
+                "data": "This is the only official website of Bitpie: <a href='https://bitpie.com/'>bitpie.com</a>"
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>April, 8 ,2022"
+            }
+        ]
+  }
+}
