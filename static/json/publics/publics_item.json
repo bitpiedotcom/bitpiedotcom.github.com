@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于 Oasis Network（ROSE）网络升级的公告",
+            "intro": "比特派于 2022年4月11日（香港时间）进行Oasis Network（ROSE）网络升级，为保障用户资产安全，期间将暂停 ROSE 收发、节点投票等业务。",
+            "data": "2022-04-11",
+            "watch": 188,
+            "id": 154,
+            "month": "April",
+            "day": "11",
+            "type": 1
+        },{
             "title": "关于防范 \"虚假比特派交易所\" 的声明",
             "intro": "经用户反馈，我们发现存在冒用比特派名字的骗子网站仿冒比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。",
             "data": "2022-04-08",
@@ -1377,6 +1386,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on Oasis Network (ROSE) network upgrade",
+            "intro": "The Oasis Network (ROSE) network upgrade will take place at 2022-04-11.During the upgrade, Bitpie will limit the ROSE send and receive function in the APP in order to protect your assets.",
+            "data": "2022-04-11",
+            "watch": 188,
+            "id": 154,
+            "month": "April",
+            "day": "11",
+            "type": 1
+        },{
             "title": "Announcement on Conflux v2.0.0 Network Hardfork Upgrade",
             "intro": "Conflux Network will be upgraded from Block Number 92060600 or Epoch Number 36935000 (around 12:00 Feb.23rd, 2022(GMT+8)) to Epoch Number 37230000 (around 12:00 Feb.28th, 2022(GMT+8)). The Conflux Tethys Network will be upgraded to the Conflux Hydra Network.",
             "data": "2022-02-21",

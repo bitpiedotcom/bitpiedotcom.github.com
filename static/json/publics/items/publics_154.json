@@ -1,0 +1,57 @@
+{
+  "cn": {
+    "title": "关于 Oasis Network（ROSE）网络升级的公告",
+    "data": "2022-04-11",
+    "id": 154,
+    "watch": 98,
+    "message": [
+      {
+        "type": 0,
+        "data": "比特派于 2022年4月11日（香港时间）进行Oasis Network（ROSE）网络升级，为保障用户资产安全，期间将暂停 ROSE 收发、节点投票等业务。"
+      },
+      {
+        "type": 0,
+        "data": "扩展说明：比特派为去中心化钱包，相关升级不影响用户的资产安全性，如果用户在升级期间有转账需求，将比特派钱包的助记词、私钥导入Oasis Network（ROSE）官方钱包即可操作。"
+      },
+      {
+        "type": 0,
+        "data": "相关服务将在升级稳定后第一时间恢复，感谢您对比特派 Bitpie 的支持。"
+      },
+      {
+        "type": 0,
+        "data": "比特派钱包团队"
+      },
+      {
+        "type": 0,
+        "data": "2022年04月11日"
+      }
+    ]
+  },"en": {
+        "title": "Announcement on Oasis Network (ROSE) network upgrade",
+        "data": "2022-04-11",
+        "id": 154,
+        "watch": 188,
+        "message": [
+            {
+                "type": 0,
+                "data": "The Oasis Network (ROSE) network upgrade will take place at 2022-04-11."
+            },
+            {
+                "type": 0,
+                "data": "During the upgrade, Bitpie will limit the ROSE send and receive function in the APP in order to protect your assets. Please avoid sending and receiving ROSE during this period."
+            },
+            {
+                "type": 0,
+                "data": "Expansion description: Bitpie is a decentralized wallet, and related upgrades will not affect the security of users' assets. If the user needs to transfer funds during the upgrade, import the mnemonic and private key of the Bitpie wallet into the Oasis Network (ROSE) official wallet"
+            },
+            {
+                "type": 0,
+                "data": "The related functions will be restored ASAP after the Oasis Network blockchain is stable ."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>April, 11 ,2022"
+            }
+        ]
+  }
+}
