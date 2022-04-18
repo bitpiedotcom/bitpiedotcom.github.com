@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于谷歌商店中比特派 APP 恢复下载的公告",
+            "intro": "比特派 APP 在 Google Play 已恢复下载。",
+            "data": "2022-04-18",
+            "watch": 188,
+            "id": 155,
+            "month": "April",
+            "day": "18",
+            "type": 1
+        },{
             "title": "关于 Oasis Network（ROSE）网络升级的公告",
             "intro": "比特派于 2022年4月11日（香港时间）进行Oasis Network（ROSE）网络升级，为保障用户资产安全，期间将暂停 ROSE 收发、节点投票等业务。",
             "data": "2022-04-11",
