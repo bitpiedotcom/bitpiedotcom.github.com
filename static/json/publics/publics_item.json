@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "关于比特派服务器常规升级的通知",
+            "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2022年05月11日凌晨 00:00 进行常规升级，预计30-60分钟内完成升级。升级期间将暂停软件内收发币等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
+            "data": "2022-05-09",
+            "watch": 171,
+            "id": 156,
+            "month": "May",
+            "day": "09",
+            "type": 1
+        },{
             "title": "关于谷歌商店中比特派 APP 恢复下载的公告",
             "intro": "比特派 APP 在 Google Play 已恢复下载。",
             "data": "2022-04-18",
@@ -1395,6 +1404,15 @@
         }
     ],
     "en": [{
+            "title": "Notification on Regular Upgrade of Server",
+            "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:00 May 11, 2022 (HongKong Time). The duration will be about 30-60 minutes. During this period, all receiving, sending will be suspended. We will resume all the services as soon as we complete the upgrade.",
+            "data": "2022-05-09",
+            "watch": 171,
+            "id": 156,
+            "month": "May",
+            "day": "09",
+            "type": 1
+        },{
             "title": "Announcement on Oasis Network (ROSE) network upgrade",
             "intro": "The Oasis Network (ROSE) network upgrade will take place at 2022-04-11.During the upgrade, Bitpie will limit the ROSE send and receive function in the APP in order to protect your assets.",
             "data": "2022-04-11",
