@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "通知",
+            "intro": "目前比特派服务器正在遭遇 DDoS （流量攻击），这会导致部分用户的钱包卡顿。DDoS （流量攻击）不会对用户的资产安全造成任何影响，相关功能恢复后将第一时间通知。",
+            "data": "2022-05-10",
+            "watch": 0,
+            "id": 157,
+            "month": "May",
+            "day": "10",
+            "type": 1
+        }, {
             "title": "关于比特派服务器常规升级的通知",
             "intro": "为优化软件性能，更好的服务用户，比特派服务器将于香港时间 2022年05月11日凌晨 00:00 进行常规升级，预计30-60分钟内完成升级。升级期间将暂停软件内收发币等全部功能，请您提前做好相关规划，升级完成后会第一时间恢复相关服务，感谢您的理解与支持。",
             "data": "2022-05-09",
@@ -8,7 +17,7 @@
             "month": "May",
             "day": "09",
             "type": 1
-        },{
+        }, {
             "title": "关于谷歌商店中比特派 APP 恢复下载的公告",
             "intro": "比特派 APP 在 Google Play 已恢复下载。",
             "data": "2022-04-18",
@@ -17,7 +26,7 @@
             "month": "April",
             "day": "18",
             "type": 1
-        },{
+        }, {
             "title": "关于 Oasis Network（ROSE）网络升级的公告",
             "intro": "比特派于 2022年4月11日（香港时间）进行Oasis Network（ROSE）网络升级，为保障用户资产安全，期间将暂停 ROSE 收发、节点投票等业务。",
             "data": "2022-04-11",
@@ -26,7 +35,7 @@
             "month": "April",
             "day": "11",
             "type": 1
-        },{
+        }, {
             "title": "关于防范 \"虚假比特派交易所\" 的声明",
             "intro": "经用户反馈，我们发现存在冒用比特派名字的骗子网站仿冒比特派 Bitpie 品牌，开展相应业务，试图骗取用户资产。",
             "data": "2022-04-08",
@@ -35,7 +44,7 @@
             "month": "April",
             "day": "7",
             "type": 1
-        },{
+        }, {
             "title": "警惕通过华为应用商店安装 Bitpie App",
             "intro": "近期用户反馈，当用户安装比特派 APP 时，部分华为手机会对比特派的正版 APP 提示风险，并推荐用户通过“官方安装”按钮。 但经测试，点击华为手机的“官方推荐”按钮后跳转的页面为假冒 APP 的安装页面。通过此页面安装 APP，存在巨大风险。",
             "data": "2022-04-07",
@@ -44,7 +53,7 @@
             "month": "April",
             "day": "7",
             "type": 1
-        },{
+        }, {
             "title": "关于谷歌商店中比特派APP暂停下载的公告",
             "intro": "Google Play 商店内的比特派APP正在审核中，暂停下载。目前 Google Play 内\"bitpie\"\"比特派\"相关字眼的其他 APP 均为假冒，请从唯一下载渠道 bitpie.com 官网下载。Google Play 商店恢复下载后我们将会第一时间进行公告。",
             "data": "2022-04-02",
@@ -53,7 +62,7 @@
             "month": "April",
             "day": "2",
             "type": 1
-        },{
+        }, {
             "title": "关于支持 Conflux v2.0.0 网络升级的公告",
             "intro": "据 Conflux 官方消息，Conflux 将在 区块数 92060600 或区块高度 36935000（预计 2022 年 2 月 23 日 12 时）至 区块高度 37230000（预计 2022 年 2 月 28 日 12 时）进行 Hardfork 升级，升级后的网络名称将由 Conflux Tethys 网络 升级为 Conflux Hydra 网络。",
             "data": "2022-02-21",
@@ -62,7 +71,7 @@
             "month": "February",
             "day": "21",
             "type": 1
-        },{
+        }, {
             "title": "关于 USDT 云钱包历史充提记录的显示更新说明",
             "intro": "从2022年1月26日起\"USDT 不同格式间兑换历史记录\"更新至\"云钱包充提记录\"中显示，因为这种操作其实就是在做云钱包充提，您可以在云钱包中查询到相关记录。",
             "data": "2022-01-26",
@@ -71,7 +80,7 @@
             "month": "January",
             "day": "26",
             "type": 1
-        },{
+        }, {
             "title": "警惕「关停旧版」等名义类的短信骗局",
             "intro": "近期发现有不法分子以“清退”，“关停旧版服务”等名义向用户发送诈骗短信，诱导用户前往假网站下载假比特派APP，骗取用户助记词后盗取用户资产。",
             "data": "2022-01-12",
@@ -80,7 +89,7 @@
             "month": "January",
             "day": "12",
             "type": 1
-        },{
+        }, {
             "title": "比特派关于「无任何第三方合作」的声明",
             "intro": "比特派作为全球领先的钱包服务商，之前经常会有用户询问“某某项目方将比特派列为合作伙伴，请问是真的吗？”。每次遇到这种情况，我们都不得不发公告专门澄清“从来没听说过某某项目，请用户一定要注意风险”。",
             "data": "2021-12-20",
@@ -89,7 +98,7 @@
             "month": "December",
             "day": "20",
             "type": 1
-        },{
+        }, {
             "title": "警惕「清退」名义类的短信骗局",
             "intro": "近期，经用户反馈，我们发现存在骗子以“清退”，“终止服务”等名义向用户发送诈骗短信，诱导用户前往假网站，来骗取用户助记词。",
             "data": "2021-12-19",
@@ -98,7 +107,7 @@
             "month": "December",
             "day": "19",
             "type": 1
-        },{
+        }, {
             "title": "关于部分安卓手机误报比特派的操作方法",
             "intro": "近期有用户反馈，在部分使用了某手机管家作为病毒数据库的安卓手机在安装、使用比特派 APP 时会有安全误报。",
             "data": "2021-12-15",
@@ -107,7 +116,7 @@
             "month": "December",
             "day": "15",
             "type": 1
-        },{
+        }, {
             "title": "警惕百度贴吧内冒充比特派客服的骗局",
             "intro": "经用户反馈，我们发现百度贴吧“比特派吧”里存在大量虚假、诈骗信息。",
             "data": "2021-12-15",
@@ -116,7 +125,7 @@
             "month": "December",
             "day": "15",
             "type": 1
-        },{
+        }, {
             "title": "警惕必应搜索引擎中假冒 Bitpie App 的骗局",
             "intro": "近期，经用户反馈，我们发现必应搜索引擎在搜索“比特派”“bitpie”关键字时，搜索内容存在多个冒用 Bitpie 名字的骗子网站，试图引导用户下载盗币APP骗取用户资产。",
             "data": "2021-12-07",
@@ -125,7 +134,7 @@
             "month": "December",
             "day": "07",
             "type": 1
-        },{
+        }, {
             "title": "警惕华为应用商店中假冒 Bitpie App 的骗局",
             "intro": "近期，经用户反馈，我们发现华为应用商店存在多个冒用 Bitpie 名字的骗子 APP，试图骗取用户资产。",
             "data": "2021-12-06",
@@ -134,7 +143,7 @@
             "month": "December",
             "day": "06",
             "type": 1
-        },{
+        }, {
             "title": "【比特派】关于征集通过百度等搜索引擎下载到假钱包受害者信息的公告",
             "intro": "近期，我们接到了不少用户下载到假钱包并被盗币的反馈，这些用户普遍都是用手机浏览器（百度搜索）、UC浏览器（神马搜索）搜“比特派”、“bitpie”等关键字时，搜索到假官网并下载了假钱包，一存入资产然后就被盗走。",
             "data": "2021-12-02",
@@ -143,7 +152,7 @@
             "month": "December",
             "day": "02",
             "type": 1
-        },{
+        }, {
             "title": "警惕 GooglePlay 商店中假冒 Bitpie App 的骗局",
             "intro": "近期，经用户反馈，我们发现 google play 商店存在多家冒用 Bitpie 名字的骗子 APP ，试图骗取用户资产。",
             "data": "2021-11-30",
@@ -152,7 +161,7 @@
             "month": "November",
             "day": "30",
             "type": 1
-        },{
+        }, {
             "title": "关于防范 \"冒充比特派 Line 客服\" 的声明",
             "intro": "近期，有用户反馈，被在 Line 上冒充比特派客服的骗子诱导至 eth-bit.com 这个诈骗网站，要求用户存入资产并许诺高额回报，当用户存入资产后，骗子将资产冻结，要求存入更多资产方可解冻。",
             "data": "2021-11-24",
@@ -161,7 +170,7 @@
             "month": "November",
             "day": "24",
             "type": 1
-        },{
+        }, {
             "title": "关于用户通过UC浏览器在假比特派网站下载到盗币 App 的公告",
             "intro": "继2021年11月12日比特派风控部门发布《关于用户通过百度搜索在假比特派网站下载到盗币 App 的公告》之后，2021年11月15日有用户反馈，通过UC浏览器使用默认的神马搜索引擎搜索搜索“比特派”，下载安装后资产被盗。",
             "data": "2021-11-15",
@@ -170,7 +179,7 @@
             "month": "November",
             "day": "15",
             "type": 1
-        },{
+        }, {
             "title": "关于用户通过百度搜索在假比特派网站下载到盗币 App 的公告",
             "intro": "2021年11月11日有用户反馈，通过手机浏览器使用百度搜索“比特派”，下载安装后资产被盗。",
             "data": "2021-11-12",
@@ -179,7 +188,7 @@
             "month": "November",
             "day": "12",
             "type": 1
-        },{
+        }, {
             "title": "关于防范 \"虚假比特派官网\" 的声明",
             "intro": "近期，经用户反馈，我们发现多家骗子网站仿冒 Bitpie 官网，开展相应业务，试图骗取用户资产。",
             "data": "2021-11-11",
@@ -188,7 +197,7 @@
             "month": "November",
             "day": "11",
             "type": 1
-        },{
+        }, {
             "title": "关于部分安卓机型误报比特派的安全声明",
             "intro": "近日部分安卓机型将比特派误报为恶意软件，如果您是从官方网站下载的比特派 APP，那么比特派软件将不存在安全问题，您可继续放心使用，同时请勿卸载比特派 APP。",
             "data": "2021-11-02",
@@ -197,7 +206,7 @@
             "month": "November",
             "day": "02",
             "type": 1
-        },{
+        }, {
             "title": "警惕搬砖套利的骗局",
             "intro": "经用户反馈，发现有诈骗分子以各个交易所的名义组建虚假的搬砖套利群实施诈骗。诈骗分子组建类似【火币Global官方搬砖套利中文群】【BNB官方搬砖套利中文群】等 Telegram 群并假借“搬砖套利”的说辞，诱导用户将个人ETH转入诈骗者的恶意地址，之后会按照比例给用户转假“HT”假“BNB”（非官方发行，没有任何实际价值）从而骗取用户资产。",
             "data": "2021-10-11",
@@ -206,7 +215,7 @@
             "month": "October",
             "day": "11",
             "type": 1
-        },{
+        }, {
             "title": "关于 BSV 节点维护的公告",
             "intro": "因当前 BSV 节点维护，为保障您的资产安全，当前已暂停 BSV 收发、云钱包充提等业务。",
             "data": "2021-10-10",
@@ -215,7 +224,7 @@
             "month": "October",
             "day": "10",
             "type": 1
-        },{
+        }, {
             "title": "请警惕假冒 Bitpie App、诈骗短信、钓鱼网站的骗局",
             "intro": "经用户反馈，我们发现存在冒用 Bitpie 名字的骗子 APP 仿冒比特派 Bitpie 品牌，向用户发送钓鱼短信，诱导用户下载假的 Bitpie，开展相应业务，试图骗取用户资产。",
             "data": "2021-09-26",
@@ -224,7 +233,7 @@
             "month": "September",
             "day": "26",
             "type": 1
-        },{
+        }, {
             "title": "请警惕假冒 Bitpie App 骗局",
             "intro": "近期，经用户反馈，我们发现存在多家冒用 Bitpie 名字的骗子 APP 仿冒比特派 Bitpie 品牌，诱导用户下载假的 Bitpie，开展相应业务，试图骗取用户资产。",
             "data": "2021-09-18",
@@ -1412,7 +1421,7 @@
             "month": "May",
             "day": "09",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on Oasis Network (ROSE) network upgrade",
             "intro": "The Oasis Network (ROSE) network upgrade will take place at 2022-04-11.During the upgrade, Bitpie will limit the ROSE send and receive function in the APP in order to protect your assets.",
             "data": "2022-04-11",
@@ -1421,7 +1430,7 @@
             "month": "April",
             "day": "11",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on Conflux v2.0.0 Network Hardfork Upgrade",
             "intro": "Conflux Network will be upgraded from Block Number 92060600 or Epoch Number 36935000 (around 12:00 Feb.23rd, 2022(GMT+8)) to Epoch Number 37230000 (around 12:00 Feb.28th, 2022(GMT+8)). The Conflux Tethys Network will be upgraded to the Conflux Hydra Network.",
             "data": "2022-02-21",
@@ -1430,7 +1439,7 @@
             "month": "February",
             "day": "21",
             "type": 1
-        },{
+        }, {
             "title": "Regarding the update of the historical deposit and withdrawal records of USDT cloud wallet",
             "intro": "From 2022-01-26, \"USDT exchange history between different network\" has been updated to \"cloud wallet deposit and withdrawal record\". As this is actually operating with cloud wallet, you can check the related records in cloud wallet.",
             "data": "2022-01-26",
@@ -1439,7 +1448,7 @@
             "month": "January",
             "day": "26",
             "type": 1
-        },{
+        }, {
             "title": "Beware of fake Bitpie App on Google Play Store",
             "intro": "Recently, we found that there are many fraudulent apps on the google play store that use the Bitpie name to defraud users'  assets.",
             "data": "2021-11-30",
@@ -1448,7 +1457,7 @@
             "month": "November",
             "day": "30",
             "type": 1
-        },{
+        }, {
             "title": "Statement on preventing fake Bitpie customer support on Line chat",
             "intro": "Recently, some users reported that they were induced by scammers claiming to be Bitpie customer service on Line chat to a scam website, eth-bit.com, requiring users to deposit assets and promising high yield returns. When users deposit assets, scammers will freeze the assets and require more assets to be deposited to unfreeze.",
             "data": "2021-11-24",
@@ -1457,7 +1466,7 @@
             "month": "November",
             "day": "24",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on users downloading the Fake App on the fake Bitpie website through the UC browser ",
             "intro": "On November 15, 2021, there was feedback from users, searching “Bitpie” by the default Shenma search engine on UC browser, the assets were stolen after downloading and installing.",
             "data": "2021-11-15",
@@ -1466,7 +1475,7 @@
             "month": "November",
             "day": "15",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on users downloaded the Fake App on the fake Bitpie website through the Baidu search",
             "intro": "On November 11, 2021,  we received a report that searching \"Bitpie\" through Baidu, assets were stolen after downloading and installing.",
             "data": "2021-11-12",
@@ -1475,7 +1484,7 @@
             "month": "November",
             "day": "12",
             "type": 1
-        },{
+        }, {
             "title": "Prevention of \"FAKE Bitpie official website\"",
             "intro": "Recently, we found that many scam page imitated Bitpie's official website in an attempt to defraud users' assets.",
             "data": "2021-11-11",
@@ -1484,7 +1493,7 @@
             "month": "November",
             "day": "11",
             "type": 1
-        },{
+        }, {
             "title": "Regarding Misreporting Bitpie as malware by some Android models",
             "intro": "Recently, some Android models misreported Bitpie as malware. There will be no security issues if you downloaded Bitpie wallet  from the official website . You can continue to use it and do not need to uninstall the Bitpie app.",
             "data": "2021-11-02",
@@ -1493,7 +1502,7 @@
             "month": "November",
             "day": "02",
             "type": 1
-        },{
+        }, {
             "title": "Apple TestFlight version Bitpie users please migrate to the official version immediately",
             "intro": "The TestFlight (TF) of the Bitpie APP on Apple system is a test version of the APP, designed to allow users to quickly experience the new features of the wallet, and TF version of APP has been strictly abiding by Apple's relevant guidelines since its release.  Due to App Store policy changes, as well as the validity time of TF, and user limits, it is inconvenient to users. ",
             "data": "2021-09-13",
@@ -1502,7 +1511,7 @@
             "month": "September",
             "day": "13",
             "type": 1
-        },{
+        }, {
             "title": "Announcement on Oasis Network (ROSE) network upgrade",
             "intro": "The Oasis Network (ROSE) network upgrade will take place at epoch 8,049, approximately at 2021-08-31 16:00 (UTC).",
             "data": "2021-08-30",
