@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "重要提醒",
+            "intro": "任何情况下，都不要卸载比特派钱包!",
+            "data": "2022-05-11",
+            "watch": 150,
+            "id": 158,
+            "month": "May",
+            "day": "11",
+            "type": 1
+        },{
             "title": "通知",
             "intro": "目前比特派服务器正在遭遇 DDoS （流量攻击），这会导致部分用户的钱包卡顿。DDoS （流量攻击）不会对用户的资产安全造成任何影响，相关功能恢复后将第一时间通知。",
             "data": "2022-05-10",
@@ -1413,6 +1422,15 @@
         }
     ],
     "en": [{
+            "title": "Important Reminder",
+            "intro": "You SHOULD NOT uninstall your Bitpie wallet under any circumstances!",
+            "data": "2022-05-11",
+            "watch": 171,
+            "id": 158,
+            "month": "May",
+            "day": "11",
+            "type": 1
+        },{
             "title": "Notification on Regular Upgrade of Server",
             "intro": "For better server performance and client service, Bitpie will have a regular upgrade of the server at 00:00 May 11, 2022 (HongKong Time). The duration will be about 30-60 minutes. During this period, all receiving, sending will be suspended. We will resume all the services as soon as we complete the upgrade.",
             "data": "2022-05-09",

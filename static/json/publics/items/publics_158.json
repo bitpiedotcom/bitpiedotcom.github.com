@@ -1,0 +1,50 @@
+{
+    "cn": {
+        "title": "重要提醒",
+        "data": "2022-05-11",
+        "id": 158,
+        "watch": 171,
+        "message": [{
+                "type": 0,
+                "data": "任何情况下，都不要卸载比特派钱包!"
+            },{
+                "type": 0,
+                "data": "当前假钱包网站盛行，针对主流钱包的假钱包骗局层出不穷，据分析有假钱包团队在对比特派的服务器进行着持续的 DDos 流量攻击，他们试图用这种方式影响钱包用户的正常使用，进而引导用户通过各类的搜索引擎、QQ群客服、第三方应用市场等渠道下载他们的假钱包，骗取用户资产。"
+            },
+            {
+                "type": 0,
+                "data": "比特派没有任何QQ群、电报群及群内客服，请用户认准唯一官网 （<a href='https://bitpie.com/'>bitpie.com</a>） ，请勿从其他任何渠道下载比特派。"
+            },
+            {
+                "type": 1,
+                "image": "/static/image/news/puclics_158.png"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包<br/>2022年05月11日"
+            }
+        ]
+    },"en": {
+     "title": "Important Reminder",
+    "data": "2022-05-11",
+    "id": 158,
+    "watch": 171,
+    "message": [{
+        "type": 0,
+        "data": "You SHOULD NOT uninstall your Bitpie wallet under any circumstances!"
+      },
+      {
+        "type": 0,
+        "data": "At present, fake wallet and their websites are prevalent and on the rise. According to analysis, some fake wallet teams are carrying out continuous DDoS traffic attacks on Bitpie's servers. They are trying to use this method to affect the normal use of wallet users, and guide users to download their fake wallets through various search engines, fake customer service, third-party application markets and other channels to defraud users' assets."
+      },
+      {
+        "type": 0,
+        "data":"Bitpie does not have any customer service support on QQ, Telegram or other communication channels, please look for the only official website （<a href='https://bitpie.com/'>bitpie.com</a>）, and only download the APP on the official website."
+      },
+      {
+        "type": 0,
+        "data": "Bitpie Team <br/>May. 11, 2022"
+      }
+    ]
+  }
+}
