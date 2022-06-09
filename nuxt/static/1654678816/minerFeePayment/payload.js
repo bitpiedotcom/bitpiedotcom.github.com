@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/minerFeePayment", {data:[{}],fetch:{},mutations:[["LANG","cn"],["YEAR",2022]]});
