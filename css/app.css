@@ -176,7 +176,6 @@ h6 i {
 }
 
 @media (max-width: 768px) {
-
     .heading h2:before,
     .heading h2:after {
         width: 35%;
@@ -187,7 +186,6 @@ h6 i {
     .heading h2 {
         font-size: 19px;
     }
-
     .heading h2:before,
     .heading h2:after {
         width: 15%;
@@ -323,7 +321,6 @@ h3.heading-xs {
 }
 
 @media (max-width: 768px) {
-
     .table th.hidden-sm,
     .table td.hidden-sm {
         display: none !important;
@@ -1710,7 +1707,7 @@ i.icon-color-brown,
 i.icon-color-dark-blue,
 i.icon-color-light-grey,
 i.icon-color-light-green,
-    {
+{
     background: none;
 }
 
@@ -1913,12 +1910,10 @@ i.icon-bg-light-grey {
 /*Content Boxes v2*/
 
 @media (max-width: 992px) {
-
     .content-boxes-v2,
     .content-boxes-v2 .text-justify {
         text-align: center;
     }
-
     .content-boxes-v2 span {
         display: block;
         margin-top: 5px;
@@ -3157,23 +3152,18 @@ img.img-circle {
     .sm-margin-bottom-10 {
         margin-bottom: 10px;
     }
-
     .sm-margin-bottom-20 {
         margin-bottom: 20px;
     }
-
     .sm-margin-bottom-30 {
         margin-bottom: 30px;
     }
-
     .sm-margin-bottom-40 {
         margin-bottom: 40px;
     }
-
     .sm-margin-bottom-50 {
         margin-bottom: 50px;
     }
-
     .sm-margin-bottom-60 {
         margin-bottom: 60px;
     }
@@ -3183,23 +3173,18 @@ img.img-circle {
     .md-margin-bottom-10 {
         margin-bottom: 10px;
     }
-
     .md-margin-bottom-20 {
         margin-bottom: 20px;
     }
-
     .md-margin-bottom-30 {
         margin-bottom: 30px;
     }
-
     .md-margin-bottom-40 {
         margin-bottom: 40px;
     }
-
     .md-margin-bottom-50 {
         margin-bottom: 50px;
     }
-
     .md-margin-bottom-60 {
         margin-bottom: 60px;
     }
@@ -3493,7 +3478,6 @@ img.img-circle {
         margin: 0 auto;
         text-align: center
     }
-
     .url-content {
         font-size: 15px
     }
@@ -3705,7 +3689,7 @@ img.img-circle {
     padding: 10px 0;
     height: 60px;
     box-sizing: border-box;
-    background: rgba(237, 76, 86, 0.15);
+    background: #5887E3;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -3721,7 +3705,7 @@ img.img-circle {
     font-family: PingFangSC, PingFangSC-Medium;
     font-weight: 500;
     text-align: left;
-    color: #f3202d;
+    color: white;
 }
 
 .warn-container .bold {
@@ -3745,15 +3729,13 @@ img.img-circle {
     .warn-container {
         height: 41.6px;
     }
-
     .warn-container span {
         font-size: 12px;
     }
-
     .warn-container .learn {
         font-size: 18px;
     }
-.warn-container img {
-    width: 12.5px;
-}
+    .warn-container img {
+        width: 12.5px;
+    }
 }
