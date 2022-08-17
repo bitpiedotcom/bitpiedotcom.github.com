@@ -1,0 +1,48 @@
+{
+    "cn": {
+        "title": "关于比特派停用备用域名的公告",
+        "data": "2022-08-17",
+        "id": 160,
+        "watch": 80,
+        "message": [
+            {
+                "type": 0,
+                "data": "比特派备用域名 <a href='https://piepiewallet.com/'>piepiewallet.com</a>, <a href='https://bitpiecn.com/'>bitpiecn.com</a>, <a href='https://bitpiehk.com/'>bitpiehk.com</a>, <a href='https://bitpieasia.com/'>bitpieasia.com</a>, <a href='https://bitpie.one/'>bitpie.one</a> 将于2022年9月1日停止使用，请勿再通过以上域名进行比特派软件的下载与安装。"
+            },
+            {
+                "type": 0,
+                "data": "后续请所有用户认准比特派唯一官网 <a href='https://bitpie.com/'>https://bitpie.com</a>"
+            },
+            {
+                "type": 0,
+                "data": "比特派团队"
+            },
+            {
+                "type": 0,
+                "data": "2022年08月17日"
+            }
+        ]
+    },
+    "en": {
+        "title": "Announcement on Alternative Domain Names Deactivation",
+        "data": "2022-08-17",
+        "id": 160,
+        "watch": 80,
+        "message": [
+            {
+                "type": 0,
+                "data": "Bitpie alternative domain names <a href='https://piepiewallet.com/'>piepiewallet.com</a>, <a href='https://bitpiecn.com/'>bitpiecn.com</a>, <a href='https://bitpiehk.com/'>bitpiehk.com</a>, <a href='https://bitpieasia.com/'>bitpieasia.com</a>, <a href='https://bitpie.one/'>bitpie.one</a> will be discontinued on September 1, 2022. Please do not download and install Bitpie wallet through the above domain names."
+            },
+            {
+                "type": 0,
+                "data": "<a href='https://bitpie.com/'>https://bitpie.com</a> is the only official website in the future."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>August, 17, 2022"
+            }
+    ]
+  }
+}
+
+
