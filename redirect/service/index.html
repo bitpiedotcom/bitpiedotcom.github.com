@@ -84,6 +84,14 @@
             color: #306DE5;
             text-decoration: none;
         }
+        
+        .en {
+            display: none;
+        }
+        
+        .cn {
+            display: block;
+        }
     </style>
 </head>
 
@@ -99,14 +107,49 @@
             <p>2022-08-17</p>
         </div>
         <div class="content">
-            <p>比特派备用域名 piepiewallet.com、bitpiecn.com、bitpiehk.com、bitpieasia.com、bitpie.one 于2022年9月1日停止使用，请勿再通过以上域名进行比特派软件的下载与安装</p>
-            <p>后续请所有用户认准比特派唯一官网 <a class="link" target="_blank" href="https://bitpie.com">https://bitpie.com</a></p>
+            <div class="cn">
+                <p>比特派备用域名 piepiewallet.com、bitpiecn.com、bitpiehk.com、bitpieasia.com、bitpie.one 于2022年9月1日停止使用，请勿再通过以上域名进行比特派软件的下载与安装</p>
+                <p>后续请所有用户认准比特派唯一官网 <a class="link" target="_blank" href="https://bitpie.com">https://bitpie.com</a></p>
+            </div>
+            <div class="en">
+                <p>Bitpie alternative domain names piepiewallet.com, bitpiecn.com, bitpiehk.com, bitpieasia.com, bitpie.one will be discontinued on September 1, 2022. Please do not download and install Bitpie wallet through the above domain names.</p>
+                <p><a class="link" target="_blank" href="https://bitpie.com">https://bitpie.com</a> is the only official website in the future.</p>
+            </div>
         </div>
         <div class="team-div">
-            <p>比特派团队</p>
+            <div class="cn">
+                <p>比特派团队</p>
+            </div>
+            <div class="en">
+                <p>Bitpie Team</p>
+            </div>
         </div>
     </div>
 
+    <script>
+        function displayHandle(lang, isDisplay) {
+            let elements = document.getElementsByClassName(lang)
+            for (let i = 0; i < elements.length; i++) {
+                elements[i].style.display = isDisplay ? 'block' : 'none'
+            }
+        }
+
+        let browserLang = navigator.language ?
+            navigator.language :
+            navigator.browserLanguage;
+        let defaultBrowserLang = "";
+        if (!(browserLang.toLowerCase() === "zh-hk" ||
+                browserLang.toLowerCase() === "zh-tw" ||
+                browserLang.toLowerCase() === "zh-mo" ||
+                browserLang.toLowerCase() === "zh-sg" ||
+                browserLang.toLowerCase() === "zh-cn")) {
+            displayHandle('cn', true)
+            displayHandle('en', false)
+        } else {
+            displayHandle('cn', false)
+            displayHandle('en', true)
+        }
+    </script>
 </body>
 
 </html>
