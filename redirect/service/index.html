@@ -138,11 +138,11 @@
             navigator.language :
             navigator.browserLanguage;
         let defaultBrowserLang = "";
-        if (!(browserLang.toLowerCase() === "zh-hk" ||
-                browserLang.toLowerCase() === "zh-tw" ||
-                browserLang.toLowerCase() === "zh-mo" ||
-                browserLang.toLowerCase() === "zh-sg" ||
-                browserLang.toLowerCase() === "zh-cn")) {
+        if (browserLang.toLowerCase() === "zh-hk" ||
+            browserLang.toLowerCase() === "zh-tw" ||
+            browserLang.toLowerCase() === "zh-mo" ||
+            browserLang.toLowerCase() === "zh-sg" ||
+            browserLang.toLowerCase() === "zh-cn") {
             displayHandle('cn', true)
             displayHandle('en', false)
         } else {
