@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/about.html", {data:[{}],fetch:{},mutations:[["LANG","cn"],["YEAR",2022]]});
