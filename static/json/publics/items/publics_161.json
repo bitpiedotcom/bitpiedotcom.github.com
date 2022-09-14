@@ -11,7 +11,7 @@
             },
             {
                 "type": 0,
-                "data": "为保障用户资产安全，合并期间将暂停 ETH 收发、云钱包充提等功能。"
+                "data": "为保障用户资产安全，合并期间将暂停 ETH 收发、云钱包充提、ETH2/ETH交易等功能。"
             },
             {
                 "type": 0,
@@ -38,7 +38,7 @@
             },
             {
                 "type": 0,
-                "data": "In order to ensure the security of user assets, functions such as ETH sending and receiving will be suspended during the merge period."
+                "data": "In order to ensure the security of user assets, functions such as ETH sending and receiving、cloud wallet deposit and withdrawal、ETH2/ETH market will be suspended during the merge period."
             },
             {
                 "type": 0,
