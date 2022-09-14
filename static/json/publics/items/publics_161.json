@@ -11,7 +11,7 @@
             },
             {
                 "type": 0,
-                "data": "为保障用户资产安全，合并期间将暂停 ETH 收发等功能。"
+                "data": "为保障用户资产安全，合并期间将暂停 ETH 收发、云钱包充提等功能。"
             },
             {
                 "type": 0,
@@ -26,7 +26,30 @@
                 "data": "2022年09月13日"
             }
         ]
-    }
+    },"en": {
+        "title": "Announcement on support of Ethereum Merge",
+        "data": "2022-09-13",
+        "id": 161,
+        "watch": 91,
+        "message": [
+            {
+                "type": 0,
+                "data": "The Ethereum network is expected to undergo a network merge on September 15, and Bitpie will support the Ethereum merge."
+            },
+            {
+                "type": 0,
+                "data": "In order to ensure the security of user assets, functions such as ETH sending and receiving will be suspended during the merge period."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie is a decentralized wallet, and related upgrades will not affect the security of users' assets.  Related services will be restored as soon as the upgrade is stable. Thank you for your support."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>September, 13, 2022"
+            }
+    ]
+  }
 }
 
 

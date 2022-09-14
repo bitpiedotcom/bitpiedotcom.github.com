@@ -1,7 +1,7 @@
 {
     "cn": [{
             "title": "关于比特派支持以太坊网络合并的公告",
-            "intro": "以太坊网络预计于 9 月 15 日进行网络合并，比特派将支持以太坊合并，用户无需任何操作。为保障用户资产安全，合并期间将暂停 ETH 收发等功能。",
+            "intro": "以太坊网络预计于 9 月 15 日进行网络合并，比特派将支持以太坊合并，用户无需任何操作。为保障用户资产安全，合并期间将暂停 ETH 收发、云钱包充提等功能。",
             "data": "2022-09-13",
             "watch": 91,
             "id": 161,
@@ -1449,6 +1449,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement on support of Ethereum Merge",
+            "intro": "The Ethereum network is expected to undergo a network merge on September 15, and Bitpie will support the Ethereum merge.",
+            "data": "2022-09-13",
+            "watch": 91,
+            "id": 161,
+            "month": "September",
+            "day": "13",
+            "type": 1
+        },{
             "title": "Announcement on Alternative Domain Names Deactivation",
             "intro": "Bitpie alternative domain names piepiewallet.com、bitpiecn.com、bitpiehk.com、bitpieasia.com、bitpie.one will be discontinued on September 1, 2022. Please do not download and install Bitpie wallet through the above domain names.",
             "data": "2022-08-17",
