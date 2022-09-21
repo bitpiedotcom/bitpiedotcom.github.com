@@ -1,5 +1,14 @@
 {
     "cn": [{
+            "title": "比特派云钱包发放 ETHW 空投的公告",
+            "intro": "比特派云钱包已于2022年9月21日发放 ETHW 的空投，符合条件的用户可以在比特派APP-云钱包内查看并提现。",
+            "data": "2022-09-21",
+            "watch": 91,
+            "id": 162,
+            "month": "September",
+            "day": "21",
+            "type": 1
+        },{
             "title": "关于比特派支持以太坊网络合并的公告",
             "intro": "以太坊网络预计于 9 月 15 日进行网络合并，比特派将支持以太坊合并，用户无需任何操作。为保障用户资产安全，合并期间将暂停 ETH 收发、云钱包充提、ETH2/ETH 交易等功能。",
             "data": "2022-09-13",
@@ -1449,6 +1458,15 @@
         }
     ],
     "en": [{
+            "title": "Announcement of Bitpie Cloud Wallet Completed Distribution of ETHW Tokens",
+            "intro": "The Bitpie Cloud Wallet has completed distribution of Ethereum Proof-of-Work (ETHW) Tokens on September 21, 2022. Eligible users can confirm and withdraw under the Bitpie APP-Cloud Wallet.",
+            "data": "2022-09-21",
+            "watch": 91,
+            "id": 162,
+            "month": "September",
+            "day": "21",
+            "type": 1
+        },{
             "title": "Announcement on support of Ethereum Merge",
             "intro": "The Ethereum network is expected to undergo a network merge on September 15, and Bitpie will support the Ethereum merge.",
             "data": "2022-09-13",

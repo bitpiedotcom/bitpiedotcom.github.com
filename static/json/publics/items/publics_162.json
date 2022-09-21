@@ -1,0 +1,37 @@
+{
+    "cn": {
+        "title": "比特派云钱包发放 ETHW 空投的公告",
+        "data": "2022-09-21",
+        "id": 162,
+        "watch": 91,
+        "message": [
+            {
+                "type": 0,
+                "data": "比特派云钱包已于2022年9月21日发放 ETHW 的空投，符合条件的用户可以在比特派APP-云钱包内查看并提现。"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包团队"
+            },
+            {
+                "type": 0,
+                "data": "2022年09月21日"
+            }
+        ]
+    }, "en": {
+        "title": "Announcement of Bitpie Cloud Wallet Completed Distribution of ETHW Tokens",
+        "data": "2022-09-21",
+        "id": 162,
+        "watch": 91,
+        "message": [
+            {
+                "type": 0,
+                "data": "The Bitpie Cloud Wallet has completed distribution of Ethereum Proof-of-Work (ETHW) Tokens on September 21, 2022. Eligible users can confirm and withdraw under the Bitpie APP - Cloud Wallet."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie team<br/>September, 21, 2022"
+            }
+        ]
+    }
+}
