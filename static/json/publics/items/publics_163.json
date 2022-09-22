@@ -1,0 +1,61 @@
+{
+    "cn": {
+        "title": "关于比特派停用微博工具的公告",
+        "data": "2022-09-22",
+        "id": 163,
+        "watch": 91,
+        "message": [
+            {
+                "type": 0,
+                "data": "因运营策略调整，比特派将不再使用微博作为信息发布工具。"
+            },
+            {
+                "type": 0,
+                "data": "官方微博 @比特派钱包 已于 2021 年 6 月 5 日被注销"
+            },
+            {
+                "type": 0,
+                "data": "社区微博 @今天派派最帅 已于 2022 年 9 月 22 日停用"
+            },
+            {
+                "type": 0,
+                "data": "后续相关微博 ID 发布的所有信息均与比特派无关，请用户注意甄别。用户可关注比特派唯一官网 <a href='https://bitpie.com/'>https://bitpie.com</a> 与 APP 内资讯板块了解比特派相关动态。"
+            },
+            {
+                "type": 0,
+                "data": "比特派钱包"
+            },
+            {
+                "type": 0,
+                "data": "2022年09月22日"
+            }
+        ]
+    }, "en": {
+        "title": "Announcement on deactivation of Weibo accounts",
+        "data": "2022-09-22",
+        "id": 163,
+        "watch": 91,
+        "message": [
+            {
+                "type": 0,
+                "data": "Due to the company strategy, Bitpie will no longer use Weibo as an information release media."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie official Weibo @比特派钱包 has been cancelled on June 5, 2021"
+            },
+            {
+                "type": 0,
+                "data": "Community Weibo @今天派派最帅 has been discontinued on September 22, 2022"
+            },
+            {
+                "type": 0,
+                "data": "All subsequent information released by the above Weibo accounts has no more relationship with Bitpie. Users can follow Bitpie's official website <a href='https://bitpie.com/'>https://bitpie.com</a> and the information section on the APP to know about Bitpie's related news."
+            },
+            {
+                "type": 0,
+                "data": "Bitpie Wallet<br/>September, 22, 2022"
+            }
+        ]
+    }
+}
